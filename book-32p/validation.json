@@ -1,0 +1,14 @@
+{
+  "source_memes": 11,
+  "source_files_and_hashes_match": true,
+  "all_11_complete_originals_represented": true,
+  "source_message_comparison": "manual, not independent raw-byte extraction",
+  "pages": 32,
+  "spreads": 17,
+  "editable_text_frames": 340,
+  "outlined_art_blocks": 4,
+  "text_layout_estimate_overflows": 0,
+  "all_story_text_matches_layout": true,
+  "InDesign_runtime_tested": false,
+  "preview_renderer": "HarfBuzz + fontTools outlines + ReportLab, not InDesign"
+}

@@ -1,0 +1,14 @@
+{
+  "pages": 32,
+  "spreads": 17,
+  "stories": 340,
+  "items": {
+    "text": 340,
+    "rect": 82,
+    "ellipse": 2,
+    "vector": 4
+  },
+  "bytes": 544882,
+  "sha256": "c2482834ae31ff3d0a45e9d4f0f2968e8e72aeef135e568bb963ed22ff2ac958",
+  "InDesign_runtime_tested": false
+}
