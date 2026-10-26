@@ -1,0 +1,15 @@
+{
+  "pages": 32,
+  "spreads": 17,
+  "text_frames": 339,
+  "font": "YES24 Regular",
+  "white_cover": true,
+  "cover_images": 1,
+  "image_link": "Links/cover_cutout.png",
+  "cover_image_edit": "background-separated derivative of user-provided inline image",
+  "unchanged_other_pages": 30,
+  "unchanged_vector_blocks": 4,
+  "font_binary_included": false,
+  "InDesign_runtime_tested": false,
+  "idml_sha256": "f6aa70fa1de9b971f57c346ebb89ae7989f3a6978acf625a32febac0cfce82b8"
+}

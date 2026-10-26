@@ -1,0 +1,12 @@
+{
+  "pages": 32,
+  "text_frames": 339,
+  "image_frames": 1,
+  "vector_blocks": 4,
+  "unchanged_pages_other_than_1_and_31": true,
+  "embedded_data_exact": true,
+  "asset_preflight_before_document": true,
+  "image_embedding": "Link.unlink() attempted; catches failure and reports retained link",
+  "node_syntax_check": true,
+  "InDesign_runtime_tested": false
+}

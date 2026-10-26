@@ -1,0 +1,39 @@
+{
+  "file": "YES24.ttf",
+  "bytes": 1558308,
+  "sha256": "2c07cef3f5171bf938e90962ebf89e3fd786e21e8b93fb30eada51393dedfb83",
+  "font_identity": {
+    "english_family": "YES24",
+    "korean_family": "예스체",
+    "style": "Regular",
+    "postscript": "YES24",
+    "version": "Version 1.000;Build 20191004",
+    "manufacturer": "YoonDesign Inc.",
+    "trademark": "YES24 is a trademark of YES24 Corp."
+  },
+  "license_check": {
+    "official_url": "http://www.yes24.com/event/00_corp/2019/0930Yesfont.aspx",
+    "official_page_fetch": "403 Forbidden for HTTP and HTTPS; external terms not verified",
+    "metadata_copyright": "Copyright © 2019 (주)윤디자인연구소. 본 폰트 소프트웨어의 모든 저작권은 (주)윤디자인연구소에 있으며, 대한민국 저작권법과 국제 저작권 협약에 의해 보호받고 있습니다. 저작권자의 사전 승인 없이는 본 폰트 소프트웨어를 수정, 개작, 변형, 복사, 대여, 임대, 재판매, 배포 등을 할 수 없습니다.",
+    "embedding_flag": "fsType 0x0004: Preview & Print Embedding. This is an embedding permission flag, not permission to redistribute the raw font file.",
+    "recommendation": "Use the user-supplied font locally and reference its family/style in IDML/JSX. Do not republish the TTF without verified distribution terms."
+  },
+  "metrics": {
+    "ascent_hhea": 1040,
+    "descent_hhea": -286,
+    "lineGap_hhea": 0,
+    "sTypoAscender": 800,
+    "sTypoDescender": -200,
+    "sTypoLineGap": 170,
+    "sWinAscent": 1040,
+    "sWinDescent": 286
+  },
+  "style_recommendation": "Regular only; do not reference a nonexistent YES24 Bold. Use point size, color, spacing and composition for hierarchy.",
+  "fallback_recommendation": {
+    "editable_text": "None required: every editable text codepoint is supported.",
+    "A01": "Retain existing Noto Sans Mono CJK KR outlines: YES24 lacks EM SPACE and curved/dashed box drawing characters.",
+    "B02": "Retain existing Braille/Tibetan/combining-character outlines.",
+    "B04": "Retain existing Noto Emoji/crowd outlines."
+  },
+  "editable_text_missing": []
+}
