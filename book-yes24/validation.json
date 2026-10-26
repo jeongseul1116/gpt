@@ -1,0 +1,17 @@
+{
+  "pages": 32,
+  "spreads": 17,
+  "text_frames": 340,
+  "font_family": "YES24",
+  "font_style": "Regular",
+  "font_binary_included": false,
+  "AA_emoji_vector_blocks_preserved": 4,
+  "InDesign_runtime_tested": false,
+  "sha256": "396e9f0e888cc15f9cbac4d32791e61dea6edcaae0bc193761893765b49fa293",
+  "missing_editable_characters": [],
+  "source_linked_text_frames_unchanged": 40,
+  "vector_blocks_byte_equivalent": 4,
+  "text_frame_height_estimate": "1.326em + leading",
+  "estimated_overflows": 0,
+  "source_archive_hashes_match": true
+}

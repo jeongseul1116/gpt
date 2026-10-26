@@ -1,0 +1,13 @@
+{
+  "pages": 32,
+  "text_frames": 340,
+  "vectors": 4,
+  "vectors_unchanged": true,
+  "embedded_layout_exact": true,
+  "font_family": "YES24 / 예스체",
+  "font_style": "Regular",
+  "synthetic_bold": false,
+  "automatic_fallback": false,
+  "node_syntax_check": true,
+  "InDesign_runtime_tested": false
+}

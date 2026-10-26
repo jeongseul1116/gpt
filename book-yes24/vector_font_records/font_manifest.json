@@ -1,0 +1,46 @@
+[
+  {
+    "file": "NotoEmoji-Variable.ttf",
+    "family": "Noto Emoji",
+    "style": "Regular",
+    "version": "Version 3.002",
+    "source": "https://github.com/google/fonts/blob/main/ofl/notoemoji/NotoEmoji%5Bwght%5D.ttf",
+    "license": "SIL Open Font License 1.1",
+    "license_file": "NotoEmoji-OFL.txt",
+    "sha256": "de6c18832938afc99caf132b39d6a30a19bac7f2e812e28db2535b4608d27551",
+    "bytes": 1982596
+  },
+  {
+    "file": "NotoSansSymbols2-Regular.ttf",
+    "family": "Noto Sans Symbols2",
+    "style": "Regular",
+    "version": "Version 2.003",
+    "source": "https://github.com/notofonts/noto-fonts/blob/main/hinted/ttf/NotoSansSymbols2/NotoSansSymbols2-Regular.ttf",
+    "license": "SIL Open Font License 1.1",
+    "license_file": "NotoSansSymbols2-OFL.txt",
+    "sha256": "630846d528dbe4c4981370a4d0a9475a1fd1491a129bb411f8e157cdb5de13c6",
+    "bytes": 656852
+  },
+  {
+    "file": "NotoSerifTibetan-Regular.ttf",
+    "family": "Noto Serif Tibetan",
+    "style": "Regular",
+    "version": "Version 2.101",
+    "source": "https://github.com/notofonts/noto-fonts/blob/main/hinted/ttf/NotoSerifTibetan/NotoSerifTibetan-Regular.ttf",
+    "license": "SIL Open Font License 1.1",
+    "license_file": "NotoSerifTibetan-OFL.txt",
+    "sha256": "3dd3876c670008cef5e29a79392fc8874d9bb9e349fc54755b2861c050c0fd7c",
+    "bytes": 613292
+  },
+  {
+    "file": "DejaVuSansMono.ttf",
+    "family": "DejaVu Sans Mono",
+    "style": "Book",
+    "version": "Version 2.37",
+    "source": "https://dejavu-fonts.github.io/",
+    "license": "Bitstream Vera license; DejaVu changes public domain",
+    "license_file": "DejaVu-LICENSE.txt",
+    "sha256": "54bf827eb99404e8f430c330ad30f063334f637eba0109b6a18d4f566a8e9dd8",
+    "bytes": 343140
+  }
+]
