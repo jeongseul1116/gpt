@@ -1,0 +1,24 @@
+{
+  "pages": 28,
+  "spreads": 15,
+  "page_structure": "[1]+13 interior pairs+[28]",
+  "item_counts": {
+    "text": 305,
+    "image": 1,
+    "vector": 28,
+    "rect": 64,
+    "ellipse": 1
+  },
+  "font_counts": {
+    "YES24": 282,
+    "serif": 14,
+    "sans": 9
+  },
+  "font_styles": "Regular only; all three families required, no fallback",
+  "embedded_data_exact": true,
+  "asset_preflight_before_document": true,
+  "photo_embedding": "attempt Link.unlink(), retain and report link on failure",
+  "node_syntax_check": true,
+  "native_runtime_tested": false,
+  "jsx_sha256": "82cdab18f567ca082dd8f15eff96179ba07c49ac446e0e1d3c15999d43d46306"
+}

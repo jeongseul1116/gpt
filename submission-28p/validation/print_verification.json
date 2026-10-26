@@ -1,0 +1,340 @@
+{
+  "status": "passed",
+  "scope": "Independent read-only examination of final PDF objects, content streams, embedded font bytes, physical geometry, whitespace-normalized clipped page text and rendered A3 pages. No physical printer used.",
+  "files": {
+    "a5": {
+      "filename": "Meme_Font_Book_28p_A5.pdf",
+      "sha256": "cb95fdca993483b031d049024b1b0aa202bbe83781f0b3244c1ae7d5612e1e46",
+      "page_count": 28
+    },
+    "spreads": {
+      "filename": "Meme_Font_Book_28p_Spreads.pdf",
+      "sha256": "7d5ed9d09811b504cc3febce749e0ca0a8215ff75f93321a48826d8d53716ec5",
+      "page_count": 15
+    },
+    "a3": {
+      "filename": "Meme_Font_Book_A3_ActualSize.pdf",
+      "sha256": "0cfdec6e35a11212196105c6870778e86604be0845f1b7bf44dbbb7889090638",
+      "page_count": 14
+    }
+  },
+  "a5_page_mm": [
+    148,
+    210
+  ],
+  "reader_spread_pdf_pages": 15,
+  "a3_media_and_crop_mm": [
+    420,
+    297
+  ],
+  "a3_trim_size_mm": [
+    296,
+    210
+  ],
+  "a3_trim_origin_mm": [
+    62,
+    43.5
+  ],
+  "a3_bleed_size_mm": [
+    302,
+    216
+  ],
+  "bleed_mm": 3,
+  "cropmark_offset_mm": 3,
+  "cropmark_length_mm": 5,
+  "cropmark_linewidth_pt": 0.25,
+  "pages_all_1_to_28_once": true,
+  "a3_print_pairs": [
+    [
+      28,
+      1
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      4,
+      5
+    ],
+    [
+      6,
+      7
+    ],
+    [
+      8,
+      9
+    ],
+    [
+      10,
+      11
+    ],
+    [
+      12,
+      13
+    ],
+    [
+      14,
+      15
+    ],
+    [
+      16,
+      17
+    ],
+    [
+      18,
+      19
+    ],
+    [
+      20,
+      21
+    ],
+    [
+      22,
+      23
+    ],
+    [
+      24,
+      25
+    ],
+    [
+      26,
+      27
+    ]
+  ],
+  "all_cropmarks_and_100mm_rulers_verified_in_encoded_paths": true,
+  "viewer_preferences": {
+    "PrintScaling": "None",
+    "Duplex": "Simplex",
+    "PickTrayByPDFSize": true
+  },
+  "embedded_fonts": {
+    "a5": [
+      {
+        "xref": 35,
+        "font_name": "AAAAAA+YES24",
+        "type": "TrueType",
+        "embedded_bytes": 72836
+      },
+      {
+        "xref": 39,
+        "font_name": "AAAAAB+YES24",
+        "type": "TrueType",
+        "embedded_bytes": 88952
+      },
+      {
+        "xref": 43,
+        "font_name": "AAAAAC+YES24",
+        "type": "TrueType",
+        "embedded_bytes": 45236
+      }
+    ],
+    "spreads": [
+      {
+        "xref": 6,
+        "font_name": "AAAAAA+YES24",
+        "type": "TrueType",
+        "embedded_bytes": 72836
+      },
+      {
+        "xref": 10,
+        "font_name": "AAAAAB+YES24",
+        "type": "TrueType",
+        "embedded_bytes": 88952
+      },
+      {
+        "xref": 14,
+        "font_name": "AAAAAC+YES24",
+        "type": "TrueType",
+        "embedded_bytes": 45236
+      }
+    ],
+    "a3": [
+      {
+        "xref": 6,
+        "font_name": "AAAAAA+YES24",
+        "type": "TrueType",
+        "embedded_bytes": 32336
+      },
+      {
+        "xref": 10,
+        "font_name": "AAAAAA+YES24",
+        "type": "TrueType",
+        "embedded_bytes": 72836
+      },
+      {
+        "xref": 14,
+        "font_name": "AAAAAB+YES24",
+        "type": "TrueType",
+        "embedded_bytes": 88952
+      },
+      {
+        "xref": 18,
+        "font_name": "AAAAAC+YES24",
+        "type": "TrueType",
+        "embedded_bytes": 45236
+      }
+    ]
+  },
+  "font_resource_contains_helvetica": false,
+  "Noto_specimens": "Vector glyph outlines as reported by the authoring pipeline; not embedded CFF fonts. Vector paths remain in PDF.",
+  "cover_image": {
+    "pixels": [
+      1014,
+      1550
+    ],
+    "alpha_mask_present": true,
+    "present_in_A5": true,
+    "present_on_A3_sheet_1_right": true,
+    "frame_mm": [
+      88.1944,
+      134.814
+    ],
+    "effective_ppi_approx": 292.032
+  },
+  "all_28_A5_page_edges_white": true,
+  "white_outer_bleed_appropriate_for_current_artwork": true,
+  "visual_review_renders": [
+    "qa/print_audit/A3_sheet_01.png",
+    "qa/print_audit/A3_sheet_03.png",
+    "qa/print_audit/A3_sheet_14.png"
+  ],
+  "physical_print_verified": false,
+  "InDesign_export_used": false,
+  "page_checks": [
+    {
+      "sheet": 1,
+      "left_page": 28,
+      "right_page": 1,
+      "translation_only": true,
+      "cropmark_geometry_pass": true,
+      "ruler_100mm_encoded": true,
+      "whitespace_normalized_source_text_matches_both_positions": true
+    },
+    {
+      "sheet": 2,
+      "left_page": 2,
+      "right_page": 3,
+      "translation_only": true,
+      "cropmark_geometry_pass": true,
+      "ruler_100mm_encoded": true,
+      "whitespace_normalized_source_text_matches_both_positions": true
+    },
+    {
+      "sheet": 3,
+      "left_page": 4,
+      "right_page": 5,
+      "translation_only": true,
+      "cropmark_geometry_pass": true,
+      "ruler_100mm_encoded": true,
+      "whitespace_normalized_source_text_matches_both_positions": true
+    },
+    {
+      "sheet": 4,
+      "left_page": 6,
+      "right_page": 7,
+      "translation_only": true,
+      "cropmark_geometry_pass": true,
+      "ruler_100mm_encoded": true,
+      "whitespace_normalized_source_text_matches_both_positions": true
+    },
+    {
+      "sheet": 5,
+      "left_page": 8,
+      "right_page": 9,
+      "translation_only": true,
+      "cropmark_geometry_pass": true,
+      "ruler_100mm_encoded": true,
+      "whitespace_normalized_source_text_matches_both_positions": true
+    },
+    {
+      "sheet": 6,
+      "left_page": 10,
+      "right_page": 11,
+      "translation_only": true,
+      "cropmark_geometry_pass": true,
+      "ruler_100mm_encoded": true,
+      "whitespace_normalized_source_text_matches_both_positions": true
+    },
+    {
+      "sheet": 7,
+      "left_page": 12,
+      "right_page": 13,
+      "translation_only": true,
+      "cropmark_geometry_pass": true,
+      "ruler_100mm_encoded": true,
+      "whitespace_normalized_source_text_matches_both_positions": true
+    },
+    {
+      "sheet": 8,
+      "left_page": 14,
+      "right_page": 15,
+      "translation_only": true,
+      "cropmark_geometry_pass": true,
+      "ruler_100mm_encoded": true,
+      "whitespace_normalized_source_text_matches_both_positions": true
+    },
+    {
+      "sheet": 9,
+      "left_page": 16,
+      "right_page": 17,
+      "translation_only": true,
+      "cropmark_geometry_pass": true,
+      "ruler_100mm_encoded": true,
+      "whitespace_normalized_source_text_matches_both_positions": true
+    },
+    {
+      "sheet": 10,
+      "left_page": 18,
+      "right_page": 19,
+      "translation_only": true,
+      "cropmark_geometry_pass": true,
+      "ruler_100mm_encoded": true,
+      "whitespace_normalized_source_text_matches_both_positions": true
+    },
+    {
+      "sheet": 11,
+      "left_page": 20,
+      "right_page": 21,
+      "translation_only": true,
+      "cropmark_geometry_pass": true,
+      "ruler_100mm_encoded": true,
+      "whitespace_normalized_source_text_matches_both_positions": true
+    },
+    {
+      "sheet": 12,
+      "left_page": 22,
+      "right_page": 23,
+      "translation_only": true,
+      "cropmark_geometry_pass": true,
+      "ruler_100mm_encoded": true,
+      "whitespace_normalized_source_text_matches_both_positions": true
+    },
+    {
+      "sheet": 13,
+      "left_page": 24,
+      "right_page": 25,
+      "translation_only": true,
+      "cropmark_geometry_pass": true,
+      "ruler_100mm_encoded": true,
+      "whitespace_normalized_source_text_matches_both_positions": true
+    },
+    {
+      "sheet": 14,
+      "left_page": 26,
+      "right_page": 27,
+      "translation_only": true,
+      "cropmark_geometry_pass": true,
+      "ruler_100mm_encoded": true,
+      "whitespace_normalized_source_text_matches_both_positions": true
+    }
+  ],
+  "all_A5_page_placement_matrices_100_percent_translation_only": true,
+  "all_A3_positioned_whitespace_normalized_text_matches_expected_A5_pages": true,
+  "font_lab_page_26_vector_drawing_count": 6,
+  "visual_review_completed": [
+    "A3 sheet1: cover pair, white background photo, outer marks and ruler visible",
+    "A3 sheet3: AA spread4–5, no center cutline, trim marks outside artwork",
+    "A3 sheet14: font comparison26 and credits27, marks/ruler and whitespace intact"
+  ]
+}

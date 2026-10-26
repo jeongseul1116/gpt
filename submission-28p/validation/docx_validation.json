@@ -1,0 +1,14 @@
+{
+  "docx": "Planning_28p_GoogleDocs.docx",
+  "pages_in_QA_render": 6,
+  "page_map_entries": 28,
+  "Google_Docs_title_sanitizer": "passed",
+  "student_planning_voice": true,
+  "embedded_final_moodboard": true,
+  "raw_font_binary_embedded": false,
+  "ZIP_CRC": "passed",
+  "all_six_pages_visually_inspected": true,
+  "Google_Docs_created": false,
+  "docx_sha256": "53e8a6fd36b06f1865db8a1e54af576ff200e106cb2a6d7bf6bd82a35760097d",
+  "QA_pdf": "/workspace/final28/planning/rendered_submission/Planning_28p_GoogleDocs.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "pages": 28,
+  "spreads": 15,
+  "stories": 305,
+  "full_story_strings_match_layout": true,
+  "font_families": [
+    "YES24",
+    "Noto Sans CJK KR",
+    "Noto Serif CJK KR"
+  ],
+  "all_text_styles": "Regular",
+  "vectors": 28,
+  "vector_contours": 1499,
+  "vector_control_points": 18642,
+  "all_vector_points_match_layout": true,
+  "cover_link_relative": "file:Links/cover_cutout.png",
+  "cover_asset_sha256": "a1aa0a708f012715d2205571599930af369cd1635a3f4999a2c941912705e241",
+  "first_page_transform": [
+    "1",
+    "1 0 0 1 0 -297.6378"
+  ],
+  "last_page_transform": [
+    "28",
+    "1 0 0 1 -419.5276 -297.6378"
+  ],
+  "idml_sha256": "a182c7d6c05790773c31c35227c8eaacb682d2ea4851e2f5500525bf4ce2cf3f",
+  "InDesign_runtime_tested": false
+}

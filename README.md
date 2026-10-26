@@ -1,22 +1,20 @@
-# 마참내! 폰트도 웃길 수 있다
+# 6주차 과제 폰트 모음집 최종 28쪽
 
-친구들에게 나눠줄 밈 폰트 도감. 정슬기 기획과 사용자 제공 원문 11개를 바탕으로 작성한 A5 세로·중철·32쪽 디자인 초안입니다.
+친구들에게 나눠줄 밈 폰트 도감 **마참내 폰트도 웃길 수 있다**의 28쪽 제출·출력 자료입니다. 정슬기 기획과 수집 원문11개를 바탕으로 흰 표지와 사진을 유지하고, 비스듬한 빨간 스티커·별표·노랑·분홍으로 B급 감성을 보완했습니다.
 
-## 최신: 흰 표지 + 사용자 사진
+- [Google Docs로 가져올 기획안 DOCX](https://github.com/jeongseul1116/gpt/raw/refs/heads/main/submission-28p/Planning_28p_GoogleDocs.docx)
+- [전체 디자인 PDF A5 28쪽](https://github.com/jeongseul1116/gpt/raw/refs/heads/main/submission-28p/PDF/Meme_Font_Book_28p_A5.pdf)
+- [A3 실제 크기 출력용 PDF 14장](https://github.com/jeongseul1116/gpt/raw/refs/heads/main/submission-28p/PDF/Meme_Font_Book_A3_ActualSize.pdf)
+- [편집 원본·보존 원문 포함 전체 ZIP](https://github.com/jeongseul1116/gpt/raw/refs/heads/main/Week6_Submission_28p.zip)
+- [전체 지면 미리보기](submission-28p/preview_28p.jpg)
+- [출력 방법](submission-28p/PRINT_GUIDE_KO.md)
 
-앞표지를 흰 바탕으로 바꾸고 사용자 제공 ‘무섭다’ 사진의 배경 분리 편집본을 배치했습니다. 예스체(YES24) Regular와 본문 30쪽, AA·이모지 벡터 4개, 원문 아카이브는 유지했습니다. 31쪽에는 사진 출처를 추가했습니다.
+A5 제출본은28페이지입니다. ZIP에는 같은 내용을 펼침면으로 검토하는15페이지 PDF도 포함했습니다. A3 출력본은 표지28|1과 내부2|3부터26|27까지 총14장입니다. **A3 가로·단면·실제 크기100%**로 출력하고, 첫 장의100mm 기준선을 확인한 뒤 외곽 재단선만 따라 자릅니다. 인쇄소용 중철 판짜기는 아닙니다.
 
-- [사진·InDesign 파일 포함 ZIP 다운로드](https://github.com/jeongseul1116/gpt/raw/refs/heads/main/Meme_Typography_WhiteCover_package.zip)
-- [표지 미리보기](book-white-cover/cover_preview.png)
-- [전체 32쪽 미리보기](book-white-cover/preview_WhiteCover_32p.jpg)
-- [열기 방법과 검증 범위](book-white-cover/README_KO.md)
+기획안에는 주제·독자·B급 디자인 콘셉트·무드보드·실제 서체 선정 이유·28쪽 차례·출력 계획을 담았습니다. Google Docs 문서 자체는 직접 생성하지 못했으므로, DOCX를 Google Drive에 업로드해 Google 문서로 저장한 뒤 제출해야 합니다.
 
-ZIP을 풀고 YES24.ttf를 설치한 뒤 IDML을 엽니다. **IDML과 Links 폴더를 함께 유지해야 표지 사진을 불러올 수 있습니다.** IDML 열기가 실패하면 전체 폴더를 InDesign 스크립트 사용자 폴더에 넣고 `Create_Cover_InDesign.jsx`를 실행하는 대체 방법이 있습니다.
+예스체를 기준으로, 일부 원문과26쪽 실험실에 Noto Sans/Serif 견본을 실제 적용했습니다. 예스체는 PDF에 내장했고 Noto 견본·AA·이모지는 벡터로 유지했습니다. PDF 출력에는 별도 폰트 설치가 필요하지 않습니다. 원문11개는 공백·줄바꿈까지 별도로 보존했습니다.
 
-실제 InDesign 실행 환경이 없어 열기·실행·최종 조판은 미검증입니다. 파일 구조, 글꼴 지정, 이미지 경로, 원문 보존, 스크립트 구문 및 별도 렌더러의 미리보기는 검사했습니다. 폰트 원본은 재배포하지 않습니다.
+파일 규격·폰트·모든 쪽 배치·재단선·도련·원문 보존과 기획안6쪽 렌더를 검수했습니다. 실제 종이 출력과 Google Docs 변환·공유 설정은 사용자가 확인해야 합니다. 편집용 IDML/JSX는 구조·구문 검수만 했으며 실제 InDesign 실행은 미검증입니다.
 
-## 이전 버전
-
-- [예스체 적용본](book-yes24/README_KO.md)
-- [Noto 기반 32쪽 시안](book-32p/README_KO.md)
-- 초기 8쪽 시안과 보완 파일: `design/`
+상세 내용은 [제출 안내](submission-28p/README_KO.md)에 있습니다. 이전32쪽 시안은 book-white-cover, book-yes24, book-32p에 보관했습니다.

@@ -1,0 +1,74 @@
+{
+  "status": "pass",
+  "page_count": 28,
+  "layout_sha256": "6f5915dc6c95002e91b6a8f62bdb5602fc778fd21878271c59a3fc0cc026ec08",
+  "baseline_layout_sha256": "e247a548ec9fb01f7fc356bde1183fea1af5d68a4d2fa6f1ff9280379a230f3e",
+  "archive_file_count": 14,
+  "archive_matches_frozen_bytes": true,
+  "source_coverage": {
+    "B01": {
+      "page": 7,
+      "complete_text_exact_except_optional_final_lf": true
+    },
+    "A04": {
+      "page": 8,
+      "complete_text_exact_except_optional_final_lf": true
+    },
+    "B06": {
+      "page": 16,
+      "complete_text_exact_except_optional_final_lf": true
+    },
+    "B05": {
+      "page": 18,
+      "complete_text_exact_except_optional_final_lf": true
+    },
+    "B03": {
+      "page": 20,
+      "complete_text_exact_except_optional_final_lf": true
+    },
+    "B07": {
+      "page": 24,
+      "complete_text_exact_except_optional_final_lf": true
+    },
+    "A02": {
+      "page": 12,
+      "complete_lines_recombine_exactly": true
+    },
+    "A03": {
+      "page": 14,
+      "complete_lines_recombine_exactly": true
+    },
+    "A01": {
+      "pages": [
+        4
+      ],
+      "vector_count": 1,
+      "paths_and_all_properties_identical_to_baseline": true
+    },
+    "B02": {
+      "pages": [
+        10,
+        10
+      ],
+      "vector_count": 2,
+      "paths_and_all_properties_identical_to_baseline": true,
+      "complete_long_text_exact": true
+    },
+    "B04": {
+      "pages": [
+        22
+      ],
+      "vector_count": 1,
+      "paths_and_all_properties_identical_to_baseline": true
+    }
+  },
+  "main_source_position_or_text_changes": [],
+  "selected_source_fonts_match": true,
+  "vectors": {
+    "total": 28,
+    "source": 4,
+    "editorial": 24,
+    "source_editorial_field_overlap": 0
+  },
+  "scope": "Exact layout/source and baseline-vector comparison only; outlined PDF text extraction cannot independently prove all source glyphs. No InDesign-runtime validation claimed."
+}
