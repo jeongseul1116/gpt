@@ -1,0 +1,123 @@
+{
+  "status": "pass",
+  "revision": "Real introduction and relocated short memes with immutable source archives",
+  "page_count": 28,
+  "layout_sha256": "6961e16f81e667e1e7052deff4e6aad470b5024a7c10643c123368a3094e5f74",
+  "baseline_layout_sha256": "f991acc79a4d4bb030fab11e1b1f49f66b213fe07d79889a05180bfe2f528eee",
+  "legacy_archive_file_count": 14,
+  "addition_file_count": 13,
+  "all_27_archive_files_byte_exact_unchanged": true,
+  "collected_raw_count": 17,
+  "selected_count": 15,
+  "excluded_ids": [
+    "A01",
+    "B04"
+  ],
+  "source_coverage": {
+    "A04": {
+      "page": 8,
+      "complete_original_text_exact": true,
+      "font_keys": [
+        "serif"
+      ]
+    },
+    "A02": {
+      "page": 12,
+      "complete_original_text_exact": true,
+      "font_keys": [
+        "gungseo"
+      ]
+    },
+    "A03": {
+      "page": 14,
+      "complete_original_text_exact": true,
+      "font_keys": [
+        "gungseo"
+      ]
+    },
+    "A10": {
+      "page": 15,
+      "complete_original_text_exact": true,
+      "font_keys": [
+        "brush"
+      ]
+    },
+    "B06": {
+      "page": 16,
+      "complete_original_text_exact": true,
+      "font_keys": [
+        "jua"
+      ]
+    },
+    "B05": {
+      "page": 18,
+      "complete_original_text_exact": true,
+      "font_keys": [
+        "brush"
+      ]
+    },
+    "B03": {
+      "page": 20,
+      "complete_original_text_exact": true,
+      "font_keys": [
+        "YES24",
+        "pixel"
+      ]
+    },
+    "B07": {
+      "page": 24,
+      "complete_original_text_exact": true,
+      "font_keys": [
+        "YES24"
+      ]
+    },
+    "A06": {
+      "page": 26,
+      "complete_original_text_exact": true,
+      "font_keys": [
+        "gungseo"
+      ]
+    },
+    "B01": {
+      "page": 6,
+      "declared_display_edition_exact": true,
+      "raw_archive_unchanged": true
+    },
+    "B02": {
+      "page": 10,
+      "declared_display_edition_exact": true,
+      "raw_archive_unchanged": true
+    },
+    "A05": {
+      "page": 22,
+      "declared_display_edition_exact": true,
+      "raw_archive_unchanged": true
+    },
+    "A07": {
+      "page": 27,
+      "complete_original_text_exact": true
+    },
+    "A08": {
+      "page": 27,
+      "complete_original_text_exact": true
+    },
+    "A09": {
+      "page": 27,
+      "complete_original_text_exact": true
+    }
+  },
+  "display_edition_ids": [
+    "B01",
+    "B02",
+    "A05"
+  ],
+  "display_editions_file": "revision_diverse/display_editions.json",
+  "B01_display_is_exact_text_excerpt": true,
+  "B02_display_is_exact_final_praise_line": true,
+  "A05_only_one_caret_smile_removed_from_display": true,
+  "A05_raw_6_lines_with_caret_smile_retained_in_archive": true,
+  "A10_trailing_two_spaces_preserved": true,
+  "source_vectors_count": 0,
+  "user_usage_examples_exact": true,
+  "scope": "Exact immutable UTF-8 archive bytes, complete display text reconstruction, declared face-removal editions and exact comparison excerpts. Actual seven-font metadata/cmap/HarfBuzz checked; all final page PNGs visually inspected. No InDesign-runtime or physical printer validation claimed."
+}

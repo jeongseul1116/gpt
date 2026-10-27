@@ -1,0 +1,74 @@
+{
+  "docx": "Planning_28p_GoogleDocs.docx",
+  "revision": "서문을 2–3쪽으로 구성하고 짧은 말 모음을27쪽으로 옮긴 28쪽 기획 보완안",
+  "pages_in_QA_render": 7,
+  "page_map_entries": 28,
+  "selected_sources": 15,
+  "collected_sources": 17,
+  "Google_Docs_title_sanitizer": "passed",
+  "student_planning_voice": true,
+  "embedded_final_moodboard": true,
+  "embedded_moodboard_sha256": "5bf888171716baa4fa50fd5aca33d84f2735e443c9570d49fa1f1d4877907ed1",
+  "moodboard_flow": [
+    "표지1",
+    "서문3",
+    "서체도감5"
+  ],
+  "embedded_final_book_font_atlas": true,
+  "embedded_atlas_sha256": "fb04f54655ca395b07a15e0041f58f9037b752410a98ad8618c9793f43f56df4",
+  "actual_typefaces": [
+    "YES24",
+    "Noto Sans CJK KR",
+    "Noto Serif CJK KR",
+    "UnGungseo",
+    "Jua",
+    "Nanum Brush Script",
+    "DungGeunMo"
+  ],
+  "additional_font_catalog_sha256": "7999d9322497beb01034a0daa52fc0fa89678754e9732769c8c881f15f5e3d48",
+  "raw_font_binary_embedded": false,
+  "ZIP_CRC": "passed",
+  "all_seven_pages_visually_inspected": true,
+  "visual_review": {
+    "clipping": false,
+    "overlap": false,
+    "broken_tables": false,
+    "short_last_lines_resolved": true
+  },
+  "Google_Docs_created": false,
+  "docx_sha256": "fce2befcd24096d243182f98b6373ded37b0544672a9473f47d2eecb895e21a8",
+  "QA_pdf": "/workspace/final28/planning/rendered_intro_verified/Planning_28p_GoogleDocs.pdf",
+  "page_map_sha256": "c49c1e58515ae58203cd0d748603ee0ad270c0bf2d4fc4f49f2fc4d264dce930",
+  "opening_and_closing_flow": {
+    "half_title_and_dedication": 2,
+    "prose_preface": 3,
+    "font_atlas": [
+      4,
+      5
+    ],
+    "today_quote_and_comparisons": 26,
+    "short_meme_collection": 27,
+    "credits": 28
+  },
+  "no_short_meme_collection_in_frontmatter": true,
+  "comparison_method": {
+    "seven_face_atlas_pages": [
+      4,
+      5
+    ],
+    "chapter_profiles": "각 밈의 말투에 맞춘 세 서체를 같은 문구와 포인트로 비교",
+    "actual_glyph_height_may_differ_at_same_point_size": true,
+    "body_size_may_be_adjusted_for_readability": true
+  },
+  "display_editing_policy": {
+    "A01": "AA 얼굴 밈 지면 제외",
+    "B01": "카쟈 텍스트 발췌",
+    "B02": "AA와 복합 얼굴 제외 텍스트 발췌",
+    "A05": "표정 기호를 제외한 지면 편집본",
+    "archive": "보관 원문17개와 현재 지면 편집본을 구분"
+  },
+  "unavailable_named_fonts_not_claimed_as_used": true,
+  "credits_page": 28,
+  "feelings_are_contextual_interpretations": true,
+  "typeface_form_separated_from_size_and_leading": true
+}

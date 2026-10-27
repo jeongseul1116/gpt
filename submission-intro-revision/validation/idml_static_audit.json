@@ -1,0 +1,127 @@
+{
+  "pages": 28,
+  "spreads": 15,
+  "stories": 456,
+  "full_story_strings_match_layout": true,
+  "all_text_font_size_leading_matches_layout": true,
+  "font_families": [
+    "YES24",
+    "Noto Serif CJK KR",
+    "Noto Sans CJK KR",
+    "UnGungseo",
+    "Jua",
+    "Nanum Brush Script",
+    "DungGeunMo"
+  ],
+  "font_catalog": {
+    "YES24": {
+      "family": "YES24",
+      "aliases": [
+        "YES24",
+        "예스체"
+      ],
+      "style": "Regular",
+      "postscript": "YES24",
+      "type": "TrueType",
+      "style_aliases": [
+        "Regular"
+      ]
+    },
+    "serif": {
+      "family": "Noto Serif CJK KR",
+      "aliases": [
+        "Noto Serif CJK KR"
+      ],
+      "style": "Regular",
+      "postscript": "NotoSerifCJKkr-Regular",
+      "type": "OpenTypeCFF",
+      "style_aliases": [
+        "Regular"
+      ]
+    },
+    "sans": {
+      "family": "Noto Sans CJK KR",
+      "aliases": [
+        "Noto Sans CJK KR"
+      ],
+      "style": "Regular",
+      "postscript": "NotoSansCJKkr-Regular",
+      "type": "OpenTypeCFF",
+      "style_aliases": [
+        "Regular"
+      ]
+    },
+    "gungseo": {
+      "family": "UnGungseo",
+      "aliases": [
+        "UnGungseo",
+        "은 궁서"
+      ],
+      "style": "Regular",
+      "style_aliases": [
+        "Regular"
+      ],
+      "postscript": "UnGungseo",
+      "type": "TrueType"
+    },
+    "jua": {
+      "family": "Jua",
+      "aliases": [
+        "Jua"
+      ],
+      "style": "Regular",
+      "style_aliases": [
+        "Regular"
+      ],
+      "postscript": "Jua-Regular",
+      "type": "TrueType"
+    },
+    "brush": {
+      "family": "Nanum Brush Script",
+      "aliases": [
+        "Nanum Brush Script",
+        "나눔손글씨 붓"
+      ],
+      "style": "Regular",
+      "style_aliases": [
+        "Regular"
+      ],
+      "postscript": "NanumBrush",
+      "type": "TrueType"
+    },
+    "pixel": {
+      "family": "DungGeunMo",
+      "aliases": [
+        "DungGeunMo",
+        "DungGeunMo Normal",
+        "둥근모꼴 일반체",
+        "둥근모꼴"
+      ],
+      "style": "Normal",
+      "style_aliases": [
+        "Normal",
+        "Regular",
+        "일반체"
+      ],
+      "postscript": "DungGeunMo",
+      "type": "TrueType"
+    }
+  },
+  "all_font_resources_match_catalog": true,
+  "vectors": 16,
+  "vector_contours": 123,
+  "vector_control_points": 1849,
+  "all_vector_points_match_layout": true,
+  "cover_link_relative": "file:Links/cover_cutout.png",
+  "cover_asset_sha256": "a1aa0a708f012715d2205571599930af369cd1635a3f4999a2c941912705e241",
+  "first_page_transform": [
+    "1",
+    "1 0 0 1 0 -297.6378"
+  ],
+  "last_page_transform": [
+    "28",
+    "1 0 0 1 -419.5276 -297.6378"
+  ],
+  "idml_sha256": "03647d48ecdd92ae458b151640966897a92a8771d399ea647d0111ec747f697d",
+  "InDesign_runtime_tested": false
+}
