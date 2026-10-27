@@ -1,0 +1,30 @@
+{
+  "status": "passed",
+  "practice_scope": "isolated page7 detail-practice draft in 28-page context",
+  "only_logical_page_7_differs": true,
+  "other_27_pages_deep_equal_canonical": true,
+  "canonical_protected_files_sha256_unchanged": {
+    "layout.json": "2ba61800cd48a841639b7303a99d50bf513630fed56c710cf5b87bf34cfbb913",
+    "editable/build_native28.py": "09f3d4e95d64b5c446c2bf8eee4d7b1b49e69ed191b70eb42add070e9c218130",
+    "editable/Meme_Typography_28p.idml": "8c3d62bd55fdb3da72c0429f24ec97054d414517634a582387665f6b80f3b4ee",
+    "editable/Create_28p_InDesign.jsx": "c68f45b9221e3f3cc8151da08d4d8148f05465d876659939654b66d6f86f6baf"
+  },
+  "practice_layout_sha256": "dbf9f0a6ab7f023627b4983a196222763a322c2270825bce6c7636b5993b36f5",
+  "all_855_text_frame_geometry_exact": true,
+  "all_text_first_baseline_offset_unchanged_AscentOffset": true,
+  "all_text_inset_zero": true,
+  "no_new_baseline_XML_enum": true,
+  "native_output_stem": "Meme_Font_Book_Detail_Practice01_28p",
+  "files": {
+    "Meme_Font_Book_Detail_Practice01_28p.idml": {
+      "bytes": 701272,
+      "sha256": "83fef2ca33a3ddf5bc505206cdd6d2bc33a7d2fb0fb71e5384d3ece1591570e6"
+    },
+    "Create_Detail_Practice01_28p.jsx": {
+      "bytes": 298607,
+      "sha256": "f3a1db79f72b4cb9d2de8c3f3824c51618b6f0fab7bc603186e4d5a61e9c9928"
+    }
+  },
+  "actual_InDesign_runtime_tested": false,
+  "native_baseline_visual_alignment_tested": false
+}

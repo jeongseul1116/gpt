@@ -14,3 +14,12 @@
 출력은 A3 가로·단면·실제 크기 100%입니다. 도련 3mm와 재단선을 포함한 14장 파일에서 첫 장 100mm 기준선을 확인하고 바깥 재단선을 따라 자릅니다.
 
 폰트 원본은 동봉하지 않았습니다. PDF는 글꼴 설치 없이 볼 수 있습니다. IDML·JSX는 정적 검수했으며 실제 InDesign 실행은 미검증입니다. 정확한 서체와 편집 방법은 [현재 제출 안내](submission-two-column/README_KO.md)에 있습니다.
+
+## 디테일 연습 01
+
+7쪽 「가보자고」의 여백·문장 간격·설명 서체·견본 기준선을 다듬은 별도 연습 시안입니다. 기존 최종본은 그대로 보관했습니다.
+
+- [수정 전후 비교 보드](detail-practice-01/Detail_Practice01_Review_Board.png)
+- [A5 수정 전후 PDF](https://github.com/jeongseul1116/gpt/raw/refs/heads/main/detail-practice-01/PDF/Detail_Practice01_Before_After.pdf)
+- [연습용 IDML·비교 자료 ZIP](https://github.com/jeongseul1116/gpt/raw/refs/heads/main/Meme_Font_Book_Detail_Practice01.zip)
+- [직접 해볼 순서](detail-practice-01/README_KO.md)

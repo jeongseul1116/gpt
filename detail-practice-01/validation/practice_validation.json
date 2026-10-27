@@ -1,0 +1,562 @@
+{
+  "status": "passed",
+  "practice_page": 7,
+  "canonical_layout_sha256": "2ba61800cd48a841639b7303a99d50bf513630fed56c710cf5b87bf34cfbb913",
+  "practice_layout_sha256": "dbf9f0a6ab7f023627b4983a196222763a322c2270825bce6c7636b5993b36f5",
+  "other_27_pages_exactly_unchanged": true,
+  "all_p7_text_strings_including_sources_and_explanations_exactly_unchanged": true,
+  "same_10_actual_font_specimens_at_11pt": true,
+  "specimen_frame_width_pt": 155.5,
+  "specimen_baselines": [
+    {
+      "font": "blackhan",
+      "point_size": 11,
+      "baseline_pt": 174.0,
+      "row": 0,
+      "frame_width_pt": 155.5
+    },
+    {
+      "font": "gugi",
+      "point_size": 11,
+      "baseline_pt": 174.0,
+      "row": 0,
+      "frame_width_pt": 155.5
+    },
+    {
+      "font": "pixel",
+      "point_size": 11,
+      "baseline_pt": 243.0,
+      "row": 1,
+      "frame_width_pt": 155.5
+    },
+    {
+      "font": "gungseo",
+      "point_size": 11,
+      "baseline_pt": 243.0,
+      "row": 1,
+      "frame_width_pt": 155.5
+    },
+    {
+      "font": "jua",
+      "point_size": 11,
+      "baseline_pt": 312.0,
+      "row": 2,
+      "frame_width_pt": 155.5
+    },
+    {
+      "font": "brush",
+      "point_size": 11,
+      "baseline_pt": 312.0,
+      "row": 2,
+      "frame_width_pt": 155.5
+    },
+    {
+      "font": "kirang",
+      "point_size": 11,
+      "baseline_pt": 381.0,
+      "row": 3,
+      "frame_width_pt": 155.5
+    },
+    {
+      "font": "singleday",
+      "point_size": 11,
+      "baseline_pt": 381.0000000005,
+      "row": 3,
+      "frame_width_pt": 155.5
+    },
+    {
+      "font": "bawpic",
+      "point_size": 11,
+      "baseline_pt": 450.0,
+      "row": 4,
+      "frame_width_pt": 155.5
+    },
+    {
+      "font": "serif",
+      "point_size": 11,
+      "baseline_pt": 450.0,
+      "row": 4,
+      "frame_width_pt": 155.5
+    }
+  ],
+  "all_explanations_one_line": true,
+  "all_p7_text_frames_fit": true,
+  "fit_checks": [
+    {
+      "text": "마참내! 폰트도 웃길 수 있다  /  밈 폰트 도감",
+      "font": "YES24",
+      "size": 7,
+      "lines": 1,
+      "used_height_pt": 9.282,
+      "frame_height_pt": 16
+    },
+    {
+      "text": "쓸데없이 진지한 밈 타이포그래피 도감 · 정슬기",
+      "font": "YES24",
+      "size": 7,
+      "lines": 1,
+      "used_height_pt": 9.282,
+      "frame_height_pt": 15
+    },
+    {
+      "text": "07",
+      "font": "YES24",
+      "size": 10,
+      "lines": 1,
+      "used_height_pt": 13.260000000000002,
+      "frame_height_pt": 18
+    },
+    {
+      "text": "FONT FEELING / B01",
+      "font": "YES24",
+      "size": 10,
+      "lines": 1,
+      "used_height_pt": 13.260000000000002,
+      "frame_height_pt": 20
+    },
+    {
+      "text": "같은 말, 다른 글자 성격",
+      "font": "YES24",
+      "size": 15,
+      "lines": 1,
+      "used_height_pt": 19.89,
+      "frame_height_pt": 29
+    },
+    {
+      "text": "견본 11pt · 열 서체를 두 열로 비교해보자.",
+      "font": "YES24",
+      "size": 8.5,
+      "lines": 1,
+      "used_height_pt": 11.271,
+      "frame_height_pt": 12
+    },
+    {
+      "text": "선택  블랙 한 산스 — 따라오라는 출발 구호 같다.",
+      "font": "YES24",
+      "size": 8.5,
+      "lines": 1,
+      "used_height_pt": 11.271,
+      "frame_height_pt": 13
+    },
+    {
+      "text": "친구: 자료 조사는 누가 할래?\n→ 가보자고",
+      "font": "YES24",
+      "size": 8.5,
+      "lines": 2,
+      "used_height_pt": 23.596,
+      "frame_height_pt": 27
+    },
+    {
+      "text": "블랙 한 산스 · 선택",
+      "font": "YES24",
+      "size": 6.5,
+      "lines": 1,
+      "used_height_pt": 8.619,
+      "frame_height_pt": 9
+    },
+    {
+      "text": "기세·선포",
+      "font": "YES24",
+      "size": 6.5,
+      "lines": 1,
+      "used_height_pt": 8.619,
+      "frame_height_pt": 9
+    },
+    {
+      "text": "가보자고",
+      "font": "blackhan",
+      "size": 11,
+      "lines": 1,
+      "used_height_pt": 11.0,
+      "frame_height_pt": 11.2
+    },
+    {
+      "text": "느낌  따라오라는 출발 구호 같다.",
+      "font": "sans",
+      "size": 7.2,
+      "lines": 1,
+      "used_height_pt": 10.4256,
+      "frame_height_pt": 10.6
+    },
+    {
+      "text": "이유  굵은 획과 작은 속공간이 힘을 모은다.",
+      "font": "sans",
+      "size": 7.2,
+      "lines": 1,
+      "used_height_pt": 10.4256,
+      "frame_height_pt": 10.6
+    },
+    {
+      "text": "구기",
+      "font": "YES24",
+      "size": 6.5,
+      "lines": 1,
+      "used_height_pt": 8.619,
+      "frame_height_pt": 9
+    },
+    {
+      "text": "결심·버튼",
+      "font": "YES24",
+      "size": 6.5,
+      "lines": 1,
+      "used_height_pt": 8.619,
+      "frame_height_pt": 9
+    },
+    {
+      "text": "가보자고",
+      "font": "gugi",
+      "size": 11,
+      "lines": 1,
+      "used_height_pt": 11.0,
+      "frame_height_pt": 11.2
+    },
+    {
+      "text": "느낌  시작 버튼을 누르는 듯하다.",
+      "font": "sans",
+      "size": 7.2,
+      "lines": 1,
+      "used_height_pt": 10.4256,
+      "frame_height_pt": 10.6
+    },
+    {
+      "text": "이유  기하학적 골격과 둥근 끝이 또렷하다.",
+      "font": "sans",
+      "size": 7.2,
+      "lines": 1,
+      "used_height_pt": 10.4256,
+      "frame_height_pt": 10.6
+    },
+    {
+      "text": "둥근모꼴",
+      "font": "YES24",
+      "size": 6.5,
+      "lines": 1,
+      "used_height_pt": 8.619,
+      "frame_height_pt": 9
+    },
+    {
+      "text": "들뜸·게임",
+      "font": "YES24",
+      "size": 6.5,
+      "lines": 1,
+      "used_height_pt": 8.619,
+      "frame_height_pt": 9
+    },
+    {
+      "text": "가보자고",
+      "font": "pixel",
+      "size": 11,
+      "lines": 1,
+      "used_height_pt": 11.0,
+      "frame_height_pt": 11.2
+    },
+    {
+      "text": "느낌  게임의 시작 명령처럼 보인다.",
+      "font": "sans",
+      "size": 7.2,
+      "lines": 1,
+      "used_height_pt": 10.4256,
+      "frame_height_pt": 10.6
+    },
+    {
+      "text": "이유  계단형 윤곽이 옛 화면을 닮았다.",
+      "font": "sans",
+      "size": 7.2,
+      "lines": 1,
+      "used_height_pt": 10.4256,
+      "frame_height_pt": 10.6
+    },
+    {
+      "text": "은궁서",
+      "font": "YES24",
+      "size": 6.5,
+      "lines": 1,
+      "used_height_pt": 8.619,
+      "frame_height_pt": 9
+    },
+    {
+      "text": "결의·맹세",
+      "font": "YES24",
+      "size": 6.5,
+      "lines": 1,
+      "used_height_pt": 8.619,
+      "frame_height_pt": 9
+    },
+    {
+      "text": "가보자고",
+      "font": "gungseo",
+      "size": 11,
+      "lines": 1,
+      "used_height_pt": 13.42,
+      "frame_height_pt": 13.62
+    },
+    {
+      "text": "느낌  가벼운 제안이 출정 맹세가 된다.",
+      "font": "sans",
+      "size": 7.2,
+      "lines": 1,
+      "used_height_pt": 10.4256,
+      "frame_height_pt": 10.6
+    },
+    {
+      "text": "이유  붓끝과 굵기 대비가 격식을 싣는다.",
+      "font": "sans",
+      "size": 7.2,
+      "lines": 1,
+      "used_height_pt": 10.4256,
+      "frame_height_pt": 10.6
+    },
+    {
+      "text": "주아 (Jua)",
+      "font": "YES24",
+      "size": 6.5,
+      "lines": 1,
+      "used_height_pt": 8.619,
+      "frame_height_pt": 9
+    },
+    {
+      "text": "친근·권유",
+      "font": "YES24",
+      "size": 6.5,
+      "lines": 1,
+      "used_height_pt": 8.619,
+      "frame_height_pt": 9
+    },
+    {
+      "text": "가보자고",
+      "font": "jua",
+      "size": 11,
+      "lines": 1,
+      "used_height_pt": 11.0,
+      "frame_height_pt": 11.2
+    },
+    {
+      "text": "느낌  친구가 웃으며 같이 가자고 부른다.",
+      "font": "sans",
+      "size": 7.2,
+      "lines": 1,
+      "used_height_pt": 10.4256,
+      "frame_height_pt": 10.6
+    },
+    {
+      "text": "이유  통통한 골격과 둥근 끝이 부드럽다.",
+      "font": "sans",
+      "size": 7.2,
+      "lines": 1,
+      "used_height_pt": 10.4256,
+      "frame_height_pt": 10.6
+    },
+    {
+      "text": "나눔손글씨 붓",
+      "font": "YES24",
+      "size": 6.5,
+      "lines": 1,
+      "used_height_pt": 8.619,
+      "frame_height_pt": 9
+    },
+    {
+      "text": "즉흥·쪽지",
+      "font": "YES24",
+      "size": 6.5,
+      "lines": 1,
+      "used_height_pt": 8.619,
+      "frame_height_pt": 9
+    },
+    {
+      "text": "가보자고",
+      "font": "brush",
+      "size": 11,
+      "lines": 1,
+      "used_height_pt": 11.0,
+      "frame_height_pt": 11.2
+    },
+    {
+      "text": "느낌  생각나자마자 적은 제안 같다.",
+      "font": "sans",
+      "size": 7.2,
+      "lines": 1,
+      "used_height_pt": 10.4256,
+      "frame_height_pt": 10.6
+    },
+    {
+      "text": "이유  굵기와 기울기 변화가 손의 속도 같다.",
+      "font": "sans",
+      "size": 7.2,
+      "lines": 1,
+      "used_height_pt": 10.4256,
+      "frame_height_pt": 10.6
+    },
+    {
+      "text": "기랑해랑",
+      "font": "YES24",
+      "size": 6.5,
+      "lines": 1,
+      "used_height_pt": 8.619,
+      "frame_height_pt": 9
+    },
+    {
+      "text": "장난·응원",
+      "font": "YES24",
+      "size": 6.5,
+      "lines": 1,
+      "used_height_pt": 8.619,
+      "frame_height_pt": 9
+    },
+    {
+      "text": "가보자고",
+      "font": "kirang",
+      "size": 11,
+      "lines": 1,
+      "used_height_pt": 11.0,
+      "frame_height_pt": 11.2
+    },
+    {
+      "text": "느낌  팻말을 들고 앞장서는 듯하다.",
+      "font": "sans",
+      "size": 7.2,
+      "lines": 1,
+      "used_height_pt": 10.4256,
+      "frame_height_pt": 10.6
+    },
+    {
+      "text": "이유  삐뚤한 골격과 다른 크기가 들떠 있다.",
+      "font": "sans",
+      "size": 7.2,
+      "lines": 1,
+      "used_height_pt": 10.4256,
+      "frame_height_pt": 10.6
+    },
+    {
+      "text": "싱글데이",
+      "font": "YES24",
+      "size": 6.5,
+      "lines": 1,
+      "used_height_pt": 8.619,
+      "frame_height_pt": 9
+    },
+    {
+      "text": "설렘·초대",
+      "font": "YES24",
+      "size": 6.5,
+      "lines": 1,
+      "used_height_pt": 8.619,
+      "frame_height_pt": 9
+    },
+    {
+      "text": "가보자고",
+      "font": "singleday",
+      "size": 11,
+      "lines": 1,
+      "used_height_pt": 11.0,
+      "frame_height_pt": 11.2
+    },
+    {
+      "text": "느낌  둘이 놀러 가자고 초대하는 듯하다.",
+      "font": "sans",
+      "size": 7.2,
+      "lines": 1,
+      "used_height_pt": 10.4256,
+      "frame_height_pt": 10.6
+    },
+    {
+      "text": "이유  둥근 손글씨와 작은 장식이 다정하다.",
+      "font": "sans",
+      "size": 7.2,
+      "lines": 1,
+      "used_height_pt": 10.4256,
+      "frame_height_pt": 10.6
+    },
+    {
+      "text": "흑백사진",
+      "font": "YES24",
+      "size": 6.5,
+      "lines": 1,
+      "used_height_pt": 8.619,
+      "frame_height_pt": 9
+    },
+    {
+      "text": "절박·외침",
+      "font": "YES24",
+      "size": 6.5,
+      "lines": 1,
+      "used_height_pt": 8.619,
+      "frame_height_pt": 9
+    },
+    {
+      "text": "가보자고",
+      "font": "bawpic",
+      "size": 11,
+      "lines": 1,
+      "used_height_pt": 11.0,
+      "frame_height_pt": 11.2
+    },
+    {
+      "text": "느낌  더 미루지 말자는 외침처럼 들린다.",
+      "font": "sans",
+      "size": 7.2,
+      "lines": 1,
+      "used_height_pt": 10.4256,
+      "frame_height_pt": 10.6
+    },
+    {
+      "text": "이유  패인 획과 거친 가장자리가 급해 보인다.",
+      "font": "sans",
+      "size": 7.2,
+      "lines": 1,
+      "used_height_pt": 10.4256,
+      "frame_height_pt": 10.6
+    },
+    {
+      "text": "Noto Serif CJK KR",
+      "font": "YES24",
+      "size": 6.5,
+      "lines": 1,
+      "used_height_pt": 8.619,
+      "frame_height_pt": 9
+    },
+    {
+      "text": "비장·시작",
+      "font": "YES24",
+      "size": 6.5,
+      "lines": 1,
+      "used_height_pt": 8.619,
+      "frame_height_pt": 9
+    },
+    {
+      "text": "가보자고",
+      "font": "serif",
+      "size": 11,
+      "lines": 1,
+      "used_height_pt": 15.807,
+      "frame_height_pt": 16.007
+    },
+    {
+      "text": "느낌  가벼운 출발도 소설 첫 문장 같다.",
+      "font": "sans",
+      "size": 7.2,
+      "lines": 1,
+      "used_height_pt": 10.4256,
+      "frame_height_pt": 10.6
+    },
+    {
+      "text": "이유  굵기 대비와 끝 장식이 격식을 더한다.",
+      "font": "sans",
+      "size": 7.2,
+      "lines": 1,
+      "used_height_pt": 10.4256,
+      "frame_height_pt": 10.6
+    }
+  ],
+  "native_InDesign_runtime_tested": false,
+  "visual_reviewed": true,
+  "PDF_page_counts": {
+    "Before_After": 2,
+    "Review_Board": 1
+  },
+  "practice_scope": "Only p7 practice; canonical final PDFs/layout remain unchanged.",
+  "independent_review_report": "independent_review.json",
+  "PDF_SHA256": {
+    "Detail_Practice01_Before_After.pdf": "ae79c5d20c7ef0e86ada26ee1752a89bae4ea4fda0d0a552041f00e106beb4a2",
+    "Detail_Practice01_Review_Board.pdf": "64f7ac2ce2a0db846fc5881b51ed8fe0664b11ab312237696aca0bb5cadacc8b"
+  }
+}
