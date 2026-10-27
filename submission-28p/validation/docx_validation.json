@@ -1,6 +1,6 @@
 {
   "docx": "Planning_28p_GoogleDocs.docx",
-  "revision": "서체별 느낌과 웃음의 이유 개편",
+  "revision": "작은 견본과 서체별 느낌 설명 중심 개편",
   "pages_in_QA_render": 6,
   "page_map_entries": 28,
   "Google_Docs_title_sanitizer": "passed",
@@ -10,14 +10,15 @@
   "ZIP_CRC": "passed",
   "all_six_pages_visually_inspected": true,
   "Google_Docs_created": false,
-  "docx_sha256": "8dc2a63997e1fe915b055588aca9ab3d1c8c53888775d3fa04d1db1bd0c0c762",
-  "QA_pdf": "/workspace/final28/planning/rendered_feelings_final/Planning_28p_GoogleDocs.pdf",
+  "docx_sha256": "544fd4a2aa431e6139e932018d8f02995f2f5df4005ba3ac1d50d22a591418a8",
+  "QA_pdf": "/workspace/final28/planning/rendered_small_type_verified/Planning_28p_GoogleDocs.pdf",
   "comparison_method": {
-    "intro": "알겠어 동일 23pt 3서체",
-    "lab": "내가 감히 동일 28pt Regular 3서체",
-    "chapter_reports": "동일 발췌문 두 서체 비교 후 형태·말투·웃음 해설"
+    "intro": "알겠어 동일 16pt 3서체",
+    "lab": "내가 감히 동일 16pt Regular 3서체",
+    "chapter_reports": "18pt 제목과 동일 발췌문 15pt 세 서체 견본, 각 서체별 느낌과 형태 근거"
   },
   "feelings_are_contextual_interpretations": true,
   "typeface_form_separated_from_size_and_leading": true,
-  "embedded_moodboard_sha256": "26381e78a2a0e6a66d29565720ae3ffb720ae9ab19194c9db54b4b7eab46ffa6"
+  "embedded_moodboard_sha256": "2ed1b327b5bc78f27f578dc16f109746f3a7e0cfb1ba6452a7009391e2951663",
+  "small_type_request_reflected_in_purpose_concept_font_table_page_map_and_revision_notes": true
 }

@@ -1,7 +1,7 @@
 {
   "pages": 28,
   "spreads": 15,
-  "stories": 371,
+  "stories": 430,
   "full_story_strings_match_layout": true,
   "all_text_font_size_leading_matches_layout": true,
   "font_families": [
@@ -24,6 +24,6 @@
     "28",
     "1 0 0 1 -419.5276 -297.6378"
   ],
-  "idml_sha256": "5ee34946b9bddb231615b7705795b504871fe79a3f874f4337a0a261b16dc8b3",
+  "idml_sha256": "1c50a01b5153d39b890c7aae73fe2f5bd3543ef5d27db17452fc4e3b764f68cb",
   "InDesign_runtime_tested": false
 }

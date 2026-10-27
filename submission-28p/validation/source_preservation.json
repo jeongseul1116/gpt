@@ -1,112 +1,90 @@
 {
   "status": "pass",
+  "revision": "Small type, three font feelings per meme",
   "page_count": 28,
-  "layout_sha256": "b602055eeb48cfc82a0a1be43b546420033e2af7ecfcc0c8a6b55ce5614a0f71",
-  "baseline_layout_sha256": "e247a548ec9fb01f7fc356bde1183fea1af5d68a4d2fa6f1ff9280379a230f3e",
+  "layout_sha256": "c1b6518ee97ba9cd441edfee294333870c1d959933b2366f278b003bcb2a372b",
+  "baseline_layout_sha256": "b602055eeb48cfc82a0a1be43b546420033e2af7ecfcc0c8a6b55ce5614a0f71",
   "archive_file_count": 14,
   "archive_matches_frozen_bytes": true,
   "source_coverage": {
     "B01": {
       "page": 6,
-      "text_fragments_recombine_exactly": true,
-      "complete_text_exact_except_optional_final_lf": true
+      "complete_text_exact_except_optional_final_lf": true,
+      "verification_method": "join two source frames"
     },
     "A04": {
       "page": 8,
       "complete_text_exact_except_optional_final_lf": true,
-      "longest_source_frame_is_complete_original": true
+      "verification_method": "complete longest source frame"
+    },
+    "A02": {
+      "page": 12,
+      "complete_text_exact_except_optional_final_lf": true,
+      "verification_method": "join source frames with original newlines"
+    },
+    "A03": {
+      "page": 14,
+      "complete_text_exact_except_optional_final_lf": true,
+      "verification_method": "join final six source frames with original newlines"
     },
     "B06": {
       "page": 16,
-      "complete_text_exact_except_optional_final_lf": true
+      "complete_text_exact_except_optional_final_lf": true,
+      "verification_method": "complete longest source frame"
     },
     "B05": {
       "page": 18,
       "complete_text_exact_except_optional_final_lf": true,
-      "longest_source_frame_is_complete_original": true
+      "verification_method": "complete longest source frame"
     },
     "B03": {
       "page": 20,
-      "complete_text_exact_except_optional_final_lf": true
+      "complete_text_exact_except_optional_final_lf": true,
+      "verification_method": "complete longest source frame"
     },
     "B07": {
       "page": 24,
-      "complete_text_exact_except_optional_final_lf": true
-    },
-    "A02": {
-      "page": 12,
-      "complete_lines_recombine_exactly": true
-    },
-    "A03": {
-      "page": 14,
-      "complete_lines_recombine_exactly": true,
-      "full_original_in_last_6_source_frames": true
+      "complete_text_exact_except_optional_final_lf": true,
+      "verification_method": "complete longest source frame"
     },
     "A01": {
-      "pages": [
-        4
-      ],
-      "vector_count": 1,
-      "paths_and_all_properties_identical_to_baseline": true
+      "page": 4,
+      "source_vector_count": 1,
+      "paths_and_all_properties_identical_to_verified_baseline": true
     },
     "B02": {
-      "pages": [
-        10,
-        10
-      ],
-      "vector_count": 2,
-      "paths_and_all_properties_identical_to_baseline": true,
+      "page": 10,
+      "source_vector_count": 2,
+      "paths_and_all_properties_identical_to_verified_baseline": true,
       "complete_long_text_exact": true
     },
     "B04": {
-      "pages": [
-        22
-      ],
-      "vector_count": 1,
-      "paths_and_all_properties_identical_to_baseline": true
+      "page": 22,
+      "source_vector_count": 1,
+      "paths_and_all_properties_identical_to_verified_baseline": true
     }
   },
+  "all_11_original_meme_pages_unchanged": true,
+  "original_meme_page_numbers": [
+    4,
+    6,
+    8,
+    10,
+    12,
+    14,
+    16,
+    18,
+    20,
+    22,
+    24
+  ],
   "main_source_position_or_text_changes": [],
-  "selected_source_fonts_match": true,
-  "vectors": {
-    "total": 28,
-    "source": 4,
-    "editorial": 24,
-    "source_editorial_field_overlap": 0
+  "source_vectors": {
+    "count": 4,
+    "all_properties_exactly_unchanged": true
   },
-  "scope": "Exact immutable archive bytes, source-page equality to prior verified layout, exact chapter excerpts and baseline source-vector comparison. Outlined PDF text extraction cannot independently prove all source glyphs. No InDesign-runtime validation claimed.",
-  "prior_layout_sha256": "6f5915dc6c95002e91b6a8f62bdb5602fc778fd21878271c59a3fc0cc026ec08",
-  "comparison_revision": {
-    "all_11_original_meme_pages_unchanged": true,
-    "original_meme_page_numbers": [
-      4,
-      6,
-      8,
-      10,
-      12,
-      14,
-      16,
-      18,
-      20,
-      22,
-      24
-    ],
-    "chapter_comparisons_use_exact_source_excerpts_or_explicit_editorial_heading": true,
-    "archive_14_file_frozen_byte_comparison": true,
-    "changed_pages": [
-      3,
-      5,
-      7,
-      9,
-      11,
-      13,
-      15,
-      17,
-      19,
-      21,
-      23,
-      25,
-      26
-    ]
-  }
+  "chapter_sample_point_size": 15,
+  "chapter_sample_count": 33,
+  "chapter_comparisons_use_exact_source_excerpts_or_explicit_editorial_heading": true,
+  "scope": "Exact immutable archive bytes, source-page deep equality to prior verified layout, independent editable-original reconstruction, source-vector equality, exact comparison excerpts. Outlined PDF text extraction cannot independently prove all source glyphs. No InDesign-runtime validation claimed."
 }

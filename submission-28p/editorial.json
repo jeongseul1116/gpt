@@ -1,5 +1,5 @@
 {
-  "editorial_scope": "28쪽 개정. 서체의 형태에서 말투와 감정, 밈과 결합한 웃음으로 이어지는 해설과 동일 문구 비교.",
+  "editorial_scope": "작은15pt 견본의 세 서체를 각 밈에서 비교하고, 각 서체의 느낌과 글자 형태 근거를 설명하는 28쪽 개정본.",
   "source_policy": {
     "immutable_original": "원문은 코드 블록의 문자, 줄바꿈, 공백, 이모지를 보존한 별도 UTF-8 파일로 관리한다.",
     "excerpt_policy": "아래 excerpt는 원문의 연속된 일부다. 지면의 자동 줄바꿈, 크기 변경, 색 지정은 발췌 지면에만 적용하고 보관 원문은 수정하지 않는다.",
@@ -9,11 +9,11 @@
   "layout_system": {
     "format": "A5 세로 148×210mm, 28쪽, 중철 선택, 펼침면 편집",
     "bleed": "사방 3mm. 출력은 문서 도련 설정을 사용하고 재단선을 포함한다.",
-    "spread_structure": "왼쪽은 원문 전체와 형상, 오른쪽은 동일 발췌문의 두 서체 비교와 생김새·말투·웃음의 이유·사용 상황·예문.",
+    "spread_structure": "왼쪽 원문 전체와 형상, 오른쪽 15pt 세 서체 견본·서체별 느낌·형태 근거·추천과 예문.",
     "long_source_strategy": "11개 원문 전체를 수록한다. 긴 원문에는 지면 자동 행갈이만 적용하고 보관 원문은 수정하지 않는다.",
     "aa_strategy": "AA는 여러 종류의 공백과 선·점·점자 문자가 섞여 있어 고정폭 서체만 지정해도 원형이 보장되지 않는다. 공백을 일괄 변환하거나 자간을 임의로 고치지 않고 원문을 먼저 보존한다. 인쇄용 형상은 파생 렌더 파일로 분리하고 원문과 나란히 검수한다.",
     "emoji_strategy": "이모지는 운영체제·폰트마다 모양과 폭이 달라진다. 원본 문자 시퀀스를 보존하고, 인쇄용 파생 렌더에서는 사용한 서체와 단색·컬러 여부를 표기한다.",
-    "font_policy": "예스체 YES24 Regular를 기준으로 Noto Sans·Serif CJK KR Regular를 실제 비교한다. 크기와 색을 맞춘 견본으로 서체 차이를 읽게 한다. AA·이모지 형상은 보존한다."
+    "font_policy": "예스체 YES24 Regular를 기준으로 Noto Sans·Serif CJK KR Regular를 모든 해설에서 실제 비교한다. 세 견본은 15pt, 입문과 실험실은16pt. AA·이모지 형상은 보존한다."
   },
   "entries": [
     {
@@ -44,12 +44,32 @@
       "humor_reason": "대답도 못 하는 얼굴을 너무 진지하게 설명해서 웃기다.",
       "comparison": {
         "text": "말보다 표정",
-        "selected_font": "예스체 YES24",
-        "alternative_font": "Noto Sans CJK KR",
-        "point_size": 22,
+        "families": [
+          "예스체 YES24",
+          "Noto Sans CJK KR",
+          "Noto Serif CJK KR"
+        ],
+        "point_size": 15,
         "style": "Regular",
-        "note": "예스체는 결의문, 고딕은 담담한 관찰처럼 읽힌다.",
-        "text_role": "editorial heading"
+        "fixed_conditions": "같은 문구·15pt·검정·자간0·프레임폭198pt·동일배경",
+        "text_role": "편집 제목"
+      },
+      "font_feelings": {
+        "YES24": {
+          "keywords": "단호함 · 웃픈 결의",
+          "impression": "울먹이는 표정 옆에서도 해설은 결의문처럼 힘이 남는다.",
+          "reason": "짙은 직선 획이 짧은 제목에 힘을 싣는다."
+        },
+        "sans": {
+          "keywords": "담담함 · 무표정 해설",
+          "impression": "감정을 덜 보태, 말 못 하는 얼굴을 관찰하듯 읽힌다.",
+          "reason": "고른 획과 적은 장식이 설명을 차분하게 보이게 한다."
+        },
+        "serif": {
+          "keywords": "처연함 · 과한 비장함",
+          "impression": "짧은 표정 설명이 애틋한 사연의 제목처럼 읽힌다.",
+          "reason": "획의 굵기 대비와 끝 장식이 격식을 더한다."
+        }
       }
     },
     {
@@ -79,12 +99,32 @@
       "humor_reason": "일은 시작도 안 했는데 글자만 이미 대장이다.",
       "comparison": {
         "text": "카쟈",
-        "selected_font": "예스체 YES24",
-        "alternative_font": "Noto Sans CJK KR",
-        "point_size": 22,
+        "families": [
+          "예스체 YES24",
+          "Noto Sans CJK KR",
+          "Noto Serif CJK KR"
+        ],
+        "point_size": 15,
         "style": "Regular",
-        "note": "예스체는 출발 선언, 고딕은 가벼운 권유처럼 읽힌다.",
-        "text_role": "exact source excerpt"
+        "fixed_conditions": "같은 문구·15pt·검정·자간0·프레임폭198pt·동일배경",
+        "text_role": "원문 발췌"
+      },
+      "font_feelings": {
+        "YES24": {
+          "keywords": "단호함 · 과한 자신감",
+          "impression": "준비는 덜 됐는데 이미 출발을 선언하는 느낌이다.",
+          "reason": "짙고 각진 획이 짧은 외침을 단단하게 만든다."
+        },
+        "sans": {
+          "keywords": "가벼움 · 담담한 권유",
+          "impression": "크게 결심하기보다 친구를 툭 부르며 가자는 느낌이다.",
+          "reason": "고른 획과 절제된 끝맺음이 힘을 덜 보태 보인다."
+        },
+        "serif": {
+          "keywords": "비장함 · 결연한 출발",
+          "impression": "가벼운 가자는 말이 마음먹고 떠나는 출정처럼 읽힌다.",
+          "reason": "굵고 가는 획과 끝 장식이 짧은 말에 무게를 더한다."
+        }
       }
     },
     {
@@ -115,12 +155,32 @@
       "humor_reason": "커피 한 잔의 친절이 글자 안에서는 운명적인 사랑이 된다.",
       "comparison": {
         "text": "사랑사랑 내가 말했지",
-        "selected_font": "Noto Serif CJK KR",
-        "alternative_font": "예스체 YES24",
-        "point_size": 22,
+        "families": [
+          "예스체 YES24",
+          "Noto Sans CJK KR",
+          "Noto Serif CJK KR"
+        ],
+        "point_size": 15,
         "style": "Regular",
-        "note": "명조는 절절한 고백, 예스체는 큰 사랑 선언이 된다.",
-        "text_role": "exact source excerpt"
+        "fixed_conditions": "같은 문구·15pt·검정·자간0·프레임폭198pt·동일배경",
+        "text_role": "원문 발췌"
+      },
+      "font_feelings": {
+        "YES24": {
+          "keywords": "적극성 · 큰 사랑 선언",
+          "impression": "혼자 품은 고백보다 모두에게 외치는 사랑 선언 같다.",
+          "reason": "짙은 획과 직선 골격이 고백에 강한 기세를 준다."
+        },
+        "sans": {
+          "keywords": "담백함 · 솔직한 고백",
+          "impression": "꾸밈없이 좋아한다고 말해, 과한 문장도 덤덤해진다.",
+          "reason": "고른 획과 적은 장식이 감정의 과장을 덜어 보인다."
+        },
+        "serif": {
+          "keywords": "애틋함 · 과한 비장함",
+          "impression": "작은 친절에도 오래 품어 온 사랑을 고백하는 느낌이다.",
+          "reason": "획의 굵기 대비와 뻗침이 공들인 문장처럼 보인다."
+        }
       }
     },
     {
@@ -152,12 +212,32 @@
       "humor_reason": "좋은 밤을 빌어주는데 칭찬의 무게 때문에 먼저 지친다.",
       "comparison": {
         "text": "코리안탑클래스 굿나잇",
-        "selected_font": "예스체 YES24",
-        "alternative_font": "Noto Serif CJK KR",
-        "point_size": 22,
+        "families": [
+          "예스체 YES24",
+          "Noto Sans CJK KR",
+          "Noto Serif CJK KR"
+        ],
+        "point_size": 15,
         "style": "Regular",
-        "note": "예스체는 밀어붙이는 응원, 명조는 공들인 헌사 같다.",
-        "text_role": "exact source excerpt"
+        "fixed_conditions": "같은 문구·15pt·검정·자간0·프레임폭198pt·동일배경",
+        "text_role": "원문 발췌"
+      },
+      "font_feelings": {
+        "YES24": {
+          "keywords": "묵직함 · 다정한 압박",
+          "impression": "박수치며 밀어붙이는 응원처럼 칭찬의 기세가 세다.",
+          "reason": "짙은 획이 긴 칭찬을 묵직한 말 덩어리로 만든다."
+        },
+        "sans": {
+          "keywords": "담담함 · 차분한 칭찬",
+          "impression": "칭찬은 거창한데 말투는 평범한 인사처럼 차분하다.",
+          "reason": "고른 획과 담백한 끝맺음이 차분한 인상을 준다."
+        },
+        "serif": {
+          "keywords": "애틋함 · 정성스런 헌사",
+          "impression": "굿나잇 한마디도 공들여 쓴 긴 헌사처럼 느껴진다.",
+          "reason": "가는 획과 굵은 획의 대비가 섬세한 인상을 더한다."
+        }
       }
     },
     {
@@ -187,12 +267,32 @@
       "humor_reason": "축하 한마디면 되는데 내면에서는 비극 한 편이 진행된다.",
       "comparison": {
         "text": "질투하고,",
-        "selected_font": "Noto Serif CJK KR",
-        "alternative_font": "예스체 YES24",
-        "point_size": 22,
+        "families": [
+          "예스체 YES24",
+          "Noto Sans CJK KR",
+          "Noto Serif CJK KR"
+        ],
+        "point_size": 15,
         "style": "Regular",
-        "note": "명조는 처연한 고백, 예스체는 뻔뻔한 질투 선언 같다.",
-        "text_role": "exact source excerpt"
+        "fixed_conditions": "같은 문구·15pt·검정·자간0·프레임폭198pt·동일배경",
+        "text_role": "원문 발췌"
+      },
+      "font_feelings": {
+        "YES24": {
+          "keywords": "당당함 · 뻔뻔한 질투",
+          "impression": "숨기려던 질투를 오히려 당당하게 선언하는 느낌이다.",
+          "reason": "짙은 직선 획이 부정적인 감정에도 힘을 싣는다."
+        },
+        "sans": {
+          "keywords": "담담함 · 솔직한 인정",
+          "impression": "속마음을 사실처럼 보고해서 오히려 더 민망해진다.",
+          "reason": "고른 획과 적은 장식이 감정을 담백하게 보이게 한다."
+        },
+        "serif": {
+          "keywords": "처연함 · 장엄한 고백",
+          "impression": "잠깐의 부러움을 비극적인 자기 고백처럼 읽게 된다.",
+          "reason": "획의 굵기 대비와 끝 장식이 감정에 격식을 더한다."
+        }
       }
     },
     {
@@ -222,12 +322,32 @@
       "humor_reason": "정보 하나를 정정했을 뿐인데 자존심까지 조용히 반납한다.",
       "comparison": {
         "text": "내가 감히",
-        "selected_font": "Noto Sans CJK KR",
-        "alternative_font": "예스체 YES24",
-        "point_size": 22,
+        "families": [
+          "예스체 YES24",
+          "Noto Sans CJK KR",
+          "Noto Serif CJK KR"
+        ],
+        "point_size": 15,
         "style": "Regular",
-        "note": "고딕은 담담한 반성, 예스체는 아직 기세가 남아 있다.",
-        "text_role": "exact source excerpt"
+        "fixed_conditions": "같은 문구·15pt·검정·자간0·프레임폭198pt·동일배경",
+        "text_role": "원문 발췌"
+      },
+      "font_feelings": {
+        "YES24": {
+          "keywords": "단호함 · 기세 남은 반성",
+          "impression": "자신을 낮추는 말인데도 목소리에는 힘이 남아 있다.",
+          "reason": "짙고 각진 획이 반성하는 문장도 단단하게 보이게 한다."
+        },
+        "sans": {
+          "keywords": "담담함 · 조용한 머쓱함",
+          "impression": "민망한 자기비하를 평범한 사실처럼 보고하는 느낌이다.",
+          "reason": "고른 획과 절제된 끝맺음이 차분하게 읽힌다."
+        },
+        "serif": {
+          "keywords": "격식 · 장엄한 참회",
+          "impression": "작은 실수에도 긴 참회록을 쓰기 시작한 듯한 느낌이다.",
+          "reason": "굵고 가는 획의 대비와 끝 장식이 말에 무게를 준다."
+        }
       }
     },
     {
@@ -258,12 +378,32 @@
       "humor_reason": "은근한 자랑을 발견한 쪽이 전혀 은근하지 않다.",
       "comparison": {
         "text": "선배 고단수드앙~",
-        "selected_font": "예스체 YES24",
-        "alternative_font": "Noto Sans CJK KR",
-        "point_size": 22,
+        "families": [
+          "예스체 YES24",
+          "Noto Sans CJK KR",
+          "Noto Serif CJK KR"
+        ],
+        "point_size": 15,
         "style": "Regular",
-        "note": "예스체는 정면 추궁, 고딕은 가벼운 놀림처럼 읽힌다.",
-        "text_role": "exact source excerpt"
+        "fixed_conditions": "같은 문구·15pt·검정·자간0·프레임폭198pt·동일배경",
+        "text_role": "원문 발췌"
+      },
+      "font_feelings": {
+        "YES24": {
+          "keywords": "또렷함 · 능청스런 추궁",
+          "impression": "웃고는 있지만 현장을 잡아낸 친구처럼 정면으로 묻는다.",
+          "reason": "짙은 직선 획이 장난스러운 철자까지 또렷하게 만든다."
+        },
+        "sans": {
+          "keywords": "가벼움 · 친근한 놀림",
+          "impression": "가볍게 눈치채고 옆에서 툭 놀리는 말처럼 읽힌다.",
+          "reason": "고른 획과 적은 장식이 대화하듯 담백하게 보인다."
+        },
+        "serif": {
+          "keywords": "격식 · 정중한 추궁",
+          "impression": "능청스러운 말을 격식 있게 꺼내는 듯해서 더 엉뚱하다.",
+          "reason": "획의 굵기 대비와 끝 장식이 장난에 격식을 더한다."
+        }
       }
     },
     {
@@ -294,12 +434,32 @@
       "humor_reason": "말의 내용은 헤매는데 글자의 존재감은 너무 확실하다.",
       "comparison": {
         "text": "모루게쒀여",
-        "selected_font": "예스체 YES24",
-        "alternative_font": "Noto Sans CJK KR",
-        "point_size": 22,
+        "families": [
+          "예스체 YES24",
+          "Noto Sans CJK KR",
+          "Noto Serif CJK KR"
+        ],
+        "point_size": 15,
         "style": "Regular",
-        "note": "예스체는 튀는 방송 자막, 고딕은 대화 기록 같다.",
-        "text_role": "exact source excerpt"
+        "fixed_conditions": "같은 문구·15pt·검정·자간0·프레임폭198pt·동일배경",
+        "text_role": "원문 발췌"
+      },
+      "font_feelings": {
+        "YES24": {
+          "keywords": "친근함 · 과한 존재감",
+          "impression": "모른다면서도 방송 자막처럼 자신 있게 튀어나오는 느낌이다.",
+          "reason": "짙은 획이 뒤틀린 철자에도 강한 존재감을 준다."
+        },
+        "sans": {
+          "keywords": "무심함 · 실제 대화감",
+          "impression": "혼란스러운 발음을 차분하게 받아 적은 대화 기록 같다.",
+          "reason": "고른 획과 절제된 끝맺음이 기록처럼 담백하게 보인다."
+        },
+        "serif": {
+          "keywords": "당혹감 · 진지한 독백",
+          "impression": "모르겠다는 한마디도 진지한 내면의 독백처럼 들린다.",
+          "reason": "획의 굵기 대비와 끝 장식이 문장에 무게를 더한다."
+        }
       }
     },
     {
@@ -330,12 +490,32 @@
       "humor_reason": "이미 인정했는데 글자는 계속 설득하고 있다.",
       "comparison": {
         "text": "ㅇㅈ? ㅇㅇㅈ~~~~~",
-        "selected_font": "예스체 YES24",
-        "alternative_font": "Noto Sans CJK KR",
-        "point_size": 22,
+        "families": [
+          "예스체 YES24",
+          "Noto Sans CJK KR",
+          "Noto Serif CJK KR"
+        ],
+        "point_size": 15,
         "style": "Regular",
-        "note": "예스체는 동의 구호, 고딕은 짧은 확인처럼 읽힌다.",
-        "text_role": "exact source excerpt"
+        "fixed_conditions": "같은 문구·15pt·검정·자간0·프레임폭198pt·동일배경",
+        "text_role": "원문 발췌"
+      },
+      "font_feelings": {
+        "YES24": {
+          "keywords": "확신 · 밀어붙이는 동의",
+          "impression": "이미 인정했는데도 혼자 계속 구호를 외치는 느낌이다.",
+          "reason": "짙은 획이 짧은 동의에도 강한 힘을 싣는다."
+        },
+        "sans": {
+          "keywords": "무심함 · 짧은 확인",
+          "impression": "큰 호들갑보다 대화창에서 툭 남기는 확인처럼 읽힌다.",
+          "reason": "고른 획과 적은 장식이 말의 기세를 덜어 보인다."
+        },
+        "serif": {
+          "keywords": "비장함 · 근엄한 동의",
+          "impression": "가벼운 인정을 근엄한 선언문처럼 말하는 느낌이다.",
+          "reason": "획의 굵기 대비와 끝 장식이 짧은 말에 격식을 준다."
+        }
       }
     },
     {
@@ -367,12 +547,32 @@
       "humor_reason": "아직 아는 내용은 없는데 반응의 존재감부터 커진다.",
       "comparison": {
         "text": "웅성웅성..",
-        "selected_font": "예스체 YES24",
-        "alternative_font": "Noto Sans CJK KR",
-        "point_size": 22,
+        "families": [
+          "예스체 YES24",
+          "Noto Sans CJK KR",
+          "Noto Serif CJK KR"
+        ],
+        "point_size": 15,
         "style": "Regular",
-        "note": "예스체는 앞줄의 놀람, 고딕은 뒤쪽 수군거림 같다.",
-        "text_role": "exact source excerpt"
+        "fixed_conditions": "같은 문구·15pt·검정·자간0·프레임폭198pt·동일배경",
+        "text_role": "원문 발췌"
+      },
+      "font_feelings": {
+        "YES24": {
+          "keywords": "또렷함 · 앞줄의 호들갑",
+          "impression": "작은 수군거림보다 앞줄에서 크게 놀라는 반응 같다.",
+          "reason": "짙은 획이 짧은 반응을 눈에 띄게 만든다."
+        },
+        "sans": {
+          "keywords": "무심함 · 작은 수군거림",
+          "impression": "뒤쪽에서 상황을 살피며 조용히 나누는 말처럼 읽힌다.",
+          "reason": "고른 획과 절제된 끝맺음이 차분한 인상을 준다."
+        },
+        "serif": {
+          "keywords": "의아함 · 우아한 소란",
+          "impression": "무슨 일인지 모르면서도 격식을 차려 술렁이는 느낌이다.",
+          "reason": "가는 획과 굵은 획, 끝 장식이 반응에 격식을 더한다."
+        }
       }
     },
     {
@@ -403,12 +603,32 @@
       "humor_reason": "내용은 체념인데 글자는 축제나 혜택을 알리고 있다.",
       "comparison": {
         "text": "출.근.가.능!",
-        "selected_font": "예스체 YES24",
-        "alternative_font": "Noto Sans CJK KR",
-        "point_size": 22,
+        "families": [
+          "예스체 YES24",
+          "Noto Sans CJK KR",
+          "Noto Serif CJK KR"
+        ],
+        "point_size": 15,
         "style": "Regular",
-        "note": "예스체는 행사 전단, 고딕은 평범한 출근 안내 같다.",
-        "text_role": "exact source excerpt"
+        "fixed_conditions": "같은 문구·15pt·검정·자간0·프레임폭198pt·동일배경",
+        "text_role": "원문 발췌"
+      },
+      "font_feelings": {
+        "YES24": {
+          "keywords": "활기 · 억지로 큰 홍보",
+          "impression": "가기 싫은 출근을 당장 신청할 행사처럼 홍보하는 느낌이다.",
+          "reason": "짙고 각진 획이 강하게 권하는 전단처럼 보인다."
+        },
+        "sans": {
+          "keywords": "담담함 · 평범한 안내",
+          "impression": "체념한 마음을 덜 드러내는 평범한 출근 안내처럼 읽힌다.",
+          "reason": "고른 획과 적은 장식이 안내문처럼 차분하게 보인다."
+        },
+        "serif": {
+          "keywords": "격식 · 장엄한 출근",
+          "impression": "평범한 출근을 엄숙하게 받아들이는 선언처럼 느껴진다.",
+          "reason": "획의 굵기 대비와 끝 장식이 일상에 무게를 더한다."
+        }
       }
     }
   ],
@@ -428,7 +648,7 @@
     {
       "page": 3,
       "title": "서체의 말투 지도",
-      "content": "알겠어 23pt 세 서체 비교·형태와 말투 연결",
+      "content": "알겠어16pt 세 서체·느낌키워드·말투와 형태 근거",
       "source_id": null
     },
     {
@@ -440,7 +660,7 @@
     {
       "page": 5,
       "title": "01. 말보다 표정 — 해설",
-      "content": "같은 발췌문 22pt 두 서체 비교·생김새·말투·웃음·상황과 예문",
+      "content": "15pt 세 서체 견본·서체별 느낌·형태 근거·추천과 예문",
       "source_id": "A01"
     },
     {
@@ -452,7 +672,7 @@
     {
       "page": 7,
       "title": "02. 일단 가보자고 — 해설",
-      "content": "같은 발췌문 22pt 두 서체 비교·생김새·말투·웃음·상황과 예문",
+      "content": "15pt 세 서체 견본·서체별 느낌·형태 근거·추천과 예문",
       "source_id": "B01"
     },
     {
@@ -464,7 +684,7 @@
     {
       "page": 9,
       "title": "03. 사랑이 너무 많아 — 해설",
-      "content": "같은 발췌문 22pt 두 서체 비교·생김새·말투·웃음·상황과 예문",
+      "content": "15pt 세 서체 견본·서체별 느낌·형태 근거·추천과 예문",
       "source_id": "A04"
     },
     {
@@ -476,7 +696,7 @@
     {
       "page": 11,
       "title": "04. 칭찬도 정도껏 — 해설",
-      "content": "같은 발췌문 22pt 두 서체 비교·생김새·말투·웃음·상황과 예문",
+      "content": "15pt 세 서체 견본·서체별 느낌·형태 근거·추천과 예문",
       "source_id": "B02"
     },
     {
@@ -488,7 +708,7 @@
     {
       "page": 13,
       "title": "05. 축하해. 근데 이제 — 해설",
-      "content": "같은 발췌문 22pt 두 서체 비교·생김새·말투·웃음·상황과 예문",
+      "content": "15pt 세 서체 견본·서체별 느낌·형태 근거·추천과 예문",
       "source_id": "A02"
     },
     {
@@ -500,7 +720,7 @@
     {
       "page": 15,
       "title": "06. 내가 감히 — 해설",
-      "content": "같은 발췌문 22pt 두 서체 비교·생김새·말투·웃음·상황과 예문",
+      "content": "15pt 세 서체 견본·서체별 느낌·형태 근거·추천과 예문",
       "source_id": "A03"
     },
     {
@@ -512,7 +732,7 @@
     {
       "page": 17,
       "title": "07. 선배 고단수다~ — 해설",
-      "content": "같은 발췌문 22pt 두 서체 비교·생김새·말투·웃음·상황과 예문",
+      "content": "15pt 세 서체 견본·서체별 느낌·형태 근거·추천과 예문",
       "source_id": "B06"
     },
     {
@@ -524,7 +744,7 @@
     {
       "page": 19,
       "title": "08. 입이 쉬지를 않음 — 해설",
-      "content": "같은 발췌문 22pt 두 서체 비교·생김새·말투·웃음·상황과 예문",
+      "content": "15pt 세 서체 견본·서체별 느낌·형태 근거·추천과 예문",
       "source_id": "B05"
     },
     {
@@ -536,7 +756,7 @@
     {
       "page": 21,
       "title": "09. 인정? 어 인정 — 해설",
-      "content": "같은 발췌문 22pt 두 서체 비교·생김새·말투·웃음·상황과 예문",
+      "content": "15pt 세 서체 견본·서체별 느낌·형태 근거·추천과 예문",
       "source_id": "B03"
     },
     {
@@ -548,7 +768,7 @@
     {
       "page": 23,
       "title": "10. 웅성웅성 — 해설",
-      "content": "같은 발췌문 22pt 두 서체 비교·생김새·말투·웃음·상황과 예문",
+      "content": "15pt 세 서체 견본·서체별 느낌·형태 근거·추천과 예문",
       "source_id": "B04"
     },
     {
@@ -560,13 +780,13 @@
     {
       "page": 25,
       "title": "11. 내일 출근 실화냐 — 해설",
-      "content": "같은 발췌문 22pt 두 서체 비교·생김새·말투·웃음·상황과 예문",
+      "content": "15pt 세 서체 견본·서체별 느낌·형태 근거·추천과 예문",
       "source_id": "B07"
     },
     {
       "page": 26,
       "title": "폰트 실험실",
-      "content": "내가 감히 28pt 세 서체 비교·느낌과 웃음이 달라지는 이유",
+      "content": "내가 감히16pt 세 서체 견본과 각 서체의 인상·이유",
       "source_id": "A03"
     },
     {

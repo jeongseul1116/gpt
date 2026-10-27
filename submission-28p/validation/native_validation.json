@@ -3,16 +3,16 @@
   "spreads": 15,
   "page_structure": "[1]+13 interior pairs+[28]",
   "item_counts": {
-    "text": 371,
+    "text": 430,
     "image": 1,
     "vector": 28,
-    "rect": 81,
+    "rect": 89,
     "ellipse": 1
   },
   "font_counts": {
-    "YES24": 338,
-    "sans": 17,
-    "serif": 16
+    "YES24": 386,
+    "sans": 20,
+    "serif": 24
   },
   "font_styles": "Regular only; all three families required, no fallback",
   "embedded_data_exact": true,
@@ -20,5 +20,5 @@
   "photo_embedding": "attempt Link.unlink(), retain and report link on failure",
   "node_syntax_check": true,
   "native_runtime_tested": false,
-  "jsx_sha256": "03b73f1904ad645aa67f2b48cbf71e4936feacc9d9829b25ae9f4c137e5c7727"
+  "jsx_sha256": "31da289d97161f756cdfe3ccad977ed99a0b88785943c5a0311f7dee170fca60"
 }

@@ -4,17 +4,17 @@
   "files": {
     "a5": {
       "filename": "Meme_Font_Book_28p_A5.pdf",
-      "sha256": "a5154c126d98d60fb1a5c456bb889487dae25cbe7bac571348ea6d8e2563559c",
+      "sha256": "f4867c6cda50c8627c1317831d2da6fff8d926c755e41824ce26a52df95556f0",
       "page_count": 28
     },
     "spreads": {
       "filename": "Meme_Font_Book_28p_Spreads.pdf",
-      "sha256": "8c7b95fb0f16d549d17605ed674237a7e95ef8c6e0df25f5e5fec5e0005459bf",
+      "sha256": "8240d5fc0074900461d6bc6cd0a25e6cce021ee3697b7de379ad8bc7ceafbc8c",
       "page_count": 15
     },
     "a3": {
       "filename": "Meme_Font_Book_A3_ActualSize.pdf",
-      "sha256": "811609972fa10c8cc98cf69c0b00732343e2bd50a117afaa6864a6629c2822a1",
+      "sha256": "4b81063d243b76eccb00d1f6ea0ef00f0f655971a04efdb7753b8ff799878866",
       "page_count": 14
     }
   },
@@ -116,19 +116,19 @@
         "xref": 35,
         "font_name": "AAAAAA+YES24",
         "type": "TrueType",
-        "embedded_bytes": 72304
+        "embedded_bytes": 72828
       },
       {
         "xref": 39,
         "font_name": "AAAAAB+YES24",
         "type": "TrueType",
-        "embedded_bytes": 89604
+        "embedded_bytes": 89100
       },
       {
         "xref": 43,
         "font_name": "AAAAAC+YES24",
         "type": "TrueType",
-        "embedded_bytes": 52388
+        "embedded_bytes": 51376
       }
     ],
     "spreads": [
@@ -136,19 +136,19 @@
         "xref": 6,
         "font_name": "AAAAAA+YES24",
         "type": "TrueType",
-        "embedded_bytes": 72304
+        "embedded_bytes": 72828
       },
       {
         "xref": 10,
         "font_name": "AAAAAB+YES24",
         "type": "TrueType",
-        "embedded_bytes": 89604
+        "embedded_bytes": 89100
       },
       {
         "xref": 14,
         "font_name": "AAAAAC+YES24",
         "type": "TrueType",
-        "embedded_bytes": 52388
+        "embedded_bytes": 51376
       }
     ],
     "a3": [
@@ -162,19 +162,19 @@
         "xref": 10,
         "font_name": "AAAAAA+YES24",
         "type": "TrueType",
-        "embedded_bytes": 72304
+        "embedded_bytes": 72828
       },
       {
         "xref": 14,
         "font_name": "AAAAAB+YES24",
         "type": "TrueType",
-        "embedded_bytes": 89604
+        "embedded_bytes": 89100
       },
       {
         "xref": 18,
         "font_name": "AAAAAC+YES24",
         "type": "TrueType",
-        "embedded_bytes": 52388
+        "embedded_bytes": 51376
       }
     ]
   },
