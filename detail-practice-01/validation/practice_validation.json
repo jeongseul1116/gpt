@@ -1,8 +1,8 @@
 {
   "status": "passed",
   "practice_page": 7,
-  "canonical_layout_sha256": "2ba61800cd48a841639b7303a99d50bf513630fed56c710cf5b87bf34cfbb913",
-  "practice_layout_sha256": "dbf9f0a6ab7f023627b4983a196222763a322c2270825bce6c7636b5993b36f5",
+  "canonical_layout_sha256": "ecfb786591d188f13e9f39ed2c573e6eab82e28db5edf0c477217a1a555d8593",
+  "practice_layout_sha256": "14b6347835e113e7e44cf918e0490fe803d5aa51356ea7a3868131a11f189257",
   "other_27_pages_exactly_unchanged": true,
   "all_p7_text_strings_including_sources_and_explanations_exactly_unchanged": true,
   "same_10_actual_font_specimens_at_11pt": true,
@@ -115,7 +115,7 @@
       "frame_height_pt": 20
     },
     {
-      "text": "같은 말, 다른 글자 성격",
+      "text": "같은 말, 다른 느낌쓰",
       "font": "YES24",
       "size": 15,
       "lines": 1,
@@ -556,7 +556,7 @@
   "practice_scope": "Only p7 practice; canonical final PDFs/layout remain unchanged.",
   "independent_review_report": "independent_review.json",
   "PDF_SHA256": {
-    "Detail_Practice01_Before_After.pdf": "ae79c5d20c7ef0e86ada26ee1752a89bae4ea4fda0d0a552041f00e106beb4a2",
-    "Detail_Practice01_Review_Board.pdf": "64f7ac2ce2a0db846fc5881b51ed8fe0664b11ab312237696aca0bb5cadacc8b"
+    "Detail_Practice01_Before_After.pdf": "4a36ce497a079d3a8c923a008167fdc04ce0796e68882ff53c3646165fc9e64f",
+    "Detail_Practice01_Review_Board.pdf": "5dd9e95a075c14ca7bf867285cecd3b8f3ed19955b5616733a1397cb5c5a6504"
   }
 }

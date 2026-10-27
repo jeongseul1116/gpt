@@ -189,5 +189,5 @@
   "photo_embedding": "attempt Link.unlink(), retain and report link on failure",
   "node_syntax_check": true,
   "native_runtime_tested": false,
-  "jsx_sha256": "c68f45b9221e3f3cc8151da08d4d8148f05465d876659939654b66d6f86f6baf"
+  "jsx_sha256": "e9b8c3e28653b3a10fcf119f2add114bcd3788348710d7c9c3d845074fc2f2b3"
 }

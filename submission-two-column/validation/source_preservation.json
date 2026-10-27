@@ -2,7 +2,7 @@
   "status": "passed",
   "revision": "Ten-font two-column comparison revision; immutable source archive retained",
   "page_count": 28,
-  "layout_sha256": "2ba61800cd48a841639b7303a99d50bf513630fed56c710cf5b87bf34cfbb913",
+  "layout_sha256": "ecfb786591d188f13e9f39ed2c573e6eab82e28db5edf0c477217a1a555d8593",
   "baseline_layout_sha256": "be1bdeddac948b20f471df2ac8218a036e67a69fb4b166227916082d2d018837",
   "legacy_archive_file_count": 14,
   "addition_file_count": 13,
@@ -488,5 +488,10 @@
   "total_meme_specimens": 126,
   "nine_full_comparison_pages_have_ten_distinct_actual_fonts": true,
   "six_compact_and_short_meme_groups_keep_six_distinct_actual_fonts": true,
-  "scope": "Immutable original UTF-8 bytes and exact complete reading text or declared display editions. All 15 selected memes, separate user replacement and original usage examples retained. Comparison text uses exact source excerpts; font count changes do not rewrite the originals. InDesign runtime and physical printing are untested."
+  "scope": "Immutable original UTF-8 bytes and exact complete reading text or declared display editions. All 15 selected memes, separate user replacement and original usage examples retained. Comparison text uses exact source excerpts; font count changes do not rewrite the originals. InDesign runtime and physical printing are untested.",
+  "title_only_followup": {
+    "changed_title_frames": 9,
+    "source_specimens_and_paragraphs_unchanged": true,
+    "report": "revision_title/title_validation.json"
+  }
 }

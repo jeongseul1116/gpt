@@ -1,7 +1,7 @@
 {
   "status": "passed",
   "docx": "Planning_28p_GoogleDocs.docx",
-  "revision": "해설9면을2열10서체로 확장한28쪽 제작 기획안",
+  "revision": "해설 제목을 같은 말, 다른 느낌쓰로 변경한28쪽 제작 기획안",
   "pages_in_QA_render": 8,
   "page_map_entries": 28,
   "selected_sources": 15,
@@ -18,7 +18,7 @@
   "embedded_final_book_font_atlas": true,
   "embedded_atlas_sha256": "b423ec57d4bdf15bcf21a42228739d308fa40c6ab61f982659d0dd6d254f7060",
   "embedded_gabo_spread": true,
-  "embedded_gabo_spread_sha256": "147a4324a00909fd0a6b1cbe4d2961b5838fd104ecc206b9eed51b392159396e",
+  "embedded_gabo_spread_sha256": "6a65136db7b0382473fca2a2737105eec0cd617fa76da832bdd28ded0c46e939",
   "actual_typefaces": [
     "Black Han Sans",
     "Gugi",
@@ -43,13 +43,15 @@
     "overlap": false,
     "broken_tables": false,
     "twelve_face_table_legible": true,
-    "latest_two_column_ten_specimen_comparison_image_included": true
+    "latest_two_column_ten_specimen_comparison_image_included": true,
+    "new_heading_visible_in_embedded_spread": true,
+    "all_other_seven_pages_pixel_identical_to_previous_verified_render": true
   },
   "Google_Docs_created": false,
-  "docx_sha256": "0690ccc288894eb23f135648e804b94c78a5b88667bed87414d2a51a4ee9240e",
-  "QA_pdf": "/workspace/final28/planning/rendered_two_column_verified/Planning_28p_GoogleDocs.pdf",
+  "docx_sha256": "6406ba4fb45d13632a49a0cac1d8a5a13acfcd434ae3a3095ab6aceae884182c",
+  "QA_pdf": "/workspace/final28/planning/rendered_title_verified/Planning_28p_GoogleDocs.pdf",
   "planning_data_sha256": "6744f7f2c15368b8be7f0ef7dda776a7848ae6d01c40fa8b2642139c8a034475",
-  "layout_sha256": "2ba61800cd48a841639b7303a99d50bf513630fed56c710cf5b87bf34cfbb913",
+  "layout_sha256": "ecfb786591d188f13e9f39ed2c573e6eab82e28db5edf0c477217a1a555d8593",
   "opening_and_closing_flow": {
     "half_title_and_dedication": 2,
     "prose_preface": 3,
@@ -109,5 +111,26 @@
   "source_editing_policy": "17개 보관 원문과 교체1버전을 구분. 표정없는 발췌·편집본 정책 유지",
   "credits_page": 28,
   "feelings_are_contextual_interpretations": true,
-  "typeface_form_separated_from_size_and_leading": true
+  "typeface_form_separated_from_size_and_leading": true,
+  "one_embedded_image_only_changed": true,
+  "all_paragraph_styles_tables_and_other_images_unchanged": true,
+  "changed_rendered_pages": [
+    5
+  ],
+  "title_revision": {
+    "exact_heading": "같은 말, 다른 느낌쓰",
+    "embedded_current_spread_title_visually_verified": true,
+    "docx_prose_unchanged": true,
+    "book_heading_pages": [
+      7,
+      9,
+      11,
+      13,
+      17,
+      19,
+      21,
+      23,
+      25
+    ]
+  }
 }

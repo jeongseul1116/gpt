@@ -1,8 +1,8 @@
 {
   "status": "passed",
   "scope": "Independent one-page detail-practice review; canonical final book remains unchanged.",
-  "canonical_layout_sha256": "2ba61800cd48a841639b7303a99d50bf513630fed56c710cf5b87bf34cfbb913",
-  "practice_layout_sha256": "dbf9f0a6ab7f023627b4983a196222763a322c2270825bce6c7636b5993b36f5",
+  "canonical_layout_sha256": "ecfb786591d188f13e9f39ed2c573e6eab82e28db5edf0c477217a1a555d8593",
+  "practice_layout_sha256": "14b6347835e113e7e44cf918e0490fe803d5aa51356ea7a3868131a11f189257",
   "other_27_pages_exactly_unchanged": true,
   "all_p7_text_strings_exactly_unchanged": true,
   "ten_original_actual_fonts_same_11pt_text_colour": true,
@@ -118,7 +118,7 @@
       "font": "YES24",
       "size": 15,
       "lines": 1,
-      "text": "같은 말, 다른 글자 성격",
+      "text": "같은 말, 다른 느낌쓰",
       "used_height": 19.89,
       "frame_height": 29
     },
@@ -550,17 +550,17 @@
   "current_PDF_to_PNG_checks": [
     {
       "file": "Before_Page07.png",
-      "sha256": "7e627721cd837ad26d3f65f14b6415b0e3a2d32ec355cb42b51751209287c997",
+      "sha256": "e8897723ca2731f69db5e66e152f8fab91a936d7397d7d792591137c7df19edb",
       "exact_current_PDF_render": true
     },
     {
       "file": "After_Page07.png",
-      "sha256": "7fa4b4968a724ca261dc73dd996b1edc047418851cbf0f3c2a3994a1b760a36c",
+      "sha256": "5ad0d906fdcf9ba7d4a12947223df8f391cda7043bb78bf73d788844b2f5564d",
       "exact_current_PDF_render": true
     },
     {
       "file": "Detail_Practice01_Review_Board.png",
-      "sha256": "0b40eff025f65b3cdd49522de509699c2493e3cb6621a07fce8e55cb070ad478",
+      "sha256": "2f54b1c462866d2b64938c24a26a28a0823ca1efea623497e2b89c8f1816b13c",
       "exact_current_PDF_render": true
     }
   ],

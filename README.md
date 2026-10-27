@@ -1,5 +1,7 @@
 # 2열로 열 서체를 비교하는 28쪽 수정본
 
+비교 페이지의 제목을 **같은 말, 다른 느낌쓰**로 수정했습니다.
+
 펼침면 비교 9쪽을 **2열 × 5행, 각 10종 서체**로 넓혔습니다. 견본은 **11pt**, 느낌과 이유 설명은 **7.2pt**입니다. 실제 서체 총 12종으로 밈 15개의 비교 견본 126개를 구성했습니다. 통합면과 짧은 말은 각 6종 비교를 유지했습니다.
 
 - [수정한 28쪽 PDF](https://github.com/jeongseul1116/gpt/raw/refs/heads/main/submission-two-column/PDF/Meme_Font_Book_28p_Two_Column.pdf)

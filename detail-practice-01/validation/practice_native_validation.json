@@ -1,15 +1,15 @@
 {
   "status": "passed",
-  "practice_scope": "isolated page7 detail-practice draft in 28-page context",
+  "practice_scope": "page7 detail-practice after authorized title-only edit",
   "only_logical_page_7_differs": true,
   "other_27_pages_deep_equal_canonical": true,
-  "canonical_protected_files_sha256_unchanged": {
-    "layout.json": "2ba61800cd48a841639b7303a99d50bf513630fed56c710cf5b87bf34cfbb913",
+  "canonical_protected_files_sha256": {
+    "layout.json": "ecfb786591d188f13e9f39ed2c573e6eab82e28db5edf0c477217a1a555d8593",
     "editable/build_native28.py": "09f3d4e95d64b5c446c2bf8eee4d7b1b49e69ed191b70eb42add070e9c218130",
-    "editable/Meme_Typography_28p.idml": "8c3d62bd55fdb3da72c0429f24ec97054d414517634a582387665f6b80f3b4ee",
-    "editable/Create_28p_InDesign.jsx": "c68f45b9221e3f3cc8151da08d4d8148f05465d876659939654b66d6f86f6baf"
+    "editable/Meme_Typography_28p.idml": "d514c3e4074c221973f85142314158989b807dafe84f12f4d1c3866fea070d9b",
+    "editable/Create_28p_InDesign.jsx": "e9b8c3e28653b3a10fcf119f2add114bcd3788348710d7c9c3d845074fc2f2b3"
   },
-  "practice_layout_sha256": "dbf9f0a6ab7f023627b4983a196222763a322c2270825bce6c7636b5993b36f5",
+  "practice_layout_sha256": "14b6347835e113e7e44cf918e0490fe803d5aa51356ea7a3868131a11f189257",
   "all_855_text_frame_geometry_exact": true,
   "all_text_first_baseline_offset_unchanged_AscentOffset": true,
   "all_text_inset_zero": true,
@@ -17,14 +17,15 @@
   "native_output_stem": "Meme_Font_Book_Detail_Practice01_28p",
   "files": {
     "Meme_Font_Book_Detail_Practice01_28p.idml": {
-      "bytes": 701272,
-      "sha256": "83fef2ca33a3ddf5bc505206cdd6d2bc33a7d2fb0fb71e5384d3ece1591570e6"
+      "bytes": 701228,
+      "sha256": "bd42094c759879c67cfd456ff1aedd0c2533f498ef9ff50d50b25a79f194c079"
     },
     "Create_Detail_Practice01_28p.jsx": {
-      "bytes": 298607,
-      "sha256": "f3a1db79f72b4cb9d2de8c3f3824c51618b6f0fab7bc603186e4d5a61e9c9928"
+      "bytes": 298571,
+      "sha256": "1e03134672376cd628a02fc6b1b206c0e84bf048c8a6e8d6cbb8c8deb4abf321"
     }
   },
   "actual_InDesign_runtime_tested": false,
-  "native_baseline_visual_alignment_tested": false
+  "native_baseline_visual_alignment_tested": false,
+  "title_only_edit_all_9_frames_exact": true
 }

@@ -1,0 +1,548 @@
+{
+  "status": "passed",
+  "scope": "Exact title replacement only; all layout geometry and other text preserved.",
+  "previous_title": "같은 말, 다른 글자 성격",
+  "new_title": "같은 말, 다른 느낌쓰",
+  "canonical_changed_title_frames": 9,
+  "canonical_layout_sha256": "ecfb786591d188f13e9f39ed2c573e6eab82e28db5edf0c477217a1a555d8593",
+  "practice_layout_sha256": "14b6347835e113e7e44cf918e0490fe803d5aa51356ea7a3868131a11f189257",
+  "checks": [
+    {
+      "file": "layout.json",
+      "before_sha256": "2ba61800cd48a841639b7303a99d50bf513630fed56c710cf5b87bf34cfbb913",
+      "current_sha256": "ecfb786591d188f13e9f39ed2c573e6eab82e28db5edf0c477217a1a555d8593",
+      "exact_utf8_title_replacement_only": true,
+      "changed_pages": [
+        7,
+        9,
+        11,
+        13,
+        17,
+        19,
+        21,
+        23,
+        25
+      ],
+      "all_geometry_style_size_and_other_text_exact": true,
+      "title_fit": [
+        {
+          "page": 7,
+          "font": "YES24",
+          "point_size": 15,
+          "frame_pt": [
+            28,
+            94,
+            363,
+            29
+          ],
+          "leading": 21.75,
+          "lines": 1,
+          "used_height_pt": 19.89,
+          "glyphs_covered": true,
+          "shaped_gids_nonzero": true
+        },
+        {
+          "page": 9,
+          "font": "YES24",
+          "point_size": 15,
+          "frame_pt": [
+            28,
+            94,
+            363,
+            29
+          ],
+          "leading": 21.75,
+          "lines": 1,
+          "used_height_pt": 19.89,
+          "glyphs_covered": true,
+          "shaped_gids_nonzero": true
+        },
+        {
+          "page": 11,
+          "font": "YES24",
+          "point_size": 15,
+          "frame_pt": [
+            28,
+            94,
+            363,
+            29
+          ],
+          "leading": 21.75,
+          "lines": 1,
+          "used_height_pt": 19.89,
+          "glyphs_covered": true,
+          "shaped_gids_nonzero": true
+        },
+        {
+          "page": 13,
+          "font": "YES24",
+          "point_size": 15,
+          "frame_pt": [
+            28,
+            94,
+            363,
+            29
+          ],
+          "leading": 21.75,
+          "lines": 1,
+          "used_height_pt": 19.89,
+          "glyphs_covered": true,
+          "shaped_gids_nonzero": true
+        },
+        {
+          "page": 17,
+          "font": "YES24",
+          "point_size": 15,
+          "frame_pt": [
+            28,
+            94,
+            363,
+            29
+          ],
+          "leading": 21.75,
+          "lines": 1,
+          "used_height_pt": 19.89,
+          "glyphs_covered": true,
+          "shaped_gids_nonzero": true
+        },
+        {
+          "page": 19,
+          "font": "YES24",
+          "point_size": 15,
+          "frame_pt": [
+            28,
+            94,
+            363,
+            29
+          ],
+          "leading": 21.75,
+          "lines": 1,
+          "used_height_pt": 19.89,
+          "glyphs_covered": true,
+          "shaped_gids_nonzero": true
+        },
+        {
+          "page": 21,
+          "font": "YES24",
+          "point_size": 15,
+          "frame_pt": [
+            28,
+            94,
+            363,
+            29
+          ],
+          "leading": 21.75,
+          "lines": 1,
+          "used_height_pt": 19.89,
+          "glyphs_covered": true,
+          "shaped_gids_nonzero": true
+        },
+        {
+          "page": 23,
+          "font": "YES24",
+          "point_size": 15,
+          "frame_pt": [
+            28,
+            94,
+            363,
+            29
+          ],
+          "leading": 21.75,
+          "lines": 1,
+          "used_height_pt": 19.89,
+          "glyphs_covered": true,
+          "shaped_gids_nonzero": true
+        },
+        {
+          "page": 25,
+          "font": "YES24",
+          "point_size": 15,
+          "frame_pt": [
+            28,
+            94,
+            363,
+            29
+          ],
+          "leading": 21.75,
+          "lines": 1,
+          "used_height_pt": 19.89,
+          "glyphs_covered": true,
+          "shaped_gids_nonzero": true
+        }
+      ]
+    },
+    {
+      "file": "detail_practice01/layout_before.json",
+      "before_sha256": "2ba61800cd48a841639b7303a99d50bf513630fed56c710cf5b87bf34cfbb913",
+      "current_sha256": "ecfb786591d188f13e9f39ed2c573e6eab82e28db5edf0c477217a1a555d8593",
+      "exact_utf8_title_replacement_only": true,
+      "changed_pages": [
+        7,
+        9,
+        11,
+        13,
+        17,
+        19,
+        21,
+        23,
+        25
+      ],
+      "all_geometry_style_size_and_other_text_exact": true,
+      "title_fit": [
+        {
+          "page": 7,
+          "font": "YES24",
+          "point_size": 15,
+          "frame_pt": [
+            28,
+            94,
+            363,
+            29
+          ],
+          "leading": 21.75,
+          "lines": 1,
+          "used_height_pt": 19.89,
+          "glyphs_covered": true,
+          "shaped_gids_nonzero": true
+        },
+        {
+          "page": 9,
+          "font": "YES24",
+          "point_size": 15,
+          "frame_pt": [
+            28,
+            94,
+            363,
+            29
+          ],
+          "leading": 21.75,
+          "lines": 1,
+          "used_height_pt": 19.89,
+          "glyphs_covered": true,
+          "shaped_gids_nonzero": true
+        },
+        {
+          "page": 11,
+          "font": "YES24",
+          "point_size": 15,
+          "frame_pt": [
+            28,
+            94,
+            363,
+            29
+          ],
+          "leading": 21.75,
+          "lines": 1,
+          "used_height_pt": 19.89,
+          "glyphs_covered": true,
+          "shaped_gids_nonzero": true
+        },
+        {
+          "page": 13,
+          "font": "YES24",
+          "point_size": 15,
+          "frame_pt": [
+            28,
+            94,
+            363,
+            29
+          ],
+          "leading": 21.75,
+          "lines": 1,
+          "used_height_pt": 19.89,
+          "glyphs_covered": true,
+          "shaped_gids_nonzero": true
+        },
+        {
+          "page": 17,
+          "font": "YES24",
+          "point_size": 15,
+          "frame_pt": [
+            28,
+            94,
+            363,
+            29
+          ],
+          "leading": 21.75,
+          "lines": 1,
+          "used_height_pt": 19.89,
+          "glyphs_covered": true,
+          "shaped_gids_nonzero": true
+        },
+        {
+          "page": 19,
+          "font": "YES24",
+          "point_size": 15,
+          "frame_pt": [
+            28,
+            94,
+            363,
+            29
+          ],
+          "leading": 21.75,
+          "lines": 1,
+          "used_height_pt": 19.89,
+          "glyphs_covered": true,
+          "shaped_gids_nonzero": true
+        },
+        {
+          "page": 21,
+          "font": "YES24",
+          "point_size": 15,
+          "frame_pt": [
+            28,
+            94,
+            363,
+            29
+          ],
+          "leading": 21.75,
+          "lines": 1,
+          "used_height_pt": 19.89,
+          "glyphs_covered": true,
+          "shaped_gids_nonzero": true
+        },
+        {
+          "page": 23,
+          "font": "YES24",
+          "point_size": 15,
+          "frame_pt": [
+            28,
+            94,
+            363,
+            29
+          ],
+          "leading": 21.75,
+          "lines": 1,
+          "used_height_pt": 19.89,
+          "glyphs_covered": true,
+          "shaped_gids_nonzero": true
+        },
+        {
+          "page": 25,
+          "font": "YES24",
+          "point_size": 15,
+          "frame_pt": [
+            28,
+            94,
+            363,
+            29
+          ],
+          "leading": 21.75,
+          "lines": 1,
+          "used_height_pt": 19.89,
+          "glyphs_covered": true,
+          "shaped_gids_nonzero": true
+        }
+      ]
+    },
+    {
+      "file": "detail_practice01/layout.json",
+      "before_sha256": "dbf9f0a6ab7f023627b4983a196222763a322c2270825bce6c7636b5993b36f5",
+      "current_sha256": "14b6347835e113e7e44cf918e0490fe803d5aa51356ea7a3868131a11f189257",
+      "exact_utf8_title_replacement_only": true,
+      "changed_pages": [
+        7,
+        9,
+        11,
+        13,
+        17,
+        19,
+        21,
+        23,
+        25
+      ],
+      "all_geometry_style_size_and_other_text_exact": true,
+      "title_fit": [
+        {
+          "page": 7,
+          "font": "YES24",
+          "point_size": 15,
+          "frame_pt": [
+            28,
+            94,
+            363,
+            29
+          ],
+          "leading": 21.75,
+          "lines": 1,
+          "used_height_pt": 19.89,
+          "glyphs_covered": true,
+          "shaped_gids_nonzero": true
+        },
+        {
+          "page": 9,
+          "font": "YES24",
+          "point_size": 15,
+          "frame_pt": [
+            28,
+            94,
+            363,
+            29
+          ],
+          "leading": 21.75,
+          "lines": 1,
+          "used_height_pt": 19.89,
+          "glyphs_covered": true,
+          "shaped_gids_nonzero": true
+        },
+        {
+          "page": 11,
+          "font": "YES24",
+          "point_size": 15,
+          "frame_pt": [
+            28,
+            94,
+            363,
+            29
+          ],
+          "leading": 21.75,
+          "lines": 1,
+          "used_height_pt": 19.89,
+          "glyphs_covered": true,
+          "shaped_gids_nonzero": true
+        },
+        {
+          "page": 13,
+          "font": "YES24",
+          "point_size": 15,
+          "frame_pt": [
+            28,
+            94,
+            363,
+            29
+          ],
+          "leading": 21.75,
+          "lines": 1,
+          "used_height_pt": 19.89,
+          "glyphs_covered": true,
+          "shaped_gids_nonzero": true
+        },
+        {
+          "page": 17,
+          "font": "YES24",
+          "point_size": 15,
+          "frame_pt": [
+            28,
+            94,
+            363,
+            29
+          ],
+          "leading": 21.75,
+          "lines": 1,
+          "used_height_pt": 19.89,
+          "glyphs_covered": true,
+          "shaped_gids_nonzero": true
+        },
+        {
+          "page": 19,
+          "font": "YES24",
+          "point_size": 15,
+          "frame_pt": [
+            28,
+            94,
+            363,
+            29
+          ],
+          "leading": 21.75,
+          "lines": 1,
+          "used_height_pt": 19.89,
+          "glyphs_covered": true,
+          "shaped_gids_nonzero": true
+        },
+        {
+          "page": 21,
+          "font": "YES24",
+          "point_size": 15,
+          "frame_pt": [
+            28,
+            94,
+            363,
+            29
+          ],
+          "leading": 21.75,
+          "lines": 1,
+          "used_height_pt": 19.89,
+          "glyphs_covered": true,
+          "shaped_gids_nonzero": true
+        },
+        {
+          "page": 23,
+          "font": "YES24",
+          "point_size": 15,
+          "frame_pt": [
+            28,
+            94,
+            363,
+            29
+          ],
+          "leading": 21.75,
+          "lines": 1,
+          "used_height_pt": 19.89,
+          "glyphs_covered": true,
+          "shaped_gids_nonzero": true
+        },
+        {
+          "page": 25,
+          "font": "YES24",
+          "point_size": 15,
+          "frame_pt": [
+            28,
+            94,
+            363,
+            29
+          ],
+          "leading": 21.75,
+          "lines": 1,
+          "used_height_pt": 19.89,
+          "glyphs_covered": true,
+          "shaped_gids_nonzero": true
+        }
+      ]
+    }
+  ],
+  "all_27_protected_source_files_byte_exact": true,
+  "font_specimens_paragraphs_sources_and_practice_geometry_unchanged": true,
+  "current_PDF_preview_verification_pending": false,
+  "native_InDesign_runtime_tested": false,
+  "canonical_PDF_title_checks": [
+    {
+      "filename": "Meme_Font_Book_28p_A5.pdf",
+      "new_title_count": 9,
+      "previous_title_count": 0
+    },
+    {
+      "filename": "Meme_Font_Book_A3_ActualSize.pdf",
+      "new_title_count": 9,
+      "previous_title_count": 0
+    },
+    {
+      "filename": "Meme_Font_Book_28p_Spreads.pdf",
+      "new_title_count": 9,
+      "previous_title_count": 0
+    }
+  ],
+  "all_28_PNGs_and_13_spread_JPEGs_exact_to_current_PDF": true,
+  "canonical_title_page_7_visually_reviewed": true,
+  "practice_PDF_title_checks": [
+    {
+      "page": 1,
+      "new_title_count": 1,
+      "previous_title_count": 0
+    },
+    {
+      "page": 2,
+      "new_title_count": 1,
+      "previous_title_count": 0
+    }
+  ],
+  "practice_independent_review_current": true,
+  "practice_after_and_comparison_board_visually_reviewed": true,
+  "practice_PDF_and_current_PNG_pixel_exact": true,
+  "five_current_PDF_SHA256": {
+    "output/pdf/Meme_Font_Book_28p_A5.pdf": "8f1c786af8b27a0d80c4efaa2091f78f3ede70e7cbecb8729cb8dfcc100117aa",
+    "output/pdf/Meme_Font_Book_A3_ActualSize.pdf": "c51b6d9e187b4ec5cb802e668c9579b80cba80fb7f4b4cd2214816971a5a1ec0",
+    "output/pdf/Meme_Font_Book_28p_Spreads.pdf": "0645398e54220289cc346de77d15fede3c56552c789df19aa6a915064fa61446",
+    "detail_practice01/output/pdf/Detail_Practice01_Before_After.pdf": "4a36ce497a079d3a8c923a008167fdc04ce0796e68882ff53c3646165fc9e64f",
+    "detail_practice01/output/pdf/Detail_Practice01_Review_Board.pdf": "5dd9e95a075c14ca7bf867285cecd3b8f3ed19955b5616733a1397cb5c5a6504"
+  }
+}

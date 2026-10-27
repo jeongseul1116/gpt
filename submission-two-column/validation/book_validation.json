@@ -2,7 +2,7 @@
   "status": "passed",
   "revision": "ten actual fonts in a two-column five-row comparison grid",
   "page_count": 28,
-  "layout_sha256": "2ba61800cd48a841639b7303a99d50bf513630fed56c710cf5b87bf34cfbb913",
+  "layout_sha256": "ecfb786591d188f13e9f39ed2c573e6eab82e28db5edf0c477217a1a555d8593",
   "baseline_layout_sha256": "be1bdeddac948b20f471df2ac8218a036e67a69fb4b166227916082d2d018837",
   "changed_pages": [
     7,
@@ -601,14 +601,21 @@
       4,
       10,
       13
-    ]
+    ],
+    "title_followup_page_7_visually_reviewed": true
   },
-  "preview_consistency_report": "preview_consistency.json",
+  "preview_consistency_report": "revision_title/preview_consistency.json",
   "print_geometry_report": "print_verification.json",
   "PDF_font_treatment": "YES24 embedded/subset; other eleven actual families rendered as exact glyph vector outlines",
   "PDF_sha256": {
-    "Meme_Font_Book_28p_A5.pdf": "089d884e1b9fdd22b32eef1cc154b3eedda8fdf789e18e2b9835ace16aa9b847",
-    "Meme_Font_Book_A3_ActualSize.pdf": "2aaa5c85caa584114751c5d54aff40616901fa959ebc2cbfac6ce97009377de0",
-    "Meme_Font_Book_28p_Spreads.pdf": "00aff95bf038f784f23f3b7ce5f209faebadbb982d8676d612e5d519e8330e33"
+    "Meme_Font_Book_28p_A5.pdf": "8f1c786af8b27a0d80c4efaa2091f78f3ede70e7cbecb8729cb8dfcc100117aa",
+    "Meme_Font_Book_A3_ActualSize.pdf": "c51b6d9e187b4ec5cb802e668c9579b80cba80fb7f4b4cd2214816971a5a1ec0",
+    "Meme_Font_Book_28p_Spreads.pdf": "0645398e54220289cc346de77d15fede3c56552c789df19aa6a915064fa61446"
+  },
+  "title_only_followup": {
+    "title": "같은 말, 다른 느낌쓰",
+    "title_frames": 9,
+    "all_other_layout_fields_exact": true,
+    "report": "revision_title/title_validation.json"
   }
 }

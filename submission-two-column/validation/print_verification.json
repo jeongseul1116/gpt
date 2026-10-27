@@ -4,17 +4,17 @@
   "files": {
     "a5": {
       "filename": "Meme_Font_Book_28p_A5.pdf",
-      "sha256": "089d884e1b9fdd22b32eef1cc154b3eedda8fdf789e18e2b9835ace16aa9b847",
+      "sha256": "8f1c786af8b27a0d80c4efaa2091f78f3ede70e7cbecb8729cb8dfcc100117aa",
       "page_count": 28
     },
     "spreads": {
       "filename": "Meme_Font_Book_28p_Spreads.pdf",
-      "sha256": "00aff95bf038f784f23f3b7ce5f209faebadbb982d8676d612e5d519e8330e33",
+      "sha256": "0645398e54220289cc346de77d15fede3c56552c789df19aa6a915064fa61446",
       "page_count": 15
     },
     "a3": {
       "filename": "Meme_Font_Book_A3_ActualSize.pdf",
-      "sha256": "2aaa5c85caa584114751c5d54aff40616901fa959ebc2cbfac6ce97009377de0",
+      "sha256": "c51b6d9e187b4ec5cb802e668c9579b80cba80fb7f4b4cd2214816971a5a1ec0",
       "page_count": 14
     }
   },
@@ -122,13 +122,13 @@
         "xref": 39,
         "font_name": "AAAAAB+YES24",
         "type": "TrueType",
-        "embedded_bytes": 91632
+        "embedded_bytes": 91496
       },
       {
         "xref": 43,
         "font_name": "AAAAAC+YES24",
         "type": "TrueType",
-        "embedded_bytes": 61376
+        "embedded_bytes": 61732
       }
     ],
     "spreads": [
@@ -142,13 +142,13 @@
         "xref": 10,
         "font_name": "AAAAAB+YES24",
         "type": "TrueType",
-        "embedded_bytes": 91632
+        "embedded_bytes": 91496
       },
       {
         "xref": 14,
         "font_name": "AAAAAC+YES24",
         "type": "TrueType",
-        "embedded_bytes": 61376
+        "embedded_bytes": 61732
       }
     ],
     "a3": [
@@ -168,13 +168,13 @@
         "xref": 14,
         "font_name": "AAAAAB+YES24",
         "type": "TrueType",
-        "embedded_bytes": 91632
+        "embedded_bytes": 91496
       },
       {
         "xref": 18,
         "font_name": "AAAAAC+YES24",
         "type": "TrueType",
-        "embedded_bytes": 61376
+        "embedded_bytes": 61732
       }
     ]
   },
@@ -195,10 +195,9 @@
   "all_28_A5_page_edges_white": true,
   "white_outer_bleed_appropriate_for_current_artwork": true,
   "visual_review_renders": [
+    "qa/print_audit/A3_sheet_01.png",
     "qa/print_audit/A3_sheet_03.png",
-    "qa/print_audit/A3_sheet_04.png",
-    "qa/print_audit/A3_sheet_10.png",
-    "qa/print_audit/A3_sheet_13.png"
+    "qa/print_audit/A3_sheet_14.png"
   ],
   "physical_print_verified": false,
   "InDesign_export_used": false,
@@ -344,6 +343,6 @@
       "Single Day",
       "Black And White Picture"
     ],
-    "policy": "All eleven non-YES24 families are exact glyph vector outlines in the PDF. YES24 is embedded/subset. Actual metadata/cmap/HarfBuzz shaping verified independently; all nine changed pages visually inspected."
+    "policy": "All eleven non-YES24 families are exact glyph vector outlines in the PDF. YES24 is embedded/subset. Actual metadata and all source glyphs were verified in the preceding revision; title-only follow-up independently checks the nine replacement headings."
   }
 }
