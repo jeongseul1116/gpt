@@ -1,18 +1,116 @@
 {
   "pages": 28,
   "spreads": 15,
-  "stories": 453,
+  "stories": 468,
   "full_story_strings_match_layout": true,
   "all_text_font_size_leading_matches_layout": true,
   "font_families": [
     "YES24",
+    "Jua",
+    "DungGeunMo",
+    "UnGungseo",
     "Noto Sans CJK KR",
+    "Nanum Brush Script",
     "Noto Serif CJK KR"
   ],
-  "all_text_styles": "Regular",
-  "vectors": 27,
-  "vector_contours": 1084,
-  "vector_control_points": 9684,
+  "font_catalog": {
+    "YES24": {
+      "family": "YES24",
+      "aliases": [
+        "YES24",
+        "예스체"
+      ],
+      "style": "Regular",
+      "postscript": "YES24",
+      "type": "TrueType",
+      "style_aliases": [
+        "Regular"
+      ]
+    },
+    "jua": {
+      "family": "Jua",
+      "aliases": [
+        "Jua"
+      ],
+      "style": "Regular",
+      "style_aliases": [
+        "Regular"
+      ],
+      "postscript": "Jua-Regular",
+      "type": "TrueType"
+    },
+    "pixel": {
+      "family": "DungGeunMo",
+      "aliases": [
+        "DungGeunMo",
+        "DungGeunMo Normal",
+        "둥근모꼴 일반체",
+        "둥근모꼴"
+      ],
+      "style": "Normal",
+      "style_aliases": [
+        "Normal",
+        "Regular",
+        "일반체"
+      ],
+      "postscript": "DungGeunMo",
+      "type": "TrueType"
+    },
+    "gungseo": {
+      "family": "UnGungseo",
+      "aliases": [
+        "UnGungseo",
+        "은 궁서"
+      ],
+      "style": "Regular",
+      "style_aliases": [
+        "Regular"
+      ],
+      "postscript": "UnGungseo",
+      "type": "TrueType"
+    },
+    "sans": {
+      "family": "Noto Sans CJK KR",
+      "aliases": [
+        "Noto Sans CJK KR"
+      ],
+      "style": "Regular",
+      "postscript": "NotoSansCJKkr-Regular",
+      "type": "OpenTypeCFF",
+      "style_aliases": [
+        "Regular"
+      ]
+    },
+    "brush": {
+      "family": "Nanum Brush Script",
+      "aliases": [
+        "Nanum Brush Script",
+        "나눔손글씨 붓"
+      ],
+      "style": "Regular",
+      "style_aliases": [
+        "Regular"
+      ],
+      "postscript": "NanumBrush",
+      "type": "TrueType"
+    },
+    "serif": {
+      "family": "Noto Serif CJK KR",
+      "aliases": [
+        "Noto Serif CJK KR"
+      ],
+      "style": "Regular",
+      "postscript": "NotoSerifCJKkr-Regular",
+      "type": "OpenTypeCFF",
+      "style_aliases": [
+        "Regular"
+      ]
+    }
+  },
+  "all_font_resources_match_catalog": true,
+  "vectors": 18,
+  "vector_contours": 141,
+  "vector_control_points": 2099,
   "all_vector_points_match_layout": true,
   "cover_link_relative": "file:Links/cover_cutout.png",
   "cover_asset_sha256": "a1aa0a708f012715d2205571599930af369cd1635a3f4999a2c941912705e241",
@@ -24,6 +122,6 @@
     "28",
     "1 0 0 1 -419.5276 -297.6378"
   ],
-  "idml_sha256": "90f9da1f2f8d0cc2acebdfe45fa06c541edbb2cc5d5ef90bff9c3040feaaeb43",
+  "idml_sha256": "0a4249716595963551a2c4146a6ba0cec8ae3a6ab15dbaed4b6744192cd461e0",
   "InDesign_runtime_tested": false
 }

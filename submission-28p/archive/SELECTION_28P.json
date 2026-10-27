@@ -1,14 +1,14 @@
 {
   "collected_count": 17,
-  "selected_count": 16,
-  "main_entries": 13,
+  "selected_count": 15,
+  "main_entries": 12,
   "short_entries": 3,
   "excluded_ids": [
+    "A01",
     "B04"
   ],
-  "excluded_reason": "사용자 요청으로 군중 이모지 밈을 책에서 제외; 원문 보관은 유지",
+  "excluded_reason": "사용자 요청으로 AA 얼굴과 군중 이모지를 책에서 제외. 보관 원문은 유지.",
   "selected_ids": [
-    "A01",
     "B01",
     "A04",
     "B02",

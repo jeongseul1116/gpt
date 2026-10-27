@@ -1,51 +1,57 @@
 {
   "docx": "Planning_28p_GoogleDocs.docx",
-  "revision": "이모지 밈을 눈물 독백으로 교체하고 오늘만 산다 대사를 추가한 16개 수록 구성",
-  "pages_in_QA_render": 6,
+  "revision": "표정 이모티콘 제외와 실제 일곱 서체의 형태 및 느낌 비교",
+  "pages_in_QA_render": 7,
   "page_map_entries": 28,
-  "selected_sources": 16,
+  "selected_sources": 15,
   "collected_sources": 17,
   "Google_Docs_title_sanitizer": "passed",
   "student_planning_voice": true,
   "embedded_final_moodboard": true,
-  "embedded_moodboard_sha256": "8f3754b9a36fcc0fc9c9d9b176aa7ee9796a8a95905650a392cbe65d4a61f49c",
+  "embedded_moodboard_sha256": "cd36388dd67e2e2d5ed8753b38c730a2419c75d90b450da6ca71ff27071c6fe8",
+  "embedded_final_book_font_atlas": true,
+  "embedded_atlas_sha256": "fb04f54655ca395b07a15e0041f58f9037b752410a98ad8618c9793f43f56df4",
+  "actual_typefaces": [
+    "YES24",
+    "Noto Sans CJK KR",
+    "Noto Serif CJK KR",
+    "UnGungseo",
+    "Jua",
+    "Nanum Brush Script",
+    "DungGeunMo"
+  ],
+  "additional_font_catalog_sha256": "7999d9322497beb01034a0daa52fc0fa89678754e9732769c8c881f15f5e3d48",
   "raw_font_binary_embedded": false,
   "ZIP_CRC": "passed",
-  "all_six_pages_visually_inspected": true,
+  "all_seven_pages_visually_inspected": true,
+  "visual_review": {
+    "clipping": false,
+    "overlap": false,
+    "broken_tables": false,
+    "single_word_orphan_rows_resolved": true,
+    "pages_1_to_6_pixel_identical_after_final_page7_copy_edit": true
+  },
   "Google_Docs_created": false,
-  "docx_sha256": "8d1e8aa30e0f09e2ef18106e4318daf2bd3a6b6af069d56dcd69c58bb32437cb",
-  "QA_pdf": "/workspace/final28/planning/rendered_tears_verified/Planning_28p_GoogleDocs.pdf",
+  "docx_sha256": "a2205f46ff41f8ca746235b9da9d3071c37fdea8b327be56aa52851b1fc231d8",
+  "QA_pdf": "/workspace/final28/planning/rendered_diverse_verified/Planning_28p_GoogleDocs.pdf",
   "comparison_method": {
-    "intro": "알겠어 동일16pt 세서체",
-    "chapter_reports": "펼침면18pt제목·15pt견본,한쪽통합13.5pt견본,짧은말모음11pt견본과느낌설명",
-    "standalone_lab_removed": true,
-    "comparison_integrated_by_content_length": true
+    "seven_face_atlas_pages": [
+      4,
+      5
+    ],
+    "chapter_profiles": "각 밈의 말투에 맞춘 세 서체를 같은 문구와 포인트로 비교",
+    "actual_glyph_height_may_differ_at_same_point_size": true,
+    "body_size_may_be_adjusted_for_readability": true
   },
-  "new_chapters": {
-    "A05": [
-      22,
-      23
-    ],
-    "A06": [
-      26,
-      27
-    ],
-    "A07": [
-      2
-    ],
-    "A08": [
-      2
-    ],
-    "A09": [
-      2
-    ],
-    "A10": [
-      15
-    ]
+  "display_editing_policy": {
+    "A01": "AA 얼굴 밈 지면 제외",
+    "B01": "카쟈 텍스트 발췌",
+    "B02": "AA와 복합 얼굴 제외 텍스트 발췌",
+    "A05": "표정 기호를 제외한 지면 편집본",
+    "archive": "원문17개는변경하지않음"
   },
+  "unavailable_named_fonts_not_claimed_as_used": true,
   "credits_page": 28,
-  "former_emoji_meme": "B04 excluded from book and retained in source archive",
-  "new_source_preservation": "눈물독백 분리자모·공백·6행,로맨스 무띄어쓰기,대사 구두점 보존 원칙 반영",
   "feelings_are_contextual_interpretations": true,
   "typeface_form_separated_from_size_and_leading": true
 }

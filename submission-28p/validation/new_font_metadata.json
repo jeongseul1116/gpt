@@ -1,0 +1,62 @@
+{
+  "status": "passed",
+  "fonts": [
+    {
+      "key": "gungseo",
+      "font_bytes_verified": true,
+      "sample_coverage_all_pass": true,
+      "native_metadata_verified": true,
+      "fsType": 0,
+      "path": "/workspace/final28/revision_diverse/fonts/UnGungseo.ttf",
+      "sha256": "7d1593ed524c1a4222191e4dea6e3d823598eacc73d8a47247748a55283955ff"
+    },
+    {
+      "key": "jua",
+      "font_bytes_verified": true,
+      "sample_coverage_all_pass": true,
+      "native_metadata_verified": true,
+      "fsType": 0,
+      "path": "/workspace/final28/revision_diverse/fonts/Jua-Regular.ttf",
+      "sha256": "769677aef240bfc3b9965f2b50748075bff885e6c6992fc591a3fb268279f898"
+    },
+    {
+      "key": "brush",
+      "font_bytes_verified": true,
+      "sample_coverage_all_pass": true,
+      "native_metadata_verified": true,
+      "fsType": 0,
+      "path": "/workspace/final28/revision_diverse/fonts/NanumBrushScript-Regular.ttf",
+      "sha256": "27ceaf578c96f594cdf07fe0181b251790acbb746a164e45c1f6473f89911a31"
+    },
+    {
+      "key": "pixel",
+      "font_bytes_verified": true,
+      "sample_coverage_all_pass": true,
+      "native_metadata_verified": true,
+      "fsType": 0,
+      "path": "/workspace/final28/revision_diverse/fonts/DungGeunMo.ttf",
+      "sha256": "c7b4520c435b77fd0acd1e512dc28710aeb172f0eb5cd97a7936a3573a1e068c",
+      "woff_to_ttf_outline_and_metrics_identical": true
+    }
+  ],
+  "raw_font_binaries_not_for_distribution": true,
+  "license_records": [
+    "licenses/UnGungseo-Debian-copyright.txt",
+    "licenses/GPL-2.txt",
+    "licenses/Jua-OFL.txt",
+    "licenses/NanumBrushScript-OFL.txt",
+    "licenses/DungGeunMo-provenance.txt",
+    "licenses/NeoDGM-README.md"
+  ],
+  "unavailable_requested_fonts": [
+    {
+      "requested": "궁서체",
+      "note": "Microsoft Windows 기본 궁서 파일은 설치되어 있지 않다. 궁서 계열은 실제 은 궁서로 구분해 적용 가능하다."
+    },
+    {
+      "requested": "양제샤넬체",
+      "possible_name": "양재샤넬체",
+      "note": "정확한 의도된 이름과 사용권이 있는 실제 파일을 확보하지 못했다. 다른 폰트에 이 이름을 붙이지 않는다. 원본 파일이 제공되면 메타데이터·사용조건을 확인 후 적용한다."
+    }
+  ]
+}

@@ -3,22 +3,121 @@
   "spreads": 15,
   "page_structure": "[1]+13 interior pairs+[28]",
   "item_counts": {
-    "text": 453,
+    "text": 468,
     "image": 1,
-    "vector": 27,
-    "rect": 102,
+    "vector": 18,
+    "rect": 98,
     "ellipse": 1
   },
   "font_counts": {
-    "YES24": 404,
-    "sans": 18,
-    "serif": 31
+    "YES24": 397,
+    "jua": 12,
+    "pixel": 9,
+    "gungseo": 22,
+    "sans": 5,
+    "brush": 13,
+    "serif": 10
   },
-  "font_styles": "Regular only; all three families required, no fallback",
+  "font_styles": "Exact catalog family and style; documented localized style aliases only; no font fallback or synthetic bold",
+  "font_catalog": {
+    "YES24": {
+      "family": "YES24",
+      "aliases": [
+        "YES24",
+        "예스체"
+      ],
+      "style": "Regular",
+      "postscript": "YES24",
+      "type": "TrueType",
+      "style_aliases": [
+        "Regular"
+      ]
+    },
+    "jua": {
+      "family": "Jua",
+      "aliases": [
+        "Jua"
+      ],
+      "style": "Regular",
+      "style_aliases": [
+        "Regular"
+      ],
+      "postscript": "Jua-Regular",
+      "type": "TrueType"
+    },
+    "pixel": {
+      "family": "DungGeunMo",
+      "aliases": [
+        "DungGeunMo",
+        "DungGeunMo Normal",
+        "둥근모꼴 일반체",
+        "둥근모꼴"
+      ],
+      "style": "Normal",
+      "style_aliases": [
+        "Normal",
+        "Regular",
+        "일반체"
+      ],
+      "postscript": "DungGeunMo",
+      "type": "TrueType"
+    },
+    "gungseo": {
+      "family": "UnGungseo",
+      "aliases": [
+        "UnGungseo",
+        "은 궁서"
+      ],
+      "style": "Regular",
+      "style_aliases": [
+        "Regular"
+      ],
+      "postscript": "UnGungseo",
+      "type": "TrueType"
+    },
+    "sans": {
+      "family": "Noto Sans CJK KR",
+      "aliases": [
+        "Noto Sans CJK KR"
+      ],
+      "style": "Regular",
+      "postscript": "NotoSansCJKkr-Regular",
+      "type": "OpenTypeCFF",
+      "style_aliases": [
+        "Regular"
+      ]
+    },
+    "brush": {
+      "family": "Nanum Brush Script",
+      "aliases": [
+        "Nanum Brush Script",
+        "나눔손글씨 붓"
+      ],
+      "style": "Regular",
+      "style_aliases": [
+        "Regular"
+      ],
+      "postscript": "NanumBrush",
+      "type": "TrueType"
+    },
+    "serif": {
+      "family": "Noto Serif CJK KR",
+      "aliases": [
+        "Noto Serif CJK KR"
+      ],
+      "style": "Regular",
+      "postscript": "NotoSerifCJKkr-Regular",
+      "type": "OpenTypeCFF",
+      "style_aliases": [
+        "Regular"
+      ]
+    }
+  },
   "embedded_data_exact": true,
+  "embedded_font_catalog_exact": true,
   "asset_preflight_before_document": true,
   "photo_embedding": "attempt Link.unlink(), retain and report link on failure",
   "node_syntax_check": true,
   "native_runtime_tested": false,
-  "jsx_sha256": "a117d868829d46ff5a2fea0398ac0a9f7c0120350b4a980dc391df56caa45a0d"
+  "jsx_sha256": "76588f9689519d4bfc0059601b56c689eb9b28fe9ce8748d5c9015639cf78d42"
 }
