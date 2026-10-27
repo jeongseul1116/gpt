@@ -2,6 +2,8 @@
 
 친구들에게 나눠줄 밈 폰트 도감 **마참내 폰트도 웃길 수 있다**의 28쪽 제출·출력 자료입니다. 정슬기 기획과 수집 원문11개를 바탕으로 흰 표지와 사진을 유지하고, 비스듬한 빨간 스티커·별표·노랑·분홍으로 B급 감성을 보완했습니다.
 
+개정본에는 서체별 **생김새 → 말투 → 웃음의 이유**를 담았습니다. 3쪽의 세 서체 입문, 11개 밈별 같은 문구의 두 서체 비교, 26쪽의 “내가 감히” 세 서체 실험으로 예스체의 기세·고딕의 담담함·명조의 비장함을 직접 비교합니다.
+
 - [Google Docs로 가져올 기획안 DOCX](https://github.com/jeongseul1116/gpt/raw/refs/heads/main/submission-28p/Planning_28p_GoogleDocs.docx)
 - [전체 디자인 PDF A5 28쪽](https://github.com/jeongseul1116/gpt/raw/refs/heads/main/submission-28p/PDF/Meme_Font_Book_28p_A5.pdf)
 - [A3 실제 크기 출력용 PDF 14장](https://github.com/jeongseul1116/gpt/raw/refs/heads/main/submission-28p/PDF/Meme_Font_Book_A3_ActualSize.pdf)

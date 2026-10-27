@@ -2,3 +2,9 @@ book-32p/archive/** -text
 book-yes24/archive/** -text
 book-white-cover/archive/** -text
 submission-28p/archive/** -text
+*.pdf binary
+*.idml binary
+*.docx binary
+*.zip binary
+*.png binary
+*.jpg binary

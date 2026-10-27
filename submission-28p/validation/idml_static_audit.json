@@ -1,8 +1,9 @@
 {
   "pages": 28,
   "spreads": 15,
-  "stories": 305,
+  "stories": 371,
   "full_story_strings_match_layout": true,
+  "all_text_font_size_leading_matches_layout": true,
   "font_families": [
     "YES24",
     "Noto Sans CJK KR",
@@ -23,6 +24,6 @@
     "28",
     "1 0 0 1 -419.5276 -297.6378"
   ],
-  "idml_sha256": "a182c7d6c05790773c31c35227c8eaacb682d2ea4851e2f5500525bf4ce2cf3f",
+  "idml_sha256": "5ee34946b9bddb231615b7705795b504871fe79a3f874f4337a0a261b16dc8b3",
   "InDesign_runtime_tested": false
 }
