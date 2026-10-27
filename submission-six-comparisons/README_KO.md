@@ -1,0 +1,32 @@
+# 작은 견본으로 여섯 서체씩 비교하는 28쪽 수정본
+
+비교 페이지의 서체를 밈마다 3종에서 6종으로 늘렸습니다. 전체 실제 서체는 12종이며, 밈 15개에 총 90개 비교 견본이 있습니다. 각 견본에 느낌 키워드와 형태적 선정 이유를 붙였습니다.
+
+펼침면의 비교 견본은 15pt에서 12pt로, 설명은 8pt로 줄였습니다. 원문과 해설이 함께 있는 14·15·26쪽은 11pt 견본을 2열 3행으로, 27쪽 짧은 말은 9.5pt 견본을 3열 2행으로 배치했습니다. 4–5쪽 열두 서체 도감은 공통 문구 18pt 비교입니다.
+
+2–3쪽 인트로와 27쪽 짧은 말 모음, 가보자고 교체 문구, 흰 표지와 사진을 유지했습니다. 표정 이모티콘과 AA 그림은 지면에 사용하지 않았습니다. 전체는 A5 세로 28쪽입니다.
+
+## 제출 파일
+
+- PDF/Meme_Font_Book_28p_Six_Comparisons.pdf: 전체 28쪽 디자인.
+- PDF/Meme_Font_Book_28p_Six_Comparisons_Spreads.pdf: 같은 28쪽의 독서 순서 펼침면 15면.
+- PDF/Meme_Font_Book_28p_Six_Comparisons_A3_Print.pdf: A3 가로 14장, 실제 크기, 도련 3mm, 재단선.
+- editable/Meme_Font_Book_Six_Comparisons_28p.idml: 현재 지면의 편집 원본.
+- editable/Create_Six_Comparisons_28p.jsx: InDesign 안에서 INDD를 만드는 스크립트.
+- Planning_Six_Comparisons_GoogleDocs.docx: 현재 비교 조건과 페이지 구성을 반영한 기획안.
+
+Six_Fonts_Page_07.png는 요청한 비교 페이지의 단면 미리보기입니다. Six_Font_Comparison_06_07.png는 가보자고 펼침면이며, 모든 미리보기는 현재 PDF에서 렌더했습니다.
+
+## 편집과 출력
+
+IDML 또는 JSX 옆에 Links 폴더를 유지하세요. 폰트 원본은 동봉하지 않았습니다. 편집에 필요한 정확한 12서체와 실제 스타일, 공식 출처와 라이선스는 font_records에 있습니다. PDF는 글꼴 설치 없이 열 수 있습니다. 예스체는 하위집합으로 내장했고 나머지 11종은 실제 글리프의 벡터 윤곽으로 출력했습니다.
+
+IDML·JSX는 구조·내용·폰트·좌표와 문법을 정적 검수했으며 실제 InDesign 실행은 미검증입니다. JSX의 새 INDD 생성명은 Meme_Font_Book_Six_Comparisons_28p입니다.
+
+A3는 PRINT_GUIDE_KO.md에 따라 가로·단면·실제 크기 100%로 출력하세요. 첫 장 100mm 기준선을 확인하고 바깥 재단선만 자릅니다. 현재 PDF는 독서 순서의 수업용 출력물이며 중철용 양면 대지는 아닙니다. 실제 프린터 출력은 별도 확인해야 합니다.
+
+기획안은 Google Drive에 업로드해 Google 문서로 연 다음 Google 문서로 저장해 제출할 수 있습니다. Google Docs 문서 자체를 직접 생성하지는 않았습니다.
+
+## 원문 관리
+
+원문 17개는 보관 위치에서 바꾸지 않았고 가보자고 교체 버전은 user_replacements에 따로 기록했습니다. 지면의 발췌와 표정 제외 편집본은 display_editions.json에 구분했습니다. 이번 ZIP에는 현재 제출물과 현재 편집 데이터만 담았습니다.
