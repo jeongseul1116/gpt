@@ -1,0 +1,111 @@
+{
+  "status": "passed",
+  "addition_file_count": 13,
+  "new_source_count": 6,
+  "legacy_file_count": 14,
+  "legacy_14_files_byte_exact_unchanged": true,
+  "legacy_files_sha256": {
+    "SHA256SUMS.txt": "32756e9e28826e63b7fbcdce1512fa9bb0f81f1b7a85edd160d6831d161672bd",
+    "A04.txt": "a2508e38d3cfca93e47d0de6832b66e84948598f64ff41e84ff2cb11e441cf58",
+    "B02.txt": "520ae675624fa7b1de8f028676b4adf0fa14016e762a48b8e72e0351f30362d0",
+    "B03.txt": "dbcde171913acd86fda69bf5a5fc9c7dd47253c9237e9fdfc357e63e67017526",
+    "memes_original.json": "569fd0b1ce3f59e2191466c3b5973bae8f808816415f7f5376e4a042017c030b",
+    "B06.txt": "7cec0ed3a9c069033a0ecbe4ee7901747a8565454435dfb820105bb772a29e03",
+    "memes_original.md": "f403782cfb19430d9c6b0cfc13abdc796b0120d3bdd896a8c062f5d080953e98",
+    "A01.txt": "43903eb8a923b44a2f5b3733804d6c9288cb99c204eeea60c1d058ed6a0fb8b7",
+    "B01.txt": "bccbc9462465bb67d24734f54ec163269c68a05d22b78bd42cb18a13d7f4a5a6",
+    "A03.txt": "70437e1433fb797caeb69104af4f4935d48e7b681c86782d823a73bd6eebce79",
+    "B04.txt": "af610ba3ff2dad9b6eb827062cec806b352697f4f91bf914dd38d80fd8d5003e",
+    "B07.txt": "a89dc02a1d5b5d0834d11ea1d01b7f8acbfe3beae7e4a07555f991e1d3d21e25",
+    "B05.txt": "3fdafbdcf2d9f42d0359cd1286e5b41c3f0adfdac8d419b4cc9e682c765f7a8f",
+    "A02.txt": "128e4daa626aa7900c90d88b11ead16188b4945239b091a3a0be3ff63ba9bb41"
+  },
+  "canonical_text_reports": [
+    {
+      "id": "A05",
+      "bytes": 429,
+      "characters": 229,
+      "lines": 6,
+      "sha256": "0ecb374f69fa600645d72957059e16b38c6359a42e7e21fe31fc98f7ac3816e8",
+      "terminal_space_count": 0,
+      "trailing_spaces_by_line": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "terminal_lf": false,
+      "json_text_exact": true
+    },
+    {
+      "id": "A06",
+      "bytes": 117,
+      "characters": 49,
+      "lines": 1,
+      "sha256": "4a67803adc9c3db1b29b2cd143c91075ba1729f1ef2151eaff00f107cd69214b",
+      "terminal_space_count": 0,
+      "trailing_spaces_by_line": [
+        0
+      ],
+      "terminal_lf": false,
+      "json_text_exact": true
+    },
+    {
+      "id": "A07",
+      "bytes": 6,
+      "characters": 2,
+      "lines": 1,
+      "sha256": "d9dc15b237993b198460e7892ac73bd1cb9a50b16f7be6a33ace6e8c2cbbc3a3",
+      "terminal_space_count": 0,
+      "trailing_spaces_by_line": [
+        0
+      ],
+      "terminal_lf": false,
+      "json_text_exact": true
+    },
+    {
+      "id": "A08",
+      "bytes": 6,
+      "characters": 2,
+      "lines": 1,
+      "sha256": "d61294a0dba3dc407369614859beb957ce3679836c70ff3af9ef6cf01cb429dd",
+      "terminal_space_count": 0,
+      "trailing_spaces_by_line": [
+        0
+      ],
+      "terminal_lf": false,
+      "json_text_exact": true
+    },
+    {
+      "id": "A09",
+      "bytes": 29,
+      "characters": 11,
+      "lines": 1,
+      "sha256": "509cac585fff84fe567965783019d5ab0e32a746637a2e93ed7a886d32616aef",
+      "terminal_space_count": 0,
+      "trailing_spaces_by_line": [
+        0
+      ],
+      "terminal_lf": false,
+      "json_text_exact": true
+    },
+    {
+      "id": "A10",
+      "bytes": 398,
+      "characters": 134,
+      "lines": 1,
+      "sha256": "2b1091c0b757ac422b5e38f4bf4d6d2947fbf52359ffdbe0fb65943bafb832e2",
+      "terminal_space_count": 2,
+      "trailing_spaces_by_line": [
+        2
+      ],
+      "terminal_lf": false,
+      "json_text_exact": true
+    }
+  ],
+  "new_source_json_matches_txt": true,
+  "all_manifest_hashes_passed": true,
+  "professor_image_not_transcribed_or_added": true
+}

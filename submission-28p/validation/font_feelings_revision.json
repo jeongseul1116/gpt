@@ -1,41 +1,58 @@
 {
   "status": "passed",
-  "revision": "Small 15pt samples with all three fonts and individual feeling explanations",
-  "layout_sha256": "c1b6518ee97ba9cd441edfee294333870c1d959933b2366f278b003bcb2a372b",
-  "baseline_layout_sha256": "b602055eeb48cfc82a0a1be43b546420033e2af7ecfcc0c8a6b55ce5614a0f71",
   "page_count": 28,
+  "revision": "Six added memes, crowd excluded, 28 pages retained",
+  "layout_sha256": "7411e5efbbef64cda0304d22162caae00a4394848e1b5e74248f67997ef4ab0a",
+  "baseline_layout_sha256": "c1b6518ee97ba9cd441edfee294333870c1d959933b2366f278b003bcb2a372b",
   "changed_pages": [
-    3,
-    5,
-    7,
-    9,
-    11,
-    13,
-    15,
-    17,
-    19,
-    21,
-    23,
-    25,
-    26
-  ],
-  "unchanged_original_meme_pages": [
-    4,
-    6,
-    8,
-    10,
-    12,
+    2,
     14,
+    15,
     16,
     18,
     20,
     22,
-    24
+    23,
+    24,
+    26,
+    27,
+    28
   ],
-  "all_11_original_meme_pages_unchanged": true,
-  "archive_file_count": 14,
-  "archive_matches_frozen_bytes": true,
-  "archive_sha256": {
+  "selection": {
+    "collected_count": 17,
+    "selected_count": 16,
+    "main_entries": 13,
+    "short_entries": 3,
+    "excluded_ids": [
+      "B04"
+    ],
+    "excluded_reason": "사용자 요청으로 군중 이모지 밈을 책에서 제외; 원문 보관은 유지",
+    "selected_ids": [
+      "A01",
+      "B01",
+      "A04",
+      "B02",
+      "A02",
+      "A03",
+      "A10",
+      "B06",
+      "B05",
+      "B03",
+      "A05",
+      "B07",
+      "A06",
+      "A07",
+      "A08",
+      "A09"
+    ],
+    "not_collected": "교수님 이미지 밈은 사용자 요청에 따라 수록·전사하지 않음"
+  },
+  "legacy_14_archive_files_unchanged": true,
+  "addition_13_files_match_manifest": true,
+  "new_raw_count": 6,
+  "collected_raw_count": 17,
+  "selected_raw_count": 16,
+  "legacy_archive_sha256": {
     "SHA256SUMS.txt": "32756e9e28826e63b7fbcdce1512fa9bb0f81f1b7a85edd160d6831d161672bd",
     "A04.txt": "a2508e38d3cfca93e47d0de6832b66e84948598f64ff41e84ff2cb11e441cf58",
     "B02.txt": "520ae675624fa7b1de8f028676b4adf0fa14016e762a48b8e72e0351f30362d0",
@@ -51,256 +68,408 @@
     "B05.txt": "3fdafbdcf2d9f42d0359cd1286e5b41c3f0adfdac8d419b4cc9e682c765f7a8f",
     "A02.txt": "128e4daa626aa7900c90d88b11ead16188b4945239b091a3a0be3ff63ba9bb41"
   },
-  "chapter_three_font_comparisons": [
+  "additions_sha256": {
+    "SHA256SUMS.txt": "582415a11ca77172623f14087b3fba0fe477da617944218489e48378ad661916",
+    "A08.txt": "d61294a0dba3dc407369614859beb957ce3679836c70ff3af9ef6cf01cb429dd",
+    "memes_added.md": "a56a39c6154402d36e897a39ae69a7f643410abd63e004640223777a6003716c",
+    "user_list_capture.txt": "ca741cbd01a8b46afca7dae1cb19cae402c0ef3505dc53d633723082376cac28",
+    "README_KO.md": "6926a3d75d7c76e9f8195b29e6291c297ecb8b55b645e704257e09358c267008",
+    "A07.txt": "d9dc15b237993b198460e7892ac73bd1cb9a50b16f7be6a33ace6e8c2cbbc3a3",
+    "A10.txt": "2b1091c0b757ac422b5e38f4bf4d6d2947fbf52359ffdbe0fb65943bafb832e2",
+    "user_usage_examples.json": "f7bb1a89f1a6faa7bece7be0907cf957f72681f4613d579476bcff9c0e449ae7",
+    "user_usage_examples_capture.txt": "8eb5264bf0fc0dc0bf6208e3d26c05194fc935e1178db4dbbc1969fd08695c3e",
+    "A09.txt": "509cac585fff84fe567965783019d5ab0e32a746637a2e93ed7a886d32616aef",
+    "memes_added.json": "8c33e8b049197e15fe061170c2c0d3e4212e9ab7bb51e05bd1449f6ebf4516e2",
+    "A06.txt": "4a67803adc9c3db1b29b2cd143c91075ba1729f1ef2151eaff00f107cd69214b",
+    "A05.txt": "0ecb374f69fa600645d72957059e16b38c6359a42e7e21fe31fc98f7ac3816e8"
+  },
+  "full_source_coverage": {
+    "B01": {
+      "page": 6,
+      "full_original_text_exact": true
+    },
+    "A04": {
+      "page": 8,
+      "full_original_text_exact": true
+    },
+    "A02": {
+      "page": 12,
+      "full_original_text_exact": true
+    },
+    "B06": {
+      "page": 16,
+      "full_original_text_exact": true
+    },
+    "B05": {
+      "page": 18,
+      "full_original_text_exact": true
+    },
+    "B03": {
+      "page": 20,
+      "full_original_text_exact": true
+    },
+    "B07": {
+      "page": 24,
+      "full_original_text_exact": true
+    },
+    "A03": {
+      "page": 14,
+      "full_original_text_exact": true,
+      "original_newlines": 5,
+      "trailing_spaces": 0
+    },
+    "A10": {
+      "page": 15,
+      "full_original_text_exact": true,
+      "original_newlines": 0,
+      "trailing_spaces": 2
+    },
+    "A05": {
+      "page": 22,
+      "full_original_text_exact": true,
+      "original_newlines": 5,
+      "trailing_spaces": 0
+    },
+    "A06": {
+      "page": 26,
+      "full_original_text_exact": true,
+      "original_newlines": 0,
+      "trailing_spaces": 0
+    },
+    "A07": {
+      "page": 2,
+      "full_original_text_exact": true,
+      "original_newlines": 0,
+      "trailing_spaces": 0
+    },
+    "A08": {
+      "page": 2,
+      "full_original_text_exact": true,
+      "original_newlines": 0,
+      "trailing_spaces": 0
+    },
+    "A09": {
+      "page": 2,
+      "full_original_text_exact": true,
+      "original_newlines": 0,
+      "trailing_spaces": 0
+    },
+    "A01": {
+      "page": 4,
+      "source_vector_count": 1,
+      "source_vectors_exactly_unchanged": true
+    },
+    "B02": {
+      "page": 10,
+      "source_vector_count": 2,
+      "source_vectors_exactly_unchanged": true,
+      "complete_long_text_exact": true
+    }
+  },
+  "all_remaining_source_frames_unchanged_except_compacted_A03": {
+    "A01": true,
+    "A02": true,
+    "A04": true,
+    "B01": true,
+    "B02": true,
+    "B03": true,
+    "B05": true,
+    "B06": true,
+    "B07": true
+  },
+  "three_retained_AA_vectors_exactly_unchanged": true,
+  "B04_absent_from_book_but_present_in_archive": true,
+  "professor_image_not_added_or_transcribed": true,
+  "user_usage_examples_exact": true,
+  "comparison_groups": [
     {
-      "page": 5,
-      "sample": "말보다 표정",
+      "page": 2,
+      "comparison_id": "A07_mini_three_fonts",
+      "text": "야르",
+      "point_size": 11,
+      "frame_width_pt": 106,
       "font_keys": [
         "YES24",
         "sans",
         "serif"
       ],
+      "colour": "black",
+      "extra_tracking": 0,
+      "background": "yellow"
+    },
+    {
+      "page": 2,
+      "comparison_id": "A08_mini_three_fonts",
+      "text": "밤티",
+      "point_size": 11,
+      "frame_width_pt": 106,
+      "font_keys": [
+        "YES24",
+        "sans",
+        "serif"
+      ],
+      "colour": "black",
+      "extra_tracking": 0,
+      "background": "pink"
+    },
+    {
+      "page": 2,
+      "comparison_id": "A09_mini_three_fonts",
+      "text": "이태민 이태민 이태민",
+      "point_size": 11,
+      "frame_width_pt": 106,
+      "font_keys": [
+        "YES24",
+        "sans",
+        "serif"
+      ],
+      "colour": "black",
+      "extra_tracking": 0,
+      "background": "yellow"
+    },
+    {
+      "page": 3,
+      "comparison_id": "intro_three_fonts",
+      "text": "알겠어",
+      "point_size": 16,
+      "frame_width_pt": 135,
+      "font_keys": [
+        "YES24",
+        "sans",
+        "serif"
+      ],
+      "colour": "black",
+      "extra_tracking": 0,
+      "background": "paper"
+    },
+    {
+      "page": 5,
+      "comparison_id": "A01_three_fonts",
+      "text": "말보다 표정",
       "point_size": 15,
       "frame_width_pt": 198,
+      "font_keys": [
+        "YES24",
+        "sans",
+        "serif"
+      ],
       "colour": "black",
-      "background": "pink",
       "extra_tracking": 0,
-      "style": "Regular",
-      "sample_role": "editorial heading",
-      "source_id": null,
-      "all_three_have_keywords_impression_reason": true
+      "background": "pink"
     },
     {
       "page": 7,
-      "sample": "카쟈",
+      "comparison_id": "B01_three_fonts",
+      "text": "카쟈",
+      "point_size": 15,
+      "frame_width_pt": 198,
       "font_keys": [
         "YES24",
         "sans",
         "serif"
       ],
-      "point_size": 15,
-      "frame_width_pt": 198,
       "colour": "black",
-      "background": "yellow",
       "extra_tracking": 0,
-      "style": "Regular",
-      "sample_role": "exact original excerpt",
-      "source_id": "B01",
-      "all_three_have_keywords_impression_reason": true
+      "background": "yellow"
     },
     {
       "page": 9,
-      "sample": "사랑사랑 내가 말했지",
+      "comparison_id": "A04_three_fonts",
+      "text": "사랑사랑 내가 말했지",
+      "point_size": 15,
+      "frame_width_pt": 198,
       "font_keys": [
         "YES24",
         "sans",
         "serif"
       ],
-      "point_size": 15,
-      "frame_width_pt": 198,
       "colour": "black",
-      "background": "pink",
       "extra_tracking": 0,
-      "style": "Regular",
-      "sample_role": "exact original excerpt",
-      "source_id": "A04",
-      "all_three_have_keywords_impression_reason": true
+      "background": "pink"
     },
     {
       "page": 11,
-      "sample": "코리안탑클래스 굿나잇",
+      "comparison_id": "B02_three_fonts",
+      "text": "코리안탑클래스 굿나잇",
+      "point_size": 15,
+      "frame_width_pt": 198,
       "font_keys": [
         "YES24",
         "sans",
         "serif"
       ],
-      "point_size": 15,
-      "frame_width_pt": 198,
       "colour": "black",
-      "background": "yellow",
       "extra_tracking": 0,
-      "style": "Regular",
-      "sample_role": "exact original excerpt",
-      "source_id": "B02",
-      "all_three_have_keywords_impression_reason": true
+      "background": "yellow"
     },
     {
       "page": 13,
-      "sample": "질투하고,",
+      "comparison_id": "A02_three_fonts",
+      "text": "질투하고,",
+      "point_size": 15,
+      "frame_width_pt": 198,
       "font_keys": [
         "YES24",
         "sans",
         "serif"
       ],
-      "point_size": 15,
-      "frame_width_pt": 198,
       "colour": "black",
-      "background": "pink",
       "extra_tracking": 0,
-      "style": "Regular",
-      "sample_role": "exact original excerpt",
-      "source_id": "A02",
-      "all_three_have_keywords_impression_reason": true
+      "background": "pink"
+    },
+    {
+      "page": 14,
+      "comparison_id": "A03_three_fonts",
+      "text": "내가 감히",
+      "point_size": 13.5,
+      "frame_width_pt": 198,
+      "font_keys": [
+        "YES24",
+        "sans",
+        "serif"
+      ],
+      "colour": "black",
+      "extra_tracking": 0,
+      "background": "paper"
     },
     {
       "page": 15,
-      "sample": "내가 감히",
+      "comparison_id": "A10_three_fonts",
+      "text": "당신의뮤즈가되겠습니다",
+      "point_size": 13.5,
+      "frame_width_pt": 198,
       "font_keys": [
         "YES24",
         "sans",
         "serif"
       ],
-      "point_size": 15,
-      "frame_width_pt": 198,
       "colour": "black",
-      "background": "yellow",
       "extra_tracking": 0,
-      "style": "Regular",
-      "sample_role": "exact original excerpt",
-      "source_id": "A03",
-      "all_three_have_keywords_impression_reason": true
+      "background": "paper"
     },
     {
       "page": 17,
-      "sample": "선배 고단수드앙~",
+      "comparison_id": "B06_three_fonts",
+      "text": "선배 고단수드앙~",
+      "point_size": 15,
+      "frame_width_pt": 198,
       "font_keys": [
         "YES24",
         "sans",
         "serif"
       ],
-      "point_size": 15,
-      "frame_width_pt": 198,
       "colour": "black",
-      "background": "pink",
       "extra_tracking": 0,
-      "style": "Regular",
-      "sample_role": "exact original excerpt",
-      "source_id": "B06",
-      "all_three_have_keywords_impression_reason": true
+      "background": "pink"
     },
     {
       "page": 19,
-      "sample": "모루게쒀여",
+      "comparison_id": "B05_three_fonts",
+      "text": "모루게쒀여",
+      "point_size": 15,
+      "frame_width_pt": 198,
       "font_keys": [
         "YES24",
         "sans",
         "serif"
       ],
-      "point_size": 15,
-      "frame_width_pt": 198,
       "colour": "black",
-      "background": "yellow",
       "extra_tracking": 0,
-      "style": "Regular",
-      "sample_role": "exact original excerpt",
-      "source_id": "B05",
-      "all_three_have_keywords_impression_reason": true
+      "background": "yellow"
     },
     {
       "page": 21,
-      "sample": "ㅇㅈ? ㅇㅇㅈ~~~~~",
+      "comparison_id": "B03_three_fonts",
+      "text": "ㅇㅈ? ㅇㅇㅈ~~~~~",
+      "point_size": 15,
+      "frame_width_pt": 198,
       "font_keys": [
         "YES24",
         "sans",
         "serif"
       ],
-      "point_size": 15,
-      "frame_width_pt": 198,
       "colour": "black",
-      "background": "pink",
       "extra_tracking": 0,
-      "style": "Regular",
-      "sample_role": "exact original excerpt",
-      "source_id": "B03",
-      "all_three_have_keywords_impression_reason": true
+      "background": "pink"
     },
     {
       "page": 23,
-      "sample": "웅성웅성..",
+      "comparison_id": "A05_three_fonts",
+      "text": "눈물ㅇ ㅣ ....좋다.....",
+      "point_size": 15,
+      "frame_width_pt": 198,
       "font_keys": [
         "YES24",
         "sans",
         "serif"
       ],
-      "point_size": 15,
-      "frame_width_pt": 198,
       "colour": "black",
-      "background": "yellow",
       "extra_tracking": 0,
-      "style": "Regular",
-      "sample_role": "exact original excerpt",
-      "source_id": "B04",
-      "all_three_have_keywords_impression_reason": true
+      "background": "pink"
     },
     {
       "page": 25,
-      "sample": "출.근.가.능!",
+      "comparison_id": "B07_three_fonts",
+      "text": "출.근.가.능!",
+      "point_size": 15,
+      "frame_width_pt": 198,
       "font_keys": [
         "YES24",
         "sans",
         "serif"
       ],
+      "colour": "black",
+      "extra_tracking": 0,
+      "background": "pink"
+    },
+    {
+      "page": 27,
+      "comparison_id": "A06_three_fonts",
+      "text": "난 오늘만 산다",
       "point_size": 15,
       "frame_width_pt": 198,
+      "font_keys": [
+        "YES24",
+        "sans",
+        "serif"
+      ],
       "colour": "black",
-      "background": "pink",
       "extra_tracking": 0,
-      "style": "Regular",
-      "sample_role": "exact original excerpt",
-      "source_id": "B07",
-      "all_three_have_keywords_impression_reason": true
+      "background": "yellow"
     }
   ],
-  "intro_comparison": {
-    "page": 3,
-    "sample": "알겠어",
-    "point_size": 16,
-    "frame_width_pt": 135,
-    "font_count": 3
-  },
-  "lab_comparison": {
-    "page": 26,
-    "sample": "내가 감히",
-    "point_size": 16,
-    "frame_width_pt": 155,
-    "font_count": 3
-  },
-  "report_heading_point_size": 18,
-  "all_text_frames_fit_metrics": true,
+  "text_metrics_fit_all_frames": true,
+  "all_editable_glyphs_supported": true,
   "visual_review": {
     "pages": [
-      3,
-      5,
-      7,
-      9,
-      11,
-      13,
+      2,
+      14,
       15,
-      17,
-      19,
-      21,
+      16,
+      18,
+      20,
+      22,
       23,
-      25,
-      26
+      24,
+      26,
+      27,
+      28
     ],
-    "all_13_modified_pages_reviewed": true,
-    "all_font_feelings_and_form_reasons_match_labels": true,
     "missing_glyphs": false,
-    "overlap_or_clipping": false,
-    "isolated_final_syllable_lines": false,
+    "clipping_or_overlap": false,
+    "compact_source_and_profiles_readable": true,
     "a3_sheets_reviewed": [
-      3,
+      1,
+      8,
+      12,
       14
-    ],
-    "recommendation_blocks_final_copy_reviewed_all_11": true,
-    "final_lab_intro_reviewed": true,
-    "recommendation_blocks_fit_33pt_height": true
+    ]
   },
   "print_geometry_report": "qa/print_verification.json",
   "print_pdf_sha256": {
-    "Meme_Font_Book_28p_A5.pdf": "f4867c6cda50c8627c1317831d2da6fff8d926c755e41824ce26a52df95556f0",
-    "Meme_Font_Book_A3_ActualSize.pdf": "4b81063d243b76eccb00d1f6ea0ef00f0f655971a04efdb7753b8ff799878866",
-    "Meme_Font_Book_28p_Spreads.pdf": "8240d5fc0074900461d6bc6cd0a25e6cce021ee3697b7de379ad8bc7ceafbc8c"
+    "Meme_Font_Book_28p_A5.pdf": "48a559ca96765fef2424ce9d34d95e10f68619fb66d619537ca2fa59f0837e68",
+    "Meme_Font_Book_A3_ActualSize.pdf": "0779a8347ca6f0980a588043c83f1d03782c51972692297e604454211eace892",
+    "Meme_Font_Book_28p_Spreads.pdf": "91bdba96ecede796c1444f43aa9b681d66491e00438d8aa3b87c5603620a6684"
   },
   "InDesign_runtime_tested": false,
   "physical_printer_tested": false

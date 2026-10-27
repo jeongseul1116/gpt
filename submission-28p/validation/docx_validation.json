@@ -1,24 +1,51 @@
 {
   "docx": "Planning_28p_GoogleDocs.docx",
-  "revision": "작은 견본과 서체별 느낌 설명 중심 개편",
+  "revision": "이모지 밈을 눈물 독백으로 교체하고 오늘만 산다 대사를 추가한 16개 수록 구성",
   "pages_in_QA_render": 6,
   "page_map_entries": 28,
+  "selected_sources": 16,
+  "collected_sources": 17,
   "Google_Docs_title_sanitizer": "passed",
   "student_planning_voice": true,
   "embedded_final_moodboard": true,
+  "embedded_moodboard_sha256": "8f3754b9a36fcc0fc9c9d9b176aa7ee9796a8a95905650a392cbe65d4a61f49c",
   "raw_font_binary_embedded": false,
   "ZIP_CRC": "passed",
   "all_six_pages_visually_inspected": true,
   "Google_Docs_created": false,
-  "docx_sha256": "544fd4a2aa431e6139e932018d8f02995f2f5df4005ba3ac1d50d22a591418a8",
-  "QA_pdf": "/workspace/final28/planning/rendered_small_type_verified/Planning_28p_GoogleDocs.pdf",
+  "docx_sha256": "8d1e8aa30e0f09e2ef18106e4318daf2bd3a6b6af069d56dcd69c58bb32437cb",
+  "QA_pdf": "/workspace/final28/planning/rendered_tears_verified/Planning_28p_GoogleDocs.pdf",
   "comparison_method": {
-    "intro": "알겠어 동일 16pt 3서체",
-    "lab": "내가 감히 동일 16pt Regular 3서체",
-    "chapter_reports": "18pt 제목과 동일 발췌문 15pt 세 서체 견본, 각 서체별 느낌과 형태 근거"
+    "intro": "알겠어 동일16pt 세서체",
+    "chapter_reports": "펼침면18pt제목·15pt견본,한쪽통합13.5pt견본,짧은말모음11pt견본과느낌설명",
+    "standalone_lab_removed": true,
+    "comparison_integrated_by_content_length": true
   },
+  "new_chapters": {
+    "A05": [
+      22,
+      23
+    ],
+    "A06": [
+      26,
+      27
+    ],
+    "A07": [
+      2
+    ],
+    "A08": [
+      2
+    ],
+    "A09": [
+      2
+    ],
+    "A10": [
+      15
+    ]
+  },
+  "credits_page": 28,
+  "former_emoji_meme": "B04 excluded from book and retained in source archive",
+  "new_source_preservation": "눈물독백 분리자모·공백·6행,로맨스 무띄어쓰기,대사 구두점 보존 원칙 반영",
   "feelings_are_contextual_interpretations": true,
-  "typeface_form_separated_from_size_and_leading": true,
-  "embedded_moodboard_sha256": "2ed1b327b5bc78f27f578dc16f109746f3a7e0cfb1ba6452a7009391e2951663",
-  "small_type_request_reflected_in_purpose_concept_font_table_page_map_and_revision_notes": true
+  "typeface_form_separated_from_size_and_leading": true
 }

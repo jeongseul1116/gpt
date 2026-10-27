@@ -1,7 +1,7 @@
 {
   "pages": 28,
   "spreads": 15,
-  "stories": 430,
+  "stories": 453,
   "full_story_strings_match_layout": true,
   "all_text_font_size_leading_matches_layout": true,
   "font_families": [
@@ -10,9 +10,9 @@
     "Noto Serif CJK KR"
   ],
   "all_text_styles": "Regular",
-  "vectors": 28,
-  "vector_contours": 1499,
-  "vector_control_points": 18642,
+  "vectors": 27,
+  "vector_contours": 1084,
+  "vector_control_points": 9684,
   "all_vector_points_match_layout": true,
   "cover_link_relative": "file:Links/cover_cutout.png",
   "cover_asset_sha256": "a1aa0a708f012715d2205571599930af369cd1635a3f4999a2c941912705e241",
@@ -24,6 +24,6 @@
     "28",
     "1 0 0 1 -419.5276 -297.6378"
   ],
-  "idml_sha256": "1c50a01b5153d39b890c7aae73fe2f5bd3543ef5d27db17452fc4e3b764f68cb",
+  "idml_sha256": "90f9da1f2f8d0cc2acebdfe45fa06c541edbb2cc5d5ef90bff9c3040feaaeb43",
   "InDesign_runtime_tested": false
 }

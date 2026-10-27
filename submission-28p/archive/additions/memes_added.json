@@ -1,0 +1,63 @@
+{
+  "scope": "기존 불변 원문 11개에 추가하는 6개 원문. 기존 14개 보존 파일은 수정하지 않는다.",
+  "policy": "UTF-8 TXT를 기준으로 공백·분리 자모·구두점·줄바꿈·줄 끝 공백을 보존한다. TXT 끝에 자동 줄바꿈을 추가하지 않는다.",
+  "list_policy": "A07·A08·A09는 한 사용자 목록에서 개별 항목으로 분리했다. 원래 목록 문구는 user_list_capture.txt에 따로 보존한다.",
+  "usage_policy": "user_usage_examples.json과 capture TXT는 사용 예문이며 원문과 별도 자료다.",
+  "source_attribution": "최초 게시자·최초 유행 시점·작품 출처는 확인되지 않았다.",
+  "entries": [
+    {
+      "id": "A05",
+      "title": "난 가끔 눈물을 흘린다",
+      "text": "난... ㄱ ㅏ끔... 눈물을 흘린 ㄷ ㅏ ....\nㄱ ㅏ끔은 눈물을 참을 수 없는 내가 별루ㄷ ㅏ...\n맘이 ㅇ ㅏ ㅍ ㅏ 서.... 소ㄹ ㅣ치며... 울 수 있 ㄷㅏ는건.... 좋은ㄱ ㅓ ㅇ ㅑ.....\nㅁ ㅓ... 꼭 슬 ㅍ ㅓ ㅇ ㅑ만 우는 건 ㅇ ㅏ니잖 ㅇ ㅏ...^^\n난... 눈물ㅇ ㅣ ....좋다.....\nㅇ ㅏ니... 머 리가 ㅇ ㅏ닌..... 맘으로.....우는 ㄴ ㅐㄱ ㅏ 좋ㄷ ㅏ.....",
+      "text_file": "A05.txt",
+      "source_kind": "사용자 제공 원문",
+      "raw_capture_file": "A05.txt",
+      "editorial_title_is_not_source": true
+    },
+    {
+      "id": "A06",
+      "title": "난 오늘만 산다",
+      "text": "니들은 내일만 보고 살지? 내일만 사는 놈은 오늘만 사는 놈한테 죽는다. 난 오늘만 산다",
+      "text_file": "A06.txt",
+      "source_kind": "사용자 제공 원문",
+      "raw_capture_file": "A06.txt",
+      "editorial_title_is_not_source": true
+    },
+    {
+      "id": "A07",
+      "title": "야르",
+      "text": "야르",
+      "text_file": "A07.txt",
+      "source_kind": "사용자 메시지 목록에서 분리한 항목",
+      "raw_capture_file": "user_list_capture.txt",
+      "editorial_title_is_not_source": true
+    },
+    {
+      "id": "A08",
+      "title": "밤티",
+      "text": "밤티",
+      "text_file": "A08.txt",
+      "source_kind": "사용자 메시지 목록에서 분리한 항목",
+      "raw_capture_file": "user_list_capture.txt",
+      "editorial_title_is_not_source": true
+    },
+    {
+      "id": "A09",
+      "title": "이태민 이태민 이태민",
+      "text": "이태민 이태민 이태민",
+      "text_file": "A09.txt",
+      "source_kind": "사용자 메시지 목록에서 분리한 항목",
+      "raw_capture_file": "user_list_capture.txt",
+      "editorial_title_is_not_source": true
+    },
+    {
+      "id": "A10",
+      "title": "당신의 뮤즈가 되겠습니다",
+      "text": "처음선택이당신이아니어서죄송합니다하지만제마지막선택은바로당신입니다당신이저를선택하지않아도좋습니다다시한번확쏟아버리고확풀어버리면됩니다하지만당신이저를선택해주신다면지금저의이타오르는불꽃을꺼트리지않겠습니다로맨틱한언어들을많이들려드릴게요당신의뮤즈가되겠습니다  ",
+      "text_file": "A10.txt",
+      "source_kind": "사용자 제공 원문",
+      "raw_capture_file": "A10.txt",
+      "editorial_title_is_not_source": true
+    }
+  ]
+}
