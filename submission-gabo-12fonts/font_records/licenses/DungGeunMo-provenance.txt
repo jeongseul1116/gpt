@@ -1,0 +1,8 @@
+둥근모꼴 폰트 내부 nameID 0은 두 플랫폼에서 "Public Domain"을 명시한다.
+제작자 Kil Hyung-jin, 원형 저자 Kim Jung-tae. 폰트 nameID 11: http://cactus.tistory.com
+독립된 공식 Neo둥근모 프로젝트 README가 원형 둥근모꼴의 공개영역 배포 사실을 확인한다:
+https://raw.githubusercontent.com/Dalgona/neodgm/master/README.md
+“둥근모꼴은 1990년대에 김중태 IT문화원 원장이 제작하고 퍼블릭 도메인으로 배포한 DOS용 비트맵 한글 글꼴”
+주의: 이 파일은 Neo둥근모 OFL 글꼴이 아니라 원형 둥근모꼴의 TTF 변환본이다. Neo둥근모 라이선스를 이 파일에 적용한다고 표시하지 않는다.
+공식 cactus 페이지는 현재 실행환경의 네트워크에서 403으로 열리지 않았다.
+woff를 로컬 TTF 컨테이너로 변환했으며 글자 외곽선·이름·메트릭은 바꾸지 않았다.

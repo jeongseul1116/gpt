@@ -1,0 +1,147 @@
+{
+  "status": "passed",
+  "all_28_current_PNGs_exactly_match_current_PDF_render": true,
+  "contact_sheet_and_all_13_spread_JPEGs_byte_exact_to_current_PNGs": true,
+  "checks": [
+    {
+      "page": 1,
+      "PNG_sha256": "11e5292de1dd0f5467d690fbd16b449d7b0dc14acbf2d918197137c861a213b5",
+      "current_PDF_render_matches_PNG_exactly": true
+    },
+    {
+      "page": 2,
+      "PNG_sha256": "5fdf6bc156cca933d344fdb1e12e5684b2f2b432469910129f76af4994635340",
+      "current_PDF_render_matches_PNG_exactly": true
+    },
+    {
+      "page": 3,
+      "PNG_sha256": "4eb8ca57c8b1137450fb594efed41e7fb2da90f1782e1369c4df96f26d235c38",
+      "current_PDF_render_matches_PNG_exactly": true
+    },
+    {
+      "page": 4,
+      "PNG_sha256": "0598520b15947f95870a700b8b5b9cbbfd0df0deeb2a01810ca717b5c7bc5278",
+      "current_PDF_render_matches_PNG_exactly": true
+    },
+    {
+      "page": 5,
+      "PNG_sha256": "135159e72b8b35c41dfe327d7ce257ad2ee138b06a1772b857599a6a6b06e565",
+      "current_PDF_render_matches_PNG_exactly": true
+    },
+    {
+      "page": 6,
+      "PNG_sha256": "b0b6ced04665a1c8450f1e6cc57e7230077b92f4062f4886dacdd0dbd69ea9be",
+      "current_PDF_render_matches_PNG_exactly": true
+    },
+    {
+      "page": 7,
+      "PNG_sha256": "081bdc4bef6878ebb56a606fa65ddea5f2d221b6047e9ee8e897243c656ad8e4",
+      "current_PDF_render_matches_PNG_exactly": true
+    },
+    {
+      "page": 8,
+      "PNG_sha256": "fd4de6c13621005549e8923b603033c7f539353c39aed2bff3612f80bf36e83f",
+      "current_PDF_render_matches_PNG_exactly": true
+    },
+    {
+      "page": 9,
+      "PNG_sha256": "f0f6b1cbd24019669f4f977b842434afc495d85d487f693bf93a42f963ed7115",
+      "current_PDF_render_matches_PNG_exactly": true
+    },
+    {
+      "page": 10,
+      "PNG_sha256": "da44ac9a09a828beb3ad52d94532a856cb54d55ecd7d06496ea5f589743ff0c1",
+      "current_PDF_render_matches_PNG_exactly": true
+    },
+    {
+      "page": 11,
+      "PNG_sha256": "b8e0bd94ecee19bf643987fb1b1ee8ae1c118b1bec2ee5d192b91bf511ce18f3",
+      "current_PDF_render_matches_PNG_exactly": true
+    },
+    {
+      "page": 12,
+      "PNG_sha256": "dc81936a4f2a9c077696bb44ac25007dbef83428f282f6840b4e6b5e251e3a43",
+      "current_PDF_render_matches_PNG_exactly": true
+    },
+    {
+      "page": 13,
+      "PNG_sha256": "672a606cf20b25a75f3b781473ffdbfa32edfa10ea0db79a3ebe60fe5afd2982",
+      "current_PDF_render_matches_PNG_exactly": true
+    },
+    {
+      "page": 14,
+      "PNG_sha256": "d4e3f2090d0791e729a7d3fad19fc69f8b2a8d18d93e4689a6d5c3f83fb78b6c",
+      "current_PDF_render_matches_PNG_exactly": true
+    },
+    {
+      "page": 15,
+      "PNG_sha256": "b62ff81bbcc3cbfcc3b98d4ddf46469891928ffd881b6b099cfbb6e419daaac2",
+      "current_PDF_render_matches_PNG_exactly": true
+    },
+    {
+      "page": 16,
+      "PNG_sha256": "efbb907b233f8bab38cd90adfb8be725ab2c274af1f6e01b0b8705228df5cff2",
+      "current_PDF_render_matches_PNG_exactly": true
+    },
+    {
+      "page": 17,
+      "PNG_sha256": "1b34ac4ded7066b7c106c1c140283674378b4c59329b65e886f2d9153ef6bf57",
+      "current_PDF_render_matches_PNG_exactly": true
+    },
+    {
+      "page": 18,
+      "PNG_sha256": "3ee5f46cd78cb39d8be9bf1c8554872e66184ea93aea3a93d7410948ddbf4d9e",
+      "current_PDF_render_matches_PNG_exactly": true
+    },
+    {
+      "page": 19,
+      "PNG_sha256": "7751b5f1a757e65b343915fc8477927f6cc64810f09465a89da0e2f41b2cc546",
+      "current_PDF_render_matches_PNG_exactly": true
+    },
+    {
+      "page": 20,
+      "PNG_sha256": "47123a32c6244af7b85765d806ef94907a61eba835557596e90dbc37b0a68731",
+      "current_PDF_render_matches_PNG_exactly": true
+    },
+    {
+      "page": 21,
+      "PNG_sha256": "0375d62061531f35a301f842fe3af718b3abc8c8c78f0ad0ed9007f905518c7a",
+      "current_PDF_render_matches_PNG_exactly": true
+    },
+    {
+      "page": 22,
+      "PNG_sha256": "be145b1f11db9a9cc51cb84ff9841cf0e87822febe09264fabdc7c89f96a82f3",
+      "current_PDF_render_matches_PNG_exactly": true
+    },
+    {
+      "page": 23,
+      "PNG_sha256": "cda53d6258b790923659935213edaa7b9a5e3949c621c71b213df305e01d5f22",
+      "current_PDF_render_matches_PNG_exactly": true
+    },
+    {
+      "page": 24,
+      "PNG_sha256": "0d8abaa64a6d5b7830b1d5b9d5aaeb2ff228cd590e5c107ab49f945834941731",
+      "current_PDF_render_matches_PNG_exactly": true
+    },
+    {
+      "page": 25,
+      "PNG_sha256": "50d2a0cec009a46d0a946a0c956ac3a80ec972ee4e4ffbe4ced580b8dee59866",
+      "current_PDF_render_matches_PNG_exactly": true
+    },
+    {
+      "page": 26,
+      "PNG_sha256": "b2678392d57b4ab7c779338363bd38b6b723009176c5c415331cdd3cbd7675d7",
+      "current_PDF_render_matches_PNG_exactly": true
+    },
+    {
+      "page": 27,
+      "PNG_sha256": "74f5b1527744c668ec79a117fbbb7c649310264a2a436015b4a03c3d052f9460",
+      "current_PDF_render_matches_PNG_exactly": true
+    },
+    {
+      "page": 28,
+      "PNG_sha256": "b3bafa5f31aefda20c60b65005feaf002d008700bdace1d314cfe92d7d6d8e78",
+      "current_PDF_render_matches_PNG_exactly": true
+    }
+  ]
+}

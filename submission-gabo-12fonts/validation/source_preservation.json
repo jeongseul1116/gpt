@@ -1,0 +1,126 @@
+{
+  "status": "pass",
+  "revision": "User replacement stored separately; immutable seventeen-source archive preserved",
+  "page_count": 28,
+  "layout_sha256": "7c43307291380aaa96a0bddfb9c9d3ed5750bc68720e54c07a9b268557b12e86",
+  "baseline_layout_sha256": "6961e16f81e667e1e7052deff4e6aad470b5024a7c10643c123368a3094e5f74",
+  "legacy_archive_file_count": 14,
+  "addition_file_count": 13,
+  "all_27_archive_files_byte_exact_unchanged": true,
+  "collected_raw_count": 17,
+  "selected_count": 15,
+  "excluded_ids": [
+    "A01",
+    "B04"
+  ],
+  "source_coverage": {
+    "A04": {
+      "page": 8,
+      "complete_original_text_exact": true,
+      "font_keys": [
+        "singleday"
+      ]
+    },
+    "A02": {
+      "page": 12,
+      "complete_original_text_exact": true,
+      "font_keys": [
+        "gungseo"
+      ]
+    },
+    "A03": {
+      "page": 14,
+      "complete_original_text_exact": true,
+      "font_keys": [
+        "gugi"
+      ]
+    },
+    "A10": {
+      "page": 15,
+      "complete_original_text_exact": true,
+      "font_keys": [
+        "brush"
+      ]
+    },
+    "B06": {
+      "page": 16,
+      "complete_original_text_exact": true,
+      "font_keys": [
+        "kirang"
+      ]
+    },
+    "B05": {
+      "page": 18,
+      "complete_original_text_exact": true,
+      "font_keys": [
+        "brush"
+      ]
+    },
+    "B03": {
+      "page": 20,
+      "complete_original_text_exact": true,
+      "font_keys": [
+        "YES24",
+        "bawpic"
+      ]
+    },
+    "B07": {
+      "page": 24,
+      "complete_original_text_exact": true,
+      "font_keys": [
+        "YES24"
+      ]
+    },
+    "A06": {
+      "page": 26,
+      "complete_original_text_exact": true,
+      "font_keys": [
+        "gungseo"
+      ]
+    },
+    "B01": {
+      "page": 6,
+      "declared_display_edition_exact": true,
+      "raw_archive_unchanged": true,
+      "separate_user_replacement_version_exact": true
+    },
+    "B02": {
+      "page": 10,
+      "declared_display_edition_exact": true,
+      "raw_archive_unchanged": true
+    },
+    "A05": {
+      "page": 22,
+      "declared_display_edition_exact": true,
+      "raw_archive_unchanged": true
+    },
+    "A07": {
+      "page": 27,
+      "complete_original_text_exact": true
+    },
+    "A08": {
+      "page": 27,
+      "complete_original_text_exact": true
+    },
+    "A09": {
+      "page": 27,
+      "complete_original_text_exact": true
+    }
+  },
+  "display_edition_ids": [
+    "B01",
+    "B02",
+    "A05"
+  ],
+  "display_editions_file": "revision_diverse/display_editions.json",
+  "B01_display_is_separate_user_replacement_version": true,
+  "B01_replacement_text": "가보자고",
+  "B01_replacement_sha256": "d790729c6cf0ce7a4f51bf3a5cbe591f247877edb6652d412ff1c7e726775fd7",
+  "B02_display_is_exact_final_praise_line": true,
+  "A05_only_one_caret_smile_removed_from_display": true,
+  "A05_raw_6_lines_with_caret_smile_retained_in_archive": true,
+  "A10_trailing_two_spaces_preserved": true,
+  "source_vectors_count": 0,
+  "user_usage_examples_exact": true,
+  "scope": "Exact immutable UTF-8 archive bytes, separate user replacement version, complete display text reconstruction, declared face-removal editions and exact comparison excerpts. Actual twelve-font metadata/cmap/HarfBuzz checked; all final page PNGs visually inspected. No InDesign-runtime or physical printer validation claimed."
+}

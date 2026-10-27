@@ -1,0 +1,697 @@
+{
+  "status": "passed",
+  "page_count": 28,
+  "revision": "User replacement and twelve real font families; corrected introduction and closing short memes retained",
+  "layout_sha256": "7c43307291380aaa96a0bddfb9c9d3ed5750bc68720e54c07a9b268557b12e86",
+  "baseline_layout_sha256": "6961e16f81e667e1e7052deff4e6aad470b5024a7c10643c123368a3094e5f74",
+  "changed_pages": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    11,
+    13,
+    14,
+    15,
+    16,
+    17,
+    19,
+    20,
+    21,
+    23,
+    25,
+    26,
+    27,
+    28
+  ],
+  "selection": {
+    "collected_count": 17,
+    "selected_count": 15,
+    "main_entries": 12,
+    "short_entries": 3,
+    "excluded_ids": [
+      "A01",
+      "B04"
+    ],
+    "excluded_reason": "사용자 요청으로 AA 얼굴과 군중 이모지를 책에서 제외. 보관 원문은 유지.",
+    "selected_ids": [
+      "B01",
+      "A04",
+      "B02",
+      "A02",
+      "A03",
+      "A10",
+      "B06",
+      "B05",
+      "B03",
+      "A05",
+      "B07",
+      "A06",
+      "A07",
+      "A08",
+      "A09"
+    ],
+    "not_collected": "교수님 이미지 밈은 사용자 요청에 따라 수록·전사하지 않음",
+    "replacement_versions": 1
+  },
+  "legacy_archive_file_count": 14,
+  "addition_file_count": 13,
+  "all_27_archive_files_byte_exact_unchanged": true,
+  "legacy_archive_sha256": {
+    "SHA256SUMS.txt": "32756e9e28826e63b7fbcdce1512fa9bb0f81f1b7a85edd160d6831d161672bd",
+    "A04.txt": "a2508e38d3cfca93e47d0de6832b66e84948598f64ff41e84ff2cb11e441cf58",
+    "B02.txt": "520ae675624fa7b1de8f028676b4adf0fa14016e762a48b8e72e0351f30362d0",
+    "B03.txt": "dbcde171913acd86fda69bf5a5fc9c7dd47253c9237e9fdfc357e63e67017526",
+    "memes_original.json": "569fd0b1ce3f59e2191466c3b5973bae8f808816415f7f5376e4a042017c030b",
+    "B06.txt": "7cec0ed3a9c069033a0ecbe4ee7901747a8565454435dfb820105bb772a29e03",
+    "memes_original.md": "f403782cfb19430d9c6b0cfc13abdc796b0120d3bdd896a8c062f5d080953e98",
+    "A01.txt": "43903eb8a923b44a2f5b3733804d6c9288cb99c204eeea60c1d058ed6a0fb8b7",
+    "B01.txt": "bccbc9462465bb67d24734f54ec163269c68a05d22b78bd42cb18a13d7f4a5a6",
+    "A03.txt": "70437e1433fb797caeb69104af4f4935d48e7b681c86782d823a73bd6eebce79",
+    "B04.txt": "af610ba3ff2dad9b6eb827062cec806b352697f4f91bf914dd38d80fd8d5003e",
+    "B07.txt": "a89dc02a1d5b5d0834d11ea1d01b7f8acbfe3beae7e4a07555f991e1d3d21e25",
+    "B05.txt": "3fdafbdcf2d9f42d0359cd1286e5b41c3f0adfdac8d419b4cc9e682c765f7a8f",
+    "A02.txt": "128e4daa626aa7900c90d88b11ead16188b4945239b091a3a0be3ff63ba9bb41"
+  },
+  "addition_archive_sha256": {
+    "SHA256SUMS.txt": "582415a11ca77172623f14087b3fba0fe477da617944218489e48378ad661916",
+    "A08.txt": "d61294a0dba3dc407369614859beb957ce3679836c70ff3af9ef6cf01cb429dd",
+    "memes_added.md": "a56a39c6154402d36e897a39ae69a7f643410abd63e004640223777a6003716c",
+    "user_list_capture.txt": "ca741cbd01a8b46afca7dae1cb19cae402c0ef3505dc53d633723082376cac28",
+    "README_KO.md": "6926a3d75d7c76e9f8195b29e6291c297ecb8b55b645e704257e09358c267008",
+    "A07.txt": "d9dc15b237993b198460e7892ac73bd1cb9a50b16f7be6a33ace6e8c2cbbc3a3",
+    "A10.txt": "2b1091c0b757ac422b5e38f4bf4d6d2947fbf52359ffdbe0fb65943bafb832e2",
+    "user_usage_examples.json": "f7bb1a89f1a6faa7bece7be0907cf957f72681f4613d579476bcff9c0e449ae7",
+    "user_usage_examples_capture.txt": "8eb5264bf0fc0dc0bf6208e3d26c05194fc935e1178db4dbbc1969fd08695c3e",
+    "A09.txt": "509cac585fff84fe567965783019d5ab0e32a746637a2e93ed7a886d32616aef",
+    "memes_added.json": "8c33e8b049197e15fe061170c2c0d3e4212e9ab7bb51e05bd1449f6ebf4516e2",
+    "A06.txt": "4a67803adc9c3db1b29b2cd143c91075ba1729f1ef2151eaff00f107cd69214b",
+    "A05.txt": "0ecb374f69fa600645d72957059e16b38c6359a42e7e21fe31fc98f7ac3816e8"
+  },
+  "source_coverage": {
+    "A04": {
+      "page": 8,
+      "complete_original_text_exact": true,
+      "font_keys": [
+        "singleday"
+      ]
+    },
+    "A02": {
+      "page": 12,
+      "complete_original_text_exact": true,
+      "font_keys": [
+        "gungseo"
+      ]
+    },
+    "A03": {
+      "page": 14,
+      "complete_original_text_exact": true,
+      "font_keys": [
+        "gugi"
+      ]
+    },
+    "A10": {
+      "page": 15,
+      "complete_original_text_exact": true,
+      "font_keys": [
+        "brush"
+      ]
+    },
+    "B06": {
+      "page": 16,
+      "complete_original_text_exact": true,
+      "font_keys": [
+        "kirang"
+      ]
+    },
+    "B05": {
+      "page": 18,
+      "complete_original_text_exact": true,
+      "font_keys": [
+        "brush"
+      ]
+    },
+    "B03": {
+      "page": 20,
+      "complete_original_text_exact": true,
+      "font_keys": [
+        "YES24",
+        "bawpic"
+      ]
+    },
+    "B07": {
+      "page": 24,
+      "complete_original_text_exact": true,
+      "font_keys": [
+        "YES24"
+      ]
+    },
+    "A06": {
+      "page": 26,
+      "complete_original_text_exact": true,
+      "font_keys": [
+        "gungseo"
+      ]
+    },
+    "B01": {
+      "page": 6,
+      "declared_display_edition_exact": true,
+      "raw_archive_unchanged": true,
+      "separate_user_replacement_version_exact": true
+    },
+    "B02": {
+      "page": 10,
+      "declared_display_edition_exact": true,
+      "raw_archive_unchanged": true
+    },
+    "A05": {
+      "page": 22,
+      "declared_display_edition_exact": true,
+      "raw_archive_unchanged": true
+    },
+    "A07": {
+      "page": 27,
+      "complete_original_text_exact": true
+    },
+    "A08": {
+      "page": 27,
+      "complete_original_text_exact": true
+    },
+    "A09": {
+      "page": 27,
+      "complete_original_text_exact": true
+    }
+  },
+  "declared_display_edition_ids": [
+    "B01",
+    "B02",
+    "A05"
+  ],
+  "archive_raw_count": 17,
+  "source_vectors_count": 0,
+  "AA_faces_kaomoji_emoji_caret_smile_absent_from_book": true,
+  "font_metadata": [
+    {
+      "key": "YES24",
+      "family": "YES24",
+      "style": "Regular",
+      "postscript": "YES24",
+      "actual_metadata_verified": true
+    },
+    {
+      "key": "sans",
+      "family": "Noto Sans CJK KR",
+      "style": "Regular",
+      "postscript": "NotoSansCJKkr-Regular",
+      "actual_metadata_verified": true
+    },
+    {
+      "key": "serif",
+      "family": "Noto Serif CJK KR",
+      "style": "Regular",
+      "postscript": "NotoSerifCJKkr-Regular",
+      "actual_metadata_verified": true
+    },
+    {
+      "key": "gungseo",
+      "family": "UnGungseo",
+      "style": "Regular",
+      "postscript": "UnGungseo",
+      "actual_metadata_verified": true
+    },
+    {
+      "key": "jua",
+      "family": "Jua",
+      "style": "Regular",
+      "postscript": "Jua-Regular",
+      "actual_metadata_verified": true
+    },
+    {
+      "key": "brush",
+      "family": "Nanum Brush Script",
+      "style": "Regular",
+      "postscript": "NanumBrush",
+      "actual_metadata_verified": true
+    },
+    {
+      "key": "pixel",
+      "family": "DungGeunMo",
+      "style": "Normal",
+      "postscript": "DungGeunMo",
+      "actual_metadata_verified": true
+    },
+    {
+      "key": "blackhan",
+      "family": "Black Han Sans",
+      "style": "Regular",
+      "postscript": "BlackHanSans-Regular",
+      "actual_metadata_verified": true
+    },
+    {
+      "key": "gugi",
+      "family": "Gugi",
+      "style": "Regular",
+      "postscript": "Gugi-Regular",
+      "actual_metadata_verified": true
+    },
+    {
+      "key": "kirang",
+      "family": "Kirang Haerang",
+      "style": "Regular",
+      "postscript": "KirangHaerang-Regular",
+      "actual_metadata_verified": true
+    },
+    {
+      "key": "singleday",
+      "family": "Single Day",
+      "style": "Regular",
+      "postscript": "SingleDay-Regular",
+      "actual_metadata_verified": true
+    },
+    {
+      "key": "bawpic",
+      "family": "Black And White Picture",
+      "style": "Regular",
+      "postscript": "BlackAndWhitePicture-Regular",
+      "actual_metadata_verified": true
+    }
+  ],
+  "text_frame_font_counts": {
+    "YES24": 387,
+    "serif": 7,
+    "blackhan": 8,
+    "gugi": 7,
+    "kirang": 5,
+    "singleday": 7,
+    "bawpic": 6,
+    "pixel": 6,
+    "gungseo": 15,
+    "jua": 7,
+    "brush": 11,
+    "sans": 2
+  },
+  "all_text_cmap_covered": true,
+  "HarfBuzz_shaped_lines": 588,
+  "all_shaped_glyph_ids_nonzero": true,
+  "all_text_frames_fit_metrics": true,
+  "controlled_comparison_groups": [
+    {
+      "comparison_id": "atlas_common_twelve",
+      "pages": [
+        4,
+        5
+      ],
+      "sample_count": 12,
+      "text": "진심입니다",
+      "point_size": 18,
+      "frame_width_pt": 176,
+      "font_keys": [
+        "blackhan",
+        "gugi",
+        "kirang",
+        "singleday",
+        "bawpic",
+        "pixel",
+        "gungseo",
+        "jua",
+        "brush",
+        "YES24",
+        "sans",
+        "serif"
+      ],
+      "actual_styles": [
+        "Regular",
+        "Regular",
+        "Regular",
+        "Regular",
+        "Regular",
+        "Normal",
+        "Regular",
+        "Regular",
+        "Regular",
+        "Regular",
+        "Regular",
+        "Regular"
+      ],
+      "same_colour_background_extra_tracking": true
+    },
+    {
+      "comparison_id": "B01_three_fonts",
+      "pages": [
+        7
+      ],
+      "sample_count": 3,
+      "text": "가보자고",
+      "point_size": 15,
+      "frame_width_pt": 198,
+      "font_keys": [
+        "blackhan",
+        "gugi",
+        "pixel"
+      ],
+      "actual_styles": [
+        "Regular",
+        "Regular",
+        "Normal"
+      ],
+      "same_colour_background_extra_tracking": true
+    },
+    {
+      "comparison_id": "A04_three_fonts",
+      "pages": [
+        9
+      ],
+      "sample_count": 3,
+      "text": "사랑사랑 내가 말했지",
+      "point_size": 15,
+      "frame_width_pt": 198,
+      "font_keys": [
+        "singleday",
+        "serif",
+        "brush"
+      ],
+      "actual_styles": [
+        "Regular",
+        "Regular",
+        "Regular"
+      ],
+      "same_colour_background_extra_tracking": true
+    },
+    {
+      "comparison_id": "B02_three_fonts",
+      "pages": [
+        11
+      ],
+      "sample_count": 3,
+      "text": "코리안탑클래스 굿나잇",
+      "point_size": 15,
+      "frame_width_pt": 198,
+      "font_keys": [
+        "jua",
+        "kirang",
+        "YES24"
+      ],
+      "actual_styles": [
+        "Regular",
+        "Regular",
+        "Regular"
+      ],
+      "same_colour_background_extra_tracking": true
+    },
+    {
+      "comparison_id": "A02_three_fonts",
+      "pages": [
+        13
+      ],
+      "sample_count": 3,
+      "text": "질투하고,",
+      "point_size": 15,
+      "frame_width_pt": 198,
+      "font_keys": [
+        "gungseo",
+        "bawpic",
+        "serif"
+      ],
+      "actual_styles": [
+        "Regular",
+        "Regular",
+        "Regular"
+      ],
+      "same_colour_background_extra_tracking": true
+    },
+    {
+      "comparison_id": "A03_three_fonts",
+      "pages": [
+        14
+      ],
+      "sample_count": 3,
+      "text": "내가 감히",
+      "point_size": 13.5,
+      "frame_width_pt": 198,
+      "font_keys": [
+        "gugi",
+        "sans",
+        "gungseo"
+      ],
+      "actual_styles": [
+        "Regular",
+        "Regular",
+        "Regular"
+      ],
+      "same_colour_background_extra_tracking": true
+    },
+    {
+      "comparison_id": "A10_three_fonts",
+      "pages": [
+        15
+      ],
+      "sample_count": 3,
+      "text": "당신의뮤즈가되겠습니다",
+      "point_size": 13.5,
+      "frame_width_pt": 198,
+      "font_keys": [
+        "brush",
+        "singleday",
+        "serif"
+      ],
+      "actual_styles": [
+        "Regular",
+        "Regular",
+        "Regular"
+      ],
+      "same_colour_background_extra_tracking": true
+    },
+    {
+      "comparison_id": "B06_three_fonts",
+      "pages": [
+        17
+      ],
+      "sample_count": 3,
+      "text": "선배 고단수드앙~",
+      "point_size": 15,
+      "frame_width_pt": 198,
+      "font_keys": [
+        "kirang",
+        "jua",
+        "blackhan"
+      ],
+      "actual_styles": [
+        "Regular",
+        "Regular",
+        "Regular"
+      ],
+      "same_colour_background_extra_tracking": true
+    },
+    {
+      "comparison_id": "B05_three_fonts",
+      "pages": [
+        19
+      ],
+      "sample_count": 3,
+      "text": "모루게쒀여",
+      "point_size": 15,
+      "frame_width_pt": 198,
+      "font_keys": [
+        "brush",
+        "singleday",
+        "gugi"
+      ],
+      "actual_styles": [
+        "Regular",
+        "Regular",
+        "Regular"
+      ],
+      "same_colour_background_extra_tracking": true
+    },
+    {
+      "comparison_id": "B03_three_fonts",
+      "pages": [
+        21
+      ],
+      "sample_count": 3,
+      "text": "ㅇㅈ? ㅇㅇㅈ~~~~~",
+      "point_size": 15,
+      "frame_width_pt": 198,
+      "font_keys": [
+        "bawpic",
+        "pixel",
+        "blackhan"
+      ],
+      "actual_styles": [
+        "Regular",
+        "Normal",
+        "Regular"
+      ],
+      "same_colour_background_extra_tracking": true
+    },
+    {
+      "comparison_id": "A05_three_fonts",
+      "pages": [
+        23
+      ],
+      "sample_count": 3,
+      "text": "눈물ㅇ ㅣ ....좋다.....",
+      "point_size": 15,
+      "frame_width_pt": 198,
+      "font_keys": [
+        "brush",
+        "bawpic",
+        "gungseo"
+      ],
+      "actual_styles": [
+        "Regular",
+        "Regular",
+        "Regular"
+      ],
+      "same_colour_background_extra_tracking": true
+    },
+    {
+      "comparison_id": "B07_three_fonts",
+      "pages": [
+        25
+      ],
+      "sample_count": 3,
+      "text": "출.근.가.능!",
+      "point_size": 15,
+      "frame_width_pt": 198,
+      "font_keys": [
+        "pixel",
+        "gugi",
+        "blackhan"
+      ],
+      "actual_styles": [
+        "Normal",
+        "Regular",
+        "Regular"
+      ],
+      "same_colour_background_extra_tracking": true
+    },
+    {
+      "comparison_id": "A06_three_fonts",
+      "pages": [
+        26
+      ],
+      "sample_count": 3,
+      "text": "난 오늘만 산다",
+      "point_size": 13.5,
+      "frame_width_pt": 198,
+      "font_keys": [
+        "gungseo",
+        "blackhan",
+        "serif"
+      ],
+      "actual_styles": [
+        "Regular",
+        "Regular",
+        "Regular"
+      ],
+      "same_colour_background_extra_tracking": true
+    },
+    {
+      "comparison_id": "A07_mini_three_fonts",
+      "pages": [
+        27
+      ],
+      "sample_count": 3,
+      "text": "야르",
+      "point_size": 11,
+      "frame_width_pt": 106,
+      "font_keys": [
+        "jua",
+        "blackhan",
+        "kirang"
+      ],
+      "actual_styles": [
+        "Regular",
+        "Regular",
+        "Regular"
+      ],
+      "same_colour_background_extra_tracking": true
+    },
+    {
+      "comparison_id": "A08_mini_three_fonts",
+      "pages": [
+        27
+      ],
+      "sample_count": 3,
+      "text": "밤티",
+      "point_size": 11,
+      "frame_width_pt": 106,
+      "font_keys": [
+        "bawpic",
+        "gugi",
+        "pixel"
+      ],
+      "actual_styles": [
+        "Regular",
+        "Regular",
+        "Normal"
+      ],
+      "same_colour_background_extra_tracking": true
+    },
+    {
+      "comparison_id": "A09_mini_three_fonts",
+      "pages": [
+        27
+      ],
+      "sample_count": 3,
+      "text": "이태민 이태민 이태민",
+      "point_size": 11,
+      "frame_width_pt": 106,
+      "font_keys": [
+        "singleday",
+        "brush",
+        "jua"
+      ],
+      "actual_styles": [
+        "Regular",
+        "Regular",
+        "Regular"
+      ],
+      "same_colour_background_extra_tracking": true
+    }
+  ],
+  "atlas_twelve_fonts_across_pages": [
+    4,
+    5
+  ],
+  "intro_has_no_meme_specimens_or_analysis_cards": true,
+  "intro_four_paragraphs_exact": true,
+  "intro_body_has_no_short_orphan_lines": true,
+  "short_meme_sources_and_user_examples_exact_at_page_27": true,
+  "user_replacement_text": "가보자고",
+  "user_replacement_sha256": "d790729c6cf0ce7a4f51bf3a5cbe591f247877edb6652d412ff1c7e726775fd7",
+  "old_start_phrase_absent_from_all_book_text": true,
+  "raw_17_plus_one_separate_replacement_version": true,
+  "p26_gungseo_full_original_14_5pt_two_lines": true,
+  "visual_review": {
+    "contact_sheet_reviewed": true,
+    "all_28_page_pngs_reviewed": true,
+    "missing_glyphs": false,
+    "clipping_or_overlap": false,
+    "p26_final_revision_reviewed": true,
+    "a3_sheets_reviewed": [
+      3,
+      4,
+      8,
+      11,
+      14
+    ],
+    "new_five_typefaces_visually_distinct": true,
+    "final_page_6_reader_caption_verified": true
+  },
+  "print_geometry_report": "qa/print_verification.json",
+  "print_pdf_sha256": {
+    "Meme_Font_Book_28p_A5.pdf": "00ddd5586df3d5985ab35922883adcbe6c635855bd2b2a7e9c744a098fec66fd",
+    "Meme_Font_Book_A3_ActualSize.pdf": "12fd3d6e81af1d598139191070bb1cc635e133ff46b542e549a3a951fb596613",
+    "Meme_Font_Book_28p_Spreads.pdf": "19334526890699ce37e0b9b9e7845bd02c2d4005a682eb820c188309ca982cce"
+  },
+  "PDF_font_treatment": "YES24 embedded/subset; other eleven families use exact vector glyph outlines",
+  "InDesign_runtime_tested": false,
+  "physical_printer_tested": false,
+  "preview_consistency_report": "revision_gabo/preview_consistency.json",
+  "all_28_current_PNGs_exactly_match_current_PDF_render": true,
+  "contact_sheet_and_all_13_spread_JPEGs_match_current_PNGs_exactly": true
+}
