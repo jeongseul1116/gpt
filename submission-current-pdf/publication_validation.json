@@ -1,0 +1,14 @@
+{
+  "status": "passed",
+  "root_visual_review": {
+    "A3_sheet_04_cropmarks_and_latest_page7_seen": true,
+    "overlap_or_clipping": false
+  },
+  "print_report": "print_validation.json",
+  "review_report": "validation.json",
+  "PDF_SHA256": {
+    "Meme_Font_Book_Revised_A3_Print.pdf": "74d9b59fd128fcb243198fa5d85282b5109a3ea4bd3c659cbe6538770bd61fda",
+    "Meme_Font_Book_Revised_28p.pdf": "cc2238bc1a9ec982f31d1353c2abebe7e14993fbe3999451b3e322d0b59c03f4",
+    "Meme_Font_Book_Revised_Spreads.pdf": "f4a81378727d2290d5d9997ca03a8b719d5065275eade17b0325e41a61f3a2e4"
+  }
+}

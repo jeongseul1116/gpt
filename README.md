@@ -1,5 +1,15 @@
 # 2열로 열 서체를 비교하는 28쪽 수정본
 
+## 수정사항 반영 PDF · 재단선 포함 출력본
+
+제목 **같은 말, 다른 느낌쓰**와 7쪽 디테일 보정을 반영한 전체 디자인입니다.
+
+- **[재단선·3mm 도련 포함 A3 인쇄용 PDF](submission-current-pdf/Meme_Font_Book_Revised_A3_Print.pdf)**
+- [재단선 미리보기](submission-current-pdf/A3_Print_Sheet_04.png)
+- [펼침면 검토용 PDF](submission-current-pdf/Meme_Font_Book_Revised_Spreads.pdf)
+- [전체 28쪽 검토용 PDF](submission-current-pdf/Meme_Font_Book_Revised_28p.pdf)
+- [수정한 6–7쪽 미리보기](submission-current-pdf/Revised_06_07.png)
+
 비교 페이지의 제목을 **같은 말, 다른 느낌쓰**로 수정했습니다.
 
 펼침면 비교 9쪽을 **2열 × 5행, 각 10종 서체**로 넓혔습니다. 견본은 **11pt**, 느낌과 이유 설명은 **7.2pt**입니다. 실제 서체 총 12종으로 밈 15개의 비교 견본 126개를 구성했습니다. 통합면과 짧은 말은 각 6종 비교를 유지했습니다.

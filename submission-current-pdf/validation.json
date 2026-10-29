@@ -1,0 +1,551 @@
+{
+  "status": "passed",
+  "scope": "Independent read-only PDF content and rendered-pixel comparison; no font engine or book redesign.",
+  "files": {
+    "A5": {
+      "filename": "Meme_Font_Book_Revised_28p.pdf",
+      "bytes": 6063394,
+      "sha256": "cc2238bc1a9ec982f31d1353c2abebe7e14993fbe3999451b3e322d0b59c03f4",
+      "pages": 28
+    },
+    "spreads": {
+      "filename": "Meme_Font_Book_Revised_Spreads.pdf",
+      "bytes": 5328121,
+      "sha256": "f4a81378727d2290d5d9997ca03a8b719d5065275eade17b0325e41a61f3a2e4",
+      "pages": 15
+    }
+  },
+  "sources": {
+    "base_28p_sha256": "8f1c786af8b27a0d80c4efaa2091f78f3ede70e7cbecb8729cb8dfcc100117aa",
+    "practice_before_after_sha256": "4a36ce497a079d3a8c923a008167fdc04ce0796e68882ff53c3646165fc9e64f"
+  },
+  "all_PDFs_open_without_password": true,
+  "A5_page_size_mm": [
+    148,
+    210
+  ],
+  "all_27_other_pages_pixel_exact_to_current_base": true,
+  "page7_pixel_exact_to_latest_practice_page2": true,
+  "page_checks": [
+    {
+      "page": 1,
+      "source": "base PDF page1",
+      "pixel_exact_at_1_4x": true,
+      "render_sha256": "41f85316b8b7c265e9f256ce305fe5df089060677c3d5682abc85b2d8b3b971b"
+    },
+    {
+      "page": 2,
+      "source": "base PDF page2",
+      "pixel_exact_at_1_4x": true,
+      "render_sha256": "8be12e4983512aeeafa675dcaf2a8e393673829e5a3721eafb616c36fd4ec10c"
+    },
+    {
+      "page": 3,
+      "source": "base PDF page3",
+      "pixel_exact_at_1_4x": true,
+      "render_sha256": "68b2da46c14c01da5d1eace3ec644dd0aaf906c314d2725663af4930fd898dc6"
+    },
+    {
+      "page": 4,
+      "source": "base PDF page4",
+      "pixel_exact_at_1_4x": true,
+      "render_sha256": "fdfe3f3502f92180d2ea6eafd0fde97e4e0034d69855acb032f6d04df858313a"
+    },
+    {
+      "page": 5,
+      "source": "base PDF page5",
+      "pixel_exact_at_1_4x": true,
+      "render_sha256": "e020bed8b09587e39f419a8b90db7e1d3a2613730ac48da39b77e66ac306e324"
+    },
+    {
+      "page": 6,
+      "source": "base PDF page6",
+      "pixel_exact_at_1_4x": true,
+      "render_sha256": "e2eea2869f014ca902938f7221f0b07e4bf7d3a545a7cdce761c5603e11eb12d"
+    },
+    {
+      "page": 7,
+      "source": "practice PDF page2",
+      "pixel_exact_at_1_4x": true,
+      "render_sha256": "96e63511b101484d1d6c2e85ac1003f9412d1eb63448d570358539b56db5c9d7"
+    },
+    {
+      "page": 8,
+      "source": "base PDF page8",
+      "pixel_exact_at_1_4x": true,
+      "render_sha256": "f815579124f8d328a14e273cec84f595665b41667b575dcd4e53450fcd04720f"
+    },
+    {
+      "page": 9,
+      "source": "base PDF page9",
+      "pixel_exact_at_1_4x": true,
+      "render_sha256": "25fad3516f0b59c89d76c331c1850636ee4ccbfb7333fe6b54ccdf3b6e85db74"
+    },
+    {
+      "page": 10,
+      "source": "base PDF page10",
+      "pixel_exact_at_1_4x": true,
+      "render_sha256": "0c3634c6d6d7c718e27f6c951ab67d6ce8bc1a1dfc4da5283e51fc3dbc42519d"
+    },
+    {
+      "page": 11,
+      "source": "base PDF page11",
+      "pixel_exact_at_1_4x": true,
+      "render_sha256": "59f1f59f292044807c79271e6c636f6b47df7bc1ca791c816571ce1d452ea2c6"
+    },
+    {
+      "page": 12,
+      "source": "base PDF page12",
+      "pixel_exact_at_1_4x": true,
+      "render_sha256": "e9a4e3f3328049c7eb202bf4b862e956d2ff69dfbf7aaeec8d590727229a4c57"
+    },
+    {
+      "page": 13,
+      "source": "base PDF page13",
+      "pixel_exact_at_1_4x": true,
+      "render_sha256": "0dd0b99d7a41455f01dcddbb9a47fc618775d631192601a50a8cf84cf3be0ade"
+    },
+    {
+      "page": 14,
+      "source": "base PDF page14",
+      "pixel_exact_at_1_4x": true,
+      "render_sha256": "6b8e1e2ebfd029470b6ddb4c3ef302fea0251d43b5b12e625d39904b29ad9a72"
+    },
+    {
+      "page": 15,
+      "source": "base PDF page15",
+      "pixel_exact_at_1_4x": true,
+      "render_sha256": "9bf3e48491c6749e41231fdc8dc51f2dd0aa0b63f74f5c53a6c06be252e123ae"
+    },
+    {
+      "page": 16,
+      "source": "base PDF page16",
+      "pixel_exact_at_1_4x": true,
+      "render_sha256": "3ffcac9a03dba66d345726c92e82bad8a565079254909c0cda401925a02a695a"
+    },
+    {
+      "page": 17,
+      "source": "base PDF page17",
+      "pixel_exact_at_1_4x": true,
+      "render_sha256": "18dcb992553d070548ce9905b8b3e56027f493dca4a69719b5d14b9f6ffc05fe"
+    },
+    {
+      "page": 18,
+      "source": "base PDF page18",
+      "pixel_exact_at_1_4x": true,
+      "render_sha256": "c2bbe292ddae6fd95f257abca4fddd2ea7525f2cee84eafeba84c3d98f9aefcd"
+    },
+    {
+      "page": 19,
+      "source": "base PDF page19",
+      "pixel_exact_at_1_4x": true,
+      "render_sha256": "f67d94371cc2765e7753130c3d7a0ac07c85598bb76332d944c92b68dbe56aa3"
+    },
+    {
+      "page": 20,
+      "source": "base PDF page20",
+      "pixel_exact_at_1_4x": true,
+      "render_sha256": "fc51d4a29cf514ba0dbb044f5e6f4e5e95ba09d1669b24ad8a2df493c69f2058"
+    },
+    {
+      "page": 21,
+      "source": "base PDF page21",
+      "pixel_exact_at_1_4x": true,
+      "render_sha256": "9ba07b18a0a8f134500d0a6b9a99bd8eb66e1323841660a4b6af00f505e36af3"
+    },
+    {
+      "page": 22,
+      "source": "base PDF page22",
+      "pixel_exact_at_1_4x": true,
+      "render_sha256": "00f9dc16f4603956e20cc202809fde6f8754b210fc29ed803315129b34f6c502"
+    },
+    {
+      "page": 23,
+      "source": "base PDF page23",
+      "pixel_exact_at_1_4x": true,
+      "render_sha256": "83a6ec1a179a2421ee4fa16a8949138a848b67b8cd1ee4fcc6787ec45e4e4f94"
+    },
+    {
+      "page": 24,
+      "source": "base PDF page24",
+      "pixel_exact_at_1_4x": true,
+      "render_sha256": "654327883d2c9c35bb55477a417ca16b4236b7ef1a7e3e354819e69373ce5cc3"
+    },
+    {
+      "page": 25,
+      "source": "base PDF page25",
+      "pixel_exact_at_1_4x": true,
+      "render_sha256": "6ad59a974d721c056771ed2254d46209723613907abf1f385c4ab36ae06afe98"
+    },
+    {
+      "page": 26,
+      "source": "base PDF page26",
+      "pixel_exact_at_1_4x": true,
+      "render_sha256": "f2e49748d80e0fa3298da79bdcc77b1b0aa199f7662674dc9dc3f187077b1d8d"
+    },
+    {
+      "page": 27,
+      "source": "base PDF page27",
+      "pixel_exact_at_1_4x": true,
+      "render_sha256": "536ef30c5e9e315648b1e0ff7d6cdbc4e8b15a697d52b62cff87e7819b2ca099"
+    },
+    {
+      "page": 28,
+      "source": "base PDF page28",
+      "pixel_exact_at_1_4x": true,
+      "render_sha256": "43444f975846840506c163b08ca355fb80fca82ddff2890074225267a7c0f231"
+    }
+  ],
+  "new_heading": "같은 말, 다른 느낌쓰",
+  "new_heading_occurrences": 9,
+  "new_heading_pages": [
+    7,
+    9,
+    11,
+    13,
+    17,
+    19,
+    21,
+    23,
+    25
+  ],
+  "old_heading_absent": true,
+  "spread_mapping": [
+    [
+      1
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      4,
+      5
+    ],
+    [
+      6,
+      7
+    ],
+    [
+      8,
+      9
+    ],
+    [
+      10,
+      11
+    ],
+    [
+      12,
+      13
+    ],
+    [
+      14,
+      15
+    ],
+    [
+      16,
+      17
+    ],
+    [
+      18,
+      19
+    ],
+    [
+      20,
+      21
+    ],
+    [
+      22,
+      23
+    ],
+    [
+      24,
+      25
+    ],
+    [
+      26,
+      27
+    ],
+    [
+      28
+    ]
+  ],
+  "all_28_logical_pages_in_15_spreads_pixel_exact": true,
+  "spread_checks": [
+    {
+      "PDF_page": 1,
+      "logical_pages": [
+        1
+      ],
+      "positions": [
+        {
+          "side": 0,
+          "logical_page": 1,
+          "pixel_exact_at_1_4x": true
+        }
+      ]
+    },
+    {
+      "PDF_page": 2,
+      "logical_pages": [
+        2,
+        3
+      ],
+      "positions": [
+        {
+          "side": 0,
+          "logical_page": 2,
+          "pixel_exact_at_1_4x": true
+        },
+        {
+          "side": 1,
+          "logical_page": 3,
+          "pixel_exact_at_1_4x": true
+        }
+      ]
+    },
+    {
+      "PDF_page": 3,
+      "logical_pages": [
+        4,
+        5
+      ],
+      "positions": [
+        {
+          "side": 0,
+          "logical_page": 4,
+          "pixel_exact_at_1_4x": true
+        },
+        {
+          "side": 1,
+          "logical_page": 5,
+          "pixel_exact_at_1_4x": true
+        }
+      ]
+    },
+    {
+      "PDF_page": 4,
+      "logical_pages": [
+        6,
+        7
+      ],
+      "positions": [
+        {
+          "side": 0,
+          "logical_page": 6,
+          "pixel_exact_at_1_4x": true
+        },
+        {
+          "side": 1,
+          "logical_page": 7,
+          "pixel_exact_at_1_4x": true
+        }
+      ]
+    },
+    {
+      "PDF_page": 5,
+      "logical_pages": [
+        8,
+        9
+      ],
+      "positions": [
+        {
+          "side": 0,
+          "logical_page": 8,
+          "pixel_exact_at_1_4x": true
+        },
+        {
+          "side": 1,
+          "logical_page": 9,
+          "pixel_exact_at_1_4x": true
+        }
+      ]
+    },
+    {
+      "PDF_page": 6,
+      "logical_pages": [
+        10,
+        11
+      ],
+      "positions": [
+        {
+          "side": 0,
+          "logical_page": 10,
+          "pixel_exact_at_1_4x": true
+        },
+        {
+          "side": 1,
+          "logical_page": 11,
+          "pixel_exact_at_1_4x": true
+        }
+      ]
+    },
+    {
+      "PDF_page": 7,
+      "logical_pages": [
+        12,
+        13
+      ],
+      "positions": [
+        {
+          "side": 0,
+          "logical_page": 12,
+          "pixel_exact_at_1_4x": true
+        },
+        {
+          "side": 1,
+          "logical_page": 13,
+          "pixel_exact_at_1_4x": true
+        }
+      ]
+    },
+    {
+      "PDF_page": 8,
+      "logical_pages": [
+        14,
+        15
+      ],
+      "positions": [
+        {
+          "side": 0,
+          "logical_page": 14,
+          "pixel_exact_at_1_4x": true
+        },
+        {
+          "side": 1,
+          "logical_page": 15,
+          "pixel_exact_at_1_4x": true
+        }
+      ]
+    },
+    {
+      "PDF_page": 9,
+      "logical_pages": [
+        16,
+        17
+      ],
+      "positions": [
+        {
+          "side": 0,
+          "logical_page": 16,
+          "pixel_exact_at_1_4x": true
+        },
+        {
+          "side": 1,
+          "logical_page": 17,
+          "pixel_exact_at_1_4x": true
+        }
+      ]
+    },
+    {
+      "PDF_page": 10,
+      "logical_pages": [
+        18,
+        19
+      ],
+      "positions": [
+        {
+          "side": 0,
+          "logical_page": 18,
+          "pixel_exact_at_1_4x": true
+        },
+        {
+          "side": 1,
+          "logical_page": 19,
+          "pixel_exact_at_1_4x": true
+        }
+      ]
+    },
+    {
+      "PDF_page": 11,
+      "logical_pages": [
+        20,
+        21
+      ],
+      "positions": [
+        {
+          "side": 0,
+          "logical_page": 20,
+          "pixel_exact_at_1_4x": true
+        },
+        {
+          "side": 1,
+          "logical_page": 21,
+          "pixel_exact_at_1_4x": true
+        }
+      ]
+    },
+    {
+      "PDF_page": 12,
+      "logical_pages": [
+        22,
+        23
+      ],
+      "positions": [
+        {
+          "side": 0,
+          "logical_page": 22,
+          "pixel_exact_at_1_4x": true
+        },
+        {
+          "side": 1,
+          "logical_page": 23,
+          "pixel_exact_at_1_4x": true
+        }
+      ]
+    },
+    {
+      "PDF_page": 13,
+      "logical_pages": [
+        24,
+        25
+      ],
+      "positions": [
+        {
+          "side": 0,
+          "logical_page": 24,
+          "pixel_exact_at_1_4x": true
+        },
+        {
+          "side": 1,
+          "logical_page": 25,
+          "pixel_exact_at_1_4x": true
+        }
+      ]
+    },
+    {
+      "PDF_page": 14,
+      "logical_pages": [
+        26,
+        27
+      ],
+      "positions": [
+        {
+          "side": 0,
+          "logical_page": 26,
+          "pixel_exact_at_1_4x": true
+        },
+        {
+          "side": 1,
+          "logical_page": 27,
+          "pixel_exact_at_1_4x": true
+        }
+      ]
+    },
+    {
+      "PDF_page": 15,
+      "logical_pages": [
+        28
+      ],
+      "positions": [
+        {
+          "side": 0,
+          "logical_page": 28,
+          "pixel_exact_at_1_4x": true
+        }
+      ]
+    }
+  ],
+  "InDesign_runtime_tested": false,
+  "physical_printer_tested": false
+}
