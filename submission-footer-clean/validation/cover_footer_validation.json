@@ -1,0 +1,30 @@
+{
+  "status": "passed",
+  "scope": "Cover-footer preservation check after the 26 body footer-label deletions",
+  "layout_sha256": "5cb0dd1e8b13b3cf859bad0d3700868d82a3d0ad3e74877a65c97c7d63161573",
+  "checked_cover_pages": [
+    1,
+    28
+  ],
+  "absent_roles": [
+    "folio",
+    "folio_box",
+    "footer_label",
+    "footer_rule"
+  ],
+  "both_cover_footers_folios_and_rules_absent": true,
+  "both_cover_pages_deep_equal_previous_edition": true,
+  "all_26_body_footer_rules_folio_boxes_and_folios_equal_previous_edition": true,
+  "all_26_body_footer_labels_removed": true,
+  "actual_InDesign_runtime_tested": false,
+  "files": {
+    "Meme_Font_Book_System_28p.idml": {
+      "bytes": 943443,
+      "sha256": "cd2543d00f352dd98ea652b1ed9ed8c6f510749b8c2df5b6ef9e755d3979a2f9"
+    },
+    "Create_System_28p.jsx": {
+      "bytes": 583342,
+      "sha256": "90fdc40d712365bc85b6ec1ac19f5fa19cd20ea159e52e724cfc4a8efda1e2f6"
+    }
+  }
+}

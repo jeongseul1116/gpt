@@ -1,0 +1,272 @@
+{
+  "actual_font_count": 12,
+  "fonts": [
+    {
+      "key": "YES24",
+      "label": "예스체 YES24",
+      "family": "YES24",
+      "aliases": [
+        "YES24",
+        "예스체"
+      ],
+      "style": "Regular",
+      "postscript": "YES24",
+      "type": "TrueType",
+      "style_aliases": [
+        "Regular"
+      ],
+      "license": "사용자 제공 파일, 원본 재배포 조건 미확정",
+      "fsType": 4,
+      "source": "제공된 YES24.ttf",
+      "font_binary_included": false
+    },
+    {
+      "key": "sans",
+      "label": "Noto Sans CJK KR",
+      "family": "Noto Sans CJK KR",
+      "aliases": [
+        "Noto Sans CJK KR"
+      ],
+      "style": "Regular",
+      "postscript": "NotoSansCJKkr-Regular",
+      "type": "OpenTypeCFF",
+      "style_aliases": [
+        "Regular"
+      ],
+      "license": "SIL OFL 1.1",
+      "source_url": "https://github.com/notofonts/noto-cjk",
+      "license_file": "licenses/NotoSansCJK-OFL.txt",
+      "font_binary_included": false
+    },
+    {
+      "key": "serif",
+      "label": "Noto Serif CJK KR",
+      "family": "Noto Serif CJK KR",
+      "aliases": [
+        "Noto Serif CJK KR"
+      ],
+      "style": "Regular",
+      "postscript": "NotoSerifCJKkr-Regular",
+      "type": "OpenTypeCFF",
+      "style_aliases": [
+        "Regular"
+      ],
+      "license": "SIL OFL 1.1",
+      "source_url": "https://github.com/notofonts/noto-cjk",
+      "license_file": "licenses/NotoSerifCJK-OFL.txt",
+      "font_binary_included": false
+    },
+    {
+      "key": "gungseo",
+      "label": "은궁서",
+      "family": "UnGungseo",
+      "aliases": [
+        "UnGungseo",
+        "은 궁서"
+      ],
+      "style": "Regular",
+      "style_aliases": [
+        "Regular"
+      ],
+      "postscript": "UnGungseo",
+      "type": "TrueType",
+      "license": "GPL-2",
+      "fsType": 0,
+      "source_url": "https://deb.debian.org/debian/pool/main/f/fonts-unfonts-core/fonts-unfonts-core_1.0.2-080608-23_all.deb",
+      "source_package_url": "https://deb.debian.org/debian/pool/main/f/fonts-unfonts-core/fonts-unfonts-core_1.0.2-080608-23_all.deb",
+      "sha256": "7d1593ed524c1a4222191e4dea6e3d823598eacc73d8a47247748a55283955ff",
+      "bytes": 6251788,
+      "filename": "UnGungseo.ttf",
+      "license_file": "licenses/UnGungseo-Debian-copyright.txt",
+      "font_binary_included": false
+    },
+    {
+      "key": "jua",
+      "label": "주아 (Jua)",
+      "family": "Jua",
+      "aliases": [
+        "Jua"
+      ],
+      "style": "Regular",
+      "style_aliases": [
+        "Regular"
+      ],
+      "postscript": "Jua-Regular",
+      "type": "TrueType",
+      "license": "SIL OFL 1.1",
+      "fsType": 0,
+      "source_url": "https://raw.githubusercontent.com/google/fonts/main/ofl/jua/Jua-Regular.ttf",
+      "sha256": "769677aef240bfc3b9965f2b50748075bff885e6c6992fc591a3fb268279f898",
+      "bytes": 2119352,
+      "filename": "Jua-Regular.ttf",
+      "license_file": "licenses/Jua-OFL.txt",
+      "font_binary_included": false
+    },
+    {
+      "key": "brush",
+      "label": "나눔손글씨 붓",
+      "family": "Nanum Brush Script",
+      "aliases": [
+        "Nanum Brush Script",
+        "나눔손글씨 붓"
+      ],
+      "style": "Regular",
+      "style_aliases": [
+        "Regular"
+      ],
+      "postscript": "NanumBrush",
+      "type": "TrueType",
+      "license": "SIL OFL 1.1",
+      "fsType": 0,
+      "source_url": "https://raw.githubusercontent.com/google/fonts/main/ofl/nanumbrushscript/NanumBrushScript-Regular.ttf",
+      "sha256": "27ceaf578c96f594cdf07fe0181b251790acbb746a164e45c1f6473f89911a31",
+      "bytes": 3564804,
+      "filename": "NanumBrushScript-Regular.ttf",
+      "license_file": "licenses/NanumBrushScript-OFL.txt",
+      "font_binary_included": false
+    },
+    {
+      "key": "pixel",
+      "label": "둥근모꼴",
+      "family": "DungGeunMo",
+      "aliases": [
+        "DungGeunMo",
+        "DungGeunMo Normal",
+        "둥근모꼴 일반체",
+        "둥근모꼴"
+      ],
+      "style": "Normal",
+      "style_aliases": [
+        "Normal",
+        "Regular",
+        "일반체"
+      ],
+      "postscript": "DungGeunMo",
+      "type": "TrueType",
+      "license": "Public Domain",
+      "fsType": 0,
+      "source_url": "https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_six@1.2/DungGeunMo.woff",
+      "sha256": "c7b4520c435b77fd0acd1e512dc28710aeb172f0eb5cd97a7936a3573a1e068c",
+      "bytes": 7263420,
+      "filename": "DungGeunMo.ttf",
+      "license_file": "licenses/DungGeunMo-provenance.txt",
+      "font_binary_included": false
+    },
+    {
+      "key": "blackhan",
+      "label": "블랙 한 산스",
+      "family": "Black Han Sans",
+      "aliases": [
+        "Black Han Sans",
+        "검은고딕"
+      ],
+      "style": "Regular",
+      "style_aliases": [
+        "Regular"
+      ],
+      "postscript": "BlackHanSans-Regular",
+      "type": "TrueType",
+      "license": "SIL OFL 1.1",
+      "fsType": 0,
+      "source_url": "https://raw.githubusercontent.com/google/fonts/main/ofl/blackhansans/BlackHanSans-Regular.ttf",
+      "sha256": "31960809284026681774a8e52dc19ebcad26cf69b0ad9d560f288296fbb52739",
+      "bytes": 998424,
+      "filename": "BlackHanSans-Regular.ttf",
+      "license_file": "licenses/blackhan-OFL.txt",
+      "font_binary_included": false
+    },
+    {
+      "key": "gugi",
+      "label": "구기",
+      "family": "Gugi",
+      "aliases": [
+        "Gugi",
+        "구기"
+      ],
+      "style": "Regular",
+      "style_aliases": [
+        "Regular"
+      ],
+      "postscript": "Gugi-Regular",
+      "type": "TrueType",
+      "license": "SIL OFL 1.1",
+      "fsType": 0,
+      "source_url": "https://raw.githubusercontent.com/google/fonts/main/ofl/gugi/Gugi-Regular.ttf",
+      "sha256": "c0b1f979979cfc309fb2438fa9464f96173353e0c4842cc7a5919658184ed9d3",
+      "bytes": 990856,
+      "filename": "Gugi-Regular.ttf",
+      "license_file": "licenses/gugi-OFL.txt",
+      "font_binary_included": false
+    },
+    {
+      "key": "kirang",
+      "label": "기랑해랑",
+      "family": "Kirang Haerang",
+      "aliases": [
+        "Kirang Haerang"
+      ],
+      "style": "Regular",
+      "style_aliases": [
+        "Regular"
+      ],
+      "postscript": "KirangHaerang-Regular",
+      "type": "TrueType",
+      "license": "SIL OFL 1.1",
+      "fsType": 0,
+      "source_url": "https://raw.githubusercontent.com/google/fonts/main/ofl/kiranghaerang/KirangHaerang-Regular.ttf",
+      "sha256": "d677d28d466989017c520f00a2a7794ea581ea3d9fa9a830fbb44f1015eac72d",
+      "bytes": 5995608,
+      "filename": "KirangHaerang-Regular.ttf",
+      "license_file": "licenses/kirang-OFL.txt",
+      "font_binary_included": false
+    },
+    {
+      "key": "singleday",
+      "label": "싱글데이",
+      "family": "Single Day",
+      "aliases": [
+        "Single Day",
+        "싱글데이"
+      ],
+      "style": "Regular",
+      "style_aliases": [
+        "Regular"
+      ],
+      "postscript": "SingleDay-Regular",
+      "type": "TrueType",
+      "license": "SIL OFL 1.1",
+      "fsType": 0,
+      "source_url": "https://raw.githubusercontent.com/google/fonts/main/ofl/singleday/SingleDay-Regular.ttf",
+      "sha256": "716ff67a4b0675b35c26d60a4bb83173f7d153ab754474ed36c3369593ca1ca8",
+      "bytes": 816524,
+      "filename": "SingleDay-Regular.ttf",
+      "license_file": "licenses/singleday-OFL.txt",
+      "font_binary_included": false
+    },
+    {
+      "key": "bawpic",
+      "label": "흑백사진",
+      "family": "Black And White Picture",
+      "aliases": [
+        "Black And White Picture",
+        "흑백사진"
+      ],
+      "style": "Regular",
+      "style_aliases": [
+        "Regular"
+      ],
+      "postscript": "BlackAndWhitePicture-Regular",
+      "type": "TrueType",
+      "license": "SIL OFL 1.1",
+      "fsType": 0,
+      "source_url": "https://raw.githubusercontent.com/google/fonts/main/ofl/blackandwhitepicture/BlackAndWhitePicture-Regular.ttf",
+      "sha256": "4d72cd6de1f210b446c86f06b4e13d7641cbcfb1b375c6927341388aa8e08056",
+      "bytes": 9606352,
+      "filename": "BlackAndWhitePicture-Regular.ttf",
+      "license_file": "licenses/bawpic-OFL.txt",
+      "font_binary_included": false
+    }
+  ],
+  "PDF_policy": "YES24 subset embedded; other11 families use exact glyph outlines",
+  "raw_fonts_included": false
+}

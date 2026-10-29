@@ -1,0 +1,72 @@
+{
+  "status": "passed",
+  "scope": "Exactly 26 repeated bottom footer-label frames removed from the immediately previous header-clean edition",
+  "layout_sha256": "5cb0dd1e8b13b3cf859bad0d3700868d82a3d0ad3e74877a65c97c7d63161573",
+  "baseline_layout_sha256": "5d3eb6a0dd9c60d6aab6db328dcc93600cd47fa43d415dbaa4923df743e17d9d",
+  "baseline_matches_previous_header_clean_edition": true,
+  "changed_pages": [
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27
+  ],
+  "deleted_text_frame_count": 26,
+  "deleted_role": "footer_label",
+  "deleted_text": "쓸데없이 진지한 말투수집실 · 정슬기",
+  "each_deleted_record_matches_exact_prior_item_and_index": true,
+  "all_remaining_records_deep_equal_same_prior_order": true,
+  "all_remaining_body_content_typography_geometry_and_graphics_unchanged": true,
+  "covers_1_and_28_deep_equal_previous_edition": true,
+  "all_26_body_footer_rules_folio_boxes_and_folios_preserved": {
+    "footer_rule": 26,
+    "folio_box": 26,
+    "folio": 26
+  },
+  "footer_label_role_and_target_text_absent_all_28_pages": true,
+  "both_cover_footers_folios_and_rules_still_absent": true,
+  "JSX_embedded_layout_exact": true,
+  "IDML_generated_item_ids_exact_no_extra_page_items": true,
+  "IDML_text_frame_and_story_count": 1036,
+  "IDML_all_story_contents_match_current_layout_no_stale_footer_story": true,
+  "node_syntax_check": true,
+  "linked_images_byte_exact_unchanged": [
+    {
+      "page": 1,
+      "relative_path": "Links/cover_cutout.png",
+      "sha256": "b8a68655e74748ada19123724d935f88fe9efa2b22c411a9537e8829821d7f3f"
+    }
+  ],
+  "actual_InDesign_runtime_tested": false,
+  "files": {
+    "Meme_Font_Book_System_28p.idml": {
+      "bytes": 943443,
+      "sha256": "cd2543d00f352dd98ea652b1ed9ed8c6f510749b8c2df5b6ef9e755d3979a2f9"
+    },
+    "Create_System_28p.jsx": {
+      "bytes": 583342,
+      "sha256": "90fdc40d712365bc85b6ec1ac19f5fa19cd20ea159e52e724cfc4a8efda1e2f6"
+    }
+  }
+}

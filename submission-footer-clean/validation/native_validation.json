@@ -1,0 +1,192 @@
+{
+  "pages": 28,
+  "spreads": 15,
+  "page_structure": "[1]+13 interior pairs+[28]",
+  "native_output_stem": "Meme_Font_Book_System_28p",
+  "item_counts": {
+    "rect": 2215,
+    "text": 1036,
+    "image": 1,
+    "vector": 21
+  },
+  "font_counts": {
+    "YES24": 532,
+    "sans": 362,
+    "blackhan": 17,
+    "gugi": 12,
+    "kirang": 13,
+    "singleday": 12,
+    "bawpic": 13,
+    "pixel": 14,
+    "gungseo": 17,
+    "jua": 16,
+    "brush": 15,
+    "serif": 13
+  },
+  "font_styles": "Exact catalog family and style; documented localized style aliases only; no font fallback or synthetic bold",
+  "font_catalog": {
+    "YES24": {
+      "family": "YES24",
+      "aliases": [
+        "YES24",
+        "예스체"
+      ],
+      "style": "Regular",
+      "postscript": "YES24",
+      "type": "TrueType",
+      "style_aliases": [
+        "Regular"
+      ]
+    },
+    "sans": {
+      "family": "Noto Sans CJK KR",
+      "aliases": [
+        "Noto Sans CJK KR"
+      ],
+      "style": "Regular",
+      "postscript": "NotoSansCJKkr-Regular",
+      "type": "OpenTypeCFF",
+      "style_aliases": [
+        "Regular"
+      ]
+    },
+    "blackhan": {
+      "family": "Black Han Sans",
+      "aliases": [
+        "Black Han Sans",
+        "검은고딕"
+      ],
+      "style": "Regular",
+      "style_aliases": [
+        "Regular"
+      ],
+      "postscript": "BlackHanSans-Regular",
+      "type": "TrueType"
+    },
+    "gugi": {
+      "family": "Gugi",
+      "aliases": [
+        "Gugi",
+        "구기"
+      ],
+      "style": "Regular",
+      "style_aliases": [
+        "Regular"
+      ],
+      "postscript": "Gugi-Regular",
+      "type": "TrueType"
+    },
+    "kirang": {
+      "family": "Kirang Haerang",
+      "aliases": [
+        "Kirang Haerang"
+      ],
+      "style": "Regular",
+      "style_aliases": [
+        "Regular"
+      ],
+      "postscript": "KirangHaerang-Regular",
+      "type": "TrueType"
+    },
+    "singleday": {
+      "family": "Single Day",
+      "aliases": [
+        "Single Day",
+        "싱글데이"
+      ],
+      "style": "Regular",
+      "style_aliases": [
+        "Regular"
+      ],
+      "postscript": "SingleDay-Regular",
+      "type": "TrueType"
+    },
+    "bawpic": {
+      "family": "Black And White Picture",
+      "aliases": [
+        "Black And White Picture",
+        "흑백사진"
+      ],
+      "style": "Regular",
+      "style_aliases": [
+        "Regular"
+      ],
+      "postscript": "BlackAndWhitePicture-Regular",
+      "type": "TrueType"
+    },
+    "pixel": {
+      "family": "DungGeunMo",
+      "aliases": [
+        "DungGeunMo",
+        "DungGeunMo Normal",
+        "둥근모꼴 일반체",
+        "둥근모꼴"
+      ],
+      "style": "Normal",
+      "style_aliases": [
+        "Normal",
+        "Regular",
+        "일반체"
+      ],
+      "postscript": "DungGeunMo",
+      "type": "TrueType"
+    },
+    "gungseo": {
+      "family": "UnGungseo",
+      "aliases": [
+        "UnGungseo",
+        "은 궁서"
+      ],
+      "style": "Regular",
+      "style_aliases": [
+        "Regular"
+      ],
+      "postscript": "UnGungseo",
+      "type": "TrueType"
+    },
+    "jua": {
+      "family": "Jua",
+      "aliases": [
+        "Jua"
+      ],
+      "style": "Regular",
+      "style_aliases": [
+        "Regular"
+      ],
+      "postscript": "Jua-Regular",
+      "type": "TrueType"
+    },
+    "brush": {
+      "family": "Nanum Brush Script",
+      "aliases": [
+        "Nanum Brush Script",
+        "나눔손글씨 붓"
+      ],
+      "style": "Regular",
+      "style_aliases": [
+        "Regular"
+      ],
+      "postscript": "NanumBrush",
+      "type": "TrueType"
+    },
+    "serif": {
+      "family": "Noto Serif CJK KR",
+      "aliases": [
+        "Noto Serif CJK KR"
+      ],
+      "style": "Regular",
+      "postscript": "NotoSerifCJKkr-Regular",
+      "type": "OpenTypeCFF",
+      "style_aliases": [
+        "Regular"
+      ]
+    }
+  },
+  "embedded_data_exact": true,
+  "embedded_font_catalog_exact": true,
+  "asset_preflight_before_document": true,
+  "photo_embedding": "attempt Link.unlink(), retain and report link on failure",
+  "node_syntax_check": true,
+  "native_runtime_tested": false,
+  "jsx_sha256": "90fdc40d712365bc85b6ec1ac19f5fa19cd20ea159e52e724cfc4a8efda1e2f6"
+}

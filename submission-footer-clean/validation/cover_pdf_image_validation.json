@@ -1,0 +1,77 @@
+{
+  "status": "passed",
+  "target_dpi": 300,
+  "pdf_sha256": "3357cb40be3c959db140a08f7cacc14fc5e759c6a834c7934bc782a9d820d79f",
+  "cover_embedded_images": [
+    {
+      "xref": 14,
+      "pixels": [
+        874,
+        1275
+      ],
+      "placement_rect_pt": [
+        110.63690185546875,
+        244.00003051757812,
+        320.22918701171875,
+        549.7554321289062
+      ],
+      "effective_ppi": [
+        300.240058707731,
+        300.2399941790557
+      ],
+      "embedded_encoding": "jpeg",
+      "source_JPEG_byte_exact": true,
+      "embedded_jpeg_sha256": "2bc92eae25e302586cc2846f5f3720af3ac06aa5efe11729fa15f548b826e36f"
+    }
+  ],
+  "cover_visual_review": "passed",
+  "visual_defects": [],
+  "print_pdf": {
+    "sha256": "23ea34351d605c391d7058dd31b61b4c80bf74b6e901ed5f8a02a3981b13cab7",
+    "cover_on_pdf_side": 1,
+    "book_page": 1,
+    "pixels": [
+      874,
+      1275
+    ],
+    "effective_ppi": [
+      300.240058707731,
+      300.2399941790557
+    ],
+    "jpeg_byte_exact": true,
+    "rect_pt": [
+      705.9125366210938,
+      367.3070373535156,
+      915.5048217773438,
+      673.0624389648438
+    ]
+  },
+  "spreads_pdf": {
+    "sha256": "93c1534e90449dd9a919609b2477933ac8a945a729d380e4230a6019b2d001d9",
+    "cover_on_pdf_page": 1,
+    "book_page": 1,
+    "pixels": [
+      874,
+      1275
+    ],
+    "effective_ppi": [
+      300.240058707731,
+      300.2399941790557
+    ],
+    "jpeg_byte_exact": true,
+    "rect_pt": [
+      110.63690185546875,
+      244.00003051757812,
+      320.22918701171875,
+      549.7554321289062
+    ]
+  },
+  "scope": "Current footer-clean review, spread and A3 print PDFs: actual embedded cover JPEG bytes and final sampling density checked. Covers fully pixel-identical to previous edition in cover_unchanged_pdf_validation.json.",
+  "covers_fully_pixel_identical_to_previous_header_clean_edition": true,
+  "visually_inspected": [
+    "preview_28p.jpg",
+    "qa/Covers_Preview.jpg",
+    "qa/Footer_Detail_16.png"
+  ],
+  "visual_review_scope": "Current contact sheet, unchanged cover preview and enlarged currentPDF footerclip reviewed; actualPDFcover full-page pixel identity independently verified."
+}
