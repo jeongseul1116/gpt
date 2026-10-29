@@ -1,0 +1,198 @@
+{
+  "status": "passed",
+  "old_pdf_sha256": "3f2827bc4778662f88152118ba78449039b391d340104bd048c910bcafc83b75",
+  "new_pdf_sha256": "4b665ead8ba6ff6356e89cbefc945f1de601125ecad0ffe04eef607327634d31",
+  "untouched_pages_raster_identical": 27,
+  "render_scale": 1.25,
+  "pages": [
+    {
+      "logical_page": 1,
+      "width": 525,
+      "height": 745,
+      "differing_components": 0,
+      "max_difference": 0
+    },
+    {
+      "logical_page": 3,
+      "width": 525,
+      "height": 745,
+      "differing_components": 0,
+      "max_difference": 0
+    },
+    {
+      "logical_page": 4,
+      "width": 525,
+      "height": 745,
+      "differing_components": 0,
+      "max_difference": 0
+    },
+    {
+      "logical_page": 5,
+      "width": 525,
+      "height": 745,
+      "differing_components": 0,
+      "max_difference": 0
+    },
+    {
+      "logical_page": 6,
+      "width": 525,
+      "height": 745,
+      "differing_components": 0,
+      "max_difference": 0
+    },
+    {
+      "logical_page": 7,
+      "width": 525,
+      "height": 745,
+      "differing_components": 0,
+      "max_difference": 0
+    },
+    {
+      "logical_page": 8,
+      "width": 525,
+      "height": 745,
+      "differing_components": 0,
+      "max_difference": 0
+    },
+    {
+      "logical_page": 9,
+      "width": 525,
+      "height": 745,
+      "differing_components": 0,
+      "max_difference": 0
+    },
+    {
+      "logical_page": 10,
+      "width": 525,
+      "height": 745,
+      "differing_components": 0,
+      "max_difference": 0
+    },
+    {
+      "logical_page": 11,
+      "width": 525,
+      "height": 745,
+      "differing_components": 0,
+      "max_difference": 0
+    },
+    {
+      "logical_page": 12,
+      "width": 525,
+      "height": 745,
+      "differing_components": 0,
+      "max_difference": 0
+    },
+    {
+      "logical_page": 13,
+      "width": 525,
+      "height": 745,
+      "differing_components": 0,
+      "max_difference": 0
+    },
+    {
+      "logical_page": 14,
+      "width": 525,
+      "height": 745,
+      "differing_components": 0,
+      "max_difference": 0
+    },
+    {
+      "logical_page": 15,
+      "width": 525,
+      "height": 745,
+      "differing_components": 0,
+      "max_difference": 0
+    },
+    {
+      "logical_page": 16,
+      "width": 525,
+      "height": 745,
+      "differing_components": 0,
+      "max_difference": 0
+    },
+    {
+      "logical_page": 17,
+      "width": 525,
+      "height": 745,
+      "differing_components": 0,
+      "max_difference": 0
+    },
+    {
+      "logical_page": 18,
+      "width": 525,
+      "height": 745,
+      "differing_components": 0,
+      "max_difference": 0
+    },
+    {
+      "logical_page": 19,
+      "width": 525,
+      "height": 745,
+      "differing_components": 0,
+      "max_difference": 0
+    },
+    {
+      "logical_page": 20,
+      "width": 525,
+      "height": 745,
+      "differing_components": 0,
+      "max_difference": 0
+    },
+    {
+      "logical_page": 21,
+      "width": 525,
+      "height": 745,
+      "differing_components": 0,
+      "max_difference": 0
+    },
+    {
+      "logical_page": 22,
+      "width": 525,
+      "height": 745,
+      "differing_components": 0,
+      "max_difference": 0
+    },
+    {
+      "logical_page": 23,
+      "width": 525,
+      "height": 745,
+      "differing_components": 0,
+      "max_difference": 0
+    },
+    {
+      "logical_page": 24,
+      "width": 525,
+      "height": 745,
+      "differing_components": 0,
+      "max_difference": 0
+    },
+    {
+      "logical_page": 25,
+      "width": 525,
+      "height": 745,
+      "differing_components": 0,
+      "max_difference": 0
+    },
+    {
+      "logical_page": 26,
+      "width": 525,
+      "height": 745,
+      "differing_components": 0,
+      "max_difference": 0
+    },
+    {
+      "logical_page": 27,
+      "width": 525,
+      "height": 745,
+      "differing_components": 0,
+      "max_difference": 0
+    },
+    {
+      "logical_page": 28,
+      "width": 525,
+      "height": 745,
+      "differing_components": 0,
+      "max_difference": 0
+    }
+  ]
+}

@@ -1,19 +1,15 @@
-# TF 피드백과 전체 페이지 시스템 개정판
+# 목차·양면 인쇄 순서 수정판
 
-**쓸데없이 진지한 말투수집실** 콘셉트로 전체28쪽을 다시 정리했습니다. 안쪽14mm·바깥쪽10mm 미러 여백, 바깥 쪽번호, 공통 제목·카드 규칙을 적용하고 TF 폰트 분석·구체적인 내 인상·실제 글자 도해를 넣었습니다.
+2쪽에 목차를 추가하고 전체28쪽을 유지했습니다. 양면 출력본은 접으면1–28쪽이 이어지는 중철 순서입니다.
 
-- **[재단선·3mm 도련 포함 A3 인쇄용 PDF](submission-tf-system/PDF/Meme_Font_Book_System_A3_Print.pdf)**
-- [전체28쪽 검토용 PDF](submission-tf-system/PDF/Meme_Font_Book_System_28p_Review.pdf)
-- [펼침면 검토용 PDF](submission-tf-system/PDF/Meme_Font_Book_System_Spreads_Review.pdf)
-- [IDML·PDF·기획안 전체 파일 ZIP](https://github.com/jeongseul1116/gpt/raw/refs/heads/main/Meme_Font_Book_TF_System_28p.zip)
-- [전체28쪽 한눈에 보기](submission-tf-system/preview_28p.jpg)
-- [TF 폰트 분석4–5쪽](submission-tf-system/TF_Analysis_04_05.jpg)
-- [페이지 시스템6–7쪽](submission-tf-system/System_06_07.jpg)
-- [실제 도련과 재단선](submission-tf-system/A3_Bleed_04.png)
-- [8쪽 기획안](submission-tf-system/Planning_TF_System_GoogleDocs.docx)
+- **[A3 양면 인쇄용 PDF](submission-contents-duplex/PDF/Meme_Font_Book_System_A3_Duplex_Booklet.pdf)**
+- [전체28쪽 보기](submission-contents-duplex/PDF/Meme_Font_Book_System_28p_Review.pdf)
+- [독서 순서 펼침면 보기](submission-contents-duplex/PDF/Meme_Font_Book_System_Spreads_Review.pdf)
+- [IDML·PDF·기획안 전체 ZIP](https://github.com/jeongseul1116/gpt/raw/refs/heads/main/Meme_Font_Book_Contents_Duplex_28p.zip)
+- [목차와 인트로 미리보기](submission-contents-duplex/Contents_Intro_02_03.jpg)
+- [전체 페이지 미리보기](submission-contents-duplex/preview_28p.jpg)
+- [양면 출력과 조립 안내](submission-contents-duplex/README_KO.md)
 
-인쇄는 A3 가로·단면·실제 크기100%입니다. 본문 색상 탭이 실제3mm 도련까지 이어지고 표지·뒷표지는 흰 도련입니다. 전체28쪽이 A3 14장에 배치돼 있습니다.
+**A3 가로·양면·짧은 쪽으로 넘김·실제 크기100%**로 출력합니다. 이미 면조립했으므로 **소책자·모아찍기·용지 맞춤은 끕니다**. PDF14면은 종이7장의 앞·뒷면입니다. 첫 장 앞면28/01, 뒷면02/27입니다. 재단선·실제3mm도련을 포함했습니다.
 
-실제12폰트를 사용했고 밈 비교견본126개·폰트도감견본12개·글자도해21개를 넣었습니다. ‘같은 말, 다른 느낌쓰’, 흰 표지 사진과15개밈을 유지했습니다. 지면의 용어는 ‘폰트’, 해설은 왼쪽 정렬과 자연스러운 간격입니다. 표정 이모티콘과 AA 그림은 지면에 없습니다.
-
-폰트 원본은 동봉하지 않았으며 편집에 필요한 이름과 출처는 font_records에 있습니다. IDML·JSX는 정적 검수했고 실제 Adobe InDesign 실행·내보내기는 미검증입니다. 현재 제출물은 submission-tf-system 폴더이며 [자세한 안내](submission-tf-system/README_KO.md)를 참고하세요.
+3쪽 인트로를 포함한 다른27쪽은 이전판과 동일하며 TF폰트분석·구체적인개인인상·12폰트와2열비교를 유지했습니다. IDML은 정적검수했고 실제 InDesign 실행과 실물프린터 출력은 미검증입니다. 현재판은 submission-contents-duplex 폴더입니다.

@@ -1,0 +1,208 @@
+{
+  "status": "passed",
+  "docx": "Planning_28p_GoogleDocs.docx",
+  "revision": "2쪽 목차와 A3 양면7장 중철용 출력을 반영한 말투 수집실 기획안",
+  "pages_in_QA_render": 8,
+  "all_eight_pages_visually_inspected": true,
+  "page_map_entries": 28,
+  "teacher_feedback_criteria_count": 2,
+  "TF_feedback_criteria_count": 4,
+  "feedback_rule_and_page_evidence_table": true,
+  "TF_expansion_inferred": false,
+  "unprovided_analysis_report_quoted": false,
+  "new_observations_and_first_person_impressions": true,
+  "all_12_font_profiles_exact_to_approved_draft": true,
+  "actual_typeface_count": 12,
+  "book_concept": "쓸데없이 진지한 말투 수집실",
+  "reader_path": [
+    "원문 접수",
+    "폰트 대조",
+    "말투 판정"
+  ],
+  "reader_term_policy": "폰트",
+  "rendered_Docx_text_서체_occurrences": 0,
+  "all_document_header_footer_and_table_paragraphs_left_aligned": true,
+  "no_artificial_wide_spaces_or_extra_tracking": true,
+  "geometry": {
+    "book_A5_mm": [
+      148,
+      210
+    ],
+    "book_logical_pages": 28,
+    "inner_margin_mm": 14,
+    "outer_margin_mm": 10,
+    "folios_at_outer_edges": true,
+    "bleed_mm": 3,
+    "coloured_navigation_tabs_extend_through_bleed": true
+  },
+  "contents": {
+    "book_page": 2,
+    "preface_page": 3,
+    "previous_dedication_removed_from_plan": true,
+    "other_27_book_pages_unchanged": true
+  },
+  "duplex_print": {
+    "paper": "A3 landscape",
+    "paper_sheets": 7,
+    "printed_sides": 14,
+    "duplex_flip": "short_edge",
+    "scale_percent": 100,
+    "already_imposed_booklet": true,
+    "booklet_multi_page_and_fit_driver_options_off": true,
+    "pairs": [
+      [
+        28,
+        1
+      ],
+      [
+        2,
+        27
+      ],
+      [
+        26,
+        3
+      ],
+      [
+        4,
+        25
+      ],
+      [
+        24,
+        5
+      ],
+      [
+        6,
+        23
+      ],
+      [
+        22,
+        7
+      ],
+      [
+        8,
+        21
+      ],
+      [
+        20,
+        9
+      ],
+      [
+        10,
+        19
+      ],
+      [
+        18,
+        11
+      ],
+      [
+        12,
+        17
+      ],
+      [
+        16,
+        13
+      ],
+      [
+        14,
+        15
+      ]
+    ],
+    "print_pdf": "Meme_Font_Book_System_A3_Duplex_Booklet.pdf",
+    "print_pdf_sha256": "58b9881cd7aae930967eaf5a7dad8e2b3cbbb6f4f5dd856fa14cc706c760162e",
+    "encoded_duplex_and_actual_scale_preferences_verified": true,
+    "assembly": "Trim outer crop marks, nest seven sheets in output order and fold at the centre",
+    "old_single_sided_14_sheet_instruction_absent": true
+  },
+  "actual_glyph_graph": {
+    "glyph": "가",
+    "point_size": 24,
+    "legend": "빨간 선=글자의 폭 / 검은 면=획 / 분홍 면=관찰 영역",
+    "red_line": "actual_advance_width",
+    "black_plane": "actual_font_glyph",
+    "pink_plane": "observation_region",
+    "baseline_present": true,
+    "invented_area_ratios": false,
+    "image_provenance": "font_graph_detail_provenance.json"
+  },
+  "navigation_color_legend": "빨강=원문 접수 / 노랑=폰트 대조 / 검정=안내",
+  "selected_sources": 15,
+  "collected_sources": 17,
+  "replacement_wording": "가보자고",
+  "replacement_version_count": 1,
+  "source_policy": "보관 원문17개와 별도 교체1버전 유지. 얼굴 AA와 군중 이모지 제외. 지면 편집본은 보관 원문과 구분",
+  "comparison_method": {
+    "atlas_pt": 18,
+    "full_pages": [
+      7,
+      9,
+      11,
+      13,
+      17,
+      19,
+      21,
+      23,
+      25
+    ],
+    "full_count": 10,
+    "full_pt": 11,
+    "full_grid": [
+      2,
+      5
+    ],
+    "compact_pages": [
+      14,
+      15,
+      26
+    ],
+    "compact_count": 6,
+    "compact_pt": 11,
+    "compact_grid": [
+      2,
+      3
+    ],
+    "short_page": 27,
+    "short_meme_count": 3,
+    "short_font_count": 6,
+    "short_pt": 9.5,
+    "short_grid": [
+      3,
+      2
+    ],
+    "meme_specimens_excluding_atlas": 126,
+    "atlas_specimens": 12
+  },
+  "embedded_current_images": {
+    "moodboard": {
+      "path": "moodboard.png",
+      "sha256": "dd2363399f9d9c0af0b3aed6ded02bf8d0143747a684f145099b97c42af7b3d0"
+    },
+    "current_spread": {
+      "path": "qa/spreads/spread_06_07.jpg",
+      "sha256": "5207748b4575c1f7f10eb19f8a5939db40cdf3fd6ab495ccc8d0b478567d4ee9"
+    },
+    "actual_glyph_graph_detail": {
+      "path": "planning/font_graph_detail.png",
+      "sha256": "34408285d86d76e9fff23131250316a8ed09d002d48bb460b4801765e01536d4"
+    }
+  },
+  "raw_font_binary_embedded": false,
+  "Google_Docs_title_sanitizer": "passed",
+  "ZIP_CRC": "passed",
+  "visual_review": {
+    "clipping": false,
+    "overlap": false,
+    "broken_tables": false,
+    "glyph_graph_and_legend_legible": true,
+    "left_alignment_and_natural_spacing_consistent": true,
+    "all_page_evidence_current": true
+  },
+  "Google_Docs_created": false,
+  "InDesign_runtime_tested": false,
+  "physical_printer_tested": false,
+  "docx_sha256": "21d9a5397a74c63e16f7827656faa6f63b94fbcbb7f4599437473b0ddc1e217b",
+  "layout_sha256": "aa380449b2942b2b02e0e3dcafa307f6e47697c332b0806a0424161a1b647ae6",
+  "planning_data_sha256": "9bccd1fc5c3ad6b24953a21eb01342366365216c3bccd2a196ea158d6e02c179",
+  "TF_editorial_sha256": "b231048e8a4283fd8496a91f87bc44685e243c4810a450b0dcdaafecb8cea5cc",
+  "font_catalog_current_sha256": "f68eb249250be104b31aa56a4da753a0f67551fb12167a5c9009c27cba4a9f93",
+  "QA_pdf": "/workspace/final28/revision_contents_duplex/planning/rendered_final/Planning_28p_GoogleDocs.pdf"
+}
