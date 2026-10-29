@@ -1,0 +1,303 @@
+[
+  {
+    "physical_page": 2,
+    "index": 5,
+    "role": "folio",
+    "before": "02",
+    "after": "01"
+  },
+  {
+    "physical_page": 3,
+    "index": 8,
+    "role": "folio",
+    "before": "03",
+    "after": "02"
+  },
+  {
+    "physical_page": 4,
+    "index": 53,
+    "role": "folio",
+    "before": "04",
+    "after": "03"
+  },
+  {
+    "physical_page": 5,
+    "index": 53,
+    "role": "folio",
+    "before": "05",
+    "after": "04"
+  },
+  {
+    "physical_page": 6,
+    "index": 53,
+    "role": "folio",
+    "before": "06",
+    "after": "05"
+  },
+  {
+    "physical_page": 7,
+    "index": 53,
+    "role": "folio",
+    "before": "07",
+    "after": "06"
+  },
+  {
+    "physical_page": 8,
+    "index": 53,
+    "role": "folio",
+    "before": "08",
+    "after": "07"
+  },
+  {
+    "physical_page": 9,
+    "index": 53,
+    "role": "folio",
+    "before": "09",
+    "after": "08"
+  },
+  {
+    "physical_page": 10,
+    "index": 53,
+    "role": "folio",
+    "before": "10",
+    "after": "09"
+  },
+  {
+    "physical_page": 11,
+    "index": 53,
+    "role": "folio",
+    "before": "11",
+    "after": "10"
+  },
+  {
+    "physical_page": 12,
+    "index": 53,
+    "role": "folio",
+    "before": "12",
+    "after": "11"
+  },
+  {
+    "physical_page": 13,
+    "index": 53,
+    "role": "folio",
+    "before": "13",
+    "after": "12"
+  },
+  {
+    "physical_page": 14,
+    "index": 53,
+    "role": "folio",
+    "before": "14",
+    "after": "13"
+  },
+  {
+    "physical_page": 15,
+    "index": 53,
+    "role": "folio",
+    "before": "15",
+    "after": "14"
+  },
+  {
+    "physical_page": 16,
+    "index": 53,
+    "role": "folio",
+    "before": "16",
+    "after": "15"
+  },
+  {
+    "physical_page": 17,
+    "index": 53,
+    "role": "folio",
+    "before": "17",
+    "after": "16"
+  },
+  {
+    "physical_page": 18,
+    "index": 53,
+    "role": "folio",
+    "before": "18",
+    "after": "17"
+  },
+  {
+    "physical_page": 19,
+    "index": 53,
+    "role": "folio",
+    "before": "19",
+    "after": "18"
+  },
+  {
+    "physical_page": 20,
+    "index": 53,
+    "role": "folio",
+    "before": "20",
+    "after": "19"
+  },
+  {
+    "physical_page": 21,
+    "index": 53,
+    "role": "folio",
+    "before": "21",
+    "after": "20"
+  },
+  {
+    "physical_page": 22,
+    "index": 53,
+    "role": "folio",
+    "before": "22",
+    "after": "21"
+  },
+  {
+    "physical_page": 23,
+    "index": 53,
+    "role": "folio",
+    "before": "23",
+    "after": "22"
+  },
+  {
+    "physical_page": 24,
+    "index": 53,
+    "role": "folio",
+    "before": "24",
+    "after": "23"
+  },
+  {
+    "physical_page": 25,
+    "index": 53,
+    "role": "folio",
+    "before": "25",
+    "after": "24"
+  },
+  {
+    "physical_page": 26,
+    "index": 53,
+    "role": "folio",
+    "before": "26",
+    "after": "25"
+  },
+  {
+    "physical_page": 27,
+    "index": 53,
+    "role": "folio",
+    "before": "27",
+    "after": "26"
+  },
+  {
+    "physical_page": 2,
+    "index": 58,
+    "role": "contents_reference",
+    "before": "03",
+    "after": "02"
+  },
+  {
+    "physical_page": 2,
+    "index": 61,
+    "role": "contents_reference",
+    "before": "04–05",
+    "after": "03–04"
+  },
+  {
+    "physical_page": 2,
+    "index": 64,
+    "role": "contents_reference",
+    "before": "06–07",
+    "after": "05–06"
+  },
+  {
+    "physical_page": 2,
+    "index": 67,
+    "role": "contents_reference",
+    "before": "08–09",
+    "after": "07–08"
+  },
+  {
+    "physical_page": 2,
+    "index": 70,
+    "role": "contents_reference",
+    "before": "10–11",
+    "after": "09–10"
+  },
+  {
+    "physical_page": 2,
+    "index": 73,
+    "role": "contents_reference",
+    "before": "12–13",
+    "after": "11–12"
+  },
+  {
+    "physical_page": 2,
+    "index": 76,
+    "role": "contents_reference",
+    "before": "14",
+    "after": "13"
+  },
+  {
+    "physical_page": 2,
+    "index": 79,
+    "role": "contents_reference",
+    "before": "15",
+    "after": "14"
+  },
+  {
+    "physical_page": 2,
+    "index": 82,
+    "role": "contents_reference",
+    "before": "16–17",
+    "after": "15–16"
+  },
+  {
+    "physical_page": 2,
+    "index": 85,
+    "role": "contents_reference",
+    "before": "18–19",
+    "after": "17–18"
+  },
+  {
+    "physical_page": 2,
+    "index": 88,
+    "role": "contents_reference",
+    "before": "20–21",
+    "after": "19–20"
+  },
+  {
+    "physical_page": 2,
+    "index": 91,
+    "role": "contents_reference",
+    "before": "22–23",
+    "after": "21–22"
+  },
+  {
+    "physical_page": 2,
+    "index": 94,
+    "role": "contents_reference",
+    "before": "24–25",
+    "after": "23–24"
+  },
+  {
+    "physical_page": 2,
+    "index": 97,
+    "role": "contents_reference",
+    "before": "26",
+    "after": "25"
+  },
+  {
+    "physical_page": 2,
+    "index": 100,
+    "role": "contents_reference",
+    "before": "27",
+    "after": "26"
+  },
+  {
+    "physical_page": 2,
+    "index": 103,
+    "role": "contents_reference",
+    "before": "28",
+    "after": "뒤표지"
+  },
+  {
+    "physical_page": 2,
+    "index": 105,
+    "role": "contents_note",
+    "before": "27쪽의 한마디: 야르 / 밤티 / 이태민 이태민 이태민",
+    "after": "26쪽의 한마디: 야르 / 밤티 / 이태민 이태민 이태민"
+  }
+]

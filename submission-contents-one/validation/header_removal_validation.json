@@ -1,0 +1,45 @@
+{
+  "status": "passed",
+  "scope": "Preservation of the historical 55 header and 26 footer-label removals through the current 43 pagination text changes",
+  "layout_sha256": "b79332efb9840d786ee486e53bc3f8a7eb320a9c16619136382e42f13f89831f",
+  "header_removal_original_baseline_layout_sha256": "c994aee319c696119dad7bfdd7e85c9a8d5347db82051707b4bb5a7e28565d7a",
+  "header_clean_layout_sha256": "5d3eb6a0dd9c60d6aab6db328dcc93600cd47fa43d415dbaa4923df743e17d9d",
+  "footer_clean_pagination_baseline_layout_sha256": "5cb0dd1e8b13b3cf859bad0d3700868d82a3d0ad3e74877a65c97c7d63161573",
+  "prior_header_deleted_text_frame_count": 55,
+  "prior_header_deleted_by_role": {
+    "section_kicker": 28,
+    "running_head": 27
+  },
+  "each_prior_deleted_header_matches_original_item_and_index": true,
+  "previous_edition_exactly_matches_original_minus_55_headers": true,
+  "all_55_prior_header_frames_still_absent": true,
+  "all_27_running_heads_still_absent": true,
+  "all_28_section_kickers_still_absent": true,
+  "historical_footer_label_removal_count": 26,
+  "footer_clean_layout_equals_header_clean_minus_requested_footer_labels": true,
+  "current_pagination_text_change_count": 43,
+  "current_pagination_text_changes_by_role": {
+    "folio": 26,
+    "contents_reference": 16,
+    "contents_note": 1
+  },
+  "current_layout_equals_footer_clean_with_only_43_manifest_text_changes": true,
+  "all_other_records_and_all_geometry_deep_equal_in_previous_order": true,
+  "both_cover_pages_equal_immediate_previous_edition": true,
+  "all_26_body_footer_rules_and_folio_boxes_preserved": true,
+  "all_26_body_folio_geometry_preserved_with_pagination_text_rebased": true,
+  "both_cover_footer_roles_still_absent": true,
+  "cover_PNG_byte_exact_unchanged": true,
+  "native_artifact_validation": "Separate static native, geometry, and footer-removal audits; current artifact hashes recorded here",
+  "actual_InDesign_runtime_tested": false,
+  "files": {
+    "Meme_Font_Book_System_28p.idml": {
+      "bytes": 943617,
+      "sha256": "522ca7719c55bb77963f794b873911270a5e6f2fe039438afd2e422e27375b62"
+    },
+    "Create_System_28p.jsx": {
+      "bytes": 586090,
+      "sha256": "c9080f4e049054e6d77e6619f3d1ecb0e3ba937f38d23c8cef435e61c3568811"
+    }
+  }
+}

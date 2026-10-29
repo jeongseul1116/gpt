@@ -1,0 +1,33 @@
+{
+  "status": "passed",
+  "scope": "Cover-footer preservation through the historical deletions and current pagination text changes",
+  "layout_sha256": "b79332efb9840d786ee486e53bc3f8a7eb320a9c16619136382e42f13f89831f",
+  "checked_cover_pages": [
+    1,
+    28
+  ],
+  "absent_roles": [
+    "folio",
+    "folio_box",
+    "footer_label",
+    "footer_rule"
+  ],
+  "both_cover_footers_folios_and_rules_absent": true,
+  "both_cover_pages_deep_equal_immediate_footer_clean_previous_edition": true,
+  "all_26_body_footer_rules_and_folio_boxes_equal_previous_edition": true,
+  "all_26_body_folio_geometry_equal_previous_edition": true,
+  "all_26_body_folio_texts_rebased_to_contents_page_01": true,
+  "all_26_historical_body_footer_labels_still_absent": true,
+  "current_pagination_text_change_count": 43,
+  "actual_InDesign_runtime_tested": false,
+  "files": {
+    "Meme_Font_Book_System_28p.idml": {
+      "bytes": 943617,
+      "sha256": "522ca7719c55bb77963f794b873911270a5e6f2fe039438afd2e422e27375b62"
+    },
+    "Create_System_28p.jsx": {
+      "bytes": 586090,
+      "sha256": "c9080f4e049054e6d77e6619f3d1ecb0e3ba937f38d23c8cef435e61c3568811"
+    }
+  }
+}

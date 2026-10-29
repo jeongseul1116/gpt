@@ -1,0 +1,1326 @@
+{
+  "status": "passed",
+  "scope": "Compare all 28 current logical PDF pages at 2x against footer-clean edition. Only 43 approved text-frame masks padded by 2pt contain pixel differences.",
+  "pdf_sha256": "94be5d8f7bea59433a3813eacab091e8f80c0b441d493f992cec5430cf2014d9",
+  "previous_pdf_sha256": "3357cb40be3c959db140a08f7cacc14fc5e759c6a834c7934bc782a9d820d79f",
+  "current_pdf_hashes": {
+    "Meme_Font_Book_System_28p_Review.pdf": "94be5d8f7bea59433a3813eacab091e8f80c0b441d493f992cec5430cf2014d9",
+    "Meme_Font_Book_System_A3_Duplex_Booklet.pdf": "c01837360e7418d651eea97f171be5db2c30e892515a6eb748af81693a6055e7",
+    "Meme_Font_Book_System_Spreads_Review.pdf": "73177fbe26c86bde71bfcc66b8cbaf0a51ebe604b5026c6ef0ca1ff8454176f1"
+  },
+  "logical_pages_checked": 28,
+  "render_scale": 2,
+  "mask_padding_pt": 2,
+  "changed_mask_count": 43,
+  "changed_physical_pages": [
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27
+  ],
+  "all_pixels_outside_43_masks_identical": true,
+  "all_43_changed_text_regions_have_visible_changes": true,
+  "covers_fully_pixel_identical_on_physical_pages": [
+    1,
+    28
+  ],
+  "horizontal_rules_pixel_exact": true,
+  "folio_black_box_layout_records_identical": true,
+  "contents_links_preserved": 16,
+  "contents_links_semantically_identical": true,
+  "contents_physical_destinations_unchanged": true,
+  "bookmarks_preserved": 16,
+  "bookmarks_identical": true,
+  "PDF_page_labels": [
+    "표지",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24",
+    "25",
+    "26",
+    "뒤표지"
+  ],
+  "PDF_page_label_rules": [
+    {
+      "startpage": 0,
+      "prefix": "<FEFFD45CC9C0>",
+      "firstpagenum": 1
+    },
+    {
+      "startpage": 1,
+      "prefix": "",
+      "firstpagenum": 1,
+      "style": "D"
+    },
+    {
+      "startpage": 27,
+      "prefix": "<FEFFB4A4D45CC9C0>",
+      "firstpagenum": 1
+    }
+  ],
+  "unchanged_cover_preview_sha256": {
+    "qa/Covers_Preview.jpg": "e886e0340d9a69efb3fbcb4c1a66670b6b93b5ef846d903e6239c4f6da07dc43",
+    "qa/Cover_Title_Detail.png": "33e761f1637c554e24c1840636864de702be02f362c899deda76403278ec487b"
+  },
+  "current_visual_detail": "qa/Footer_Detail_16.png",
+  "current_contents_preview": "qa_cover/Contents_Page_01_2x.png",
+  "current_folio_preview": "qa_cover/Current_Folio_Details.png",
+  "pages": [
+    {
+      "physical_page": 1,
+      "width": 840,
+      "height": 1191,
+      "changed_text_regions": [],
+      "pixels_changed_inside_masks": 0,
+      "pixels_changed_outside_masks": 0,
+      "horizontal_rule_patches_pixel_exact": [
+        "top_rule"
+      ],
+      "whole_page_pixel_exact": true
+    },
+    {
+      "physical_page": 2,
+      "width": 840,
+      "height": 1191,
+      "changed_text_regions": [
+        {
+          "role": "folio",
+          "before": "02",
+          "after": "01",
+          "frame_rect_pt": [
+            33.34645669291339,
+            572,
+            49.34645669291339,
+            585
+          ],
+          "mask_rect_px": [
+            62,
+            1140,
+            103,
+            1174
+          ],
+          "pixels_changed": 85
+        },
+        {
+          "role": "contents_reference",
+          "before": "03",
+          "after": "02",
+          "frame_rect_pt": [
+            336.8425196850394,
+            161.0,
+            374.8425196850394,
+            177.0
+          ],
+          "mask_rect_px": [
+            669,
+            318,
+            754,
+            358
+          ],
+          "pixels_changed": 90
+        },
+        {
+          "role": "contents_reference",
+          "before": "04–05",
+          "after": "03–04",
+          "frame_rect_pt": [
+            336.8425196850394,
+            184.25,
+            374.8425196850394,
+            200.25
+          ],
+          "mask_rect_px": [
+            669,
+            364,
+            754,
+            405
+          ],
+          "pixels_changed": 205
+        },
+        {
+          "role": "contents_reference",
+          "before": "06–07",
+          "after": "05–06",
+          "frame_rect_pt": [
+            336.8425196850394,
+            207.5,
+            374.8425196850394,
+            223.5
+          ],
+          "mask_rect_px": [
+            669,
+            411,
+            754,
+            451
+          ],
+          "pixels_changed": 191
+        },
+        {
+          "role": "contents_reference",
+          "before": "08–09",
+          "after": "07–08",
+          "frame_rect_pt": [
+            336.8425196850394,
+            230.75,
+            374.8425196850394,
+            246.75
+          ],
+          "mask_rect_px": [
+            669,
+            457,
+            754,
+            498
+          ],
+          "pixels_changed": 204
+        },
+        {
+          "role": "contents_reference",
+          "before": "10–11",
+          "after": "09–10",
+          "frame_rect_pt": [
+            336.8425196850394,
+            254.0,
+            374.8425196850394,
+            270.0
+          ],
+          "mask_rect_px": [
+            669,
+            504,
+            754,
+            544
+          ],
+          "pixels_changed": 307
+        },
+        {
+          "role": "contents_reference",
+          "before": "12–13",
+          "after": "11–12",
+          "frame_rect_pt": [
+            336.8425196850394,
+            277.25,
+            374.8425196850394,
+            293.25
+          ],
+          "mask_rect_px": [
+            669,
+            550,
+            754,
+            591
+          ],
+          "pixels_changed": 157
+        },
+        {
+          "role": "contents_reference",
+          "before": "14",
+          "after": "13",
+          "frame_rect_pt": [
+            336.8425196850394,
+            300.5,
+            374.8425196850394,
+            316.5
+          ],
+          "mask_rect_px": [
+            669,
+            597,
+            754,
+            637
+          ],
+          "pixels_changed": 102
+        },
+        {
+          "role": "contents_reference",
+          "before": "15",
+          "after": "14",
+          "frame_rect_pt": [
+            336.8425196850394,
+            323.75,
+            374.8425196850394,
+            339.75
+          ],
+          "mask_rect_px": [
+            669,
+            643,
+            754,
+            684
+          ],
+          "pixels_changed": 96
+        },
+        {
+          "role": "contents_reference",
+          "before": "16–17",
+          "after": "15–16",
+          "frame_rect_pt": [
+            336.8425196850394,
+            347.0,
+            374.8425196850394,
+            363.0
+          ],
+          "mask_rect_px": [
+            669,
+            690,
+            754,
+            730
+          ],
+          "pixels_changed": 191
+        },
+        {
+          "role": "contents_reference",
+          "before": "18–19",
+          "after": "17–18",
+          "frame_rect_pt": [
+            336.8425196850394,
+            370.25,
+            374.8425196850394,
+            386.25
+          ],
+          "mask_rect_px": [
+            669,
+            736,
+            754,
+            777
+          ],
+          "pixels_changed": 204
+        },
+        {
+          "role": "contents_reference",
+          "before": "20–21",
+          "after": "19–20",
+          "frame_rect_pt": [
+            336.8425196850394,
+            393.5,
+            374.8425196850394,
+            409.5
+          ],
+          "mask_rect_px": [
+            669,
+            783,
+            754,
+            823
+          ],
+          "pixels_changed": 273
+        },
+        {
+          "role": "contents_reference",
+          "before": "22–23",
+          "after": "21–22",
+          "frame_rect_pt": [
+            336.8425196850394,
+            416.75,
+            374.8425196850394,
+            432.75
+          ],
+          "mask_rect_px": [
+            669,
+            829,
+            754,
+            870
+          ],
+          "pixels_changed": 157
+        },
+        {
+          "role": "contents_reference",
+          "before": "24–25",
+          "after": "23–24",
+          "frame_rect_pt": [
+            336.8425196850394,
+            440.0,
+            374.8425196850394,
+            456.0
+          ],
+          "mask_rect_px": [
+            669,
+            876,
+            754,
+            916
+          ],
+          "pixels_changed": 202
+        },
+        {
+          "role": "contents_reference",
+          "before": "26",
+          "after": "25",
+          "frame_rect_pt": [
+            336.8425196850394,
+            463.25,
+            374.8425196850394,
+            479.25
+          ],
+          "mask_rect_px": [
+            669,
+            922,
+            754,
+            963
+          ],
+          "pixels_changed": 89
+        },
+        {
+          "role": "contents_reference",
+          "before": "27",
+          "after": "26",
+          "frame_rect_pt": [
+            336.8425196850394,
+            486.5,
+            374.8425196850394,
+            502.5
+          ],
+          "mask_rect_px": [
+            669,
+            969,
+            754,
+            1009
+          ],
+          "pixels_changed": 104
+        },
+        {
+          "role": "contents_reference",
+          "before": "28",
+          "after": "뒤표지",
+          "frame_rect_pt": [
+            336.8425196850394,
+            509.75,
+            374.8425196850394,
+            525.75
+          ],
+          "mask_rect_px": [
+            669,
+            1015,
+            754,
+            1056
+          ],
+          "pixels_changed": 440
+        },
+        {
+          "role": "contents_note",
+          "before": "27쪽의 한마디: 야르 / 밤티 / 이태민 이태민 이태민",
+          "after": "26쪽의 한마디: 야르 / 밤티 / 이태민 이태민 이태민",
+          "frame_rect_pt": [
+            28.34645669291339,
+            542,
+            379.8425196850394,
+            554
+          ],
+          "mask_rect_px": [
+            52,
+            1080,
+            764,
+            1112
+          ],
+          "pixels_changed": 75
+        }
+      ],
+      "pixels_changed_inside_masks": 3172,
+      "pixels_changed_outside_masks": 0,
+      "horizontal_rule_patches_pixel_exact": [
+        "top_rule",
+        "footer_rule"
+      ],
+      "whole_page_pixel_exact": false
+    },
+    {
+      "physical_page": 3,
+      "width": 840,
+      "height": 1191,
+      "changed_text_regions": [
+        {
+          "role": "folio",
+          "before": "03",
+          "after": "02",
+          "frame_rect_pt": [
+            371.18110236218666,
+            572,
+            387.18110236218666,
+            585
+          ],
+          "mask_rect_px": [
+            738,
+            1140,
+            779,
+            1174
+          ],
+          "pixels_changed": 79
+        }
+      ],
+      "pixels_changed_inside_masks": 79,
+      "pixels_changed_outside_masks": 0,
+      "horizontal_rule_patches_pixel_exact": [
+        "top_rule",
+        "footer_rule"
+      ],
+      "whole_page_pixel_exact": false
+    },
+    {
+      "physical_page": 4,
+      "width": 840,
+      "height": 1191,
+      "changed_text_regions": [
+        {
+          "role": "folio",
+          "before": "04",
+          "after": "03",
+          "frame_rect_pt": [
+            33.34645669291339,
+            572,
+            49.34645669291339,
+            585
+          ],
+          "mask_rect_px": [
+            62,
+            1140,
+            103,
+            1174
+          ],
+          "pixels_changed": 115
+        }
+      ],
+      "pixels_changed_inside_masks": 115,
+      "pixels_changed_outside_masks": 0,
+      "horizontal_rule_patches_pixel_exact": [
+        "top_rule",
+        "footer_rule"
+      ],
+      "whole_page_pixel_exact": false
+    },
+    {
+      "physical_page": 5,
+      "width": 840,
+      "height": 1191,
+      "changed_text_regions": [
+        {
+          "role": "folio",
+          "before": "05",
+          "after": "04",
+          "frame_rect_pt": [
+            371.18110236218666,
+            572,
+            387.18110236218666,
+            585
+          ],
+          "mask_rect_px": [
+            738,
+            1140,
+            779,
+            1174
+          ],
+          "pixels_changed": 111
+        }
+      ],
+      "pixels_changed_inside_masks": 111,
+      "pixels_changed_outside_masks": 0,
+      "horizontal_rule_patches_pixel_exact": [
+        "top_rule",
+        "footer_rule"
+      ],
+      "whole_page_pixel_exact": false
+    },
+    {
+      "physical_page": 6,
+      "width": 840,
+      "height": 1191,
+      "changed_text_regions": [
+        {
+          "role": "folio",
+          "before": "06",
+          "after": "05",
+          "frame_rect_pt": [
+            33.34645669291339,
+            572,
+            49.34645669291339,
+            585
+          ],
+          "mask_rect_px": [
+            62,
+            1140,
+            103,
+            1174
+          ],
+          "pixels_changed": 82
+        }
+      ],
+      "pixels_changed_inside_masks": 82,
+      "pixels_changed_outside_masks": 0,
+      "horizontal_rule_patches_pixel_exact": [
+        "top_rule",
+        "footer_rule"
+      ],
+      "whole_page_pixel_exact": false
+    },
+    {
+      "physical_page": 7,
+      "width": 840,
+      "height": 1191,
+      "changed_text_regions": [
+        {
+          "role": "folio",
+          "before": "07",
+          "after": "06",
+          "frame_rect_pt": [
+            371.18110236218666,
+            572,
+            387.18110236218666,
+            585
+          ],
+          "mask_rect_px": [
+            738,
+            1140,
+            779,
+            1174
+          ],
+          "pixels_changed": 120
+        }
+      ],
+      "pixels_changed_inside_masks": 120,
+      "pixels_changed_outside_masks": 0,
+      "horizontal_rule_patches_pixel_exact": [
+        "top_rule",
+        "footer_rule"
+      ],
+      "whole_page_pixel_exact": false
+    },
+    {
+      "physical_page": 8,
+      "width": 840,
+      "height": 1191,
+      "changed_text_regions": [
+        {
+          "role": "folio",
+          "before": "08",
+          "after": "07",
+          "frame_rect_pt": [
+            33.34645669291339,
+            572,
+            49.34645669291339,
+            585
+          ],
+          "mask_rect_px": [
+            62,
+            1140,
+            103,
+            1174
+          ],
+          "pixels_changed": 121
+        }
+      ],
+      "pixels_changed_inside_masks": 121,
+      "pixels_changed_outside_masks": 0,
+      "horizontal_rule_patches_pixel_exact": [
+        "top_rule",
+        "footer_rule"
+      ],
+      "whole_page_pixel_exact": false
+    },
+    {
+      "physical_page": 9,
+      "width": 840,
+      "height": 1191,
+      "changed_text_regions": [
+        {
+          "role": "folio",
+          "before": "09",
+          "after": "08",
+          "frame_rect_pt": [
+            371.18110236218666,
+            572,
+            387.18110236218666,
+            585
+          ],
+          "mask_rect_px": [
+            738,
+            1140,
+            779,
+            1174
+          ],
+          "pixels_changed": 105
+        }
+      ],
+      "pixels_changed_inside_masks": 105,
+      "pixels_changed_outside_masks": 0,
+      "horizontal_rule_patches_pixel_exact": [
+        "top_rule",
+        "footer_rule"
+      ],
+      "whole_page_pixel_exact": false
+    },
+    {
+      "physical_page": 10,
+      "width": 840,
+      "height": 1191,
+      "changed_text_regions": [
+        {
+          "role": "folio",
+          "before": "10",
+          "after": "09",
+          "frame_rect_pt": [
+            33.34645669291339,
+            572,
+            49.34645669291339,
+            585
+          ],
+          "mask_rect_px": [
+            62,
+            1140,
+            103,
+            1174
+          ],
+          "pixels_changed": 213
+        }
+      ],
+      "pixels_changed_inside_masks": 213,
+      "pixels_changed_outside_masks": 0,
+      "horizontal_rule_patches_pixel_exact": [
+        "top_rule",
+        "footer_rule"
+      ],
+      "whole_page_pixel_exact": false
+    },
+    {
+      "physical_page": 11,
+      "width": 840,
+      "height": 1191,
+      "changed_text_regions": [
+        {
+          "role": "folio",
+          "before": "11",
+          "after": "10",
+          "frame_rect_pt": [
+            371.18110236218666,
+            572,
+            387.18110236218666,
+            585
+          ],
+          "mask_rect_px": [
+            738,
+            1140,
+            779,
+            1174
+          ],
+          "pixels_changed": 125
+        }
+      ],
+      "pixels_changed_inside_masks": 125,
+      "pixels_changed_outside_masks": 0,
+      "horizontal_rule_patches_pixel_exact": [
+        "top_rule",
+        "footer_rule"
+      ],
+      "whole_page_pixel_exact": false
+    },
+    {
+      "physical_page": 12,
+      "width": 840,
+      "height": 1191,
+      "changed_text_regions": [
+        {
+          "role": "folio",
+          "before": "12",
+          "after": "11",
+          "frame_rect_pt": [
+            33.34645669291339,
+            572,
+            49.34645669291339,
+            585
+          ],
+          "mask_rect_px": [
+            62,
+            1140,
+            103,
+            1174
+          ],
+          "pixels_changed": 85
+        }
+      ],
+      "pixels_changed_inside_masks": 85,
+      "pixels_changed_outside_masks": 0,
+      "horizontal_rule_patches_pixel_exact": [
+        "top_rule",
+        "footer_rule"
+      ],
+      "whole_page_pixel_exact": false
+    },
+    {
+      "physical_page": 13,
+      "width": 840,
+      "height": 1191,
+      "changed_text_regions": [
+        {
+          "role": "folio",
+          "before": "13",
+          "after": "12",
+          "frame_rect_pt": [
+            371.18110236218666,
+            572,
+            387.18110236218666,
+            585
+          ],
+          "mask_rect_px": [
+            738,
+            1140,
+            779,
+            1174
+          ],
+          "pixels_changed": 79
+        }
+      ],
+      "pixels_changed_inside_masks": 79,
+      "pixels_changed_outside_masks": 0,
+      "horizontal_rule_patches_pixel_exact": [
+        "top_rule",
+        "footer_rule"
+      ],
+      "whole_page_pixel_exact": false
+    },
+    {
+      "physical_page": 14,
+      "width": 840,
+      "height": 1191,
+      "changed_text_regions": [
+        {
+          "role": "folio",
+          "before": "14",
+          "after": "13",
+          "frame_rect_pt": [
+            33.34645669291339,
+            572,
+            49.34645669291339,
+            585
+          ],
+          "mask_rect_px": [
+            62,
+            1140,
+            103,
+            1174
+          ],
+          "pixels_changed": 115
+        }
+      ],
+      "pixels_changed_inside_masks": 115,
+      "pixels_changed_outside_masks": 0,
+      "horizontal_rule_patches_pixel_exact": [
+        "top_rule",
+        "footer_rule"
+      ],
+      "whole_page_pixel_exact": false
+    },
+    {
+      "physical_page": 15,
+      "width": 840,
+      "height": 1191,
+      "changed_text_regions": [
+        {
+          "role": "folio",
+          "before": "15",
+          "after": "14",
+          "frame_rect_pt": [
+            371.18110236218666,
+            572,
+            387.18110236218666,
+            585
+          ],
+          "mask_rect_px": [
+            738,
+            1140,
+            779,
+            1174
+          ],
+          "pixels_changed": 111
+        }
+      ],
+      "pixels_changed_inside_masks": 111,
+      "pixels_changed_outside_masks": 0,
+      "horizontal_rule_patches_pixel_exact": [
+        "top_rule",
+        "footer_rule"
+      ],
+      "whole_page_pixel_exact": false
+    },
+    {
+      "physical_page": 16,
+      "width": 840,
+      "height": 1191,
+      "changed_text_regions": [
+        {
+          "role": "folio",
+          "before": "16",
+          "after": "15",
+          "frame_rect_pt": [
+            33.34645669291339,
+            572,
+            49.34645669291339,
+            585
+          ],
+          "mask_rect_px": [
+            62,
+            1140,
+            103,
+            1174
+          ],
+          "pixels_changed": 82
+        }
+      ],
+      "pixels_changed_inside_masks": 82,
+      "pixels_changed_outside_masks": 0,
+      "horizontal_rule_patches_pixel_exact": [
+        "top_rule",
+        "footer_rule"
+      ],
+      "whole_page_pixel_exact": false
+    },
+    {
+      "physical_page": 17,
+      "width": 840,
+      "height": 1191,
+      "changed_text_regions": [
+        {
+          "role": "folio",
+          "before": "17",
+          "after": "16",
+          "frame_rect_pt": [
+            371.18110236218666,
+            572,
+            387.18110236218666,
+            585
+          ],
+          "mask_rect_px": [
+            738,
+            1140,
+            779,
+            1174
+          ],
+          "pixels_changed": 120
+        }
+      ],
+      "pixels_changed_inside_masks": 120,
+      "pixels_changed_outside_masks": 0,
+      "horizontal_rule_patches_pixel_exact": [
+        "top_rule",
+        "footer_rule"
+      ],
+      "whole_page_pixel_exact": false
+    },
+    {
+      "physical_page": 18,
+      "width": 840,
+      "height": 1191,
+      "changed_text_regions": [
+        {
+          "role": "folio",
+          "before": "18",
+          "after": "17",
+          "frame_rect_pt": [
+            33.34645669291339,
+            572,
+            49.34645669291339,
+            585
+          ],
+          "mask_rect_px": [
+            62,
+            1140,
+            103,
+            1174
+          ],
+          "pixels_changed": 121
+        }
+      ],
+      "pixels_changed_inside_masks": 121,
+      "pixels_changed_outside_masks": 0,
+      "horizontal_rule_patches_pixel_exact": [
+        "top_rule",
+        "footer_rule"
+      ],
+      "whole_page_pixel_exact": false
+    },
+    {
+      "physical_page": 19,
+      "width": 840,
+      "height": 1191,
+      "changed_text_regions": [
+        {
+          "role": "folio",
+          "before": "19",
+          "after": "18",
+          "frame_rect_pt": [
+            371.18110236218666,
+            572,
+            387.18110236218666,
+            585
+          ],
+          "mask_rect_px": [
+            738,
+            1140,
+            779,
+            1174
+          ],
+          "pixels_changed": 105
+        }
+      ],
+      "pixels_changed_inside_masks": 105,
+      "pixels_changed_outside_masks": 0,
+      "horizontal_rule_patches_pixel_exact": [
+        "top_rule",
+        "footer_rule"
+      ],
+      "whole_page_pixel_exact": false
+    },
+    {
+      "physical_page": 20,
+      "width": 840,
+      "height": 1191,
+      "changed_text_regions": [
+        {
+          "role": "folio",
+          "before": "20",
+          "after": "19",
+          "frame_rect_pt": [
+            33.34645669291339,
+            572,
+            49.34645669291339,
+            585
+          ],
+          "mask_rect_px": [
+            62,
+            1140,
+            103,
+            1174
+          ],
+          "pixels_changed": 177
+        }
+      ],
+      "pixels_changed_inside_masks": 177,
+      "pixels_changed_outside_masks": 0,
+      "horizontal_rule_patches_pixel_exact": [
+        "top_rule",
+        "footer_rule"
+      ],
+      "whole_page_pixel_exact": false
+    },
+    {
+      "physical_page": 21,
+      "width": 840,
+      "height": 1191,
+      "changed_text_regions": [
+        {
+          "role": "folio",
+          "before": "21",
+          "after": "20",
+          "frame_rect_pt": [
+            371.18110236218666,
+            572,
+            387.18110236218666,
+            585
+          ],
+          "mask_rect_px": [
+            738,
+            1140,
+            779,
+            1174
+          ],
+          "pixels_changed": 125
+        }
+      ],
+      "pixels_changed_inside_masks": 125,
+      "pixels_changed_outside_masks": 0,
+      "horizontal_rule_patches_pixel_exact": [
+        "top_rule",
+        "footer_rule"
+      ],
+      "whole_page_pixel_exact": false
+    },
+    {
+      "physical_page": 22,
+      "width": 840,
+      "height": 1191,
+      "changed_text_regions": [
+        {
+          "role": "folio",
+          "before": "22",
+          "after": "21",
+          "frame_rect_pt": [
+            33.34645669291339,
+            572,
+            49.34645669291339,
+            585
+          ],
+          "mask_rect_px": [
+            62,
+            1140,
+            103,
+            1174
+          ],
+          "pixels_changed": 85
+        }
+      ],
+      "pixels_changed_inside_masks": 85,
+      "pixels_changed_outside_masks": 0,
+      "horizontal_rule_patches_pixel_exact": [
+        "top_rule",
+        "footer_rule"
+      ],
+      "whole_page_pixel_exact": false
+    },
+    {
+      "physical_page": 23,
+      "width": 840,
+      "height": 1191,
+      "changed_text_regions": [
+        {
+          "role": "folio",
+          "before": "23",
+          "after": "22",
+          "frame_rect_pt": [
+            371.18110236218666,
+            572,
+            387.18110236218666,
+            585
+          ],
+          "mask_rect_px": [
+            738,
+            1140,
+            779,
+            1174
+          ],
+          "pixels_changed": 79
+        }
+      ],
+      "pixels_changed_inside_masks": 79,
+      "pixels_changed_outside_masks": 0,
+      "horizontal_rule_patches_pixel_exact": [
+        "top_rule",
+        "footer_rule"
+      ],
+      "whole_page_pixel_exact": false
+    },
+    {
+      "physical_page": 24,
+      "width": 840,
+      "height": 1191,
+      "changed_text_regions": [
+        {
+          "role": "folio",
+          "before": "24",
+          "after": "23",
+          "frame_rect_pt": [
+            33.34645669291339,
+            572,
+            49.34645669291339,
+            585
+          ],
+          "mask_rect_px": [
+            62,
+            1140,
+            103,
+            1174
+          ],
+          "pixels_changed": 115
+        }
+      ],
+      "pixels_changed_inside_masks": 115,
+      "pixels_changed_outside_masks": 0,
+      "horizontal_rule_patches_pixel_exact": [
+        "top_rule",
+        "footer_rule"
+      ],
+      "whole_page_pixel_exact": false
+    },
+    {
+      "physical_page": 25,
+      "width": 840,
+      "height": 1191,
+      "changed_text_regions": [
+        {
+          "role": "folio",
+          "before": "25",
+          "after": "24",
+          "frame_rect_pt": [
+            371.18110236218666,
+            572,
+            387.18110236218666,
+            585
+          ],
+          "mask_rect_px": [
+            738,
+            1140,
+            779,
+            1174
+          ],
+          "pixels_changed": 111
+        }
+      ],
+      "pixels_changed_inside_masks": 111,
+      "pixels_changed_outside_masks": 0,
+      "horizontal_rule_patches_pixel_exact": [
+        "top_rule",
+        "footer_rule"
+      ],
+      "whole_page_pixel_exact": false
+    },
+    {
+      "physical_page": 26,
+      "width": 840,
+      "height": 1191,
+      "changed_text_regions": [
+        {
+          "role": "folio",
+          "before": "26",
+          "after": "25",
+          "frame_rect_pt": [
+            33.34645669291339,
+            572,
+            49.34645669291339,
+            585
+          ],
+          "mask_rect_px": [
+            62,
+            1140,
+            103,
+            1174
+          ],
+          "pixels_changed": 82
+        }
+      ],
+      "pixels_changed_inside_masks": 82,
+      "pixels_changed_outside_masks": 0,
+      "horizontal_rule_patches_pixel_exact": [
+        "top_rule",
+        "footer_rule"
+      ],
+      "whole_page_pixel_exact": false
+    },
+    {
+      "physical_page": 27,
+      "width": 840,
+      "height": 1191,
+      "changed_text_regions": [
+        {
+          "role": "folio",
+          "before": "27",
+          "after": "26",
+          "frame_rect_pt": [
+            371.18110236218666,
+            572,
+            387.18110236218666,
+            585
+          ],
+          "mask_rect_px": [
+            738,
+            1140,
+            779,
+            1174
+          ],
+          "pixels_changed": 120
+        }
+      ],
+      "pixels_changed_inside_masks": 120,
+      "pixels_changed_outside_masks": 0,
+      "horizontal_rule_patches_pixel_exact": [
+        "top_rule",
+        "footer_rule"
+      ],
+      "whole_page_pixel_exact": false
+    },
+    {
+      "physical_page": 28,
+      "width": 840,
+      "height": 1191,
+      "changed_text_regions": [],
+      "pixels_changed_inside_masks": 0,
+      "pixels_changed_outside_masks": 0,
+      "horizontal_rule_patches_pixel_exact": [
+        "top_rule"
+      ],
+      "whole_page_pixel_exact": true
+    }
+  ],
+  "InDesign_runtime_tested": false,
+  "physical_printer_tested": false,
+  "source_bleed_pdf_sha256": "9f175715f5c28172958e9235d1c0031fa1147c3bb2825cf793e20d640758f457",
+  "source_bleed_PDF_page_labels": [
+    "표지",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24",
+    "25",
+    "26",
+    "뒤표지"
+  ],
+  "spreads_PDF_page_labels": [
+    "표지",
+    "01–02",
+    "03–04",
+    "05–06",
+    "07–08",
+    "09–10",
+    "11–12",
+    "13–14",
+    "15–16",
+    "17–18",
+    "19–20",
+    "21–22",
+    "23–24",
+    "25–26",
+    "뒤표지"
+  ],
+  "Unicode_PDF_labels_decoded_with": "pypdf.PdfReader.page_labels; Korean prefixes are valid UTF-16BE PDF text strings"
+}
