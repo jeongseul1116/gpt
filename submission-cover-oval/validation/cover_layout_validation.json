@@ -1,0 +1,114 @@
+{
+  "status": "passed",
+  "layout_sha256": "dee9c27901a27c4bdd0bacd36bc3d7436f55fdf8a71fa2ffb05271a5f913f8d8",
+  "previous_layout_sha256": "5028d96bb0efc484fbaff9ba9079cb712b03f6e04f770818461389387956c996",
+  "changed_pages": [
+    1
+  ],
+  "other27_pages_identical": true,
+  "main_title": [
+    "마참내!",
+    "밈 폰트 도감",
+    "말투수집실"
+  ],
+  "subtitle": "마참내! 폰트도 웃길 수 있다",
+  "main_title_font_sizes": [
+    24,
+    34,
+    26
+  ],
+  "subtitle_font_size": 12.5,
+  "all_cover_text_fit": true,
+  "all_cover_text_left_aligned": true,
+  "white_background_preserved": true,
+  "frames": [
+    {
+      "text": "01",
+      "font": "YES24",
+      "size": 8.5,
+      "y": 572,
+      "height": 11.271,
+      "frame_height": 13
+    },
+    {
+      "text": "쓸데없이 진지한 말투수집실 · 정슬기",
+      "font": "sans",
+      "size": 6.1,
+      "y": 574,
+      "height": 8.832799999999999,
+      "frame_height": 10
+    },
+    {
+      "text": "친구 배포용",
+      "font": "YES24",
+      "size": 7,
+      "y": 51,
+      "height": 9.282,
+      "frame_height": 12
+    },
+    {
+      "text": "15개 밈 / 실제 폰트 12종",
+      "font": "sans",
+      "size": 7.3,
+      "y": 51,
+      "height": 10.5704,
+      "frame_height": 12
+    },
+    {
+      "text": "마참내!",
+      "font": "YES24",
+      "size": 24,
+      "y": 76,
+      "height": 31.824,
+      "frame_height": 34
+    },
+    {
+      "text": "밈 폰트 도감",
+      "font": "YES24",
+      "size": 34,
+      "y": 110,
+      "height": 45.084,
+      "frame_height": 48
+    },
+    {
+      "text": "말투수집실",
+      "font": "YES24",
+      "size": 26,
+      "y": 157,
+      "height": 34.476,
+      "frame_height": 37
+    },
+    {
+      "text": "마참내! 폰트도 웃길 수 있다",
+      "font": "sans",
+      "size": 12.5,
+      "y": 199,
+      "height": 18.099999999999998,
+      "frame_height": 20
+    },
+    {
+      "text": "취급주의 · 글자에 감정 있음",
+      "font": "YES24",
+      "size": 8.2,
+      "y": 226,
+      "height": 10.873199999999999,
+      "frame_height": 12
+    }
+  ],
+  "visual_review": "passed",
+  "visually_inspected": "qa/pages/page_01.png",
+  "visual_defects": [],
+  "restored_oval_right_tip": {
+    "dominant_red_component_bbox_px": [
+      88,
+      73,
+      857,
+      401
+    ],
+    "right_canvas_margin_px": 16,
+    "outer_five_columns_transparent_around_oval": true,
+    "distinct_right_boundary_x_positions": 203,
+    "visual_shape_complete_and_curved": true,
+    "face_and_text_preserved": true
+  }
+}

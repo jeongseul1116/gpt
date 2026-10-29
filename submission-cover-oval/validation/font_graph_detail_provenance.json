@@ -1,0 +1,27 @@
+{
+  "status": "passed",
+  "source_pdf": "output/pdf/Meme_Font_Book_System_28p_Review.pdf",
+  "source_pdf_sha256": "9fd3dd136188e6b2dc6ae0a91db9e0fca38b96f46e9971cc17a0b57f4d6b586a",
+  "logical_page": 4,
+  "zero_based_index": 3,
+  "fitz_clip_pt": [
+    26.34645669291339,
+    132,
+    381.8425196850394,
+    204
+  ],
+  "matrix_scale": 3.0,
+  "image": "planning/font_graph_detail.png",
+  "image_pixels": [
+    1067,
+    216
+  ],
+  "image_sha256": "34408285d86d76e9fff23131250316a8ed09d002d48bb460b4801765e01536d4",
+  "exact_pixel_match_to_source_pdf_clip": true,
+  "no_retyping_or_glyph_recreation": true,
+  "actual_font_glyph": "가",
+  "actual_glyph_point_size": 24,
+  "legend": "빨간 선=글자의 폭 / 검은 면=획 / 분홍 면=관찰 영역",
+  "edition": "표지 빨간 타원 수동 복원 및300dpi 사진 개정",
+  "unchanged_page_4_verified_against_current_edition": true
+}

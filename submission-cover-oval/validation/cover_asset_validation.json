@@ -1,0 +1,48 @@
+{
+  "status": "passed",
+  "layout_sha256": "dee9c27901a27c4bdd0bacd36bc3d7436f55fdf8a71fa2ffb05271a5f913f8d8",
+  "asset": "/workspace/final28/revision_cover_oval/editable/Links/cover_cutout.png",
+  "bytes": 922981,
+  "sha256": "b8a68655e74748ada19123724d935f88fe9efa2b22c411a9537e8829821d7f3f",
+  "local_editable_asset_preferred_by_builder": true,
+  "pixel_dimensions": [
+    874,
+    1275
+  ],
+  "PNG_density_PPI": [
+    299.9994,
+    299.9994
+  ],
+  "PNG_density_rounding_tolerance_PPI": 0.05,
+  "alpha_preserved": true,
+  "placement_frame_pt": [
+    110.63690779659738,
+    244,
+    209.5923261390887,
+    305.75539568345323
+  ],
+  "actual_fitted_photo_size_pt": [
+    209.5923261390887,
+    305.7553956834532
+  ],
+  "IDML_actual_PPI": [
+    299.9994,
+    299.9994
+  ],
+  "IDML_effective_PPI": [
+    300.24000000000007,
+    300.24000000000007
+  ],
+  "effective_PPI_at_least_300": true,
+  "shared_original_unchanged": {
+    "path": "/workspace/cover_work/Links/cover_cutout.png",
+    "bytes": 1343832,
+    "sha256": "a1aa0a708f012715d2205571599930af369cd1635a3f4999a2c941912705e241",
+    "pixels": [
+      1014,
+      1550
+    ]
+  },
+  "resolution_method": "Mechanical pixel resampling; no additional original photographic detail is claimed",
+  "actual_InDesign_runtime_tested": false
+}

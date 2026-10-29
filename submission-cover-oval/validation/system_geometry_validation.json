@@ -1,0 +1,42 @@
+{
+  "status": "passed",
+  "pages": 28,
+  "spreads": 15,
+  "layout_sha256": "dee9c27901a27c4bdd0bacd36bc3d7436f55fdf8a71fa2ffb05271a5f913f8d8",
+  "text_frames_geometry_and_paragraph_settings_exact": 1122,
+  "all_paragraphs_left_aligned": true,
+  "all_character_tracking_zero_and_scale_100": true,
+  "natural_word_spacing_100_percent": true,
+  "document_bleed_mm": [
+    3,
+    3,
+    3,
+    3
+  ],
+  "inside_margin_mm": 14,
+  "outside_margin_mm": 10,
+  "mirrored_margin_preferences_all_28_pages": true,
+  "font_feature_glyph_vectors_with_semantic_names": 21,
+  "outer_bleed_tab_rectangles_preserved": 26,
+  "font_term_used_in_native_messages": "폰트",
+  "running_elements_structure": "Consistent repeated page objects; no separately instantiated InDesign master pages claimed",
+  "PDF_export_option_location": "JSX app.pdfExportPreferences at actual native export; no unsupported IDML PDFExportPreference node",
+  "native_PDF_use_document_bleed_and_cropmarks_true": true,
+  "native_PDF_reader_spreads_true": true,
+  "native_PDF_is_reading_order_not_saddle_stitch_imposition": true,
+  "native_PDF_no_downsampling_lossless_ZIP": true,
+  "previous_app_PDF_preferences_restored": true,
+  "node_syntax_check": true,
+  "actual_InDesign_runtime_tested": false,
+  "actual_native_PDF_export_tested": false,
+  "files": {
+    "Meme_Font_Book_System_28p.idml": {
+      "bytes": 1016517,
+      "sha256": "946524da01950ddf2f873e3a3ccece3fda3c9da6296996f69c5f882ec9ca2389"
+    },
+    "Create_System_28p.jsx": {
+      "bytes": 608007,
+      "sha256": "52d5ec3cd60b6b710b798d1b842c72b6ad029c58ef6cf2cfe4ac7cf30037eb4a"
+    }
+  }
+}

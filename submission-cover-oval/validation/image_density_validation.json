@@ -1,0 +1,57 @@
+{
+  "status": "passed",
+  "target_dpi": 300,
+  "layout_sha256": "dee9c27901a27c4bdd0bacd36bc3d7436f55fdf8a71fa2ffb05271a5f913f8d8",
+  "assets": [
+    {
+      "asset": "editable/Links/cover_cutout.png",
+      "bytes": 922981,
+      "sha256": "b8a68655e74748ada19123724d935f88fe9efa2b22c411a9537e8829821d7f3f",
+      "pixels": [
+        874,
+        1275
+      ],
+      "mode": "RGBA",
+      "metadata_dpi": [
+        299.9994,
+        299.9994
+      ],
+      "effective_ppi": 300.24000000000007,
+      "actual_frame_inches": [
+        2.9110045297095652,
+        4.2466027178257395
+      ],
+      "file_integrity_verify_passed": true
+    },
+    {
+      "asset": "editable/Links/cover_print_300dpi.jpg",
+      "bytes": 266305,
+      "sha256": "2bc92eae25e302586cc2846f5f3720af3ac06aa5efe11729fa15f548b826e36f",
+      "pixels": [
+        874,
+        1275
+      ],
+      "mode": "RGB",
+      "metadata_dpi": [
+        300,
+        300
+      ],
+      "effective_ppi": 300.24000000000007,
+      "actual_frame_inches": [
+        2.9110045297095652,
+        4.2466027178257395
+      ],
+      "file_integrity_verify_passed": true
+    }
+  ],
+  "source_original_asset_pixels": [
+    1014,
+    1550
+  ],
+  "restored_master_pixels": [
+    1062,
+    1550
+  ],
+  "processing": "Original pixels preserved in layered PSD; manual right-tip clone restoration;300dpi export",
+  "quality_claim": "300dpi metadata and approximately300ppi sampling density at final book placement. PNG transparent for InDesign; matching-size white-composite JPEG for PDF. Source appearance is preserved."
+}

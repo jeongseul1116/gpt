@@ -1,0 +1,833 @@
+{
+  "title": "마참내! 밈 폰트 도감 — 말투수집실",
+  "subtitle": "마참내! 폰트도 웃길 수 있다",
+  "author": "정슬기",
+  "assignment": "6주차 폰트 모음집 기획 구체화 및 전체 디자인·출력",
+  "format": {
+    "trim_width_mm": 148,
+    "trim_height_mm": 210,
+    "pages": 28,
+    "bleed_mm": 3,
+    "binding": "중철 기준; 이번 과제는 제본 선택",
+    "a3_width_mm": 420,
+    "a3_height_mm": 297,
+    "spread_width_mm": 296,
+    "spread_height_mm": 210,
+    "print_scale_percent": 100
+  },
+  "page_map": [
+    {
+      "page": 1,
+      "title": "표지",
+      "content": "마참내! 밈 폰트 도감—말투수집실을메인제목,마참내! 폰트도웃길수있다를부제,흰배경·사진300PPI리샘플링",
+      "source_id": null
+    },
+    {
+      "page": 2,
+      "title": "목차",
+      "content": "들어가며·폰트대조표·12개밈·짧은말·출처의실제쪽수안내",
+      "source_id": null
+    },
+    {
+      "page": 3,
+      "title": "들어가며",
+      "content": "받는 친구 이름과 TF 피드백을 담은 서문",
+      "source_id": null
+    },
+    {
+      "page": 4,
+      "title": "열두 폰트 도감 1",
+      "content": "6폰트씩·18pt동일견본·형태관찰·1인칭인상·실제글자도해",
+      "source_id": null
+    },
+    {
+      "page": 5,
+      "title": "열두 폰트 도감 2",
+      "content": "6폰트씩·18pt동일견본·형태관찰·1인칭인상·실제글자도해",
+      "source_id": null
+    },
+    {
+      "page": 6,
+      "title": "01. 일단 가보자고",
+      "content": "원문접수·감정분류·사용상황과예문",
+      "source_id": "B01"
+    },
+    {
+      "page": 7,
+      "title": "01. 일단 가보자고 — 해설",
+      "content": "같은 말, 다른 느낌쓰 / 2열10폰트·TF관찰·내인상·편집메모·자폭도해",
+      "source_id": "B01"
+    },
+    {
+      "page": 8,
+      "title": "02. 사랑이 너무 많아",
+      "content": "원문접수·감정분류·사용상황과예문",
+      "source_id": "A04"
+    },
+    {
+      "page": 9,
+      "title": "02. 사랑이 너무 많아 — 해설",
+      "content": "같은 말, 다른 느낌쓰 / 2열10폰트·TF관찰·내인상·편집메모·자폭도해",
+      "source_id": "A04"
+    },
+    {
+      "page": 10,
+      "title": "03. 칭찬도 정도껏",
+      "content": "원문접수·감정분류·사용상황과예문",
+      "source_id": "B02"
+    },
+    {
+      "page": 11,
+      "title": "03. 칭찬도 정도껏 — 해설",
+      "content": "같은 말, 다른 느낌쓰 / 2열10폰트·TF관찰·내인상·편집메모·자폭도해",
+      "source_id": "B02"
+    },
+    {
+      "page": 12,
+      "title": "04. 축하해. 근데 이제",
+      "content": "원문접수·감정분류·사용상황과예문",
+      "source_id": "A02"
+    },
+    {
+      "page": 13,
+      "title": "04. 축하해. 근데 이제 — 해설",
+      "content": "같은 말, 다른 느낌쓰 / 2열10폰트·TF관찰·내인상·편집메모·자폭도해",
+      "source_id": "A02"
+    },
+    {
+      "page": 14,
+      "title": "05. 내가 감히",
+      "content": "원문과6폰트비교·내인상·TF편집메모·사용예문",
+      "source_id": "A03"
+    },
+    {
+      "page": 15,
+      "title": "06. 로맨틱한언어들",
+      "content": "원문과6폰트비교·내인상·TF편집메모·사용예문",
+      "source_id": "A10"
+    },
+    {
+      "page": 16,
+      "title": "07. 선배 고단수다~",
+      "content": "원문접수·감정분류·사용상황과예문",
+      "source_id": "B06"
+    },
+    {
+      "page": 17,
+      "title": "07. 선배 고단수다~ — 해설",
+      "content": "같은 말, 다른 느낌쓰 / 2열10폰트·TF관찰·내인상·편집메모·자폭도해",
+      "source_id": "B06"
+    },
+    {
+      "page": 18,
+      "title": "08. 입이 쉬지를 않음",
+      "content": "원문접수·감정분류·사용상황과예문",
+      "source_id": "B05"
+    },
+    {
+      "page": 19,
+      "title": "08. 입이 쉬지를 않음 — 해설",
+      "content": "같은 말, 다른 느낌쓰 / 2열10폰트·TF관찰·내인상·편집메모·자폭도해",
+      "source_id": "B05"
+    },
+    {
+      "page": 20,
+      "title": "09. 인정? 어 인정",
+      "content": "원문접수·감정분류·사용상황과예문",
+      "source_id": "B03"
+    },
+    {
+      "page": 21,
+      "title": "09. 인정? 어 인정 — 해설",
+      "content": "같은 말, 다른 느낌쓰 / 2열10폰트·TF관찰·내인상·편집메모·자폭도해",
+      "source_id": "B03"
+    },
+    {
+      "page": 22,
+      "title": "10. 가끔은 눈물을 흘린다",
+      "content": "원문접수·감정분류·사용상황과예문",
+      "source_id": "A05"
+    },
+    {
+      "page": 23,
+      "title": "10. 가끔은 눈물을 흘린다 — 해설",
+      "content": "같은 말, 다른 느낌쓰 / 2열10폰트·TF관찰·내인상·편집메모·자폭도해",
+      "source_id": "A05"
+    },
+    {
+      "page": 24,
+      "title": "11. 내일 출근 실화냐",
+      "content": "원문접수·감정분류·사용상황과예문",
+      "source_id": "B07"
+    },
+    {
+      "page": 25,
+      "title": "11. 내일 출근 실화냐 — 해설",
+      "content": "같은 말, 다른 느낌쓰 / 2열10폰트·TF관찰·내인상·편집메모·자폭도해",
+      "source_id": "B07"
+    },
+    {
+      "page": 26,
+      "title": "12. 난 오늘만 산다",
+      "content": "원문과6폰트비교·내인상·TF편집메모·사용예문",
+      "source_id": "A06"
+    },
+    {
+      "page": 27,
+      "title": "짧은 말 세 가지",
+      "content": "야르·밤티·이태민 반복과 실제사용예문·각6폰트",
+      "source_id": null,
+      "source_ids": [
+        "A07",
+        "A08",
+        "A09"
+      ]
+    },
+    {
+      "page": 28,
+      "title": "뒷표지와 출처",
+      "content": "말투수집실 마감문구와 폰트·원문·이미지 출처",
+      "source_id": null
+    }
+  ],
+  "font_candidates": [
+    {
+      "family": "Black Han Sans",
+      "label": "블랙 한 산스",
+      "style": "Regular",
+      "reason": "아주 굵은 획과 좁은 속공간이 강한 검은 덩어리를 만든다.",
+      "license_status": "SIL OFL 1.1",
+      "role": "실제 제목·읽는 원문 또는 비교 견본"
+    },
+    {
+      "family": "Gugi",
+      "label": "구기",
+      "style": "Regular",
+      "reason": "기하학적인 골격과 둥근 선 끝이 정돈된 인상을 준다.",
+      "license_status": "SIL OFL 1.1",
+      "role": "실제 제목·읽는 원문 또는 비교 견본"
+    },
+    {
+      "family": "Kirang Haerang",
+      "label": "기랑해랑",
+      "style": "Regular",
+      "reason": "제각각인 크기와 기울기, 울퉁불퉁한 윤곽이 리듬을 만든다.",
+      "license_status": "SIL OFL 1.1",
+      "role": "실제 제목·읽는 원문 또는 비교 견본"
+    },
+    {
+      "family": "Single Day",
+      "label": "싱글데이",
+      "style": "Regular",
+      "reason": "둥근 손글씨와 작은 하트 장식이 가벼운 애정을 더한다.",
+      "license_status": "SIL OFL 1.1",
+      "role": "실제 제목·읽는 원문 또는 비교 견본"
+    },
+    {
+      "family": "Black And White Picture",
+      "label": "흑백사진",
+      "style": "Regular",
+      "reason": "획 속의 구멍과 긁힌 흔적, 불규칙한 가장자리가 거칠게 보인다.",
+      "license_status": "SIL OFL 1.1",
+      "role": "실제 제목·읽는 원문 또는 비교 견본"
+    },
+    {
+      "family": "DungGeunMo",
+      "label": "둥근모꼴",
+      "style": "Normal",
+      "reason": "작은 네모와 계단형 윤곽이 옛 화면을 떠올리게 한다.",
+      "license_status": "Public Domain",
+      "role": "실제 제목·읽는 원문 또는 비교 견본"
+    },
+    {
+      "family": "UnGungseo",
+      "label": "은궁서",
+      "style": "Regular",
+      "reason": "붓끝 모양과 획의 굵기 대비가 단정한 격식을 만든다.",
+      "license_status": "GPL-2",
+      "role": "실제 제목·읽는 원문 또는 비교 견본"
+    },
+    {
+      "family": "Jua",
+      "label": "주아 (Jua)",
+      "style": "Regular",
+      "reason": "둥근 획 끝과 통통한 골격이 부드러운 인상을 준다.",
+      "license_status": "SIL OFL 1.1",
+      "role": "실제 제목·읽는 원문 또는 비교 견본"
+    },
+    {
+      "family": "Nanum Brush Script",
+      "label": "나눔손글씨 붓",
+      "style": "Regular",
+      "reason": "획의 굵기와 기울기가 달라 손으로 쓴 듯 보인다.",
+      "license_status": "SIL OFL 1.1",
+      "role": "실제 제목·읽는 원문 또는 비교 견본"
+    },
+    {
+      "family": "YES24",
+      "label": "예스체 YES24",
+      "style": "Regular",
+      "reason": "짙고 각진 획과 직선 골격이 말에 강한 힘을 준다.",
+      "license_status": "사용자 제공 파일 참조",
+      "role": "실제 제목·읽는 원문 또는 비교 견본"
+    },
+    {
+      "family": "Noto Sans CJK KR",
+      "label": "Noto Sans CJK KR",
+      "style": "Regular",
+      "reason": "고른 획과 적은 장식이 절제된 인상을 준다.",
+      "license_status": "SIL OFL 1.1",
+      "role": "실제 제목·읽는 원문 또는 비교 견본"
+    },
+    {
+      "family": "Noto Serif CJK KR",
+      "label": "Noto Serif CJK KR",
+      "style": "Regular",
+      "reason": "가늘고 굵은 획의 대비와 끝 장식이 격식을 더한다.",
+      "license_status": "SIL OFL 1.1",
+      "role": "실제 제목·읽는 원문 또는 비교 견본"
+    }
+  ],
+  "palette": [
+    {
+      "name": "흰 바탕",
+      "hex": "#FFFFFF"
+    },
+    {
+      "name": "검정",
+      "hex": "#171717"
+    },
+    {
+      "name": "강조 빨강",
+      "hex": "#F02A37"
+    },
+    {
+      "name": "분홍",
+      "hex": "#FFCADC"
+    },
+    {
+      "name": "노랑",
+      "hex": "#FAEF52"
+    }
+  ],
+  "moodboard_assets": [
+    {
+      "path": "/workspace/gpt/book-white-cover/cover_preview.png",
+      "caption": "현재 흰 표지 시안: 검정 예스체와 빨간 말풍선의 대비"
+    },
+    {
+      "path": "/workspace/cover_work/Links/cover_cutout.png",
+      "caption": "사용자 제공 무섭다 사진의 배경 분리 편집본; 최초 출처 미확인"
+    },
+    {
+      "path": "/workspace/cover_work/preview_pages/page_04.png",
+      "caption": "A01: 공백과 선이 얼굴이 되는 문자 형상"
+    },
+    {
+      "path": "/workspace/cover_work/preview_pages/page_20.png",
+      "caption": "B03: 작은 글자의 밀도로 표현한 말의 과잉"
+    },
+    {
+      "path": "/workspace/yes24_work/font_sample.png",
+      "caption": "사용자 제공 YES24.ttf를 직접 읽어 생성한 예스체 견본"
+    }
+  ],
+  "honesty_notes": [
+    "구두 수업 피드백 원문은 제공되지 않아 인용하지 않음",
+    "별도 폰트 분석 리포트는 제공되지 않아 인용하지 않음",
+    "Google Docs 문서 자체 생성 여부는 별도 도구 가능 여부에 따라 구분",
+    "실제 프린터 출력·재단은 사용자가 수행해야 함"
+  ],
+  "source_policy": "기존 원문17개는 보관하고, 사용자가 새로 준 가보자고 교체 버전1개를 별도로 보관한다. 지면 편집본·발췌·교체 문구는 원문과 구분한다.",
+  "layout_note": "TF 피드백을 반영한 말투수집실. A5 28쪽·15밈·실제12폰트·126비교견본과12도감견본·실제글자도해21개. 좌우미러여백·바깥폴리오·공통제목대와카드규칙을전쪽에적용했다.",
+  "user_feedback": [
+    "B급 감성이 잘 실렸으면 좋겠어",
+    "폰트별로 어떤 느낌이 나는지 알려주면 좋겠다",
+    "글씨 크기를 줄여서 폰트별로 어떤 느낌이 나는지 보여주기",
+    "군중 이모지 밈 제외, 눈물 독백과 오늘만 산다 추가",
+    "야르·밤티·이태민 반복의 사용 예문 반영",
+    "무띄어쓰기 로맨스 독백 추가; 교수님 이미지 제외",
+    "표정 이모티콘 관련 요소를 지면에서 모두 제외",
+    "궁서·장식체·손글씨·픽셀 등 서로 다른 실제 폰트로 다양하게 구성",
+    "인트로는 책을 여는 서문으로 구성",
+    "숏밈은2쪽에서빼고본문후반으로이동",
+    "AA 얼굴 삭제를 PDF·IDML·미리보기에서 다시 확인",
+    "첫 출발 밈을 사용자 교체 문구 가보자고로 변경",
+    "개성이 뚜렷한 5폰트를 더해 실제12종으로 구성",
+    "비교 글씨를 더 작게 줄이고 밈마다3종에서6종으로 확대",
+    "펼침면 비교를2열5행으로 구성해한쪽에10종의 폰트를 비교",
+    "전체 페이지 시스템과B급톤통일",
+    "TF 분석·개인인상·선면색 도해",
+    "폰트 용어·왼쪽 정렬·자연스러운 공백",
+    "실제 3mm색도련",
+    "2쪽목차추가·전체28쪽유지",
+    "A37장·양면14면중철순서·짧은쪽넘김",
+    "표지상단의책제목을메인제목으로,기존큰문구를부제목으로",
+    "사진원본보존·300dpi인쇄용리샘플링",
+    "타원우측끝수동클론복원·원본및복원별도레이어PSD·300dpi"
+  ],
+  "design_concept": {
+    "name": "쓸데없이 진지한 말투수집실",
+    "reader_path": "원문 접수 → 폰트 대조 → 내 인상과 편집",
+    "visual_language": "접수증·대조표·판정표를 닮은 검정 이름표와 빨강·노랑 강조, 고정된 카드와 과한 원문을 함께 사용한다.",
+    "feature_legend": "빨간 선=글자의 폭 / 검은 면=획 / 분홍 면=관찰 영역",
+    "margins": {
+      "inside": 14,
+      "outside": 10
+    }
+  },
+  "font_comparison": {
+    "pages": [
+      4,
+      5
+    ],
+    "phrase": "진심입니다",
+    "point_size": 18,
+    "font_keys": [
+      "blackhan",
+      "gugi",
+      "kirang",
+      "singleday",
+      "bawpic",
+      "pixel",
+      "gungseo",
+      "jua",
+      "brush",
+      "YES24",
+      "sans",
+      "serif"
+    ],
+    "controlled": "같은밈·같은문구·같은견본크기·같은색. 도감18pt, 펼침비교11pt, 통합면11pt, 짧은말9.5pt.",
+    "spread_specimen_pt": 11,
+    "compact_specimen_pt": 11,
+    "short_specimen_pt": 9.5,
+    "spread_explanation_pt": 7.1,
+    "compact_explanation_pt": 7,
+    "full_comparison_font_count": 10,
+    "compact_font_count": 6,
+    "short_font_count": 6,
+    "total_meme_specimens": 126,
+    "full_comparison_pages": [
+      7,
+      9,
+      11,
+      13,
+      17,
+      19,
+      21,
+      23,
+      25
+    ],
+    "spread_grid": [
+      2,
+      5
+    ],
+    "frame_width_pt": 153.74803149605395,
+    "alignment": "left",
+    "tracking": 0,
+    "horizontal_scale": 100,
+    "actual_glyph_diagrams": 21
+  },
+  "font_analysis_overrides": {
+    "A04": {
+      "font": "Noto Serif CJK KR",
+      "weight": "Regular",
+      "form_points": [
+        "굵은 부분과 가는 부분의 대비가 문장에 리듬을 만든다.",
+        "획 끝의 장식이 평범한 감사에 비장한 여운을 더한다.",
+        "넓은 행간으로 고백을 천천히 읽게 한다."
+      ],
+      "font_reason": "명조체의 획 대비와 끝 장식이 반복되는 사랑 문구를 과한 고백처럼 읽게 한다. 예스체 해설과 다른 말투를 원문과 견본에서 직접 보여준다.",
+      "mood": "다정함을 넘어선 과몰입."
+    },
+    "A02": {
+      "font": "Noto Serif CJK KR",
+      "weight": "Regular",
+      "form_points": [
+        "획의 굵기 대비가 감정의 진술에 섬세함을 더한다.",
+        "반복되는 쉼표가 다음 감정으로 넘어가는 호흡을 만든다.",
+        "일정한 행간이 부러움을 한 항목씩 쌓이게 한다."
+      ],
+      "font_reason": "명조체의 획 대비와 장식을 이용해 감정의 목록을 진지한 고백처럼 보이게 한다. 쉼표와 행 끝을 살리고 각 항목의 거리를 일정하게 둔다.",
+      "mood": "초라함을 너무 솔직하게 말해서 생기는 웃음."
+    },
+    "A03": {
+      "font": "Noto Sans CJK KR",
+      "weight": "Regular",
+      "form_points": [
+        "고른 획과 절제된 검은 면적이 조심스러운 혼잣말을 만든다.",
+        "같은 Regular를 작게 두어 물러서는 태도를 보여준다.",
+        "원래 행갈이와 넉넉한 여백으로 말이 멎는 시간을 만든다."
+      ],
+      "font_reason": "예스체의 단호한 외침보다 절제된 고딕체를 사용한다. 원문 여섯 행을 보존하면서 크기를 줄여 자기반성의 호흡을 눈으로 읽게 한다.",
+      "mood": "머쓱함, 지나친 자기반성."
+    }
+  },
+  "source_counts": {
+    "collected_count": 17,
+    "selected_count": 15,
+    "main_entries": 12,
+    "short_entries": 3,
+    "excluded_ids": [
+      "A01",
+      "B04"
+    ],
+    "excluded_reason": "사용자 요청으로 AA 얼굴과 군중 이모지를 책에서 제외. 보관 원문은 유지.",
+    "selected_ids": [
+      "B01",
+      "A04",
+      "B02",
+      "A02",
+      "A03",
+      "A10",
+      "B06",
+      "B05",
+      "B03",
+      "A05",
+      "B07",
+      "A06",
+      "A07",
+      "A08",
+      "A09"
+    ],
+    "not_collected": "교수님 이미지 밈은 사용자 요청에 따라 수록·전사하지 않음",
+    "replacement_versions": 1
+  },
+  "teacher_feedback_response": [
+    {
+      "criterion": "전체 페이지 시스템",
+      "response": "안14mm·밖10mm 미러여백, 바깥번호, 공통제목/패널/예문/카드축",
+      "pages": "1–28"
+    },
+    {
+      "criterion": "B급 콘셉트와 지면 연결",
+      "response": "원문접수→폰트대조→말투판정의 수집실 언어와 전단형 강조를 반복",
+      "pages": "1–28"
+    },
+    {
+      "criterion": "폰트 분석·개인 인상",
+      "response": "12폰트 형태관찰과1인칭인상, 본문12개밈의선정메모",
+      "pages": "3–5, 7–26"
+    },
+    {
+      "criterion": "선·면·색 시각화",
+      "response": "실제 가 글자와자폭선·기준선·관찰영역21개",
+      "pages": "4–5, 비교9면"
+    },
+    {
+      "criterion": "정렬과 용어",
+      "response": "왼쪽정렬·자간0·장평100·폰트용어",
+      "pages": "1–28"
+    },
+    {
+      "criterion": "도련",
+      "response": "사방3mm문서설정·실제색탭확장·재단선포함A3",
+      "pages": "전체출력본"
+    }
+  ],
+  "font_analysis_profiles": [
+    {
+      "key": "YES24",
+      "label": "예스체 YES24",
+      "family": "YES24",
+      "style": "Regular",
+      "form_observation": "짙은 획과 각진 골격이 글자의 덩어리를 만든다.",
+      "personal_impression": "나는 이 단단한 글씨를 보면 짧은 답장도 선언처럼 읽는다.",
+      "graphic_caption": "꺾이는 획 끝과 검은 면을 함께 본다.",
+      "impression_category": "단호한 말투"
+    },
+    {
+      "key": "sans",
+      "label": "Noto Sans CJK KR",
+      "family": "Noto Sans CJK KR",
+      "style": "Regular",
+      "form_observation": "획 굵기의 차이가 작고 끝맺음이 간결하다.",
+      "personal_impression": "나는 고른 획을 보면 과한 밈도 공지처럼 무심히 읽게 된다.",
+      "graphic_caption": "기준선 위에서 담백한 획 끝을 본다.",
+      "impression_category": "담담한 말투"
+    },
+    {
+      "key": "serif",
+      "label": "Noto Serif CJK KR",
+      "family": "Noto Serif CJK KR",
+      "style": "Regular",
+      "form_observation": "가로·세로 획의 굵기가 다르고 끝에 장식이 있다.",
+      "personal_impression": "나는 획 끝의 장식에서 짧은 말에도 사연을 붙이고 싶어진다.",
+      "graphic_caption": "굵기 대비와 끝 장식의 모양을 본다.",
+      "impression_category": "정중한 말투"
+    },
+    {
+      "key": "gungseo",
+      "label": "은궁서",
+      "family": "UnGungseo",
+      "style": "Regular",
+      "form_observation": "굵고 가는 붓획과 뾰족한 끝맺음이 섞인다.",
+      "personal_impression": "나는 붓끝을 보면 사소한 다짐도 굳은 맹세처럼 느낀다.",
+      "graphic_caption": "기준선과 가늘어지는 붓끝을 함께 본다.",
+      "impression_category": "엄숙한 말투"
+    },
+    {
+      "key": "jua",
+      "label": "주아 (Jua)",
+      "family": "Jua",
+      "style": "Regular",
+      "form_observation": "도톰한 획과 둥근 모서리가 글자를 감싼다.",
+      "personal_impression": "나는 둥근 모서리를 보면 강한 말도 친구의 장난처럼 받아들인다.",
+      "graphic_caption": "둥근 획과 안팎의 흰 공간을 본다.",
+      "impression_category": "친근한 말투"
+    },
+    {
+      "key": "brush",
+      "label": "나눔손글씨 붓",
+      "family": "Nanum Brush Script",
+      "style": "Regular",
+      "form_observation": "붓획의 굵기와 기울기가 흐르듯 달라진다.",
+      "personal_impression": "나는 흐르는 붓획에서 급히 적은 사적인 쪽지를 떠올린다.",
+      "graphic_caption": "가늘고 굵은 획의 면 차이를 따라 본다.",
+      "impression_category": "솔직한 말투"
+    },
+    {
+      "key": "pixel",
+      "label": "둥근모꼴",
+      "family": "DungGeunMo",
+      "style": "Normal",
+      "form_observation": "네모 격자 위 계단형 윤곽이 또렷하다.",
+      "personal_impression": "나는 네모난 획을 보면 옛 게임 대화창의 들뜬 말투가 떠오른다.",
+      "graphic_caption": "계단 윤곽과 글자가 놓인 칸을 본다.",
+      "impression_category": "들뜬 말투"
+    },
+    {
+      "key": "blackhan",
+      "label": "블랙 한 산스",
+      "family": "Black Han Sans",
+      "style": "Regular",
+      "form_observation": "아주 굵은 획과 작은 속공간이 면을 채운다.",
+      "personal_impression": "나는 꽉 찬 검은 면을 보면 조용한 말도 외치는 듯이 읽는다.",
+      "graphic_caption": "작은 속공간과 넓은 검은 면을 비교한다.",
+      "impression_category": "기세 센 말투"
+    },
+    {
+      "key": "gugi",
+      "label": "구기",
+      "family": "Gugi",
+      "style": "Regular",
+      "form_observation": "기하학적 골격과 둥근 획 끝이 만난다.",
+      "personal_impression": "나는 기하학적인 글씨를 보면 반응이 기계 알림처럼 느껴진다.",
+      "graphic_caption": "직선 골격과 둥근 끝의 차이를 본다.",
+      "impression_category": "또렷한 말투"
+    },
+    {
+      "key": "kirang",
+      "label": "기랑해랑",
+      "family": "Kirang Haerang",
+      "style": "Regular",
+      "form_observation": "글자의 크기와 기울기가 고르지 않은 손글씨다.",
+      "personal_impression": "나는 삐뚤한 획을 보면 누가 팻말을 흔들며 장난치는 것 같다.",
+      "graphic_caption": "기준선에 비춰 다른 크기와 기울기를 본다.",
+      "impression_category": "장난스러운 말투"
+    },
+    {
+      "key": "singleday",
+      "label": "싱글데이",
+      "family": "Single Day",
+      "style": "Regular",
+      "form_observation": "둥근 손글씨 골격에 작은 장식이 섞인다.",
+      "personal_impression": "나는 둥근 손글씨를 보면 가까운 친구가 쓴 편지를 떠올린다.",
+      "graphic_caption": "둥근 획과 가벼운 끝맺음을 함께 본다.",
+      "impression_category": "다정한 말투"
+    },
+    {
+      "key": "bawpic",
+      "label": "흑백사진",
+      "family": "Black And White Picture",
+      "style": "Regular",
+      "form_observation": "획 안의 흰 틈과 거친 가장자리가 보인다.",
+      "personal_impression": "나는 획 안의 흰 틈에서 오래 붙어 있던 전단의 조급함을 읽는다.",
+      "graphic_caption": "획 안의 빈틈과 거친 외곽을 본다.",
+      "impression_category": "거친 말투"
+    }
+  ],
+  "contents_page": {
+    "page": 2,
+    "items": [
+      {
+        "title": "들어가며",
+        "pages": [
+          3
+        ],
+        "source_id": null
+      },
+      {
+        "title": "폰트 대조표",
+        "pages": [
+          4,
+          5
+        ],
+        "source_id": null
+      },
+      {
+        "title": "01. 일단 가보자고",
+        "pages": [
+          6,
+          7
+        ],
+        "source_id": "B01"
+      },
+      {
+        "title": "02. 사랑이 너무 많아",
+        "pages": [
+          8,
+          9
+        ],
+        "source_id": "A04"
+      },
+      {
+        "title": "03. 칭찬도 정도껏",
+        "pages": [
+          10,
+          11
+        ],
+        "source_id": "B02"
+      },
+      {
+        "title": "04. 축하해. 근데 이제",
+        "pages": [
+          12,
+          13
+        ],
+        "source_id": "A02"
+      },
+      {
+        "title": "05. 내가 감히",
+        "pages": [
+          14
+        ],
+        "source_id": "A03"
+      },
+      {
+        "title": "06. 로맨틱한언어들",
+        "pages": [
+          15
+        ],
+        "source_id": "A10"
+      },
+      {
+        "title": "07. 선배 고단수다~",
+        "pages": [
+          16,
+          17
+        ],
+        "source_id": "B06"
+      },
+      {
+        "title": "08. 입이 쉬지를 않음",
+        "pages": [
+          18,
+          19
+        ],
+        "source_id": "B05"
+      },
+      {
+        "title": "09. 인정? 어 인정",
+        "pages": [
+          20,
+          21
+        ],
+        "source_id": "B03"
+      },
+      {
+        "title": "10. 가끔은 눈물을 흘린다",
+        "pages": [
+          22,
+          23
+        ],
+        "source_id": "A05"
+      },
+      {
+        "title": "11. 내일 출근 실화냐",
+        "pages": [
+          24,
+          25
+        ],
+        "source_id": "B07"
+      },
+      {
+        "title": "12. 난 오늘만 산다",
+        "pages": [
+          26
+        ],
+        "source_id": "A06"
+      },
+      {
+        "title": "마지막은, 한마디로.",
+        "pages": [
+          27
+        ],
+        "source_id": null
+      },
+      {
+        "title": "열람 완료 · 출처",
+        "pages": [
+          28
+        ],
+        "source_id": null
+      }
+    ],
+    "total_book_pages": 28
+  },
+  "printing_duplex": {
+    "paper": "A3 landscape",
+    "sheets": 7,
+    "pdf_sides": 14,
+    "scale_percent": 100,
+    "duplex": "short-edge",
+    "binding": "saddle stitch",
+    "reimposition": false
+  },
+  "cover_hierarchy": {
+    "main_title": "마참내! 밈 폰트 도감 — 말투수집실",
+    "main_title_lines": [
+      "마참내!",
+      "밈 폰트 도감",
+      "말투수집실"
+    ],
+    "subtitle": "마참내! 폰트도 웃길 수 있다",
+    "main_title_sizes_pt": [
+      24,
+      34,
+      26
+    ],
+    "subtitle_size_pt": 12.5,
+    "image_file": "Links/cover_cutout.png",
+    "image_frame_pt": [
+      110.63690779659738,
+      244,
+      209.5923261390887,
+      305.75539568345323
+    ],
+    "image_pixels": [
+      874,
+      1275
+    ],
+    "image_metadata_dpi": 300,
+    "image_resolution_method": "Layered PSD manual clone restoration of cropped red oval,300dpi export",
+    "white_background": true,
+    "psd": "photoshop/Cover_Oval_Restored.psd",
+    "source_canvas_pixels": [
+      1062,
+      1550
+    ],
+    "preserved_source_pixels": [
+      1014,
+      1550
+    ],
+    "restored_oval_tip_bounds": [
+      1013,
+      279.3,
+      1041,
+      408.5
+    ],
+    "right_tip_clear_margin_source_px": 20
+  },
+  "audience_note": "친구들에게 바치는 쓸데없이 진지한 밈 폰트 도감"
+}
