@@ -1,0 +1,136 @@
+{
+  "status": "passed",
+  "psd": {
+    "path": "photoshop/Cover_Oval_Restored.psd",
+    "sha256": "b703c5516943ed57cfd36b89ed2da71fe2607b06e0f7710659b8b690a1db887e",
+    "bytes": 6040579,
+    "signature": "8BPS",
+    "version": 1,
+    "dimensions": [
+      1062,
+      1550
+    ],
+    "depth": 8,
+    "color_mode": "RGB",
+    "layer_count": 3,
+    "layers_bottom_to_top": [
+      {
+        "name": "White background",
+        "bbox": [
+          0,
+          0,
+          1062,
+          1550
+        ],
+        "pixel_dimensions": [
+          1062,
+          1550
+        ],
+        "alpha_bounds": [
+          0,
+          0,
+          1062,
+          1550
+        ],
+        "visible": true,
+        "kind": "pixel"
+      },
+      {
+        "name": "Original photo - untouched",
+        "bbox": [
+          0,
+          0,
+          1062,
+          1550
+        ],
+        "pixel_dimensions": [
+          1062,
+          1550
+        ],
+        "alpha_bounds": [
+          26,
+          60,
+          1014,
+          1550
+        ],
+        "visible": true,
+        "kind": "pixel"
+      },
+      {
+        "name": "Restored right tip - clone texture",
+        "bbox": [
+          0,
+          0,
+          1062,
+          1550
+        ],
+        "pixel_dimensions": [
+          1062,
+          1550
+        ],
+        "alpha_bounds": [
+          1013,
+          279,
+          1042,
+          410
+        ],
+        "visible": true,
+        "kind": "pixel"
+      }
+    ],
+    "merged_cache_max_channel_error_vs_master": 0,
+    "forced_layer_recomposite_max_channel_error_vs_master": 1,
+    "actual_layer_order_and_blending_verified": true
+  },
+  "original": {
+    "path": "/workspace/cover_work/Links/cover_cutout.png",
+    "sha256": "a1aa0a708f012715d2205571599930af369cd1635a3f4999a2c941912705e241",
+    "pixel_dimensions": [
+      1014,
+      1550
+    ],
+    "PSD_original_layer_byte_exact_to_prepared_layer": true,
+    "PSD_original_layer_pixels_byte_exact_to_original": false,
+    "source_to_prepared_layer_max_channel_error": 1,
+    "source_to_prepared_layer_differing_channels": 109,
+    "original_alpha_byte_exact": true,
+    "unrelated_master_pixels_byte_exact_to_original": false,
+    "unrelated_master_max_channel_error": 1,
+    "face_and_lettering_regenerated": false
+  },
+  "restoration": {
+    "layer_alpha_bounds": [
+      1013,
+      279,
+      1042,
+      410
+    ],
+    "red_rightmost_pixel": 1041,
+    "transparent_margin_right_px": 20,
+    "method": "Clone right-edge red texture into a manually shaped cubic cap; original photo retained as a separate layer",
+    "AI_generated_pixels_used": false
+  },
+  "print_asset": {
+    "path": "editable/Links/cover_cutout.png",
+    "sha256": "b8a68655e74748ada19123724d935f88fe9efa2b22c411a9537e8829821d7f3f",
+    "pixel_dimensions": [
+      874,
+      1275
+    ],
+    "mode": "RGBA",
+    "dpi": [
+      299.9994,
+      299.9994
+    ]
+  },
+  "validation_implementation": "psd-tools read-only header, layer pixel, forced recomposition and alpha-bound checks; Pillow/NumPy used only for inspection",
+  "Photoshop_runtime_tested": false,
+  "visual_review": {
+    "merged_preview_inspected": true,
+    "entire_red_oval_visible": true,
+    "continuous_curved_right_tip": true,
+    "white_background_preserved": true,
+    "original_face_and_lettering_preserved": true,
+    "obvious_join_or_clipping": false
+  }
+}

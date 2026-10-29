@@ -1,0 +1,30 @@
+{
+  "status": "passed",
+  "layout_sha256": "c994aee319c696119dad7bfdd7e85c9a8d5347db82051707b4bb5a7e28565d7a",
+  "changed_pages": [
+    1,
+    28
+  ],
+  "removed_roles": [
+    "folio",
+    "folio_box",
+    "footer_label",
+    "footer_rule"
+  ],
+  "four_footer_elements_removed_per_cover": true,
+  "both_cover_footers_folios_and_rules_absent": true,
+  "all_other_cover_elements_exact": true,
+  "all_26_body_pages_exact": true,
+  "native_contents_and_geometry_match_layout": true,
+  "actual_InDesign_runtime_tested": false,
+  "files": {
+    "Meme_Font_Book_System_28p.idml": {
+      "bytes": 1012279,
+      "sha256": "a5a5e9e598122ff5ce38713d541de90e0298a9d825e89bc2835d188208973b74"
+    },
+    "Create_System_28p.jsx": {
+      "bytes": 606229,
+      "sha256": "14d17a2b71e04c8634bb65896f2497f331badb661c4b25e849ab470572bb48f2"
+    }
+  }
+}

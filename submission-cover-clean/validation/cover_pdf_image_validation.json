@@ -1,0 +1,96 @@
+{
+  "status": "passed",
+  "target_dpi": 300,
+  "pdf_sha256": "d827ccf97d299e8d1eacc4b8c0aa538c9bfb75958a0631394371dd99abeb3584",
+  "cover_embedded_images": [
+    {
+      "xref": 14,
+      "pixels": [
+        874,
+        1275
+      ],
+      "placement_rect_pt": [
+        110.63690185546875,
+        244.00003051757812,
+        320.22918701171875,
+        549.7554321289062
+      ],
+      "effective_ppi": [
+        300.240058707731,
+        300.2399941790557
+      ],
+      "embedded_encoding": "jpeg",
+      "source_JPEG_byte_exact": true,
+      "embedded_jpeg_sha256": "2bc92eae25e302586cc2846f5f3720af3ac06aa5efe11729fa15f548b826e36f"
+    }
+  ],
+  "cover_visual_review": "passed: both covers directly inspected in final Covers_Preview.jpg. Running footer text, folio boxes and numbers, and lower rules are removed. Titles, restored oval photo and back-cover editorial content retained without overlap or clipping.",
+  "visual_defects": [],
+  "print_pdf": {
+    "sha256": "6cc85320f5555caa2c0dc3a00d8786eb89cd6f7bbe998e47f7ee97f5c7022dcf",
+    "cover_on_pdf_side": 1,
+    "book_page": 1,
+    "pixels": [
+      874,
+      1275
+    ],
+    "effective_ppi": [
+      300.240058707731,
+      300.2399941790557
+    ],
+    "jpeg_byte_exact": true,
+    "rect_pt": [
+      705.9125366210938,
+      367.3070373535156,
+      915.5048217773438,
+      673.0624389648438
+    ]
+  },
+  "unchanged_two_title_line_style_reference": {
+    "spans": [
+      {
+        "text": "밈 폰트 도감",
+        "font": "YES24",
+        "size": 34.0,
+        "color": 2301728,
+        "origin": [
+          39.685035705566406,
+          145.36004638671875
+        ],
+        "bbox": [
+          39.685035705566406,
+          118.16004943847656,
+          213.425048828125,
+          152.16004943847656
+        ]
+      },
+      {
+        "text": "말투수집실",
+        "font": "YES24",
+        "size": 34.0,
+        "color": 2301728,
+        "origin": [
+          39.685035705566406,
+          187.36004638671875
+        ],
+        "bbox": [
+          39.685035705566406,
+          160.16004943847656,
+          194.38504028320312,
+          194.16004943847656
+        ]
+      }
+    ],
+    "same_font_size_color_and_x": true,
+    "baseline_spacing_pt": 42.0
+  },
+  "visually_inspected": "qa/Covers_Preview.jpg",
+  "footer_roles_absent_on_cover_pages": [
+    1,
+    28
+  ],
+  "former_footer_bands_blank_on_cover_pages": [
+    1,
+    28
+  ]
+}

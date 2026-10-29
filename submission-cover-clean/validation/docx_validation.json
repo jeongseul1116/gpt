@@ -1,0 +1,293 @@
+{
+  "status": "passed",
+  "docx": "Planning_28p_GoogleDocs.docx",
+  "revision": "책 표지와 뒷표지에서 하단 문구와 쪽번호 및 하단선을 생략한 기획안",
+  "pages_in_QA_render": 8,
+  "all_eight_pages_visually_inspected": true,
+  "page_map_entries": 28,
+  "teacher_feedback_criteria_count": 2,
+  "TF_feedback_criteria_count": 4,
+  "feedback_rule_and_page_evidence_table": true,
+  "TF_expansion_inferred": false,
+  "unprovided_analysis_report_quoted": false,
+  "new_observations_and_first_person_impressions": true,
+  "all_12_font_profiles_exact_to_approved_draft": true,
+  "actual_typeface_count": 12,
+  "book_concept": "쓸데없이 진지한 말투 수집실",
+  "reader_path": [
+    "원문 접수",
+    "폰트 대조",
+    "말투 판정"
+  ],
+  "reader_term_policy": "폰트",
+  "rendered_Docx_text_서체_occurrences": 0,
+  "all_document_header_footer_and_table_paragraphs_left_aligned": true,
+  "no_artificial_wide_spaces_or_extra_tracking": true,
+  "geometry": {
+    "book_A5_mm": [
+      148,
+      210
+    ],
+    "book_logical_pages": 28,
+    "inner_margin_mm": 14,
+    "outer_margin_mm": 10,
+    "body_folios_at_outer_edges": true,
+    "cover_footer_exceptions": [
+      1,
+      28
+    ],
+    "bleed_mm": 3,
+    "coloured_navigation_tabs_extend_through_bleed": true
+  },
+  "contents": {
+    "book_page": 2,
+    "preface_page": 3,
+    "previous_dedication_removed_from_plan": true,
+    "preserved_from_previous_edition": true
+  },
+  "cover_revision": {
+    "main_title": "마참내! 밈 폰트 도감 — 말투수집실",
+    "main_title_lines": [
+      "마참내!",
+      "밈 폰트 도감",
+      "말투수집실"
+    ],
+    "subtitle": "마참내! 폰트도 웃길 수 있다",
+    "main_title_sizes_pt": [
+      24,
+      34,
+      34
+    ],
+    "subtitle_size_pt": 12.5,
+    "main_title_colors": [
+      "black",
+      "black",
+      "black"
+    ],
+    "main_pair": {
+      "text": "밈 폰트 도감\n말투수집실",
+      "font": "YES24",
+      "size_pt": 34,
+      "color": "black",
+      "leading_pt": 42,
+      "one_text_frame": true
+    },
+    "image_pixels": [
+      874,
+      1275
+    ],
+    "image_frame_width_pt": 209.5923261390887,
+    "placed_horizontal_ppi": 300.24000000000007,
+    "image_metadata_dpi": 300,
+    "image_edit_method": "manual_clone_restoration_then_300dpi_export",
+    "editable_layers": [
+      "white_background",
+      "original_photo",
+      "oval_restoration"
+    ],
+    "psd_file": "photoshop/Cover_Oval_Restored.psd",
+    "Adobe_Photoshop_runtime_used": false,
+    "exact_pixel_and_frame_values_kept_in_cover_spec": true,
+    "obsolete_resolution_copy_absent": true,
+    "footer_policy": {
+      "pages": [
+        1,
+        28
+      ],
+      "removed_roles": [
+        "footer_rule",
+        "folio_box",
+        "folio",
+        "footer_label"
+      ],
+      "cover_footer_label": false,
+      "cover_folios": false,
+      "cover_footer_rule": false,
+      "body_pages_2_through_27_unchanged": true
+    },
+    "changed_book_pages": [
+      1,
+      28
+    ],
+    "other_26_book_pages_unchanged": true,
+    "planning_document_own_folios_unchanged": true
+  },
+  "duplex_print": {
+    "paper": "A3 landscape",
+    "paper_sheets": 7,
+    "printed_sides": 14,
+    "duplex_flip": "short_edge",
+    "scale_percent": 100,
+    "already_imposed_booklet": true,
+    "booklet_multi_page_and_fit_driver_options_off": true,
+    "pairs": [
+      [
+        28,
+        1
+      ],
+      [
+        2,
+        27
+      ],
+      [
+        26,
+        3
+      ],
+      [
+        4,
+        25
+      ],
+      [
+        24,
+        5
+      ],
+      [
+        6,
+        23
+      ],
+      [
+        22,
+        7
+      ],
+      [
+        8,
+        21
+      ],
+      [
+        20,
+        9
+      ],
+      [
+        10,
+        19
+      ],
+      [
+        18,
+        11
+      ],
+      [
+        12,
+        17
+      ],
+      [
+        16,
+        13
+      ],
+      [
+        14,
+        15
+      ]
+    ],
+    "print_pdf": "Meme_Font_Book_System_A3_Duplex_Booklet.pdf",
+    "print_pdf_sha256": "6cc85320f5555caa2c0dc3a00d8786eb89cd6f7bbe998e47f7ee97f5c7022dcf",
+    "encoded_duplex_and_actual_scale_preferences_verified": true,
+    "assembly": "Trim outer crop marks, nest seven sheets in output order and fold at the centre",
+    "old_single_sided_14_sheet_instruction_absent": true
+  },
+  "actual_glyph_graph": {
+    "glyph": "가",
+    "point_size": 24,
+    "legend": "빨간 선=글자의 폭 / 검은 면=획 / 분홍 면=관찰 영역",
+    "red_line": "actual_advance_width",
+    "black_plane": "actual_font_glyph",
+    "pink_plane": "observation_region",
+    "baseline_present": true,
+    "invented_area_ratios": false,
+    "image_provenance": "font_graph_detail_provenance.json"
+  },
+  "navigation_color_legend": "빨강=원문 접수 / 노랑=폰트 대조 / 검정=안내",
+  "selected_sources": 15,
+  "collected_sources": 17,
+  "replacement_wording": "가보자고",
+  "replacement_version_count": 1,
+  "source_policy": "보관 원문17개와 별도 교체1버전 유지. 얼굴 AA와 군중 이모지 제외. 지면 편집본은 보관 원문과 구분",
+  "comparison_method": {
+    "atlas_pt": 18,
+    "full_pages": [
+      7,
+      9,
+      11,
+      13,
+      17,
+      19,
+      21,
+      23,
+      25
+    ],
+    "full_count": 10,
+    "full_pt": 11,
+    "full_grid": [
+      2,
+      5
+    ],
+    "compact_pages": [
+      14,
+      15,
+      26
+    ],
+    "compact_count": 6,
+    "compact_pt": 11,
+    "compact_grid": [
+      2,
+      3
+    ],
+    "short_page": 27,
+    "short_meme_count": 3,
+    "short_font_count": 6,
+    "short_pt": 9.5,
+    "short_grid": [
+      3,
+      2
+    ],
+    "meme_specimens_excluding_atlas": 126,
+    "atlas_specimens": 12
+  },
+  "embedded_current_images": {
+    "moodboard": {
+      "path": "moodboard.png",
+      "sha256": "8ca7dfc25631becd080aa9726672f654d29d05532542aced8102ab0fa43f3506"
+    },
+    "current_spread": {
+      "path": "qa/spreads/spread_06_07.jpg",
+      "sha256": "5207748b4575c1f7f10eb19f8a5939db40cdf3fd6ab495ccc8d0b478567d4ee9"
+    },
+    "actual_glyph_graph_detail": {
+      "path": "planning/font_graph_detail.png",
+      "sha256": "34408285d86d76e9fff23131250316a8ed09d002d48bb460b4801765e01536d4"
+    }
+  },
+  "raw_font_binary_embedded": false,
+  "Google_Docs_title_sanitizer": "passed",
+  "ZIP_CRC": "passed",
+  "visual_review": {
+    "clipping": false,
+    "overlap": false,
+    "broken_tables": false,
+    "glyph_graph_and_legend_legible": true,
+    "left_alignment_and_natural_spacing_consistent": true,
+    "all_page_evidence_current": true
+  },
+  "Google_Docs_created": false,
+  "InDesign_runtime_tested": false,
+  "physical_printer_tested": false,
+  "docx_sha256": "5d99e4a11ed453e9ed3043f48e7b3a6f5650644a79daa51b36fe5e143b4e42be",
+  "layout_sha256": "c994aee319c696119dad7bfdd7e85c9a8d5347db82051707b4bb5a7e28565d7a",
+  "planning_data_sha256": "3bfcb1cd4252de6266d1d61835c1188863cef35b503fd27d0cd87cb12a09e40a",
+  "TF_editorial_sha256": "b231048e8a4283fd8496a91f87bc44685e243c4810a450b0dcdaafecb8cea5cc",
+  "font_catalog_current_sha256": "f68eb249250be104b31aa56a4da753a0f67551fb12167a5c9009c27cba4a9f93",
+  "QA_pdf": "/workspace/final28/revision_cover_clean/planning/rendered_final/Planning_28p_GoogleDocs.pdf",
+  "minimal_change_scope": {
+    "document_text_runs_changed": 1,
+    "embedded_images_replaced": 1,
+    "changed_OOXML_parts": [
+      "word/document.xml",
+      "word/media/image1.png"
+    ],
+    "all_other_OOXML_parts_byte_unchanged": true,
+    "planning_header_and_footer_XML_byte_unchanged": true,
+    "previous_edition": "revision_cover_equal",
+    "visually_inspected_changed_plan_pages": [
+      3
+    ]
+  }
+}
