@@ -1,0 +1,56 @@
+{
+  "status": "passed",
+  "target_dpi": 300,
+  "pdf_sha256": "64799ffbb70a850c0eb464b7a0977a5fa030412cf0211e6aff60af4b959a878a",
+  "cover_embedded_images": [
+    {
+      "xref": 14,
+      "pixels": [
+        874,
+        1275
+      ],
+      "placement_rect_pt": [
+        110.63690185546875,
+        244.00003051757812,
+        320.22918701171875,
+        549.7554321289062
+      ],
+      "effective_ppi": [
+        300.240058707731,
+        300.2399941790557
+      ],
+      "embedded_encoding": "jpeg",
+      "source_JPEG_byte_exact": true,
+      "embedded_jpeg_sha256": "2bc92eae25e302586cc2846f5f3720af3ac06aa5efe11729fa15f548b826e36f"
+    }
+  ],
+  "cover_visual_review": "passed",
+  "visual_defects": [],
+  "print_pdf": {
+    "sha256": "c6dd0636cb8eba6dcb2c706f5392018f18411b0d96e27f56c775d68e7a368daf",
+    "cover_on_pdf_side": 1,
+    "book_page": 1,
+    "pixels": [
+      874,
+      1275
+    ],
+    "effective_ppi": [
+      300.240058707731,
+      300.2399941790557
+    ],
+    "jpeg_byte_exact": true,
+    "rect_pt": [
+      705.9125366210938,
+      367.3070373535156,
+      915.5048217773438,
+      673.0624389648438
+    ]
+  },
+  "scope": "Image identity and sampling density retained during all28page header-removal revision; whole-page masked visual verification is in cover_unchanged_pdf_validation.json.",
+  "visually_inspected": [
+    "preview_28p.jpg",
+    "qa/spreads/spread_02_03.jpg",
+    "qa/spreads/spread_06_07.jpg"
+  ],
+  "main_title_and_all_remaining_content_pixel_exact_outside_deleted_header_masks": true
+}

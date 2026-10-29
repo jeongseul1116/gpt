@@ -1,0 +1,330 @@
+{
+  "status": "passed",
+  "docx": "Planning_28p_GoogleDocs.docx",
+  "revision": "책 전체에서 반복 상단 제목과 섹션 라벨 오른쪽 보조 문구를 생략한 기획안",
+  "pages_in_QA_render": 8,
+  "all_eight_pages_visually_inspected": true,
+  "page_map_entries": 28,
+  "teacher_feedback_criteria_count": 2,
+  "TF_feedback_criteria_count": 4,
+  "feedback_rule_and_page_evidence_table": true,
+  "TF_expansion_inferred": false,
+  "unprovided_analysis_report_quoted": false,
+  "new_observations_and_first_person_impressions": true,
+  "all_12_font_profiles_exact_to_approved_draft": true,
+  "actual_typeface_count": 12,
+  "book_concept": "쓸데없이 진지한 말투 수집실",
+  "reader_path": [
+    "원문 접수",
+    "폰트 대조",
+    "말투 판정"
+  ],
+  "reader_term_policy": "폰트",
+  "rendered_Docx_text_서체_occurrences": 0,
+  "all_document_header_footer_and_table_paragraphs_left_aligned": true,
+  "no_artificial_wide_spaces_or_extra_tracking": true,
+  "geometry": {
+    "book_A5_mm": [
+      148,
+      210
+    ],
+    "book_logical_pages": 28,
+    "inner_margin_mm": 14,
+    "outer_margin_mm": 10,
+    "body_folios_at_outer_edges": true,
+    "cover_footer_exceptions": [
+      1,
+      28
+    ],
+    "bleed_mm": 3,
+    "coloured_navigation_tabs_extend_through_bleed": true
+  },
+  "contents": {
+    "book_page": 2,
+    "preface_page": 3,
+    "previous_dedication_removed_from_plan": true,
+    "preserved_from_previous_edition": true
+  },
+  "cover_revision": {
+    "main_title": "마참내! 밈 폰트 도감 — 말투수집실",
+    "main_title_lines": [
+      "마참내!",
+      "밈 폰트 도감",
+      "말투수집실"
+    ],
+    "subtitle": "마참내! 폰트도 웃길 수 있다",
+    "main_title_sizes_pt": [
+      24,
+      34,
+      34
+    ],
+    "subtitle_size_pt": 12.5,
+    "main_title_colors": [
+      "black",
+      "black",
+      "black"
+    ],
+    "main_pair": {
+      "text": "밈 폰트 도감\n말투수집실",
+      "font": "YES24",
+      "size_pt": 34,
+      "color": "black",
+      "leading_pt": 42,
+      "one_text_frame": true
+    },
+    "image_pixels": [
+      874,
+      1275
+    ],
+    "image_frame_width_pt": 209.5923261390887,
+    "placed_horizontal_ppi": 300.24000000000007,
+    "image_metadata_dpi": 300,
+    "image_edit_method": "manual_clone_restoration_then_300dpi_export",
+    "editable_layers": [
+      "white_background",
+      "original_photo",
+      "oval_restoration"
+    ],
+    "psd_file": "photoshop/Cover_Oval_Restored.psd",
+    "Adobe_Photoshop_runtime_used": false,
+    "exact_pixel_and_frame_values_kept_in_cover_spec": true,
+    "obsolete_resolution_copy_absent": true,
+    "footer_policy": {
+      "pages": [
+        1,
+        28
+      ],
+      "removed_roles": [
+        "footer_rule",
+        "folio_box",
+        "folio",
+        "footer_label"
+      ],
+      "cover_footer_label": false,
+      "cover_folios": false,
+      "cover_footer_rule": false
+    },
+    "changed_book_pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28
+    ],
+    "planning_document_own_folios_unchanged": true
+  },
+  "global_header_cleanup": {
+    "removed_running_heads": 27,
+    "removed_section_kickers": 28,
+    "removed_text_elements": 55,
+    "all_28_pages_checked_against_previous": true,
+    "all_other_layout_items_exact": true,
+    "upper_rules_left_section_labels_main_titles_content_and_body_folios_preserved": true,
+    "cover_footer_absence_preserved": true,
+    "planning_document_own_header_and_footer_unchanged": true,
+    "removal_manifest_sha256": "d6ca8df4694a23702e482aef7b40683fc6c6ef4441c5cced1fa76b8597ad9127"
+  },
+  "duplex_print": {
+    "paper": "A3 landscape",
+    "paper_sheets": 7,
+    "printed_sides": 14,
+    "duplex_flip": "short_edge",
+    "scale_percent": 100,
+    "already_imposed_booklet": true,
+    "booklet_multi_page_and_fit_driver_options_off": true,
+    "pairs": [
+      [
+        28,
+        1
+      ],
+      [
+        2,
+        27
+      ],
+      [
+        26,
+        3
+      ],
+      [
+        4,
+        25
+      ],
+      [
+        24,
+        5
+      ],
+      [
+        6,
+        23
+      ],
+      [
+        22,
+        7
+      ],
+      [
+        8,
+        21
+      ],
+      [
+        20,
+        9
+      ],
+      [
+        10,
+        19
+      ],
+      [
+        18,
+        11
+      ],
+      [
+        12,
+        17
+      ],
+      [
+        16,
+        13
+      ],
+      [
+        14,
+        15
+      ]
+    ],
+    "print_pdf": "Meme_Font_Book_System_A3_Duplex_Booklet.pdf",
+    "print_pdf_sha256": "c6dd0636cb8eba6dcb2c706f5392018f18411b0d96e27f56c775d68e7a368daf",
+    "encoded_duplex_and_actual_scale_preferences_verified": true,
+    "assembly": "Trim outer crop marks, nest seven sheets in output order and fold at the centre",
+    "old_single_sided_14_sheet_instruction_absent": true
+  },
+  "actual_glyph_graph": {
+    "glyph": "가",
+    "point_size": 24,
+    "legend": "빨간 선=글자의 폭 / 검은 면=획 / 분홍 면=관찰 영역",
+    "red_line": "actual_advance_width",
+    "black_plane": "actual_font_glyph",
+    "pink_plane": "observation_region",
+    "baseline_present": true,
+    "invented_area_ratios": false,
+    "image_provenance": "font_graph_detail_provenance.json"
+  },
+  "navigation_color_legend": "빨강=원문 접수 / 노랑=폰트 대조 / 검정=안내",
+  "selected_sources": 15,
+  "collected_sources": 17,
+  "replacement_wording": "가보자고",
+  "replacement_version_count": 1,
+  "source_policy": "보관 원문17개와 별도 교체1버전 유지. 얼굴 AA와 군중 이모지 제외. 지면 편집본은 보관 원문과 구분",
+  "comparison_method": {
+    "atlas_pt": 18,
+    "full_pages": [
+      7,
+      9,
+      11,
+      13,
+      17,
+      19,
+      21,
+      23,
+      25
+    ],
+    "full_count": 10,
+    "full_pt": 11,
+    "full_grid": [
+      2,
+      5
+    ],
+    "compact_pages": [
+      14,
+      15,
+      26
+    ],
+    "compact_count": 6,
+    "compact_pt": 11,
+    "compact_grid": [
+      2,
+      3
+    ],
+    "short_page": 27,
+    "short_meme_count": 3,
+    "short_font_count": 6,
+    "short_pt": 9.5,
+    "short_grid": [
+      3,
+      2
+    ],
+    "meme_specimens_excluding_atlas": 126,
+    "atlas_specimens": 12
+  },
+  "embedded_current_images": {
+    "moodboard": {
+      "path": "moodboard.png",
+      "sha256": "d9312c3c9f1f9e2536a72e6eb42e0a50a6cd6c32ac53d342ef6e98fc74e4319c"
+    },
+    "current_spread": {
+      "path": "qa/spreads/spread_06_07.jpg",
+      "sha256": "dcc0a5c536da39fd493667f519cb73aacf6404a25c848af7cd4c101e03fa6776"
+    },
+    "actual_glyph_graph_detail": {
+      "path": "planning/font_graph_detail.png",
+      "sha256": "34408285d86d76e9fff23131250316a8ed09d002d48bb460b4801765e01536d4"
+    }
+  },
+  "raw_font_binary_embedded": false,
+  "Google_Docs_title_sanitizer": "passed",
+  "ZIP_CRC": "passed",
+  "visual_review": {
+    "clipping": false,
+    "overlap": false,
+    "broken_tables": false,
+    "glyph_graph_and_legend_legible": true,
+    "left_alignment_and_natural_spacing_consistent": true,
+    "all_page_evidence_current": true
+  },
+  "Google_Docs_created": false,
+  "InDesign_runtime_tested": false,
+  "physical_printer_tested": false,
+  "docx_sha256": "b995cc7a2ebb4c71392467994624e7f81510945cdad526f407f5dd6ce721dad9",
+  "layout_sha256": "5d3eb6a0dd9c60d6aab6db328dcc93600cd47fa43d415dbaa4923df743e17d9d",
+  "planning_data_sha256": "fbf58576ceb6a1ee3d9951dadb474a74687fb3568bba6585a306d3e9e516758a",
+  "TF_editorial_sha256": "b231048e8a4283fd8496a91f87bc44685e243c4810a450b0dcdaafecb8cea5cc",
+  "font_catalog_current_sha256": "f68eb249250be104b31aa56a4da753a0f67551fb12167a5c9009c27cba4a9f93",
+  "QA_pdf": "/workspace/final28/revision_header_clean/planning/rendered_final/Planning_28p_GoogleDocs.pdf",
+  "minimal_change_scope": {
+    "document_text_runs_changed": 1,
+    "embedded_images_replaced": 2,
+    "changed_OOXML_parts": [
+      "word/document.xml",
+      "word/media/image1.png",
+      "word/media/image2.jpg"
+    ],
+    "all_other_OOXML_parts_byte_unchanged": true,
+    "planning_header_and_footer_XML_byte_unchanged": true,
+    "previous_edition": "revision_cover_clean",
+    "visually_inspected_changed_plan_pages": [
+      3,
+      5
+    ]
+  }
+}

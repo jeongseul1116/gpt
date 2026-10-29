@@ -1,0 +1,28 @@
+{
+  "status": "passed",
+  "scope": "Preservation check after global header deletion; not a claim that only cover pages changed",
+  "layout_sha256": "5d3eb6a0dd9c60d6aab6db328dcc93600cd47fa43d415dbaa4923df743e17d9d",
+  "checked_cover_pages": [
+    1,
+    28
+  ],
+  "absent_roles": [
+    "folio",
+    "folio_box",
+    "footer_label",
+    "footer_rule"
+  ],
+  "both_cover_footers_folios_and_rules_absent": true,
+  "all_26_body_footers_equal_previous_edition": true,
+  "actual_InDesign_runtime_tested": false,
+  "files": {
+    "Meme_Font_Book_System_28p.idml": {
+      "bytes": 966076,
+      "sha256": "89c162326fd163583fde33b0111b577d572a9c58c06cf08d208192153f48cfdc"
+    },
+    "Create_System_28p.jsx": {
+      "bytes": 591130,
+      "sha256": "d94034b85790fc6ed716d6114614b6aa833b7ab17e6b5068e26dfa6ee6e376c7"
+    }
+  }
+}
