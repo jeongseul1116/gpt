@@ -1,0 +1,234 @@
+{
+  "scope": "TF 피드백을 반영해 새로 작성한 관찰·개인적 인상 초안. 제공되지 않은 기존 분석 리포트의 인용문이 아니다.",
+  "provenance": {
+    "TF_expansion_inferred": false,
+    "class_contents_fabricated": false,
+    "earlier_report_quoted": false,
+    "new_editorial_draft": true,
+    "first_person_voice": "기획자의 인상으로 편집할 새 원고 초안"
+  },
+  "term_policy": "독자용 용어는 폰트로 통일한다.",
+  "font_profiles": [
+    {
+      "key": "YES24",
+      "label": "예스체 YES24",
+      "family": "YES24",
+      "style": "Regular",
+      "form_observation": "짙은 획과 각진 골격이 글자의 덩어리를 만든다.",
+      "personal_impression": "나는 이 단단한 글씨를 보면 짧은 답장도 선언처럼 읽는다.",
+      "graphic_caption": "꺾이는 획 끝과 검은 면을 함께 본다.",
+      "impression_category": "단호한 말투"
+    },
+    {
+      "key": "sans",
+      "label": "Noto Sans CJK KR",
+      "family": "Noto Sans CJK KR",
+      "style": "Regular",
+      "form_observation": "획 굵기의 차이가 작고 끝맺음이 간결하다.",
+      "personal_impression": "나는 고른 획을 보면 과한 밈도 공지처럼 무심히 읽게 된다.",
+      "graphic_caption": "기준선 위에서 담백한 획 끝을 본다.",
+      "impression_category": "담담한 말투"
+    },
+    {
+      "key": "serif",
+      "label": "Noto Serif CJK KR",
+      "family": "Noto Serif CJK KR",
+      "style": "Regular",
+      "form_observation": "가로·세로 획의 굵기가 다르고 끝에 장식이 있다.",
+      "personal_impression": "나는 획 끝의 장식에서 짧은 말에도 사연을 붙이고 싶어진다.",
+      "graphic_caption": "굵기 대비와 끝 장식의 모양을 본다.",
+      "impression_category": "정중한 말투"
+    },
+    {
+      "key": "gungseo",
+      "label": "은궁서",
+      "family": "UnGungseo",
+      "style": "Regular",
+      "form_observation": "굵고 가는 붓획과 뾰족한 끝맺음이 섞인다.",
+      "personal_impression": "나는 붓끝을 보면 사소한 다짐도 굳은 맹세처럼 느낀다.",
+      "graphic_caption": "기준선과 가늘어지는 붓끝을 함께 본다.",
+      "impression_category": "엄숙한 말투"
+    },
+    {
+      "key": "jua",
+      "label": "주아 (Jua)",
+      "family": "Jua",
+      "style": "Regular",
+      "form_observation": "도톰한 획과 둥근 모서리가 글자를 감싼다.",
+      "personal_impression": "나는 둥근 모서리를 보면 강한 말도 친구의 장난처럼 받아들인다.",
+      "graphic_caption": "둥근 획과 안팎의 흰 공간을 본다.",
+      "impression_category": "친근한 말투"
+    },
+    {
+      "key": "brush",
+      "label": "나눔손글씨 붓",
+      "family": "Nanum Brush Script",
+      "style": "Regular",
+      "form_observation": "붓획의 굵기와 기울기가 흐르듯 달라진다.",
+      "personal_impression": "나는 흐르는 붓획에서 급히 적은 사적인 쪽지를 떠올린다.",
+      "graphic_caption": "가늘고 굵은 획의 면 차이를 따라 본다.",
+      "impression_category": "솔직한 말투"
+    },
+    {
+      "key": "pixel",
+      "label": "둥근모꼴",
+      "family": "DungGeunMo",
+      "style": "Normal",
+      "form_observation": "네모 격자 위 계단형 윤곽이 또렷하다.",
+      "personal_impression": "나는 네모난 획을 보면 옛 게임 대화창의 들뜬 말투가 떠오른다.",
+      "graphic_caption": "계단 윤곽과 글자가 놓인 칸을 본다.",
+      "impression_category": "들뜬 말투"
+    },
+    {
+      "key": "blackhan",
+      "label": "블랙 한 산스",
+      "family": "Black Han Sans",
+      "style": "Regular",
+      "form_observation": "아주 굵은 획과 작은 속공간이 면을 채운다.",
+      "personal_impression": "나는 꽉 찬 검은 면을 보면 조용한 말도 외치는 듯이 읽는다.",
+      "graphic_caption": "작은 속공간과 넓은 검은 면을 비교한다.",
+      "impression_category": "기세 센 말투"
+    },
+    {
+      "key": "gugi",
+      "label": "구기",
+      "family": "Gugi",
+      "style": "Regular",
+      "form_observation": "기하학적 골격과 둥근 획 끝이 만난다.",
+      "personal_impression": "나는 기하학적인 글씨를 보면 반응이 기계 알림처럼 느껴진다.",
+      "graphic_caption": "직선 골격과 둥근 끝의 차이를 본다.",
+      "impression_category": "또렷한 말투"
+    },
+    {
+      "key": "kirang",
+      "label": "기랑해랑",
+      "family": "Kirang Haerang",
+      "style": "Regular",
+      "form_observation": "글자의 크기와 기울기가 고르지 않은 손글씨다.",
+      "personal_impression": "나는 삐뚤한 획을 보면 누가 팻말을 흔들며 장난치는 것 같다.",
+      "graphic_caption": "기준선에 비춰 다른 크기와 기울기를 본다.",
+      "impression_category": "장난스러운 말투"
+    },
+    {
+      "key": "singleday",
+      "label": "싱글데이",
+      "family": "Single Day",
+      "style": "Regular",
+      "form_observation": "둥근 손글씨 골격에 작은 장식이 섞인다.",
+      "personal_impression": "나는 둥근 손글씨를 보면 가까운 친구가 쓴 편지를 떠올린다.",
+      "graphic_caption": "둥근 획과 가벼운 끝맺음을 함께 본다.",
+      "impression_category": "다정한 말투"
+    },
+    {
+      "key": "bawpic",
+      "label": "흑백사진",
+      "family": "Black And White Picture",
+      "style": "Regular",
+      "form_observation": "획 안의 흰 틈과 거친 가장자리가 보인다.",
+      "personal_impression": "나는 획 안의 흰 틈에서 오래 붙어 있던 전단의 조급함을 읽는다.",
+      "graphic_caption": "획 안의 빈틈과 거친 외곽을 본다.",
+      "impression_category": "거친 말투"
+    }
+  ],
+  "meme_notes": {
+    "B01": {
+      "selected_font_key": "blackhan",
+      "personal_impression": "나는 이 글씨를 보면 준비보다 기세부터 챙기게 된다.",
+      "tf_editorial_note": "굵은 획은 크게, 판정은 빨강으로 두어 기세를 받친다."
+    },
+    "A04": {
+      "selected_font_key": "singleday",
+      "personal_impression": "나는 둥근 손글씨를 보면 친구의 커피 한 잔에도 길게 고백하고 싶다.",
+      "tf_editorial_note": "둥근 손글씨를 분홍 면에 놓고 열린 행간으로 고백을 늘인다."
+    },
+    "B02": {
+      "selected_font_key": "jua",
+      "personal_impression": "나는 통통한 글씨 덕분에 과한 칭찬도 귀엽게 받아들인다.",
+      "tf_editorial_note": "둥근 획의 원문과 단정한 해설을 나눠 과장을 보인다."
+    },
+    "A02": {
+      "selected_font_key": "gungseo",
+      "personal_impression": "나는 이 엄숙한 글씨를 보면 질투도 정식 항의처럼 읽게 된다.",
+      "tf_editorial_note": "붓끝의 엄숙함을 남기고 넓은 여백으로 침묵을 만든다."
+    },
+    "A03": {
+      "selected_font_key": "gugi",
+      "personal_impression": "나는 기계 같은 글씨로 사과하면 민망함이 더 커지는 것 같다.",
+      "tf_editorial_note": "기하학적 획을 작게 정렬해 반성문을 공지처럼 보이게 한다."
+    },
+    "A10": {
+      "selected_font_key": "brush",
+      "personal_impression": "나는 흘러가는 붓글씨를 보면 고백을 멈추기 어려운 기분이 된다.",
+      "tf_editorial_note": "붙은 말의 흐름을 왼쪽 정렬로 유지하고 분홍 면으로 묶는다."
+    },
+    "B06": {
+      "selected_font_key": "kirang",
+      "personal_impression": "나는 삐뚤한 글씨를 보면 친구의 자랑을 웃으며 캐묻게 된다.",
+      "tf_editorial_note": "고르지 않은 획은 크게 보이고 해설은 고른 정렬로 받친다."
+    },
+    "B05": {
+      "selected_font_key": "brush",
+      "personal_impression": "나는 기울어진 붓글씨에서 말꼬리를 놓지 못하는 수다를 듣는다.",
+      "tf_editorial_note": "흐르는 획에 열린 행간을 주어 수다의 속도를 읽게 한다."
+    },
+    "B03": {
+      "selected_font_key": "bawpic",
+      "personal_impression": "나는 거친 글씨를 보면 인정하라고 들이대는 전단이 떠오른다.",
+      "tf_editorial_note": "거친 제목과 단정한 원문을 나눠 폭주와 읽힘을 함께 둔다."
+    },
+    "A05": {
+      "selected_font_key": "brush",
+      "personal_impression": "나는 가늘게 끊긴 붓획에서 혼자 적은 밤의 일기를 떠올린다.",
+      "tf_editorial_note": "끊긴 자모와 말줄임표를 살려 붓획이 멈추는 곳을 보인다."
+    },
+    "B07": {
+      "selected_font_key": "pixel",
+      "personal_impression": "나는 픽셀 제목을 보면 출근도 오래된 게임의 임무처럼 느낀다.",
+      "tf_editorial_note": "픽셀 제목과 원문을 구분하고 노랑 면으로 전단의 말투를 만든다."
+    },
+    "A06": {
+      "selected_font_key": "gungseo",
+      "personal_impression": "나는 은궁서의 붓끝을 보면 오늘 놀겠다는 말도 맹세처럼 읽는다.",
+      "tf_editorial_note": "붓끝의 굵기 대비를 살리고 단정한 틀로 허세를 엄숙하게 받는다."
+    }
+  },
+  "intro": {
+    "paragraphs": [
+      "작은 친절엔 장편 고백을, 월요일엔 출근 광고를. 친구에게 보내는 말은 별일에도 늘 큰일인 척한다.",
+      "TF 수업의 피드백을 반영해 폰트라는 용어를 쓰고 문장은 왼쪽으로 모았다. 해설은 자연스럽게 띄어 쓰고 보관 원문과 지면 편집본은 구분했다.",
+      "빨간 선으로 글자의 폭을, 검은 면으로 획의 무게를 봤다. 분홍 면은 관찰할 글자 주위에 두고 실제 모양에서 차이를 찾았다.",
+      "규칙은 같게, 말투는 제멋대로. 같은 밈을 폰트마다 읽으며 내가 먼저 웃는 대목을 찾아본다. 친구에게 보낼 한마디를 고르는 작은 핑계가 되면 좋겠다."
+    ],
+    "body": "작은 친절엔 장편 고백을, 월요일엔 출근 광고를. 친구에게 보내는 말은 별일에도 늘 큰일인 척한다.\n\nTF 수업의 피드백을 반영해 폰트라는 용어를 쓰고 문장은 왼쪽으로 모았다. 해설은 자연스럽게 띄어 쓰고 보관 원문과 지면 편집본은 구분했다.\n\n빨간 선으로 글자의 폭을, 검은 면으로 획의 무게를 봤다. 분홍 면은 관찰할 글자 주위에 두고 실제 모양에서 차이를 찾았다.\n\n규칙은 같게, 말투는 제멋대로. 같은 밈을 폰트마다 읽으며 내가 먼저 웃는 대목을 찾아본다. 친구에게 보낼 한마디를 고르는 작은 핑계가 되면 좋겠다.",
+    "char_count": 291,
+    "eyebrow": "들어가며",
+    "heading": "규칙은 같게,\n말투는 제멋대로."
+  },
+  "graphic_legend": "빨간 선=글자의 폭 / 검은 면=획 / 분홍 면=관찰 영역",
+  "graphic_method": {
+    "glyph": "가",
+    "baseline": "검은 기준선",
+    "advance": "각 폰트 파일의 실제 글자 진행 폭에 맞춘 빨간 선",
+    "plane": "실제 검은 글리프의 획과 속공간",
+    "color": "분홍 면으로 실제 글자 주변의 관찰 영역을 표시한다.",
+    "measurement_policy": "임의의 폭·굵기 비율을 만들지 않는다. 수치가 필요하면 실제 폰트 파일의 값을 사용한다.",
+    "comparison_policy": "같은 글자와 같은 포인트에서 실제 형태를 본다. 임의로 가로폭이나 굵기를 합성하지 않는다.",
+    "qualitative_note": "개인적 인상은 문구와 글자 모양을 보며 정리한 해석이며 폰트의 고정된 감정으로 단정하지 않는다."
+  },
+  "reader_labels": {
+    "original": "원문 접수",
+    "comparison": "폰트 대조",
+    "verdict": "말투 판정",
+    "atlas": "폰트 명단",
+    "personal": "내가 받은 인상",
+    "feature": "눈으로 본 특징"
+  },
+  "constraints": {
+    "no_face_emoji_added": true,
+    "original_text_archive_mutated": false,
+    "left_aligned_explanations": true,
+    "natural_word_spacing_for_new_editorial_text": true,
+    "do_not_change_archived_meme_spacing": true
+  },
+  "navigation_color_legend": "빨강=원문 접수 / 노랑=폰트 대조 / 검정=안내"
+}

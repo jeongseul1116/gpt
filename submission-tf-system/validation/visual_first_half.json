@@ -1,0 +1,234 @@
+{
+  "status": "final_visual_review_complete",
+  "scope": "Independent visual review of pages 1–15; no PDF or design edits.",
+  "reviewed_pages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+  ],
+  "reviewed_spreads": [
+    "02–03",
+    "04–05",
+    "14–15"
+  ],
+  "actual_image_hashes": [
+    {
+      "page": 1,
+      "path": "/workspace/final28/revision_system/qa/pages/page_01.png",
+      "dimensions": [
+        588,
+        834
+      ],
+      "sha256": "1551035ddb080c6466f48324642e1b5538ed8905726f759b2a9d030e6ad88964"
+    },
+    {
+      "page": 2,
+      "path": "/workspace/final28/revision_system/qa/pages/page_02.png",
+      "dimensions": [
+        588,
+        834
+      ],
+      "sha256": "422e352d010af644ef54c3cc7d68f229f23494f99347dc8ebbd668db4e5e2fe2"
+    },
+    {
+      "page": 3,
+      "path": "/workspace/final28/revision_system/qa/pages/page_03.png",
+      "dimensions": [
+        588,
+        834
+      ],
+      "sha256": "7b0fb56abfde6f0fdbe7a07d0e4c3d3fe612ebd3dcedb5c1f54f6ffd2364bf1a"
+    },
+    {
+      "page": 4,
+      "path": "/workspace/final28/revision_system/qa/pages/page_04.png",
+      "dimensions": [
+        588,
+        834
+      ],
+      "sha256": "58b60fca584d0857efb3fa439fe91133475f983af3f8ffa58ec7509f1a7a054b"
+    },
+    {
+      "page": 5,
+      "path": "/workspace/final28/revision_system/qa/pages/page_05.png",
+      "dimensions": [
+        588,
+        834
+      ],
+      "sha256": "f0bafa3ab7b8ed47b35e308b7432708a3d0912735ce2a3a7354861ea96a04827"
+    },
+    {
+      "page": 6,
+      "path": "/workspace/final28/revision_system/qa/pages/page_06.png",
+      "dimensions": [
+        588,
+        834
+      ],
+      "sha256": "6c010fad6868f294824a14610e8661c7807ddceb82cb99fa89fc574c90036d90"
+    },
+    {
+      "page": 7,
+      "path": "/workspace/final28/revision_system/qa/pages/page_07.png",
+      "dimensions": [
+        588,
+        834
+      ],
+      "sha256": "87978770ce5ff18ca1747a65d6c7f3f559c21fd21f37382317d3a6e63e92d141"
+    },
+    {
+      "page": 8,
+      "path": "/workspace/final28/revision_system/qa/pages/page_08.png",
+      "dimensions": [
+        588,
+        834
+      ],
+      "sha256": "89fd28a712e84d6e8a519a6f81151c636b5c70805d829524a98d4d158d5714d2"
+    },
+    {
+      "page": 9,
+      "path": "/workspace/final28/revision_system/qa/pages/page_09.png",
+      "dimensions": [
+        588,
+        834
+      ],
+      "sha256": "62d80c7a07a894329657efc2ae4058f38efd09bbeb76e146a96a85f798fec284"
+    },
+    {
+      "page": 10,
+      "path": "/workspace/final28/revision_system/qa/pages/page_10.png",
+      "dimensions": [
+        588,
+        834
+      ],
+      "sha256": "9783c3437c3042c32a1e13b779422ce54915223131f0c427435f83896a553924"
+    },
+    {
+      "page": 11,
+      "path": "/workspace/final28/revision_system/qa/pages/page_11.png",
+      "dimensions": [
+        588,
+        834
+      ],
+      "sha256": "52263703787fe146b40d9092feb10e2c2c78f05dbb93386233251d77ad001dce"
+    },
+    {
+      "page": 12,
+      "path": "/workspace/final28/revision_system/qa/pages/page_12.png",
+      "dimensions": [
+        588,
+        834
+      ],
+      "sha256": "59dbf489116e1c06362caabd1df7a3962d40802fb5a954b4cc7cb2fb788a722d"
+    },
+    {
+      "page": 13,
+      "path": "/workspace/final28/revision_system/qa/pages/page_13.png",
+      "dimensions": [
+        588,
+        834
+      ],
+      "sha256": "402a58940fe635be3bd7e5c1ec3d2f7712d91611b701a219fbd7a29bcb6ebbab"
+    },
+    {
+      "page": 14,
+      "path": "/workspace/final28/revision_system/qa/pages/page_14.png",
+      "dimensions": [
+        588,
+        834
+      ],
+      "sha256": "cbbd238174d68a6c2716ecce8cd125ed9621b4b9427aca1ef63ee5629bea7bc0"
+    },
+    {
+      "page": 15,
+      "path": "/workspace/final28/revision_system/qa/pages/page_15.png",
+      "dimensions": [
+        588,
+        834
+      ],
+      "sha256": "e49e8f94acc75173ff890a4a9a859f93837e7a48f1b293e5518fa35edc1d0ac7"
+    }
+  ],
+  "issues": [],
+  "visual_checks": {
+    "clipping_overlap": "No clipped or overlapping live text seen on reviewed pages.",
+    "readability": "Comparison specimen lines and notes are distinguishable. Small running labels and footers are legible at image scale; handwritten families are naturally less immediate but not clipped.",
+    "mirrored_axes_and_folios": "Even pages use the outside-left folio; odd pages use the outside-right folio. Header, body, and footer axes mirror consistently across reviewed spreads.",
+    "tone": "The worried-boy cover and red 무섭다 photo lead into recurring red/yellow/black reception and judgment labels. 말투수집실 running matter and procedural wording give the introduction, atlas, original-text pages, and comparison pages one coherent voice.",
+    "atlas": "Twelve visibly distinct font profiles and twelve 가 diagrams present on pages 4–5. Red width marks, black glyphs, and pink observation regions are present; no quantitative percentages are shown. Final common-baseline revision is visually clean.",
+    "comparison_structure": "Pages 7, 9, 11, 13 each show ten comparisons in two columns and five rows. Pages 14–15 each show six comparisons in two columns and three rows.",
+    "terminology_and_intro": "No rendered 서체 observed in reviewed images. Intro mentions TF class feedback without an invented expansion. Final four-paragraph introduction has clean word-aware wrapping.",
+    "emoticon_removal": "No original ASCII emoticon remains in reviewed pages. The specifically requested worried-boy cover photo is retained."
+  },
+  "overall_assessment": "The final pages 1–15 carry a coherent 말투수집실 voice from the worried-boy cover through the introduction, atlas, original-text pages, and comparison grids. Mirrored axes and outside folios are consistent. No residual clipping, overlap, punctuation orphan, or unreadable comparison text was found in this visual review.",
+  "reviewed_at_utc": "2026-10-29T01:48:02.812465+00:00",
+  "final_changed_pages_reinspected": [
+    3,
+    4,
+    5,
+    7,
+    9,
+    11,
+    13,
+    14,
+    15
+  ],
+  "resolved_issues": [
+    {
+      "page": 3,
+      "location": "Final introductory paragraph",
+      "resolution": "Re-viewed final PNG: word-aware wrapping keeps the period with 찾아본다.; no leading punctuation orphan remains."
+    },
+    {
+      "page": [
+        4,
+        5
+      ],
+      "location": "Twelve font profile rows and 가 observation diagrams",
+      "resolution": "Re-viewed final PNGs and spread: specimen rows and observation diagrams remain clear, with consistent row placement and no overlap after the baseline correction."
+    },
+    {
+      "page": 14,
+      "location": "Bottom TF 편집 sentence",
+      "resolution": "Re-viewed final PNG: the sentence now reads 반성문을 공지처럼 보이게 한다. and fits cleanly."
+    }
+  ],
+  "limits": "Visual review of supplied PNGs and spreads; exact physical dimensions, point sizes, font embedding, source-copy fidelity, tracking, and horizontal scale rely on the separate parent metrics/source audit.",
+  "actual_spread_hashes": [
+    {
+      "path": "/workspace/final28/revision_system/qa/spreads/spread_02_03.jpg",
+      "dimensions": [
+        1176,
+        834
+      ],
+      "sha256": "7405a3d3e2880f214a8d72b79e469244597b2ae6ab7e5c73053db70a06c22b0e"
+    },
+    {
+      "path": "/workspace/final28/revision_system/qa/spreads/spread_04_05.jpg",
+      "dimensions": [
+        1176,
+        834
+      ],
+      "sha256": "76d536c599b755165acafd743fb48f88759bc54a92ac7852968e8d5c384bcf93"
+    },
+    {
+      "path": "/workspace/final28/revision_system/qa/spreads/spread_14_15.jpg",
+      "dimensions": [
+        1176,
+        834
+      ],
+      "sha256": "d13719d4f284f4388ca3f75be205c30fd8f099b271db537dc62bf49f4f7d6bdd"
+    }
+  ]
+}

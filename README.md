@@ -1,37 +1,19 @@
-# 2열로 열 서체를 비교하는 28쪽 수정본
+# TF 피드백과 전체 페이지 시스템 개정판
 
-## 수정사항 반영 PDF · 재단선 포함 출력본
+**쓸데없이 진지한 말투수집실** 콘셉트로 전체28쪽을 다시 정리했습니다. 안쪽14mm·바깥쪽10mm 미러 여백, 바깥 쪽번호, 공통 제목·카드 규칙을 적용하고 TF 폰트 분석·구체적인 내 인상·실제 글자 도해를 넣었습니다.
 
-제목 **같은 말, 다른 느낌쓰**와 7쪽 디테일 보정을 반영한 전체 디자인입니다.
+- **[재단선·3mm 도련 포함 A3 인쇄용 PDF](submission-tf-system/PDF/Meme_Font_Book_System_A3_Print.pdf)**
+- [전체28쪽 검토용 PDF](submission-tf-system/PDF/Meme_Font_Book_System_28p_Review.pdf)
+- [펼침면 검토용 PDF](submission-tf-system/PDF/Meme_Font_Book_System_Spreads_Review.pdf)
+- [IDML·PDF·기획안 전체 파일 ZIP](https://github.com/jeongseul1116/gpt/raw/refs/heads/main/Meme_Font_Book_TF_System_28p.zip)
+- [전체28쪽 한눈에 보기](submission-tf-system/preview_28p.jpg)
+- [TF 폰트 분석4–5쪽](submission-tf-system/TF_Analysis_04_05.jpg)
+- [페이지 시스템6–7쪽](submission-tf-system/System_06_07.jpg)
+- [실제 도련과 재단선](submission-tf-system/A3_Bleed_04.png)
+- [8쪽 기획안](submission-tf-system/Planning_TF_System_GoogleDocs.docx)
 
-- **[재단선·3mm 도련 포함 A3 인쇄용 PDF](submission-current-pdf/Meme_Font_Book_Revised_A3_Print.pdf)**
-- [재단선 미리보기](submission-current-pdf/A3_Print_Sheet_04.png)
-- [펼침면 검토용 PDF](submission-current-pdf/Meme_Font_Book_Revised_Spreads.pdf)
-- [전체 28쪽 검토용 PDF](submission-current-pdf/Meme_Font_Book_Revised_28p.pdf)
-- [수정한 6–7쪽 미리보기](submission-current-pdf/Revised_06_07.png)
+인쇄는 A3 가로·단면·실제 크기100%입니다. 본문 색상 탭이 실제3mm 도련까지 이어지고 표지·뒷표지는 흰 도련입니다. 전체28쪽이 A3 14장에 배치돼 있습니다.
 
-비교 페이지의 제목을 **같은 말, 다른 느낌쓰**로 수정했습니다.
+실제12폰트를 사용했고 밈 비교견본126개·폰트도감견본12개·글자도해21개를 넣었습니다. ‘같은 말, 다른 느낌쓰’, 흰 표지 사진과15개밈을 유지했습니다. 지면의 용어는 ‘폰트’, 해설은 왼쪽 정렬과 자연스러운 간격입니다. 표정 이모티콘과 AA 그림은 지면에 없습니다.
 
-펼침면 비교 9쪽을 **2열 × 5행, 각 10종 서체**로 넓혔습니다. 견본은 **11pt**, 느낌과 이유 설명은 **7.2pt**입니다. 실제 서체 총 12종으로 밈 15개의 비교 견본 126개를 구성했습니다. 통합면과 짧은 말은 각 6종 비교를 유지했습니다.
-
-- [수정한 28쪽 PDF](https://github.com/jeongseul1116/gpt/raw/refs/heads/main/submission-two-column/PDF/Meme_Font_Book_28p_Two_Column.pdf)
-- [인디자인 편집 파일과 전체 제출물 ZIP](https://github.com/jeongseul1116/gpt/raw/refs/heads/main/Meme_Font_Book_Two_Column_28p.zip)
-- [2열 열 서체 비교 페이지](submission-two-column/Ten_Fonts_Page_07.png)
-- [가보자고 6–7쪽 펼침면](submission-two-column/Two_Column_Comparison_06_07.png)
-- [A3 실제 크기 출력본](https://github.com/jeongseul1116/gpt/raw/refs/heads/main/submission-two-column/PDF/Meme_Font_Book_28p_Two_Column_A3_Print.pdf)
-- [Google Docs로 가져올 기획안](https://github.com/jeongseul1116/gpt/raw/refs/heads/main/submission-two-column/Planning_Two_Column_GoogleDocs.docx)
-
-현재 제출물은 submission-two-column 폴더입니다. A5 세로 28쪽, 2–3쪽 인트로, 4–5쪽 열두 서체 도감, 27쪽 짧은 말 모음을 유지했습니다. 표정 이모티콘과 AA 그림은 지면에 없습니다.
-
-출력은 A3 가로·단면·실제 크기 100%입니다. 도련 3mm와 재단선을 포함한 14장 파일에서 첫 장 100mm 기준선을 확인하고 바깥 재단선을 따라 자릅니다.
-
-폰트 원본은 동봉하지 않았습니다. PDF는 글꼴 설치 없이 볼 수 있습니다. IDML·JSX는 정적 검수했으며 실제 InDesign 실행은 미검증입니다. 정확한 서체와 편집 방법은 [현재 제출 안내](submission-two-column/README_KO.md)에 있습니다.
-
-## 디테일 연습 01
-
-7쪽 「가보자고」의 여백·문장 간격·설명 서체·견본 기준선을 다듬은 별도 연습 시안입니다. 기존 최종본은 그대로 보관했습니다.
-
-- [수정 전후 비교 보드](detail-practice-01/Detail_Practice01_Review_Board.png)
-- [A5 수정 전후 PDF](https://github.com/jeongseul1116/gpt/raw/refs/heads/main/detail-practice-01/PDF/Detail_Practice01_Before_After.pdf)
-- [연습용 IDML·비교 자료 ZIP](https://github.com/jeongseul1116/gpt/raw/refs/heads/main/Meme_Font_Book_Detail_Practice01.zip)
-- [직접 해볼 순서](detail-practice-01/README_KO.md)
+폰트 원본은 동봉하지 않았으며 편집에 필요한 이름과 출처는 font_records에 있습니다. IDML·JSX는 정적 검수했고 실제 Adobe InDesign 실행·내보내기는 미검증입니다. 현재 제출물은 submission-tf-system 폴더이며 [자세한 안내](submission-tf-system/README_KO.md)를 참고하세요.

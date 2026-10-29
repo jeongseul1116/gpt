@@ -1,0 +1,156 @@
+{
+  "status": "passed",
+  "scope": "Independent visual review of all13second-half pages plus six full spreads; no design or source mutations.",
+  "layout_sha256": "f2d5a709e670e7edcbf6c37819f8e57e59553a6e3e38cd281aa31f1da6788994",
+  "pages_individually_reviewed": [
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28
+  ],
+  "final_comparison_spreads_reinspected_after_editorial_word_wrap": [
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27
+  ],
+  "page_images": [
+    {
+      "page": 16,
+      "file": "qa/pages/page_16.png",
+      "sha256": "9937bf59b9e29c30c0b565b772ea0034e303f40a8ff235e447d99ed4eb7fe13d"
+    },
+    {
+      "page": 17,
+      "file": "qa/pages/page_17.png",
+      "sha256": "179f0eb79781a85ba5c6aa8a21408056022f212077a888439c6f628b143d3dad"
+    },
+    {
+      "page": 18,
+      "file": "qa/pages/page_18.png",
+      "sha256": "91de9f9e6f997f93f16a11e633960ddef8053f29fa775ada4fcd5d47d1739899"
+    },
+    {
+      "page": 19,
+      "file": "qa/pages/page_19.png",
+      "sha256": "810bca721bad623b6a0ddbaccfff0b4229b267f76f3a5a36d37d3b0107b9bb9c"
+    },
+    {
+      "page": 20,
+      "file": "qa/pages/page_20.png",
+      "sha256": "3ff804c8d7707af9d863d44d4a4bac1dc34a6adeac9ac518c072510c9147cf69"
+    },
+    {
+      "page": 21,
+      "file": "qa/pages/page_21.png",
+      "sha256": "8f94c54251be83511e3fe214cf9475b5f6f42a8036e4272b66be06848662742a"
+    },
+    {
+      "page": 22,
+      "file": "qa/pages/page_22.png",
+      "sha256": "c5546177525ca1025d857a0eb72a93dae5795cee13b96df45f32ae18a5c5fbc5"
+    },
+    {
+      "page": 23,
+      "file": "qa/pages/page_23.png",
+      "sha256": "e5ea1108ffc5bc7f31c9042af1933636160216f5aeaf0c98c6be327b8ca15241"
+    },
+    {
+      "page": 24,
+      "file": "qa/pages/page_24.png",
+      "sha256": "aca53dcde48d709282a3e3201d33d73029889ddc91bbdb01f54b381d643fe472"
+    },
+    {
+      "page": 25,
+      "file": "qa/pages/page_25.png",
+      "sha256": "23685b04e7a65dd749a09e0c13dde008a6c683ee3598e55348d4cb2465566593"
+    },
+    {
+      "page": 26,
+      "file": "qa/pages/page_26.png",
+      "sha256": "d1b67896520583aebff69ecb8d5b0258d6172a8b89abe03aa4cd9702cdefc20a"
+    },
+    {
+      "page": 27,
+      "file": "qa/pages/page_27.png",
+      "sha256": "78227b2f796b804698d552e092fa86beb81c25e5751a2ff26c6ffc4ffe4259f1"
+    },
+    {
+      "page": 28,
+      "file": "qa/pages/page_28.png",
+      "sha256": "095dc47cc0c97c9fe089ecebeed74e795e182200286f3f5d1833102ad7d54e4e"
+    }
+  ],
+  "spread_images": [
+    {
+      "logical_pages": "16_17",
+      "file": "qa/spreads/spread_16_17.jpg",
+      "sha256": "b5fd2a005676e8061b40d222f0193d361d4c61372d29db342e4c7bcac7afb71d"
+    },
+    {
+      "logical_pages": "18_19",
+      "file": "qa/spreads/spread_18_19.jpg",
+      "sha256": "1af4875faec9937e789ff2859dca1ea2c36f11c4a427d1788bb30bd24b0dc1e1"
+    },
+    {
+      "logical_pages": "20_21",
+      "file": "qa/spreads/spread_20_21.jpg",
+      "sha256": "8e0dec384009a29a23a7b3e2c11e57b923f65abcf9105f8c67303b71030ee021"
+    },
+    {
+      "logical_pages": "22_23",
+      "file": "qa/spreads/spread_22_23.jpg",
+      "sha256": "e2570139c6627fa769823619f4bd2c7518db317d447edcc25b1f42f60cd12ecc"
+    },
+    {
+      "logical_pages": "24_25",
+      "file": "qa/spreads/spread_24_25.jpg",
+      "sha256": "4060e4ccfe14b8d0407acd4622e005d1bcf0cd1938b33f7880cee2542db3b3b8"
+    },
+    {
+      "logical_pages": "26_27",
+      "file": "qa/spreads/spread_26_27.jpg",
+      "sha256": "082283b319a94fc8dd7414842d0b6686a7df8cff89ff7a09345ad4410b0c3cf5"
+    }
+  ],
+  "issues": [],
+  "resolved_findings": [
+    {
+      "page": 26,
+      "issue": "An isolated sentence-ending 다. appeared in the Black Han Sans impression card.",
+      "final_observation": "The complete word 듯하다. now starts its second line; the compact Jua/bawpic impressions also break at natural word boundaries."
+    }
+  ],
+  "checks": {
+    "source_panels_and_cards_have_no_clipping_or_overlap": true,
+    "even_left_odd_right_outer_folio_boxes_consistent": true,
+    "mirrored_live_axes_and_repeated_header_footer_consistent": true,
+    "spread26_27_first_panels_share_y136": true,
+    "p20_long_original_8_2pt_fits_reading_panel": true,
+    "all_changed_comparison_pages_10distinct_fonts_visible": true,
+    "compact_page26_six_font_grid_visible": true,
+    "closing_page27_three_original_short_memes_and_six_samples_each_visible": true,
+    "glyph_feature_diagrams_and_captions_legible_as_qualitative_shape_observations": true,
+    "B_grade_tone_recurs_through_black_form_headers_red_yellow_tabs_and_absurdly_serious_case_labels": true,
+    "backcover_concept_and_credits_hierarchy_coherent": true,
+    "no_forbidden_facial_emoticons": true
+  },
+  "visual_limitations": "Screen render inspection only; physical printing and native InDesign execution were not performed."
+}
