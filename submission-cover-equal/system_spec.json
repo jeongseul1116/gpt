@@ -1,0 +1,31 @@
+{
+  "concept": "쓸데없이 진지한 말투수집실",
+  "inner_margin_mm": 14,
+  "outer_margin_mm": 10,
+  "content_width_pt": 351.4960629921079,
+  "bleed_mm": 3,
+  "body_top_pt": 136,
+  "footer_rule_pt": 565,
+  "full_comparison_grid": [
+    2,
+    5
+  ],
+  "full_card_step_pt": 72,
+  "full_card_height_pt": 66,
+  "compact_grid": [
+    2,
+    3
+  ],
+  "compact_step_pt": 84,
+  "compact_card_height_pt": 78,
+  "folio": "even outer left / odd outer right",
+  "alignment": "left",
+  "tracking": 0,
+  "horizontal_scale": 100,
+  "font_legend": "빨간 선=글자의 폭 / 검은 면=획 / 분홍 면=관찰 영역",
+  "actual_font_families": 12,
+  "meme_count": 15,
+  "meme_specimens": 126,
+  "actual_glyph_diagrams": 21,
+  "visible_coloured_bleed_tabs": 26
+}

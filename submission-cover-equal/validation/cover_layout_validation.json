@@ -1,0 +1,104 @@
+{
+  "status": "passed",
+  "layout_sha256": "9aabcbf942c489af56fdefd75fc5f902c310ec76ce09bea277b7450b300da718",
+  "previous_layout_sha256": "dee9c27901a27c4bdd0bacd36bc3d7436f55fdf8a71fa2ffb05271a5f913f8d8",
+  "changed_pages": [
+    1
+  ],
+  "other27_pages_identical": true,
+  "main_title": [
+    "마참내!",
+    "밈 폰트 도감\n말투수집실"
+  ],
+  "subtitle": "마참내! 폰트도 웃길 수 있다",
+  "main_title_font_sizes": [
+    24,
+    34
+  ],
+  "subtitle_font_size": 12.5,
+  "all_cover_text_fit": true,
+  "all_cover_text_left_aligned": true,
+  "white_background_preserved": true,
+  "two_title_lines_share_single_text_frame": true,
+  "two_title_lines_uniform_style": {
+    "font": "YES24",
+    "style": "Regular",
+    "size": 34,
+    "color": "black",
+    "alignment": "left",
+    "x": 39.68503937007874,
+    "leading": 42,
+    "tracking": 0,
+    "horizontal_scale": 100
+  },
+  "cover_graphics_image_and_other_prose_unchanged": true,
+  "frames": [
+    {
+      "text": "01",
+      "font": "YES24",
+      "size": 8.5,
+      "y": 572,
+      "height": 11.271,
+      "frame_height": 13
+    },
+    {
+      "text": "쓸데없이 진지한 말투수집실 · 정슬기",
+      "font": "sans",
+      "size": 6.1,
+      "y": 574,
+      "height": 8.832799999999999,
+      "frame_height": 10
+    },
+    {
+      "text": "친구 배포용",
+      "font": "YES24",
+      "size": 7,
+      "y": 51,
+      "height": 9.282,
+      "frame_height": 12
+    },
+    {
+      "text": "15개 밈 / 실제 폰트 12종",
+      "font": "sans",
+      "size": 7.3,
+      "y": 51,
+      "height": 10.5704,
+      "frame_height": 12
+    },
+    {
+      "text": "마참내!",
+      "font": "YES24",
+      "size": 24,
+      "y": 76,
+      "height": 31.824,
+      "frame_height": 34
+    },
+    {
+      "text": "밈 폰트 도감\n말투수집실",
+      "font": "YES24",
+      "size": 34,
+      "y": 110,
+      "height": 87.084,
+      "frame_height": 88
+    },
+    {
+      "text": "마참내! 폰트도 웃길 수 있다",
+      "font": "sans",
+      "size": 12.5,
+      "y": 199,
+      "height": 18.099999999999998,
+      "frame_height": 20
+    },
+    {
+      "text": "취급주의 · 글자에 감정 있음",
+      "font": "YES24",
+      "size": 8.2,
+      "y": 226,
+      "height": 10.873199999999999,
+      "frame_height": 12
+    }
+  ],
+  "visual_review": "passed",
+  "visually_inspected": "qa/pages/page_01.png",
+  "visual_defects": []
+}
