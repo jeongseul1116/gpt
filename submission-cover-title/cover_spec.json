@@ -1,0 +1,29 @@
+{
+  "main_title": "마참내! 밈 폰트 도감 — 말투수집실",
+  "main_title_lines": [
+    "마참내!",
+    "밈 폰트 도감",
+    "말투수집실"
+  ],
+  "subtitle": "마참내! 폰트도 웃길 수 있다",
+  "main_title_sizes_pt": [
+    24,
+    34,
+    26
+  ],
+  "subtitle_size_pt": 12.5,
+  "image_file": "Links/cover_cutout.png",
+  "image_frame_pt": [
+    115.43307086614176,
+    244,
+    200,
+    305.75539568345323
+  ],
+  "image_pixels": [
+    834,
+    1275
+  ],
+  "image_metadata_dpi": 300,
+  "image_resolution_method": "Lanczos print downsampling of original1014x1550 to834x1275 at300dpi",
+  "white_background": true
+}

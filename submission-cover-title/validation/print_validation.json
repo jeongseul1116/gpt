@@ -1,0 +1,2101 @@
+{
+  "status": "passed",
+  "scope": "Independent actual-PDF object/path/font/ink/placement inspection; read-only; no Adobe preset or physical printer claim.",
+  "files": {
+    "source_bleed": {
+      "name": "Source_Bleed.pdf",
+      "bytes": 5399975,
+      "sha256": "f38dd06a80e98b8302c5eb3b25fffff21f2d7f7dec380886218c3efbc2793ed4",
+      "pages": 28
+    },
+    "review": {
+      "name": "Meme_Font_Book_System_28p_Review.pdf",
+      "bytes": 4390368,
+      "sha256": "e5c7e4540344efd1f3b57621c44c46ce039e611d91df3936aaae2c460c7fe872",
+      "pages": 28
+    },
+    "spreads": {
+      "name": "Meme_Font_Book_System_Spreads_Review.pdf",
+      "bytes": 4394422,
+      "sha256": "801080e7d1c952837b58e95d9757f15d11c677f378a5f5ff8dac51ba8559a22d",
+      "pages": 15
+    },
+    "print": {
+      "name": "Meme_Font_Book_System_A3_Duplex_Booklet.pdf",
+      "bytes": 13701141,
+      "sha256": "e7cc3f2ebedb93be2988b9eb522f1605d2019a26b015629458b52def02e2dfa7",
+      "pages": 14
+    }
+  },
+  "source_bleed_media_crop_mm": [
+    154,
+    216
+  ],
+  "source_trim_box_mm": [
+    3,
+    3,
+    151,
+    213
+  ],
+  "review_A5_mm": [
+    148,
+    210
+  ],
+  "A3_media_crop_mm": [
+    420,
+    297
+  ],
+  "A3_trim_origin_mm": [
+    62,
+    43.5
+  ],
+  "A3_trim_size_mm": [
+    296,
+    210
+  ],
+  "A3_bleed_size_mm": [
+    302,
+    216
+  ],
+  "real_coloured_bleed_pages": 26,
+  "physical_A3_sheets": 7,
+  "print_pdf_faces": 14,
+  "cover_pair_white_bleed_intentional": true,
+  "all26_outer_3mm_ink_regions_verified_in_source_and_print": true,
+  "all28_source_page_text_and_vector_paths_preserved_at_100_percent": true,
+  "pairs": [
+    [
+      28,
+      1
+    ],
+    [
+      2,
+      27
+    ],
+    [
+      26,
+      3
+    ],
+    [
+      4,
+      25
+    ],
+    [
+      24,
+      5
+    ],
+    [
+      6,
+      23
+    ],
+    [
+      22,
+      7
+    ],
+    [
+      8,
+      21
+    ],
+    [
+      20,
+      9
+    ],
+    [
+      10,
+      19
+    ],
+    [
+      18,
+      11
+    ],
+    [
+      12,
+      17
+    ],
+    [
+      16,
+      13
+    ],
+    [
+      14,
+      15
+    ]
+  ],
+  "page_checks": [
+    {
+      "sheet": 1,
+      "pair": [
+        28,
+        1
+      ],
+      "crop_marks_count": 8,
+      "crop_mark_offset_mm": 3,
+      "crop_mark_length_mm": 5,
+      "crop_mark_ink": "K100",
+      "crop_mark_line_width_pt": 0.25,
+      "ruler_mm": 100,
+      "placement": "translation only /100%",
+      "all_text_and_vectors_match_source": true
+    },
+    {
+      "sheet": 2,
+      "pair": [
+        2,
+        27
+      ],
+      "crop_marks_count": 8,
+      "crop_mark_offset_mm": 3,
+      "crop_mark_length_mm": 5,
+      "crop_mark_ink": "K100",
+      "crop_mark_line_width_pt": 0.25,
+      "ruler_mm": 100,
+      "placement": "translation only /100%",
+      "all_text_and_vectors_match_source": true
+    },
+    {
+      "sheet": 3,
+      "pair": [
+        26,
+        3
+      ],
+      "crop_marks_count": 8,
+      "crop_mark_offset_mm": 3,
+      "crop_mark_length_mm": 5,
+      "crop_mark_ink": "K100",
+      "crop_mark_line_width_pt": 0.25,
+      "ruler_mm": 100,
+      "placement": "translation only /100%",
+      "all_text_and_vectors_match_source": true
+    },
+    {
+      "sheet": 4,
+      "pair": [
+        4,
+        25
+      ],
+      "crop_marks_count": 8,
+      "crop_mark_offset_mm": 3,
+      "crop_mark_length_mm": 5,
+      "crop_mark_ink": "K100",
+      "crop_mark_line_width_pt": 0.25,
+      "ruler_mm": 100,
+      "placement": "translation only /100%",
+      "all_text_and_vectors_match_source": true
+    },
+    {
+      "sheet": 5,
+      "pair": [
+        24,
+        5
+      ],
+      "crop_marks_count": 8,
+      "crop_mark_offset_mm": 3,
+      "crop_mark_length_mm": 5,
+      "crop_mark_ink": "K100",
+      "crop_mark_line_width_pt": 0.25,
+      "ruler_mm": 100,
+      "placement": "translation only /100%",
+      "all_text_and_vectors_match_source": true
+    },
+    {
+      "sheet": 6,
+      "pair": [
+        6,
+        23
+      ],
+      "crop_marks_count": 8,
+      "crop_mark_offset_mm": 3,
+      "crop_mark_length_mm": 5,
+      "crop_mark_ink": "K100",
+      "crop_mark_line_width_pt": 0.25,
+      "ruler_mm": 100,
+      "placement": "translation only /100%",
+      "all_text_and_vectors_match_source": true
+    },
+    {
+      "sheet": 7,
+      "pair": [
+        22,
+        7
+      ],
+      "crop_marks_count": 8,
+      "crop_mark_offset_mm": 3,
+      "crop_mark_length_mm": 5,
+      "crop_mark_ink": "K100",
+      "crop_mark_line_width_pt": 0.25,
+      "ruler_mm": 100,
+      "placement": "translation only /100%",
+      "all_text_and_vectors_match_source": true
+    },
+    {
+      "sheet": 8,
+      "pair": [
+        8,
+        21
+      ],
+      "crop_marks_count": 8,
+      "crop_mark_offset_mm": 3,
+      "crop_mark_length_mm": 5,
+      "crop_mark_ink": "K100",
+      "crop_mark_line_width_pt": 0.25,
+      "ruler_mm": 100,
+      "placement": "translation only /100%",
+      "all_text_and_vectors_match_source": true
+    },
+    {
+      "sheet": 9,
+      "pair": [
+        20,
+        9
+      ],
+      "crop_marks_count": 8,
+      "crop_mark_offset_mm": 3,
+      "crop_mark_length_mm": 5,
+      "crop_mark_ink": "K100",
+      "crop_mark_line_width_pt": 0.25,
+      "ruler_mm": 100,
+      "placement": "translation only /100%",
+      "all_text_and_vectors_match_source": true
+    },
+    {
+      "sheet": 10,
+      "pair": [
+        10,
+        19
+      ],
+      "crop_marks_count": 8,
+      "crop_mark_offset_mm": 3,
+      "crop_mark_length_mm": 5,
+      "crop_mark_ink": "K100",
+      "crop_mark_line_width_pt": 0.25,
+      "ruler_mm": 100,
+      "placement": "translation only /100%",
+      "all_text_and_vectors_match_source": true
+    },
+    {
+      "sheet": 11,
+      "pair": [
+        18,
+        11
+      ],
+      "crop_marks_count": 8,
+      "crop_mark_offset_mm": 3,
+      "crop_mark_length_mm": 5,
+      "crop_mark_ink": "K100",
+      "crop_mark_line_width_pt": 0.25,
+      "ruler_mm": 100,
+      "placement": "translation only /100%",
+      "all_text_and_vectors_match_source": true
+    },
+    {
+      "sheet": 12,
+      "pair": [
+        12,
+        17
+      ],
+      "crop_marks_count": 8,
+      "crop_mark_offset_mm": 3,
+      "crop_mark_length_mm": 5,
+      "crop_mark_ink": "K100",
+      "crop_mark_line_width_pt": 0.25,
+      "ruler_mm": 100,
+      "placement": "translation only /100%",
+      "all_text_and_vectors_match_source": true
+    },
+    {
+      "sheet": 13,
+      "pair": [
+        16,
+        13
+      ],
+      "crop_marks_count": 8,
+      "crop_mark_offset_mm": 3,
+      "crop_mark_length_mm": 5,
+      "crop_mark_ink": "K100",
+      "crop_mark_line_width_pt": 0.25,
+      "ruler_mm": 100,
+      "placement": "translation only /100%",
+      "all_text_and_vectors_match_source": true
+    },
+    {
+      "sheet": 14,
+      "pair": [
+        14,
+        15
+      ],
+      "crop_marks_count": 8,
+      "crop_mark_offset_mm": 3,
+      "crop_mark_length_mm": 5,
+      "crop_mark_ink": "K100",
+      "crop_mark_line_width_pt": 0.25,
+      "ruler_mm": 100,
+      "placement": "translation only /100%",
+      "all_text_and_vectors_match_source": true
+    }
+  ],
+  "vector_path_checks": [
+    {
+      "page": 28,
+      "source_vector_paths": 21,
+      "matching_print_paths": 21
+    },
+    {
+      "page": 1,
+      "source_vector_paths": 8,
+      "matching_print_paths": 8
+    },
+    {
+      "page": 2,
+      "source_vector_paths": 103,
+      "matching_print_paths": 103
+    },
+    {
+      "page": 27,
+      "source_vector_paths": 77,
+      "matching_print_paths": 77
+    },
+    {
+      "page": 26,
+      "source_vector_paths": 123,
+      "matching_print_paths": 123
+    },
+    {
+      "page": 3,
+      "source_vector_paths": 62,
+      "matching_print_paths": 62
+    },
+    {
+      "page": 4,
+      "source_vector_paths": 113,
+      "matching_print_paths": 113
+    },
+    {
+      "page": 25,
+      "source_vector_paths": 162,
+      "matching_print_paths": 162
+    },
+    {
+      "page": 24,
+      "source_vector_paths": 62,
+      "matching_print_paths": 62
+    },
+    {
+      "page": 5,
+      "source_vector_paths": 112,
+      "matching_print_paths": 112
+    },
+    {
+      "page": 6,
+      "source_vector_paths": 61,
+      "matching_print_paths": 61
+    },
+    {
+      "page": 23,
+      "source_vector_paths": 162,
+      "matching_print_paths": 162
+    },
+    {
+      "page": 22,
+      "source_vector_paths": 68,
+      "matching_print_paths": 68
+    },
+    {
+      "page": 7,
+      "source_vector_paths": 162,
+      "matching_print_paths": 162
+    },
+    {
+      "page": 8,
+      "source_vector_paths": 70,
+      "matching_print_paths": 70
+    },
+    {
+      "page": 21,
+      "source_vector_paths": 161,
+      "matching_print_paths": 161
+    },
+    {
+      "page": 20,
+      "source_vector_paths": 58,
+      "matching_print_paths": 58
+    },
+    {
+      "page": 9,
+      "source_vector_paths": 162,
+      "matching_print_paths": 162
+    },
+    {
+      "page": 10,
+      "source_vector_paths": 66,
+      "matching_print_paths": 66
+    },
+    {
+      "page": 19,
+      "source_vector_paths": 162,
+      "matching_print_paths": 162
+    },
+    {
+      "page": 18,
+      "source_vector_paths": 70,
+      "matching_print_paths": 70
+    },
+    {
+      "page": 11,
+      "source_vector_paths": 161,
+      "matching_print_paths": 161
+    },
+    {
+      "page": 12,
+      "source_vector_paths": 69,
+      "matching_print_paths": 69
+    },
+    {
+      "page": 17,
+      "source_vector_paths": 161,
+      "matching_print_paths": 161
+    },
+    {
+      "page": 16,
+      "source_vector_paths": 68,
+      "matching_print_paths": 68
+    },
+    {
+      "page": 13,
+      "source_vector_paths": 162,
+      "matching_print_paths": 162
+    },
+    {
+      "page": 14,
+      "source_vector_paths": 124,
+      "matching_print_paths": 124
+    },
+    {
+      "page": 15,
+      "source_vector_paths": 122,
+      "matching_print_paths": 122
+    }
+  ],
+  "actual_ink_samples": [
+    {
+      "source_page": 2,
+      "A3_sheet": 2,
+      "outer_side": "left",
+      "layout_colour": "black",
+      "source_shape_reaches_full_media_edge": true,
+      "3mm_source_and_print_ink_verified": true,
+      "samples": [
+        {
+          "distance_inside_bleed_mm": 0.18,
+          "source_rgb": [
+            34.0,
+            31.0,
+            31.0
+          ],
+          "print_rgb": [
+            34.0,
+            31.0,
+            31.0
+          ]
+        },
+        {
+          "distance_inside_bleed_mm": 1.5,
+          "source_rgb": [
+            34.0,
+            31.0,
+            31.0
+          ],
+          "print_rgb": [
+            34.0,
+            31.0,
+            31.0
+          ]
+        },
+        {
+          "distance_inside_bleed_mm": 2.82,
+          "source_rgb": [
+            34.0,
+            31.0,
+            31.0
+          ],
+          "print_rgb": [
+            34.0,
+            31.0,
+            31.0
+          ]
+        }
+      ]
+    },
+    {
+      "source_page": 27,
+      "A3_sheet": 2,
+      "outer_side": "right",
+      "layout_colour": "yellow",
+      "source_shape_reaches_full_media_edge": true,
+      "3mm_source_and_print_ink_verified": true,
+      "samples": [
+        {
+          "distance_inside_bleed_mm": 0.18,
+          "source_rgb": [
+            255.0,
+            244.0,
+            95.0
+          ],
+          "print_rgb": [
+            255.0,
+            244.0,
+            95.0
+          ]
+        },
+        {
+          "distance_inside_bleed_mm": 1.5,
+          "source_rgb": [
+            255.0,
+            244.0,
+            95.0
+          ],
+          "print_rgb": [
+            255.0,
+            244.0,
+            95.0
+          ]
+        },
+        {
+          "distance_inside_bleed_mm": 2.82,
+          "source_rgb": [
+            255.0,
+            244.0,
+            95.0
+          ],
+          "print_rgb": [
+            255.0,
+            244.0,
+            95.0
+          ]
+        }
+      ]
+    },
+    {
+      "source_page": 26,
+      "A3_sheet": 3,
+      "outer_side": "left",
+      "layout_colour": "black",
+      "source_shape_reaches_full_media_edge": true,
+      "3mm_source_and_print_ink_verified": true,
+      "samples": [
+        {
+          "distance_inside_bleed_mm": 0.18,
+          "source_rgb": [
+            34.0,
+            31.0,
+            31.0
+          ],
+          "print_rgb": [
+            34.0,
+            31.0,
+            31.0
+          ]
+        },
+        {
+          "distance_inside_bleed_mm": 1.5,
+          "source_rgb": [
+            34.0,
+            31.0,
+            31.0
+          ],
+          "print_rgb": [
+            34.0,
+            31.0,
+            31.0
+          ]
+        },
+        {
+          "distance_inside_bleed_mm": 2.82,
+          "source_rgb": [
+            34.0,
+            31.0,
+            31.0
+          ],
+          "print_rgb": [
+            34.0,
+            31.0,
+            31.0
+          ]
+        }
+      ]
+    },
+    {
+      "source_page": 3,
+      "A3_sheet": 3,
+      "outer_side": "right",
+      "layout_colour": "black",
+      "source_shape_reaches_full_media_edge": true,
+      "3mm_source_and_print_ink_verified": true,
+      "samples": [
+        {
+          "distance_inside_bleed_mm": 0.18,
+          "source_rgb": [
+            34.0,
+            31.0,
+            31.0
+          ],
+          "print_rgb": [
+            34.0,
+            31.0,
+            31.0
+          ]
+        },
+        {
+          "distance_inside_bleed_mm": 1.5,
+          "source_rgb": [
+            34.0,
+            31.0,
+            31.0
+          ],
+          "print_rgb": [
+            34.0,
+            31.0,
+            31.0
+          ]
+        },
+        {
+          "distance_inside_bleed_mm": 2.82,
+          "source_rgb": [
+            34.0,
+            31.0,
+            31.0
+          ],
+          "print_rgb": [
+            34.0,
+            31.0,
+            31.0
+          ]
+        }
+      ]
+    },
+    {
+      "source_page": 4,
+      "A3_sheet": 4,
+      "outer_side": "left",
+      "layout_colour": "yellow",
+      "source_shape_reaches_full_media_edge": true,
+      "3mm_source_and_print_ink_verified": true,
+      "samples": [
+        {
+          "distance_inside_bleed_mm": 0.18,
+          "source_rgb": [
+            255.0,
+            244.0,
+            95.0
+          ],
+          "print_rgb": [
+            255.0,
+            244.0,
+            95.0
+          ]
+        },
+        {
+          "distance_inside_bleed_mm": 1.5,
+          "source_rgb": [
+            255.0,
+            244.0,
+            95.0
+          ],
+          "print_rgb": [
+            255.0,
+            244.0,
+            95.0
+          ]
+        },
+        {
+          "distance_inside_bleed_mm": 2.82,
+          "source_rgb": [
+            255.0,
+            244.0,
+            95.0
+          ],
+          "print_rgb": [
+            255.0,
+            244.0,
+            95.0
+          ]
+        }
+      ]
+    },
+    {
+      "source_page": 25,
+      "A3_sheet": 4,
+      "outer_side": "right",
+      "layout_colour": "yellow",
+      "source_shape_reaches_full_media_edge": true,
+      "3mm_source_and_print_ink_verified": true,
+      "samples": [
+        {
+          "distance_inside_bleed_mm": 0.18,
+          "source_rgb": [
+            255.0,
+            244.0,
+            95.0
+          ],
+          "print_rgb": [
+            255.0,
+            244.0,
+            95.0
+          ]
+        },
+        {
+          "distance_inside_bleed_mm": 1.5,
+          "source_rgb": [
+            255.0,
+            244.0,
+            95.0
+          ],
+          "print_rgb": [
+            255.0,
+            244.0,
+            95.0
+          ]
+        },
+        {
+          "distance_inside_bleed_mm": 2.82,
+          "source_rgb": [
+            255.0,
+            244.0,
+            95.0
+          ],
+          "print_rgb": [
+            255.0,
+            244.0,
+            95.0
+          ]
+        }
+      ]
+    },
+    {
+      "source_page": 24,
+      "A3_sheet": 5,
+      "outer_side": "left",
+      "layout_colour": "red",
+      "source_shape_reaches_full_media_edge": true,
+      "3mm_source_and_print_ink_verified": true,
+      "samples": [
+        {
+          "distance_inside_bleed_mm": 0.18,
+          "source_rgb": [
+            239.0,
+            63.0,
+            67.0
+          ],
+          "print_rgb": [
+            239.0,
+            63.0,
+            67.0
+          ]
+        },
+        {
+          "distance_inside_bleed_mm": 1.5,
+          "source_rgb": [
+            239.0,
+            63.0,
+            67.0
+          ],
+          "print_rgb": [
+            239.0,
+            63.0,
+            67.0
+          ]
+        },
+        {
+          "distance_inside_bleed_mm": 2.82,
+          "source_rgb": [
+            239.0,
+            63.0,
+            67.0
+          ],
+          "print_rgb": [
+            239.0,
+            63.0,
+            67.0
+          ]
+        }
+      ]
+    },
+    {
+      "source_page": 5,
+      "A3_sheet": 5,
+      "outer_side": "right",
+      "layout_colour": "yellow",
+      "source_shape_reaches_full_media_edge": true,
+      "3mm_source_and_print_ink_verified": true,
+      "samples": [
+        {
+          "distance_inside_bleed_mm": 0.18,
+          "source_rgb": [
+            255.0,
+            244.0,
+            95.0
+          ],
+          "print_rgb": [
+            255.0,
+            244.0,
+            95.0
+          ]
+        },
+        {
+          "distance_inside_bleed_mm": 1.5,
+          "source_rgb": [
+            255.0,
+            244.0,
+            95.0
+          ],
+          "print_rgb": [
+            255.0,
+            244.0,
+            95.0
+          ]
+        },
+        {
+          "distance_inside_bleed_mm": 2.82,
+          "source_rgb": [
+            255.0,
+            244.0,
+            95.0
+          ],
+          "print_rgb": [
+            255.0,
+            244.0,
+            95.0
+          ]
+        }
+      ]
+    },
+    {
+      "source_page": 6,
+      "A3_sheet": 6,
+      "outer_side": "left",
+      "layout_colour": "red",
+      "source_shape_reaches_full_media_edge": true,
+      "3mm_source_and_print_ink_verified": true,
+      "samples": [
+        {
+          "distance_inside_bleed_mm": 0.18,
+          "source_rgb": [
+            239.0,
+            63.0,
+            67.0
+          ],
+          "print_rgb": [
+            239.0,
+            63.0,
+            67.0
+          ]
+        },
+        {
+          "distance_inside_bleed_mm": 1.5,
+          "source_rgb": [
+            239.0,
+            63.0,
+            67.0
+          ],
+          "print_rgb": [
+            239.0,
+            63.0,
+            67.0
+          ]
+        },
+        {
+          "distance_inside_bleed_mm": 2.82,
+          "source_rgb": [
+            239.0,
+            63.0,
+            67.0
+          ],
+          "print_rgb": [
+            239.0,
+            63.0,
+            67.0
+          ]
+        }
+      ]
+    },
+    {
+      "source_page": 23,
+      "A3_sheet": 6,
+      "outer_side": "right",
+      "layout_colour": "yellow",
+      "source_shape_reaches_full_media_edge": true,
+      "3mm_source_and_print_ink_verified": true,
+      "samples": [
+        {
+          "distance_inside_bleed_mm": 0.18,
+          "source_rgb": [
+            255.0,
+            244.0,
+            95.0
+          ],
+          "print_rgb": [
+            255.0,
+            244.0,
+            95.0
+          ]
+        },
+        {
+          "distance_inside_bleed_mm": 1.5,
+          "source_rgb": [
+            255.0,
+            244.0,
+            95.0
+          ],
+          "print_rgb": [
+            255.0,
+            244.0,
+            95.0
+          ]
+        },
+        {
+          "distance_inside_bleed_mm": 2.82,
+          "source_rgb": [
+            255.0,
+            244.0,
+            95.0
+          ],
+          "print_rgb": [
+            255.0,
+            244.0,
+            95.0
+          ]
+        }
+      ]
+    },
+    {
+      "source_page": 22,
+      "A3_sheet": 7,
+      "outer_side": "left",
+      "layout_colour": "red",
+      "source_shape_reaches_full_media_edge": true,
+      "3mm_source_and_print_ink_verified": true,
+      "samples": [
+        {
+          "distance_inside_bleed_mm": 0.18,
+          "source_rgb": [
+            239.0,
+            63.0,
+            67.0
+          ],
+          "print_rgb": [
+            239.0,
+            63.0,
+            67.0
+          ]
+        },
+        {
+          "distance_inside_bleed_mm": 1.5,
+          "source_rgb": [
+            239.0,
+            63.0,
+            67.0
+          ],
+          "print_rgb": [
+            239.0,
+            63.0,
+            67.0
+          ]
+        },
+        {
+          "distance_inside_bleed_mm": 2.82,
+          "source_rgb": [
+            239.0,
+            63.0,
+            67.0
+          ],
+          "print_rgb": [
+            239.0,
+            63.0,
+            67.0
+          ]
+        }
+      ]
+    },
+    {
+      "source_page": 7,
+      "A3_sheet": 7,
+      "outer_side": "right",
+      "layout_colour": "yellow",
+      "source_shape_reaches_full_media_edge": true,
+      "3mm_source_and_print_ink_verified": true,
+      "samples": [
+        {
+          "distance_inside_bleed_mm": 0.18,
+          "source_rgb": [
+            255.0,
+            244.0,
+            95.0
+          ],
+          "print_rgb": [
+            255.0,
+            244.0,
+            95.0
+          ]
+        },
+        {
+          "distance_inside_bleed_mm": 1.5,
+          "source_rgb": [
+            255.0,
+            244.0,
+            95.0
+          ],
+          "print_rgb": [
+            255.0,
+            244.0,
+            95.0
+          ]
+        },
+        {
+          "distance_inside_bleed_mm": 2.82,
+          "source_rgb": [
+            255.0,
+            244.0,
+            95.0
+          ],
+          "print_rgb": [
+            255.0,
+            244.0,
+            95.0
+          ]
+        }
+      ]
+    },
+    {
+      "source_page": 8,
+      "A3_sheet": 8,
+      "outer_side": "left",
+      "layout_colour": "red",
+      "source_shape_reaches_full_media_edge": true,
+      "3mm_source_and_print_ink_verified": true,
+      "samples": [
+        {
+          "distance_inside_bleed_mm": 0.18,
+          "source_rgb": [
+            239.0,
+            63.0,
+            67.0
+          ],
+          "print_rgb": [
+            239.0,
+            63.0,
+            67.0
+          ]
+        },
+        {
+          "distance_inside_bleed_mm": 1.5,
+          "source_rgb": [
+            239.0,
+            63.0,
+            67.0
+          ],
+          "print_rgb": [
+            239.0,
+            63.0,
+            67.0
+          ]
+        },
+        {
+          "distance_inside_bleed_mm": 2.82,
+          "source_rgb": [
+            239.0,
+            63.0,
+            67.0
+          ],
+          "print_rgb": [
+            239.0,
+            63.0,
+            67.0
+          ]
+        }
+      ]
+    },
+    {
+      "source_page": 21,
+      "A3_sheet": 8,
+      "outer_side": "right",
+      "layout_colour": "yellow",
+      "source_shape_reaches_full_media_edge": true,
+      "3mm_source_and_print_ink_verified": true,
+      "samples": [
+        {
+          "distance_inside_bleed_mm": 0.18,
+          "source_rgb": [
+            255.0,
+            244.0,
+            95.0
+          ],
+          "print_rgb": [
+            255.0,
+            244.0,
+            95.0
+          ]
+        },
+        {
+          "distance_inside_bleed_mm": 1.5,
+          "source_rgb": [
+            255.0,
+            244.0,
+            95.0
+          ],
+          "print_rgb": [
+            255.0,
+            244.0,
+            95.0
+          ]
+        },
+        {
+          "distance_inside_bleed_mm": 2.82,
+          "source_rgb": [
+            255.0,
+            244.0,
+            95.0
+          ],
+          "print_rgb": [
+            255.0,
+            244.0,
+            95.0
+          ]
+        }
+      ]
+    },
+    {
+      "source_page": 20,
+      "A3_sheet": 9,
+      "outer_side": "left",
+      "layout_colour": "red",
+      "source_shape_reaches_full_media_edge": true,
+      "3mm_source_and_print_ink_verified": true,
+      "samples": [
+        {
+          "distance_inside_bleed_mm": 0.18,
+          "source_rgb": [
+            239.0,
+            63.0,
+            67.0
+          ],
+          "print_rgb": [
+            239.0,
+            63.0,
+            67.0
+          ]
+        },
+        {
+          "distance_inside_bleed_mm": 1.5,
+          "source_rgb": [
+            239.0,
+            63.0,
+            67.0
+          ],
+          "print_rgb": [
+            239.0,
+            63.0,
+            67.0
+          ]
+        },
+        {
+          "distance_inside_bleed_mm": 2.82,
+          "source_rgb": [
+            239.0,
+            63.0,
+            67.0
+          ],
+          "print_rgb": [
+            239.0,
+            63.0,
+            67.0
+          ]
+        }
+      ]
+    },
+    {
+      "source_page": 9,
+      "A3_sheet": 9,
+      "outer_side": "right",
+      "layout_colour": "yellow",
+      "source_shape_reaches_full_media_edge": true,
+      "3mm_source_and_print_ink_verified": true,
+      "samples": [
+        {
+          "distance_inside_bleed_mm": 0.18,
+          "source_rgb": [
+            255.0,
+            244.0,
+            95.0
+          ],
+          "print_rgb": [
+            255.0,
+            244.0,
+            95.0
+          ]
+        },
+        {
+          "distance_inside_bleed_mm": 1.5,
+          "source_rgb": [
+            255.0,
+            244.0,
+            95.0
+          ],
+          "print_rgb": [
+            255.0,
+            244.0,
+            95.0
+          ]
+        },
+        {
+          "distance_inside_bleed_mm": 2.82,
+          "source_rgb": [
+            255.0,
+            244.0,
+            95.0
+          ],
+          "print_rgb": [
+            255.0,
+            244.0,
+            95.0
+          ]
+        }
+      ]
+    },
+    {
+      "source_page": 10,
+      "A3_sheet": 10,
+      "outer_side": "left",
+      "layout_colour": "red",
+      "source_shape_reaches_full_media_edge": true,
+      "3mm_source_and_print_ink_verified": true,
+      "samples": [
+        {
+          "distance_inside_bleed_mm": 0.18,
+          "source_rgb": [
+            239.0,
+            63.0,
+            67.0
+          ],
+          "print_rgb": [
+            239.0,
+            63.0,
+            67.0
+          ]
+        },
+        {
+          "distance_inside_bleed_mm": 1.5,
+          "source_rgb": [
+            239.0,
+            63.0,
+            67.0
+          ],
+          "print_rgb": [
+            239.0,
+            63.0,
+            67.0
+          ]
+        },
+        {
+          "distance_inside_bleed_mm": 2.82,
+          "source_rgb": [
+            239.0,
+            63.0,
+            67.0
+          ],
+          "print_rgb": [
+            239.0,
+            63.0,
+            67.0
+          ]
+        }
+      ]
+    },
+    {
+      "source_page": 19,
+      "A3_sheet": 10,
+      "outer_side": "right",
+      "layout_colour": "yellow",
+      "source_shape_reaches_full_media_edge": true,
+      "3mm_source_and_print_ink_verified": true,
+      "samples": [
+        {
+          "distance_inside_bleed_mm": 0.18,
+          "source_rgb": [
+            255.0,
+            244.0,
+            95.0
+          ],
+          "print_rgb": [
+            255.0,
+            244.0,
+            95.0
+          ]
+        },
+        {
+          "distance_inside_bleed_mm": 1.5,
+          "source_rgb": [
+            255.0,
+            244.0,
+            95.0
+          ],
+          "print_rgb": [
+            255.0,
+            244.0,
+            95.0
+          ]
+        },
+        {
+          "distance_inside_bleed_mm": 2.82,
+          "source_rgb": [
+            255.0,
+            244.0,
+            95.0
+          ],
+          "print_rgb": [
+            255.0,
+            244.0,
+            95.0
+          ]
+        }
+      ]
+    },
+    {
+      "source_page": 18,
+      "A3_sheet": 11,
+      "outer_side": "left",
+      "layout_colour": "red",
+      "source_shape_reaches_full_media_edge": true,
+      "3mm_source_and_print_ink_verified": true,
+      "samples": [
+        {
+          "distance_inside_bleed_mm": 0.18,
+          "source_rgb": [
+            239.0,
+            63.0,
+            67.0
+          ],
+          "print_rgb": [
+            239.0,
+            63.0,
+            67.0
+          ]
+        },
+        {
+          "distance_inside_bleed_mm": 1.5,
+          "source_rgb": [
+            239.0,
+            63.0,
+            67.0
+          ],
+          "print_rgb": [
+            239.0,
+            63.0,
+            67.0
+          ]
+        },
+        {
+          "distance_inside_bleed_mm": 2.82,
+          "source_rgb": [
+            239.0,
+            63.0,
+            67.0
+          ],
+          "print_rgb": [
+            239.0,
+            63.0,
+            67.0
+          ]
+        }
+      ]
+    },
+    {
+      "source_page": 11,
+      "A3_sheet": 11,
+      "outer_side": "right",
+      "layout_colour": "yellow",
+      "source_shape_reaches_full_media_edge": true,
+      "3mm_source_and_print_ink_verified": true,
+      "samples": [
+        {
+          "distance_inside_bleed_mm": 0.18,
+          "source_rgb": [
+            255.0,
+            244.0,
+            95.0
+          ],
+          "print_rgb": [
+            255.0,
+            244.0,
+            95.0
+          ]
+        },
+        {
+          "distance_inside_bleed_mm": 1.5,
+          "source_rgb": [
+            255.0,
+            244.0,
+            95.0
+          ],
+          "print_rgb": [
+            255.0,
+            244.0,
+            95.0
+          ]
+        },
+        {
+          "distance_inside_bleed_mm": 2.82,
+          "source_rgb": [
+            255.0,
+            244.0,
+            95.0
+          ],
+          "print_rgb": [
+            255.0,
+            244.0,
+            95.0
+          ]
+        }
+      ]
+    },
+    {
+      "source_page": 12,
+      "A3_sheet": 12,
+      "outer_side": "left",
+      "layout_colour": "red",
+      "source_shape_reaches_full_media_edge": true,
+      "3mm_source_and_print_ink_verified": true,
+      "samples": [
+        {
+          "distance_inside_bleed_mm": 0.18,
+          "source_rgb": [
+            239.0,
+            63.0,
+            67.0
+          ],
+          "print_rgb": [
+            239.0,
+            63.0,
+            67.0
+          ]
+        },
+        {
+          "distance_inside_bleed_mm": 1.5,
+          "source_rgb": [
+            239.0,
+            63.0,
+            67.0
+          ],
+          "print_rgb": [
+            239.0,
+            63.0,
+            67.0
+          ]
+        },
+        {
+          "distance_inside_bleed_mm": 2.82,
+          "source_rgb": [
+            239.0,
+            63.0,
+            67.0
+          ],
+          "print_rgb": [
+            239.0,
+            63.0,
+            67.0
+          ]
+        }
+      ]
+    },
+    {
+      "source_page": 17,
+      "A3_sheet": 12,
+      "outer_side": "right",
+      "layout_colour": "yellow",
+      "source_shape_reaches_full_media_edge": true,
+      "3mm_source_and_print_ink_verified": true,
+      "samples": [
+        {
+          "distance_inside_bleed_mm": 0.18,
+          "source_rgb": [
+            255.0,
+            244.0,
+            95.0
+          ],
+          "print_rgb": [
+            255.0,
+            244.0,
+            95.0
+          ]
+        },
+        {
+          "distance_inside_bleed_mm": 1.5,
+          "source_rgb": [
+            255.0,
+            244.0,
+            95.0
+          ],
+          "print_rgb": [
+            255.0,
+            244.0,
+            95.0
+          ]
+        },
+        {
+          "distance_inside_bleed_mm": 2.82,
+          "source_rgb": [
+            255.0,
+            244.0,
+            95.0
+          ],
+          "print_rgb": [
+            255.0,
+            244.0,
+            95.0
+          ]
+        }
+      ]
+    },
+    {
+      "source_page": 16,
+      "A3_sheet": 13,
+      "outer_side": "left",
+      "layout_colour": "red",
+      "source_shape_reaches_full_media_edge": true,
+      "3mm_source_and_print_ink_verified": true,
+      "samples": [
+        {
+          "distance_inside_bleed_mm": 0.18,
+          "source_rgb": [
+            239.0,
+            63.0,
+            67.0
+          ],
+          "print_rgb": [
+            239.0,
+            63.0,
+            67.0
+          ]
+        },
+        {
+          "distance_inside_bleed_mm": 1.5,
+          "source_rgb": [
+            239.0,
+            63.0,
+            67.0
+          ],
+          "print_rgb": [
+            239.0,
+            63.0,
+            67.0
+          ]
+        },
+        {
+          "distance_inside_bleed_mm": 2.82,
+          "source_rgb": [
+            239.0,
+            63.0,
+            67.0
+          ],
+          "print_rgb": [
+            239.0,
+            63.0,
+            67.0
+          ]
+        }
+      ]
+    },
+    {
+      "source_page": 13,
+      "A3_sheet": 13,
+      "outer_side": "right",
+      "layout_colour": "yellow",
+      "source_shape_reaches_full_media_edge": true,
+      "3mm_source_and_print_ink_verified": true,
+      "samples": [
+        {
+          "distance_inside_bleed_mm": 0.18,
+          "source_rgb": [
+            255.0,
+            244.0,
+            95.0
+          ],
+          "print_rgb": [
+            255.0,
+            244.0,
+            95.0
+          ]
+        },
+        {
+          "distance_inside_bleed_mm": 1.5,
+          "source_rgb": [
+            255.0,
+            244.0,
+            95.0
+          ],
+          "print_rgb": [
+            255.0,
+            244.0,
+            95.0
+          ]
+        },
+        {
+          "distance_inside_bleed_mm": 2.82,
+          "source_rgb": [
+            255.0,
+            244.0,
+            95.0
+          ],
+          "print_rgb": [
+            255.0,
+            244.0,
+            95.0
+          ]
+        }
+      ]
+    },
+    {
+      "source_page": 14,
+      "A3_sheet": 14,
+      "outer_side": "left",
+      "layout_colour": "black",
+      "source_shape_reaches_full_media_edge": true,
+      "3mm_source_and_print_ink_verified": true,
+      "samples": [
+        {
+          "distance_inside_bleed_mm": 0.18,
+          "source_rgb": [
+            34.0,
+            31.0,
+            31.0
+          ],
+          "print_rgb": [
+            34.0,
+            31.0,
+            31.0
+          ]
+        },
+        {
+          "distance_inside_bleed_mm": 1.5,
+          "source_rgb": [
+            34.0,
+            31.0,
+            31.0
+          ],
+          "print_rgb": [
+            34.0,
+            31.0,
+            31.0
+          ]
+        },
+        {
+          "distance_inside_bleed_mm": 2.82,
+          "source_rgb": [
+            34.0,
+            31.0,
+            31.0
+          ],
+          "print_rgb": [
+            34.0,
+            31.0,
+            31.0
+          ]
+        }
+      ]
+    },
+    {
+      "source_page": 15,
+      "A3_sheet": 14,
+      "outer_side": "right",
+      "layout_colour": "black",
+      "source_shape_reaches_full_media_edge": true,
+      "3mm_source_and_print_ink_verified": true,
+      "samples": [
+        {
+          "distance_inside_bleed_mm": 0.18,
+          "source_rgb": [
+            34.0,
+            31.0,
+            31.0
+          ],
+          "print_rgb": [
+            34.0,
+            31.0,
+            31.0
+          ]
+        },
+        {
+          "distance_inside_bleed_mm": 1.5,
+          "source_rgb": [
+            34.0,
+            31.0,
+            31.0
+          ],
+          "print_rgb": [
+            34.0,
+            31.0,
+            31.0
+          ]
+        },
+        {
+          "distance_inside_bleed_mm": 2.82,
+          "source_rgb": [
+            34.0,
+            31.0,
+            31.0
+          ],
+          "print_rgb": [
+            34.0,
+            31.0,
+            31.0
+          ]
+        }
+      ]
+    }
+  ],
+  "embedded_fonts": {
+    "source_bleed": [
+      {
+        "name": "AAAAAA+YES24",
+        "embedded_bytes": 71580
+      },
+      {
+        "name": "AAAAAB+YES24",
+        "embedded_bytes": 89524
+      }
+    ],
+    "review": [
+      {
+        "name": "AAAAAA+YES24",
+        "embedded_bytes": 71580
+      },
+      {
+        "name": "AAAAAB+YES24",
+        "embedded_bytes": 89524
+      }
+    ],
+    "spreads": [
+      {
+        "name": "AAAAAA+YES24",
+        "embedded_bytes": 71580
+      },
+      {
+        "name": "AAAAAB+YES24",
+        "embedded_bytes": 89524
+      }
+    ],
+    "print": [
+      {
+        "name": "AAAAAA+YES24",
+        "embedded_bytes": 34732
+      },
+      {
+        "name": "AAAAAA+YES24",
+        "embedded_bytes": 71580
+      },
+      {
+        "name": "AAAAAB+YES24",
+        "embedded_bytes": 89524
+      }
+    ]
+  },
+  "no_Helvetica": true,
+  "other_font_specimens": "vector outlines; every source vector path geometry is checked after reversing page translation",
+  "cover_PDF_prepared_JPEG_byte_exact_all_containers": true,
+  "cover_photo_checks": [
+    {
+      "pdf": "source_bleed",
+      "pixels": [
+        834,
+        1275
+      ],
+      "encoding": "JPEG",
+      "prepared_JPEG_byte_exact": true,
+      "embedded_image_sha256": "99879cd70bc34a6aebed15f8908b5cf36ae9cc681b54e66062bf7c49ab3f9ffb",
+      "image_rect_pt": [
+        123.9370346069336,
+        252.50393676757812,
+        323.9370422363281,
+        558.2593383789062
+      ],
+      "effective_ppi": [
+        300.2399885467534,
+        300.2399941790557
+      ]
+    },
+    {
+      "pdf": "review",
+      "pixels": [
+        834,
+        1275
+      ],
+      "encoding": "JPEG",
+      "prepared_JPEG_byte_exact": true,
+      "embedded_image_sha256": "99879cd70bc34a6aebed15f8908b5cf36ae9cc681b54e66062bf7c49ab3f9ffb",
+      "image_rect_pt": [
+        115.43309783935547,
+        244.00003051757812,
+        315.43310546875,
+        549.7554321289062
+      ],
+      "effective_ppi": [
+        300.2399885467534,
+        300.2399941790557
+      ]
+    },
+    {
+      "pdf": "spreads",
+      "pixels": [
+        834,
+        1275
+      ],
+      "encoding": "JPEG",
+      "prepared_JPEG_byte_exact": true,
+      "embedded_image_sha256": "99879cd70bc34a6aebed15f8908b5cf36ae9cc681b54e66062bf7c49ab3f9ffb",
+      "image_rect_pt": [
+        115.43309783935547,
+        244.00003051757812,
+        315.43310546875,
+        549.7554321289062
+      ],
+      "effective_ppi": [
+        300.2399885467534,
+        300.2399941790557
+      ]
+    },
+    {
+      "pdf": "print",
+      "pixels": [
+        834,
+        1275
+      ],
+      "encoding": "JPEG",
+      "prepared_JPEG_byte_exact": true,
+      "embedded_image_sha256": "99879cd70bc34a6aebed15f8908b5cf36ae9cc681b54e66062bf7c49ab3f9ffb",
+      "image_rect_pt": [
+        710.708740234375,
+        367.3070373535156,
+        910.708740234375,
+        673.0624389648438
+      ],
+      "effective_ppi": [
+        300.24,
+        300.2399941790557
+      ]
+    }
+  ],
+  "cover_native_PNG_metadata": {
+    "pixels": [
+      834,
+      1275
+    ],
+    "mode": "RGBA",
+    "metadata_dpi": [
+      299.9994,
+      299.9994
+    ],
+    "sha256": "38eca086faf6e70c6f616807f9e7507f07988e183a57f3d868714081b26b09db"
+  },
+  "layout_sha256": "5028d96bb0efc484fbaff9ba9079cb712b03f6e04f770818461389387956c996",
+  "viewer_preferences": {
+    "PrintScaling": "None",
+    "Duplex": "DuplexFlipShortEdge",
+    "PickTrayByPDFSize": true
+  },
+  "crop_mark_strokes_count": 112,
+  "all112_crop_marks_K100_0_25pt": true,
+  "all_page_placement_linear_matrices_identity_to_1e_10": true,
+  "physical_print_test": false,
+  "Adobe_preset_claim": false,
+  "visual_files": [
+    "qa_duplex/System_A3_01.png",
+    "qa_duplex/System_A3_02.png",
+    "qa_duplex/System_A3_07.png",
+    "qa_duplex/System_A3_08.png",
+    "qa_duplex/System_A3_13.png",
+    "qa_duplex/System_A3_14.png",
+    "qa_duplex/Duplex_All14Faces.jpg"
+  ],
+  "independent_physical_fold_model": {
+    "sheet_count": 7,
+    "faces_per_sheet": 2,
+    "pairs": [
+      [
+        28,
+        1
+      ],
+      [
+        2,
+        27
+      ],
+      [
+        26,
+        3
+      ],
+      [
+        4,
+        25
+      ],
+      [
+        24,
+        5
+      ],
+      [
+        6,
+        23
+      ],
+      [
+        22,
+        7
+      ],
+      [
+        8,
+        21
+      ],
+      [
+        20,
+        9
+      ],
+      [
+        10,
+        19
+      ],
+      [
+        18,
+        11
+      ],
+      [
+        12,
+        17
+      ],
+      [
+        16,
+        13
+      ],
+      [
+        14,
+        15
+      ]
+    ],
+    "front_face_rotation": 0,
+    "back_face_rotation": 0,
+    "flip_axis": "vertical / short 297mm edge of A3 landscape",
+    "turn_leaf_pairs": [
+      [
+        1,
+        2
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        5,
+        6
+      ],
+      [
+        7,
+        8
+      ],
+      [
+        9,
+        10
+      ],
+      [
+        11,
+        12
+      ],
+      [
+        13,
+        14
+      ],
+      [
+        15,
+        16
+      ],
+      [
+        17,
+        18
+      ],
+      [
+        19,
+        20
+      ],
+      [
+        21,
+        22
+      ],
+      [
+        23,
+        24
+      ],
+      [
+        25,
+        26
+      ],
+      [
+        27,
+        28
+      ]
+    ],
+    "reading_order": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28
+    ],
+    "all_pages_1_to_28_in_order": true,
+    "long_edge_negative_control_fails": true
+  },
+  "print_options_required": {
+    "paper": "A3",
+    "orientation": "Landscape",
+    "scale": "Actual size /100%",
+    "duplex": "On / Flip short edge",
+    "disable": [
+      "Fit",
+      "Shrink oversized pages",
+      "Booklet",
+      "Multiple pages per sheet"
+    ]
+  },
+  "print_pairs_json_matches_independently_derived_pairs": true,
+  "target_cover_dpi": 300,
+  "visual_review_completed": {
+    "all_14_faces_contact_sheet": true,
+    "high_resolution_faces": [
+      1,
+      2
+    ],
+    "observations": [
+      "Updated cover has prominent main title, smaller subtitle and white-background300ppi image",
+      "All14 faces upright with front/back short-edge directions retained",
+      "Sheet1 front28|1, back2|27; final sheet front16|13, back14|15",
+      "New cover image sits wholly inside trim, no crop/overlap with title or footer",
+      "All crop marks and100mm ruler remain clear of artwork"
+    ],
+    "issues": []
+  }
+}

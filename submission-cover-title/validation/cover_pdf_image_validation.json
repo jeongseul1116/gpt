@@ -1,0 +1,50 @@
+{
+  "status": "passed",
+  "target_dpi": 300,
+  "pdf_sha256": "e5c7e4540344efd1f3b57621c44c46ce039e611d91df3936aaae2c460c7fe872",
+  "cover_embedded_images": [
+    {
+      "xref": 14,
+      "pixels": [
+        834,
+        1275
+      ],
+      "placement_rect_pt": [
+        115.43309783935547,
+        244.00003051757812,
+        315.43310546875,
+        549.7554321289062
+      ],
+      "effective_ppi": [
+        300.23998854675335,
+        300.2399941790557
+      ],
+      "embedded_encoding": "jpeg",
+      "source_JPEG_byte_exact": true,
+      "embedded_jpeg_sha256": "99879cd70bc34a6aebed15f8908b5cf36ae9cc681b54e66062bf7c49ab3f9ffb"
+    }
+  ],
+  "cover_visual_review": "passed: actual300dpi page01 PNG visually inspected; main title group is prominent, subtitle is smaller below it; source worried face and 무섭다 oval are preserved on white; no clipping, text overlap, black squares or missing image.",
+  "visual_defects": [],
+  "print_pdf": {
+    "sha256": "e7cc3f2ebedb93be2988b9eb522f1605d2019a26b015629458b52def02e2dfa7",
+    "cover_on_pdf_side": 1,
+    "book_page": 1,
+    "pixels": [
+      834,
+      1275
+    ],
+    "effective_ppi": [
+      300.24,
+      300.2399941790557
+    ],
+    "jpeg_byte_exact": true,
+    "rect_pt": [
+      710.708740234375,
+      367.3070373535156,
+      910.708740234375,
+      673.0624389648438
+    ]
+  },
+  "visually_inspected": "qa/pages/page_01.png"
+}

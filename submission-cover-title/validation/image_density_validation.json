@@ -1,0 +1,53 @@
+{
+  "status": "passed",
+  "target_dpi": 300,
+  "layout_sha256": "5028d96bb0efc484fbaff9ba9079cb712b03f6e04f770818461389387956c996",
+  "assets": [
+    {
+      "asset": "editable/Links/cover_cutout.png",
+      "bytes": 889450,
+      "sha256": "38eca086faf6e70c6f616807f9e7507f07988e183a57f3d868714081b26b09db",
+      "pixels": [
+        834,
+        1275
+      ],
+      "mode": "RGBA",
+      "metadata_dpi": [
+        299.9994,
+        299.9994
+      ],
+      "effective_ppi": 300.24,
+      "actual_frame_inches": [
+        2.7777777777777777,
+        4.2466027178257395
+      ],
+      "file_integrity_verify_passed": true
+    },
+    {
+      "asset": "editable/Links/cover_print_300dpi.jpg",
+      "bytes": 262953,
+      "sha256": "99879cd70bc34a6aebed15f8908b5cf36ae9cc681b54e66062bf7c49ab3f9ffb",
+      "pixels": [
+        834,
+        1275
+      ],
+      "mode": "RGB",
+      "metadata_dpi": [
+        300,
+        300
+      ],
+      "effective_ppi": 300.24,
+      "actual_frame_inches": [
+        2.7777777777777777,
+        4.2466027178257395
+      ],
+      "file_integrity_verify_passed": true
+    }
+  ],
+  "source_prepared_asset_pixels": [
+    1014,
+    1550
+  ],
+  "processing": "Lanczos print resampling of original1014x1550 at300ppi",
+  "quality_claim": "300dpi metadata and approximately300ppi sampling density at final book placement. PNG transparent for InDesign; matching-size white-composite JPEG for PDF. Source appearance is preserved."
+}
