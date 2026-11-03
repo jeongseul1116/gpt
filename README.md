@@ -1,3 +1,9 @@
+# 이미지가 내부에 포함된 최신 인디자인 파일
+
+[이미지 내장 IDML 다운로드](https://github.com/jeongseul1116/gpt/raw/refs/heads/main/submission-embedded-image/Meme_Font_Book_28p_Embedded_Image.idml) · [파일 안내](submission-embedded-image/README_KO.md)
+
+이 IDML 안에 표지PNG가 직접 들어 있습니다. 별도의 Links폴더·이미지파일·복구스크립트 없이 IDML 하나로 사용할 수 있도록 저장했습니다. 본문·폰트·목차01쪽 시작·총28면은 마지막 전달본과 같습니다. 실제 Adobe InDesign에서 열기 테스트는 이 환경에서 미검증입니다.
+
 # 목차부터 1쪽
 
 표지는 번호 없이 두고 **목차01 → 들어가며02 → 폰트 대조표03–04 → 본문26** 순서로 수정했습니다. 목차 안의 안내와 PDF뷰어의 페이지 라벨도 맞췄으며, 뒷표지는 ‘뒤표지’로 안내합니다.

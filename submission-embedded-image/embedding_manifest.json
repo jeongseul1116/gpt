@@ -1,0 +1,29 @@
+{
+  "status": "passed",
+  "baseline": "/workspace/final28/revision_contents_one/editable/Meme_Font_Book_System_28p.idml",
+  "file": "Meme_Font_Book_28p_Embedded_Image.idml",
+  "bytes": 1900102,
+  "sha256": "3e3865eb5e07d51bd023341f6d8fddb013d726af8e8047e74b05b436a06f3797",
+  "image_bytes": 922981,
+  "image_sha256": "b8a68655e74748ada19123724d935f88fe9efa2b22c411a9537e8829821d7f3f",
+  "image_pixels": [
+    874,
+    1275
+  ],
+  "image_dpi": 300,
+  "changed_members": [
+    "Spreads/Spread_01.xml"
+  ],
+  "embedded_png_count": 1,
+  "external_image_dependencies": 0,
+  "separate_image_files_required": false,
+  "repair_script_required": false,
+  "image_data_in": "Image/Properties/Contents",
+  "base64_decodes_byte_exact": true,
+  "link_stored_state": "Embedded",
+  "link_URI": "file:embedded (embedded-resource marker, no file path)",
+  "book_pages": 28,
+  "contents_printed_page": 1,
+  "design_source": "submission-contents-one",
+  "actual_Adobe_InDesign_runtime_tested": false
+}
