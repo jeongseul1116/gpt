@@ -1,0 +1,818 @@
+{
+  "status": "built",
+  "physical_pages": [
+    16,
+    17,
+    18,
+    19,
+    20
+  ],
+  "common_phrase": "진심입니다",
+  "common_source_syllable": "심",
+  "font_order": [
+    "blackhan",
+    "sans",
+    "serif",
+    "gungseo",
+    "gugi",
+    "pixel",
+    "jua",
+    "singleday",
+    "kirang",
+    "bawpic",
+    "brush",
+    "YES24"
+  ],
+  "font_count": 12,
+  "page_records": [
+    {
+      "physical_page": 16,
+      "group": "wholeword",
+      "word": "진심입니다",
+      "common_size_pt": 32,
+      "common_frame_x_pt": 36.0,
+      "baseline_from_row_top_pt": 56,
+      "row_tops_pt": [
+        122,
+        191,
+        260,
+        329,
+        398,
+        467
+      ],
+      "methods": [
+        "actual_advance_box",
+        "actual_ink_bounds",
+        "common_baseline"
+      ],
+      "specimens": [
+        {
+          "text": "진심입니다",
+          "font": "blackhan",
+          "size_pt": 32,
+          "origin_x_pt": 36.0,
+          "baseline_pt": 178,
+          "frame_top_pt": 142,
+          "baseline_offset_pt": 36,
+          "advance_pt": 131.648,
+          "ink_bounds_pt": [
+            37.28,
+            153.616,
+            167.648,
+            178.0
+          ]
+        },
+        {
+          "text": "진심입니다",
+          "font": "sans",
+          "size_pt": 32,
+          "origin_x_pt": 36.0,
+          "baseline_pt": 247,
+          "frame_top_pt": 211,
+          "baseline_offset_pt": 36,
+          "advance_pt": 147.20000000000002,
+          "ink_bounds_pt": [
+            37.984,
+            220.536,
+            182.336,
+            249.528
+          ]
+        },
+        {
+          "text": "진심입니다",
+          "font": "serif",
+          "size_pt": 32,
+          "origin_x_pt": 36.0,
+          "baseline_pt": 316,
+          "frame_top_pt": 280,
+          "baseline_offset_pt": 36,
+          "advance_pt": 154.56,
+          "ink_bounds_pt": [
+            38.41157570431266,
+            288.704,
+            190.37150196719108,
+            319.456
+          ]
+        },
+        {
+          "text": "진심입니다",
+          "font": "gungseo",
+          "size_pt": 32,
+          "origin_x_pt": 36.0,
+          "baseline_pt": 385,
+          "frame_top_pt": 349,
+          "baseline_offset_pt": 36,
+          "advance_pt": 160.0,
+          "ink_bounds_pt": [
+            39.296,
+            361.384,
+            192.832,
+            388.424
+          ]
+        },
+        {
+          "text": "진심입니다",
+          "font": "gugi",
+          "size_pt": 32,
+          "origin_x_pt": 36.0,
+          "baseline_pt": 454,
+          "frame_top_pt": 418,
+          "baseline_offset_pt": 36,
+          "advance_pt": 152.19199999999998,
+          "ink_bounds_pt": [
+            36.72706120584653,
+            427.6,
+            187.584,
+            455.952
+          ]
+        },
+        {
+          "text": "진심입니다",
+          "font": "pixel",
+          "size_pt": 32,
+          "origin_x_pt": 36.0,
+          "baseline_pt": 523,
+          "frame_top_pt": 487,
+          "baseline_offset_pt": 36,
+          "advance_pt": 160.0,
+          "ink_bounds_pt": [
+            38.0,
+            499.0,
+            196.0,
+            525.0
+          ]
+        }
+      ]
+    },
+    {
+      "physical_page": 17,
+      "group": "wholeword",
+      "word": "진심입니다",
+      "common_size_pt": 32,
+      "common_frame_x_pt": 36.0,
+      "baseline_from_row_top_pt": 56,
+      "row_tops_pt": [
+        122,
+        191,
+        260,
+        329,
+        398,
+        467
+      ],
+      "methods": [
+        "actual_advance_box",
+        "actual_ink_bounds",
+        "common_baseline"
+      ],
+      "specimens": [
+        {
+          "text": "진심입니다",
+          "font": "jua",
+          "size_pt": 32,
+          "origin_x_pt": 36.0,
+          "baseline_pt": 178,
+          "frame_top_pt": 142,
+          "baseline_offset_pt": 36,
+          "advance_pt": 128.16,
+          "ink_bounds_pt": [
+            36.64,
+            153.0594663743498,
+            164.16,
+            179.216
+          ]
+        },
+        {
+          "text": "진심입니다",
+          "font": "singleday",
+          "size_pt": 32,
+          "origin_x_pt": 36.0,
+          "baseline_pt": 247,
+          "frame_top_pt": 211,
+          "baseline_offset_pt": 36,
+          "advance_pt": 128.75,
+          "ink_bounds_pt": [
+            38.375,
+            224.688,
+            164.406,
+            252.75
+          ]
+        },
+        {
+          "text": "진심입니다",
+          "font": "kirang",
+          "size_pt": 32,
+          "origin_x_pt": 36.0,
+          "baseline_pt": 316,
+          "frame_top_pt": 280,
+          "baseline_offset_pt": 36,
+          "advance_pt": 105.92,
+          "ink_bounds_pt": [
+            37.95552771917914,
+            290.624,
+            140.448,
+            318.1313611111111
+          ]
+        },
+        {
+          "text": "진심입니다",
+          "font": "bawpic",
+          "size_pt": 32,
+          "origin_x_pt": 36.0,
+          "baseline_pt": 385,
+          "frame_top_pt": 349,
+          "baseline_offset_pt": 36,
+          "advance_pt": 129.28,
+          "ink_bounds_pt": [
+            36.32,
+            361.16,
+            164.96,
+            390.216
+          ]
+        },
+        {
+          "text": "진심입니다",
+          "font": "brush",
+          "size_pt": 32,
+          "origin_x_pt": 36.0,
+          "baseline_pt": 454,
+          "frame_top_pt": 418,
+          "baseline_offset_pt": 36,
+          "advance_pt": 93.76,
+          "ink_bounds_pt": [
+            36.5713234065189,
+            434.608,
+            129.408,
+            462.04229926108377
+          ]
+        },
+        {
+          "text": "진심입니다",
+          "font": "YES24",
+          "size_pt": 32,
+          "origin_x_pt": 36.0,
+          "baseline_pt": 523,
+          "frame_top_pt": 487,
+          "baseline_offset_pt": 36,
+          "advance_pt": 145.6,
+          "ink_bounds_pt": [
+            37.184,
+            496.76,
+            181.376,
+            525.368
+          ]
+        }
+      ]
+    },
+    {
+      "physical_page": 18,
+      "group": "same_syllable",
+      "word": "진심입니다",
+      "detail": "심",
+      "source_character_index": 1,
+      "common_size_pt": 96,
+      "common_origin_from_cell_pt": [
+        28,
+        110
+      ],
+      "common_em_window": [
+        0,
+        -1,
+        1,
+        0.25
+      ],
+      "common_grid_step_em": 0.25,
+      "methods": [
+        "same_em_grid",
+        "actual_ink_bounds",
+        "common_baseline"
+      ],
+      "specimens": [
+        {
+          "text": "심",
+          "source_phrase": "진심입니다",
+          "source_character_index": 1,
+          "font": "blackhan",
+          "size_pt": 96,
+          "cell_origin_pt": [
+            36.0,
+            122
+          ],
+          "origin_x_pt": 64.0,
+          "baseline_pt": 232,
+          "glyph_origin_from_cell_pt": [
+            28,
+            110
+          ],
+          "ink_bounds_pt": [
+            67.84,
+            159.04,
+            136.96,
+            232.0
+          ],
+          "em_window": [
+            0,
+            -1,
+            1,
+            0.25
+          ],
+          "advance_pt": 78.72
+        },
+        {
+          "text": "심",
+          "source_phrase": "진심입니다",
+          "source_character_index": 1,
+          "font": "sans",
+          "size_pt": 96,
+          "cell_origin_pt": [
+            221.0,
+            122
+          ],
+          "origin_x_pt": 249.0,
+          "baseline_pt": 232,
+          "glyph_origin_from_cell_pt": [
+            28,
+            110
+          ],
+          "ink_bounds_pt": [
+            254.472,
+            152.704,
+            324.936,
+            238.336
+          ],
+          "em_window": [
+            0,
+            -1,
+            1,
+            0.25
+          ],
+          "advance_pt": 88.32
+        },
+        {
+          "text": "심",
+          "source_phrase": "진심입니다",
+          "source_character_index": 1,
+          "font": "serif",
+          "size_pt": 96,
+          "cell_origin_pt": [
+            36.0,
+            261
+          ],
+          "origin_x_pt": 64.0,
+          "baseline_pt": 371,
+          "glyph_origin_from_cell_pt": [
+            28,
+            110
+          ],
+          "ink_bounds_pt": [
+            70.01788398409747,
+            289.112,
+            142.43588976207081,
+            380.888
+          ],
+          "em_window": [
+            0,
+            -1,
+            1,
+            0.25
+          ],
+          "advance_pt": 92.736
+        },
+        {
+          "text": "심",
+          "source_phrase": "진심입니다",
+          "source_character_index": 1,
+          "font": "gungseo",
+          "size_pt": 96,
+          "cell_origin_pt": [
+            221.0,
+            261
+          ],
+          "origin_x_pt": 249.0,
+          "baseline_pt": 371,
+          "glyph_origin_from_cell_pt": [
+            28,
+            110
+          ],
+          "ink_bounds_pt": [
+            258.024,
+            300.152,
+            322.85118584070796,
+            381.08
+          ],
+          "em_window": [
+            0,
+            -1,
+            1,
+            0.25
+          ],
+          "advance_pt": 96.0
+        },
+        {
+          "text": "심",
+          "source_phrase": "진심입니다",
+          "source_character_index": 1,
+          "font": "gugi",
+          "size_pt": 96,
+          "cell_origin_pt": [
+            36.0,
+            400
+          ],
+          "origin_x_pt": 64.0,
+          "baseline_pt": 510,
+          "glyph_origin_from_cell_pt": [
+            28,
+            110
+          ],
+          "ink_bounds_pt": [
+            65.48266666666666,
+            430.896,
+            150.784,
+            515.664
+          ],
+          "em_window": [
+            0,
+            -1,
+            1,
+            0.25
+          ],
+          "advance_pt": 91.296
+        },
+        {
+          "text": "심",
+          "source_phrase": "진심입니다",
+          "source_character_index": 1,
+          "font": "pixel",
+          "size_pt": 96,
+          "cell_origin_pt": [
+            221.0,
+            400
+          ],
+          "origin_x_pt": 249.0,
+          "baseline_pt": 510,
+          "glyph_origin_from_cell_pt": [
+            28,
+            110
+          ],
+          "ink_bounds_pt": [
+            255.0,
+            438.0,
+            333.0,
+            516.0
+          ],
+          "em_window": [
+            0,
+            -1,
+            1,
+            0.25
+          ],
+          "advance_pt": 96.0
+        }
+      ]
+    },
+    {
+      "physical_page": 19,
+      "group": "same_syllable",
+      "word": "진심입니다",
+      "detail": "심",
+      "source_character_index": 1,
+      "common_size_pt": 96,
+      "common_origin_from_cell_pt": [
+        28,
+        110
+      ],
+      "common_em_window": [
+        0,
+        -1,
+        1,
+        0.25
+      ],
+      "common_grid_step_em": 0.25,
+      "methods": [
+        "same_em_grid",
+        "actual_ink_bounds",
+        "common_baseline"
+      ],
+      "specimens": [
+        {
+          "text": "심",
+          "source_phrase": "진심입니다",
+          "source_character_index": 1,
+          "font": "jua",
+          "size_pt": 96,
+          "cell_origin_pt": [
+            36.0,
+            122
+          ],
+          "origin_x_pt": 64.0,
+          "baseline_pt": 232,
+          "glyph_origin_from_cell_pt": [
+            28,
+            110
+          ],
+          "ink_bounds_pt": [
+            65.86514285714286,
+            157.888,
+            133.568,
+            234.784
+          ],
+          "em_window": [
+            0,
+            -1,
+            1,
+            0.25
+          ],
+          "advance_pt": 73.344
+        },
+        {
+          "text": "심",
+          "source_phrase": "진심입니다",
+          "source_character_index": 1,
+          "font": "singleday",
+          "size_pt": 96,
+          "cell_origin_pt": [
+            221.0,
+            122
+          ],
+          "origin_x_pt": 249.0,
+          "baseline_pt": 232,
+          "glyph_origin_from_cell_pt": [
+            28,
+            110
+          ],
+          "ink_bounds_pt": [
+            255.188,
+            165.062,
+            315.656,
+            247.656
+          ],
+          "em_window": [
+            0,
+            -1,
+            1,
+            0.25
+          ],
+          "advance_pt": 77.25
+        },
+        {
+          "text": "심",
+          "source_phrase": "진심입니다",
+          "source_character_index": 1,
+          "font": "kirang",
+          "size_pt": 96,
+          "cell_origin_pt": [
+            36.0,
+            261
+          ],
+          "origin_x_pt": 64.0,
+          "baseline_pt": 371,
+          "glyph_origin_from_cell_pt": [
+            28,
+            110
+          ],
+          "ink_bounds_pt": [
+            75.328,
+            295.384,
+            123.136,
+            376.952
+          ],
+          "em_window": [
+            0,
+            -1,
+            1,
+            0.25
+          ],
+          "advance_pt": 62.4
+        },
+        {
+          "text": "심",
+          "source_phrase": "진심입니다",
+          "source_character_index": 1,
+          "font": "bawpic",
+          "size_pt": 96,
+          "cell_origin_pt": [
+            221.0,
+            261
+          ],
+          "origin_x_pt": 249.0,
+          "baseline_pt": 371,
+          "glyph_origin_from_cell_pt": [
+            28,
+            110
+          ],
+          "ink_bounds_pt": [
+            249.96,
+            299.48,
+            319.272,
+            381.848
+          ],
+          "em_window": [
+            0,
+            -1,
+            1,
+            0.25
+          ],
+          "advance_pt": 76.992
+        },
+        {
+          "text": "심",
+          "source_phrase": "진심입니다",
+          "source_character_index": 1,
+          "font": "brush",
+          "size_pt": 96,
+          "cell_origin_pt": [
+            36.0,
+            400
+          ],
+          "origin_x_pt": 64.0,
+          "baseline_pt": 510,
+          "glyph_origin_from_cell_pt": [
+            28,
+            110
+          ],
+          "ink_bounds_pt": [
+            67.168,
+            458.352,
+            122.57371428571429,
+            527.952
+          ],
+          "em_window": [
+            0,
+            -1,
+            1,
+            0.25
+          ],
+          "advance_pt": 56.64
+        },
+        {
+          "text": "심",
+          "source_phrase": "진심입니다",
+          "source_character_index": 1,
+          "font": "YES24",
+          "size_pt": 96,
+          "cell_origin_pt": [
+            221.0,
+            400
+          ],
+          "origin_x_pt": 249.0,
+          "baseline_pt": 510,
+          "glyph_origin_from_cell_pt": [
+            28,
+            110
+          ],
+          "ink_bounds_pt": [
+            252.41907692307691,
+            431.28,
+            326.088,
+            516.624
+          ],
+          "em_window": [
+            0,
+            -1,
+            1,
+            0.25
+          ],
+          "advance_pt": 87.36
+        }
+      ]
+    },
+    {
+      "physical_page": 20,
+      "group": "observation_to_impression",
+      "word": "진심입니다",
+      "common_size_pt": 20,
+      "comparison_method": "same_ink_bounds_and_baseline",
+      "specimen_count": 6,
+      "specimens": [
+        {
+          "text": "진심입니다",
+          "font": "blackhan",
+          "size_pt": 20,
+          "origin_x_pt": 36.0,
+          "baseline_pt": 189,
+          "frame_top_pt": 165,
+          "baseline_offset_pt": 24,
+          "advance_pt": 82.28,
+          "ink_bounds_pt": [
+            36.8,
+            173.76,
+            118.28,
+            189.0
+          ]
+        },
+        {
+          "text": "진심입니다",
+          "font": "sans",
+          "size_pt": 20,
+          "origin_x_pt": 221,
+          "baseline_pt": 189,
+          "frame_top_pt": 165,
+          "baseline_offset_pt": 24,
+          "advance_pt": 92.0,
+          "ink_bounds_pt": [
+            222.24,
+            172.46,
+            312.46,
+            190.58
+          ]
+        },
+        {
+          "text": "진심입니다",
+          "font": "serif",
+          "size_pt": 20,
+          "origin_x_pt": 36.0,
+          "baseline_pt": 319,
+          "frame_top_pt": 295,
+          "baseline_offset_pt": 24,
+          "advance_pt": 96.6,
+          "ink_bounds_pt": [
+            37.50723481519541,
+            301.94,
+            132.48218872949442,
+            321.16
+          ]
+        },
+        {
+          "text": "진심입니다",
+          "font": "gungseo",
+          "size_pt": 20,
+          "origin_x_pt": 221,
+          "baseline_pt": 319,
+          "frame_top_pt": 295,
+          "baseline_offset_pt": 24,
+          "advance_pt": 100.0,
+          "ink_bounds_pt": [
+            223.06,
+            304.24,
+            319.02,
+            321.14
+          ]
+        },
+        {
+          "text": "진심입니다",
+          "font": "singleday",
+          "size_pt": 20,
+          "origin_x_pt": 36.0,
+          "baseline_pt": 449,
+          "frame_top_pt": 425,
+          "baseline_offset_pt": 24,
+          "advance_pt": 80.46875,
+          "ink_bounds_pt": [
+            37.484,
+            435.055,
+            116.254,
+            452.594
+          ]
+        },
+        {
+          "text": "진심입니다",
+          "font": "brush",
+          "size_pt": 20,
+          "origin_x_pt": 221,
+          "baseline_pt": 449,
+          "frame_top_pt": 425,
+          "baseline_offset_pt": 24,
+          "advance_pt": 58.60000000000001,
+          "ink_bounds_pt": [
+            221.35703756756348,
+            436.88,
+            279.38,
+            454.0265098425197
+          ]
+        }
+      ],
+      "subjective_impressions_explicit": true,
+      "pairs": [
+        {
+          "fonts": [
+            "blackhan",
+            "sans"
+          ],
+          "observation": "좁은 속공간과 두꺼운 획 / 고른 획과 넓은 빈틈",
+          "personal_impression": "내겐 큰 외침 / 차분한 안내로 들린다."
+        },
+        {
+          "fonts": [
+            "serif",
+            "gungseo"
+          ],
+          "observation": "끝이 돌출된 곧은 획 / 눌렀다 가늘어지는 붓획",
+          "personal_impression": "내겐 격식을 갖춘 진술 / 힘을 준 다짐으로 들린다."
+        },
+        {
+          "fonts": [
+            "singleday",
+            "brush"
+          ],
+          "observation": "둥글고 부드러운 획 / 작은 몸집과 가늘어지는 획",
+          "personal_impression": "내겐 다정한 편지 / 급히 적은 사적인 쪽지로 들린다."
+        }
+      ]
+    }
+  ],
+  "no_arbitrary_test_words": true,
+  "no_per_font_fit": true,
+  "no_added_tracking": true,
+  "no_subjective_score_map": true,
+  "previous_editions_preserved": true,
+  "editorial_rhythm": "classified-ad bands, numbered rows, specimen cards and observation-to-impression callouts"
+}

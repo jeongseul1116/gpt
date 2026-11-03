@@ -1,0 +1,151 @@
+{
+  "status": "passed",
+  "idml_sha256": "9681d63bb874078f960c764d18babab4c2562d6974413e1776f336c5613ba914",
+  "scene_sha256": "c055ae91dd47f89bbde7b2ffd18235e17fb494bb39211a016ff2823a034a8151",
+  "reader_sha256": "4ca56bfacf39812bd091148ec814e9600911d1bd54128c10c57245f009940989",
+  "source_bleed_sha256": "891d1dc24d980b254aeba3235f90e06d182b442b633504b80ef4a07b2cd472a0",
+  "scope": "All 28 physical pages viewed as individual pages at120dpi or complete facing pairs at180dpi. Final descriptor-only revision rerendered and compared pixel-exact with that reviewed artwork on all28pages at120dpi.",
+  "reviewed_physical_pages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28
+  ],
+  "final_descriptor_revision_all28_pixel_identical": true,
+  "cover": {
+    "white_outer_background": true,
+    "street_ad_black_yellow_red_blue_system": true,
+    "title_both_lines_same60pt_same_font": true,
+    "subtitle_smaller_than_title": true,
+    "no_photo_on_front": true,
+    "red_circle_and_starburst_uncropped": true,
+    "tearoff_type_labels_clear": true,
+    "no_folio": true
+  },
+  "backcover": {
+    "photo_only_on_physical28": true,
+    "original_red_oval_complete": true,
+    "original_RGBA_pixels_preserved": true,
+    "effective_ppi": [
+      484.06153846176915,
+      484.0615384617692
+    ],
+    "all_credits_readable": true,
+    "no_folio": true
+  },
+  "numbering": {
+    "contents_unnumbered": true,
+    "intro_physical3_printed01": true,
+    "physical3_to27_printed01_to25": true,
+    "PDF_labels_correct": true,
+    "PDF_PageLayout": "TwoPageRight"
+  },
+  "atlas": {
+    "all12_same64pt_word_and128pt_sim_comparisons": true,
+    "all_reference_and_selected_origins_scale_and_baseline_preserved": true,
+    "same_real_counter_and_ink_boundary_method": true,
+    "paired_headlines_and_number_chips_do_not_overlap_core_art": true,
+    "all_shape_observations_and_personal_impressions_readable": true,
+    "no_unapproved_new_comparison_word": true
+  },
+  "comparisons": {
+    "all12_wholeword32pt_and_sim96pt_visible": true,
+    "all_source_glyphs_within_grid_windows": true,
+    "header_and_metrics_panels_clear": true,
+    "summary20_observation_and_impression_separated": true
+  },
+  "applications": {
+    "all15_approved_cases_visible_on_physical22_to27": true,
+    "two_case_side_by_side_and_three_case_stacked_templates_reviewed": true,
+    "all15_same_quote_point_size_color_and_baseline_offset_per_pair": true,
+    "no_quote_prompt_label_or_effect_overlap": true,
+    "E10_brush_compatibility_jamo_descenders_complete": true,
+    "no_face_AA_or_emoji_panels": true
+  },
+  "strict_live_text_QA": {
+    "frames": 541,
+    "live_runs": 585,
+    "actual_Bezier_ink_clip_flags": 0,
+    "line_fit_flags": 0,
+    "unintended_wraps": 0,
+    "unknown_fonts": [],
+    "missing_glyphs": []
+  },
+  "review_notes": [
+    {
+      "pages": [
+        1,
+        2,
+        3,
+        28
+      ],
+      "finding": "Street-poster front cover matches the provided reference. Contents starts the intro at01, and the original photograph is complete and clear on the back cover."
+    },
+    {
+      "pages": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "finding": "Black/yellow section bands and paired headlines provide consistent rhythm while all controlled glyph diagrams and words retain the exact original point size, positions and procedure."
+    },
+    {
+      "pages": [
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "finding": "The 12 word specimens and same-syllable grids align; labels and measurements are clear and the summary distinguishes observations from personal readings."
+    },
+    {
+      "pages": [
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27
+      ],
+      "finding": "Dark transition remains clear. Two-case side-by-side advertisements and three-case stacked panels show all approved prompts and responses without clipped glyphs or colliding captions."
+    }
+  ],
+  "native_Adobe_execution": false,
+  "physical_printer_test": false,
+  "PDF_native_Adobe_export": false
+}

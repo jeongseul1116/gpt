@@ -1,3 +1,14 @@
+# 최신 B3 — 말투 접수 광고판
+
+앞표지는 길거리 광고처럼, ‘무섭다’ 사진은 뒷표지로 옮겼습니다. 내지에는 접수표·광고3단과 펼침 대조 제목을 적용했습니다. 목차는 무쪽수이며 **들어가며부터1쪽**입니다. 기존 A·B·B2는 보존했습니다.
+
+- [B3 전체 PDF](submission-version-b3/Meme_Font_Book_Version_B3_28p_Review.pdf)
+- [B3 IDML](submission-version-b3/Meme_Font_Book_Version_B3_28p.idml)
+- [B3 A3 인쇄 PDF](submission-version-b3/Meme_Font_Book_Version_B3_A3_Duplex_28p.pdf)
+- [B3 전체 ZIP](Meme_Font_Book_Version_B3_28p.zip) · [판본과 인쇄 안내](submission-version-b3/README_KO.md)
+
+---
+
 # 최신 수정본 B2 — 한 문장, 같은 기준으로 시각화
 
 A안과 B안은 보존했습니다. B2는 **진심입니다 / 심**으로 비교 단어를 통일하고, 모든 폰트에 같은 확대율·기준선·도해 방법을 적용했습니다. 실제 획과 빈틈을 크게 비교한 뒤 마지막에15개 유행어를 적용합니다.
