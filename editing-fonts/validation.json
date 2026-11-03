@@ -1,0 +1,1860 @@
+{
+  "created_utc": "2026-11-03T01:12:43.450301+00:00",
+  "scope": "Read-only font delivery verification; no book/layout/document mutation and no Windows/InDesign runtime installation test.",
+  "source_book": "/workspace/final28/revision_contents_one",
+  "source_paths_for_noto": "/workspace/repair32/type_engine.py: faces sans/serif, TTC fontNumber=1",
+  "font_count_expected": 11,
+  "font_count_actual": 11,
+  "fonts": [
+    {
+      "key": "sans",
+      "delivered_file": "/workspace/font_delivery_20261103/package/Fonts/NotoSansCJKkr-Regular.otf",
+      "original_file": "/usr/share/fonts/opentype/noto/NotoSansCJK-Regular.ttc",
+      "original_ttc_index": 1,
+      "family": "Noto Sans CJK KR",
+      "style": "Regular",
+      "postscript": "NotoSansCJKkr-Regular",
+      "bytes": 16433088,
+      "sha256": "5cbc779094ea0764a90a1f88da02f67462e95257f0bdbbe2f26fc501435816fe",
+      "whole_file_identical_to_original": null,
+      "all_tables_fully_parsed": true,
+      "glyphs_parsed": 65535,
+      "original_glyphs_parsed": 65535,
+      "table_tags": [
+        "BASE",
+        "CFF ",
+        "GDEF",
+        "GPOS",
+        "GSUB",
+        "OS/2",
+        "VORG",
+        "cmap",
+        "head",
+        "hhea",
+        "hmtx",
+        "maxp",
+        "name",
+        "post",
+        "vhea",
+        "vmtx"
+      ],
+      "same_table_set": true,
+      "raw_table_matches": {
+        "BASE": true,
+        "CFF ": true,
+        "GDEF": true,
+        "GPOS": true,
+        "GSUB": true,
+        "OS/2": true,
+        "VORG": true,
+        "cmap": true,
+        "head": false,
+        "hhea": true,
+        "hmtx": true,
+        "maxp": true,
+        "name": true,
+        "post": true,
+        "vhea": true,
+        "vmtx": true
+      },
+      "nonidentical_raw_tables": [
+        "head"
+      ],
+      "outline_tables": [
+        "CFF "
+      ],
+      "all_outline_tables_identical": true,
+      "cmap_table_identical": true,
+      "best_cmap_identical": true,
+      "glyph_order_identical": true,
+      "metric_tables": [
+        "hmtx",
+        "vmtx",
+        "hhea",
+        "vhea",
+        "OS/2",
+        "VORG"
+      ],
+      "all_metric_tables_identical": true,
+      "units_per_em_identical": true,
+      "name_table_identical": true,
+      "name_records": [
+        {
+          "name_id": 1,
+          "platform_id": 3,
+          "encoding_id": 1,
+          "language_id": 1033,
+          "text": "Noto Sans CJK KR"
+        },
+        {
+          "name_id": 2,
+          "platform_id": 3,
+          "encoding_id": 1,
+          "language_id": 1033,
+          "text": "Regular"
+        },
+        {
+          "name_id": 4,
+          "platform_id": 3,
+          "encoding_id": 1,
+          "language_id": 1033,
+          "text": "Noto Sans CJK KR"
+        },
+        {
+          "name_id": 6,
+          "platform_id": 3,
+          "encoding_id": 1,
+          "language_id": 1033,
+          "text": "NotoSansCJKkr-Regular"
+        },
+        {
+          "name_id": 1,
+          "platform_id": 3,
+          "encoding_id": 1,
+          "language_id": 1042,
+          "text": "Noto Sans CJK KR"
+        },
+        {
+          "name_id": 2,
+          "platform_id": 3,
+          "encoding_id": 1,
+          "language_id": 1042,
+          "text": "Regular"
+        },
+        {
+          "name_id": 4,
+          "platform_id": 3,
+          "encoding_id": 1,
+          "language_id": 1042,
+          "text": "Noto Sans CJK KR"
+        }
+      ],
+      "jsx_expected_family_present": true,
+      "jsx_expected_style_present": true,
+      "jsx_expected_postscript_present": true,
+      "idml_expectations_match_jsx": true,
+      "manifest_metadata_matches_binary": true,
+      "font_head_macStyle": 0,
+      "font_os2_fsSelection": 64,
+      "font_weight_class": 400,
+      "bold_or_italic_style_bits_present": false,
+      "jsx_frame_count": 362,
+      "jsx_font_styles": {
+        "Regular": 362
+      },
+      "jsx_synthetic_bold_frames": 0,
+      "characters_used_in_jsx": 562,
+      "missing_used_characters": [],
+      "passed": true,
+      "head_field_differences": {
+        "checkSumAdjustment": {
+          "delivered": 1317955793,
+          "original": 1316864153
+        }
+      }
+    },
+    {
+      "key": "serif",
+      "delivered_file": "/workspace/font_delivery_20261103/package/Fonts/NotoSerifCJKkr-Regular.otf",
+      "original_file": "/usr/share/fonts/opentype/noto/NotoSerifCJK-Regular.ttc",
+      "original_ttc_index": 1,
+      "family": "Noto Serif CJK KR",
+      "style": "Regular",
+      "postscript": "NotoSerifCJKkr-Regular",
+      "bytes": 24539616,
+      "sha256": "df688ab19991ac57a2b11f7a754f75e05a60bf9fd72240cb78c2118b881669ce",
+      "whole_file_identical_to_original": null,
+      "all_tables_fully_parsed": true,
+      "glyphs_parsed": 65535,
+      "original_glyphs_parsed": 65535,
+      "table_tags": [
+        "BASE",
+        "CFF ",
+        "GDEF",
+        "GPOS",
+        "GSUB",
+        "OS/2",
+        "VORG",
+        "cmap",
+        "head",
+        "hhea",
+        "hmtx",
+        "maxp",
+        "name",
+        "post",
+        "vhea",
+        "vmtx"
+      ],
+      "same_table_set": true,
+      "raw_table_matches": {
+        "BASE": true,
+        "CFF ": true,
+        "GDEF": true,
+        "GPOS": true,
+        "GSUB": true,
+        "OS/2": true,
+        "VORG": true,
+        "cmap": true,
+        "head": false,
+        "hhea": true,
+        "hmtx": true,
+        "maxp": true,
+        "name": true,
+        "post": true,
+        "vhea": true,
+        "vmtx": true
+      },
+      "nonidentical_raw_tables": [
+        "head"
+      ],
+      "outline_tables": [
+        "CFF "
+      ],
+      "all_outline_tables_identical": true,
+      "cmap_table_identical": true,
+      "best_cmap_identical": true,
+      "glyph_order_identical": true,
+      "metric_tables": [
+        "hmtx",
+        "vmtx",
+        "hhea",
+        "vhea",
+        "OS/2",
+        "VORG"
+      ],
+      "all_metric_tables_identical": true,
+      "units_per_em_identical": true,
+      "name_table_identical": true,
+      "name_records": [
+        {
+          "name_id": 1,
+          "platform_id": 3,
+          "encoding_id": 1,
+          "language_id": 1033,
+          "text": "Noto Serif CJK KR"
+        },
+        {
+          "name_id": 2,
+          "platform_id": 3,
+          "encoding_id": 1,
+          "language_id": 1033,
+          "text": "Regular"
+        },
+        {
+          "name_id": 4,
+          "platform_id": 3,
+          "encoding_id": 1,
+          "language_id": 1033,
+          "text": "Noto Serif CJK KR"
+        },
+        {
+          "name_id": 6,
+          "platform_id": 3,
+          "encoding_id": 1,
+          "language_id": 1033,
+          "text": "NotoSerifCJKkr-Regular"
+        },
+        {
+          "name_id": 1,
+          "platform_id": 3,
+          "encoding_id": 1,
+          "language_id": 1042,
+          "text": "Noto Serif CJK KR"
+        },
+        {
+          "name_id": 2,
+          "platform_id": 3,
+          "encoding_id": 1,
+          "language_id": 1042,
+          "text": "Regular"
+        },
+        {
+          "name_id": 4,
+          "platform_id": 3,
+          "encoding_id": 1,
+          "language_id": 1042,
+          "text": "Noto Serif CJK KR"
+        }
+      ],
+      "jsx_expected_family_present": true,
+      "jsx_expected_style_present": true,
+      "jsx_expected_postscript_present": true,
+      "idml_expectations_match_jsx": true,
+      "manifest_metadata_matches_binary": true,
+      "font_head_macStyle": 0,
+      "font_os2_fsSelection": 64,
+      "font_weight_class": 400,
+      "bold_or_italic_style_bits_present": false,
+      "jsx_frame_count": 13,
+      "jsx_font_styles": {
+        "Regular": 13
+      },
+      "jsx_synthetic_bold_frames": 0,
+      "characters_used_in_jsx": 68,
+      "missing_used_characters": [],
+      "passed": true,
+      "head_field_differences": {
+        "checkSumAdjustment": {
+          "delivered": 2726868996,
+          "original": 2725788984
+        }
+      }
+    },
+    {
+      "key": "gungseo",
+      "delivered_file": "/workspace/font_delivery_20261103/package/Fonts/UnGungseo.ttf",
+      "original_file": "/workspace/final28/revision_diverse/fonts/UnGungseo.ttf",
+      "original_ttc_index": null,
+      "family": "UnGungseo",
+      "style": "Regular",
+      "postscript": "UnGungseo",
+      "bytes": 6251788,
+      "sha256": "7d1593ed524c1a4222191e4dea6e3d823598eacc73d8a47247748a55283955ff",
+      "whole_file_identical_to_original": true,
+      "all_tables_fully_parsed": true,
+      "glyphs_parsed": 19034,
+      "original_glyphs_parsed": 19034,
+      "table_tags": [
+        "FFTM",
+        "GDEF",
+        "OS/2",
+        "cmap",
+        "cvt ",
+        "fpgm",
+        "gasp",
+        "glyf",
+        "head",
+        "hhea",
+        "hmtx",
+        "loca",
+        "maxp",
+        "name",
+        "post",
+        "prep"
+      ],
+      "same_table_set": true,
+      "raw_table_matches": {
+        "FFTM": true,
+        "GDEF": true,
+        "OS/2": true,
+        "cmap": true,
+        "cvt ": true,
+        "fpgm": true,
+        "gasp": true,
+        "glyf": true,
+        "head": true,
+        "hhea": true,
+        "hmtx": true,
+        "loca": true,
+        "maxp": true,
+        "name": true,
+        "post": true,
+        "prep": true
+      },
+      "nonidentical_raw_tables": [],
+      "outline_tables": [
+        "glyf",
+        "loca"
+      ],
+      "all_outline_tables_identical": true,
+      "cmap_table_identical": true,
+      "best_cmap_identical": true,
+      "glyph_order_identical": true,
+      "metric_tables": [
+        "hmtx",
+        "hhea",
+        "OS/2"
+      ],
+      "all_metric_tables_identical": true,
+      "units_per_em_identical": true,
+      "name_table_identical": true,
+      "name_records": [
+        {
+          "name_id": 1,
+          "platform_id": 1,
+          "encoding_id": 0,
+          "language_id": 0,
+          "text": "UnGungseo"
+        },
+        {
+          "name_id": 2,
+          "platform_id": 1,
+          "encoding_id": 0,
+          "language_id": 0,
+          "text": "Regular"
+        },
+        {
+          "name_id": 4,
+          "platform_id": 1,
+          "encoding_id": 0,
+          "language_id": 0,
+          "text": "Un Gungseo"
+        },
+        {
+          "name_id": 6,
+          "platform_id": 1,
+          "encoding_id": 0,
+          "language_id": 0,
+          "text": "UnGungseo"
+        },
+        {
+          "name_id": 1,
+          "platform_id": 3,
+          "encoding_id": 1,
+          "language_id": 1033,
+          "text": "UnGungseo"
+        },
+        {
+          "name_id": 2,
+          "platform_id": 3,
+          "encoding_id": 1,
+          "language_id": 1033,
+          "text": "Regular"
+        },
+        {
+          "name_id": 4,
+          "platform_id": 3,
+          "encoding_id": 1,
+          "language_id": 1033,
+          "text": "Un Gungseo"
+        },
+        {
+          "name_id": 6,
+          "platform_id": 3,
+          "encoding_id": 1,
+          "language_id": 1033,
+          "text": "UnGungseo"
+        },
+        {
+          "name_id": 1,
+          "platform_id": 3,
+          "encoding_id": 1,
+          "language_id": 1042,
+          "text": "은 궁서"
+        },
+        {
+          "name_id": 2,
+          "platform_id": 3,
+          "encoding_id": 1,
+          "language_id": 1042,
+          "text": "Regular"
+        },
+        {
+          "name_id": 4,
+          "platform_id": 3,
+          "encoding_id": 1,
+          "language_id": 1042,
+          "text": "은 궁서"
+        }
+      ],
+      "jsx_expected_family_present": true,
+      "jsx_expected_style_present": true,
+      "jsx_expected_postscript_present": true,
+      "idml_expectations_match_jsx": true,
+      "manifest_metadata_matches_binary": true,
+      "font_head_macStyle": 0,
+      "font_os2_fsSelection": 64,
+      "font_weight_class": 400,
+      "bold_or_italic_style_bits_present": false,
+      "jsx_frame_count": 17,
+      "jsx_font_styles": {
+        "Regular": 17
+      },
+      "jsx_synthetic_bold_frames": 0,
+      "characters_used_in_jsx": 103,
+      "missing_used_characters": [],
+      "passed": true
+    },
+    {
+      "key": "jua",
+      "delivered_file": "/workspace/font_delivery_20261103/package/Fonts/Jua-Regular.ttf",
+      "original_file": "/workspace/final28/revision_diverse/fonts/Jua-Regular.ttf",
+      "original_ttc_index": null,
+      "family": "Jua",
+      "style": "Regular",
+      "postscript": "Jua-Regular",
+      "bytes": 2119352,
+      "sha256": "769677aef240bfc3b9965f2b50748075bff885e6c6992fc591a3fb268279f898",
+      "whole_file_identical_to_original": true,
+      "all_tables_fully_parsed": true,
+      "glyphs_parsed": 2520,
+      "original_glyphs_parsed": 2520,
+      "table_tags": [
+        "DSIG",
+        "GPOS",
+        "GSUB",
+        "OS/2",
+        "cmap",
+        "cvt ",
+        "fpgm",
+        "gasp",
+        "glyf",
+        "head",
+        "hhea",
+        "hmtx",
+        "loca",
+        "maxp",
+        "name",
+        "post",
+        "prep"
+      ],
+      "same_table_set": true,
+      "raw_table_matches": {
+        "DSIG": true,
+        "GPOS": true,
+        "GSUB": true,
+        "OS/2": true,
+        "cmap": true,
+        "cvt ": true,
+        "fpgm": true,
+        "gasp": true,
+        "glyf": true,
+        "head": true,
+        "hhea": true,
+        "hmtx": true,
+        "loca": true,
+        "maxp": true,
+        "name": true,
+        "post": true,
+        "prep": true
+      },
+      "nonidentical_raw_tables": [],
+      "outline_tables": [
+        "glyf",
+        "loca"
+      ],
+      "all_outline_tables_identical": true,
+      "cmap_table_identical": true,
+      "best_cmap_identical": true,
+      "glyph_order_identical": true,
+      "metric_tables": [
+        "hmtx",
+        "hhea",
+        "OS/2"
+      ],
+      "all_metric_tables_identical": true,
+      "units_per_em_identical": true,
+      "name_table_identical": true,
+      "name_records": [
+        {
+          "name_id": 1,
+          "platform_id": 1,
+          "encoding_id": 0,
+          "language_id": 0,
+          "text": "Jua"
+        },
+        {
+          "name_id": 2,
+          "platform_id": 1,
+          "encoding_id": 0,
+          "language_id": 0,
+          "text": "Regular"
+        },
+        {
+          "name_id": 4,
+          "platform_id": 1,
+          "encoding_id": 0,
+          "language_id": 0,
+          "text": "Jua Regular"
+        },
+        {
+          "name_id": 6,
+          "platform_id": 1,
+          "encoding_id": 0,
+          "language_id": 0,
+          "text": "Jua-Regular"
+        },
+        {
+          "name_id": 1,
+          "platform_id": 3,
+          "encoding_id": 1,
+          "language_id": 1033,
+          "text": "Jua"
+        },
+        {
+          "name_id": 2,
+          "platform_id": 3,
+          "encoding_id": 1,
+          "language_id": 1033,
+          "text": "Regular"
+        },
+        {
+          "name_id": 4,
+          "platform_id": 3,
+          "encoding_id": 1,
+          "language_id": 1033,
+          "text": "Jua Regular"
+        },
+        {
+          "name_id": 6,
+          "platform_id": 3,
+          "encoding_id": 1,
+          "language_id": 1033,
+          "text": "Jua-Regular"
+        }
+      ],
+      "jsx_expected_family_present": true,
+      "jsx_expected_style_present": true,
+      "jsx_expected_postscript_present": true,
+      "idml_expectations_match_jsx": true,
+      "manifest_metadata_matches_binary": true,
+      "font_head_macStyle": 0,
+      "font_os2_fsSelection": 192,
+      "font_weight_class": 400,
+      "bold_or_italic_style_bits_present": false,
+      "jsx_frame_count": 16,
+      "jsx_font_styles": {
+        "Regular": 16
+      },
+      "jsx_synthetic_bold_frames": 0,
+      "characters_used_in_jsx": 114,
+      "missing_used_characters": [],
+      "passed": true
+    },
+    {
+      "key": "brush",
+      "delivered_file": "/workspace/font_delivery_20261103/package/Fonts/NanumBrushScript-Regular.ttf",
+      "original_file": "/workspace/final28/revision_diverse/fonts/NanumBrushScript-Regular.ttf",
+      "original_ttc_index": null,
+      "family": "Nanum Brush Script",
+      "style": "Regular",
+      "postscript": "NanumBrush",
+      "bytes": 3564804,
+      "sha256": "27ceaf578c96f594cdf07fe0181b251790acbb746a164e45c1f6473f89911a31",
+      "whole_file_identical_to_original": true,
+      "all_tables_fully_parsed": true,
+      "glyphs_parsed": 13799,
+      "original_glyphs_parsed": 13799,
+      "table_tags": [
+        "DSIG",
+        "GPOS",
+        "GSUB",
+        "OS/2",
+        "cmap",
+        "cvt ",
+        "fpgm",
+        "gasp",
+        "glyf",
+        "head",
+        "hhea",
+        "hmtx",
+        "loca",
+        "maxp",
+        "name",
+        "post",
+        "prep"
+      ],
+      "same_table_set": true,
+      "raw_table_matches": {
+        "DSIG": true,
+        "GPOS": true,
+        "GSUB": true,
+        "OS/2": true,
+        "cmap": true,
+        "cvt ": true,
+        "fpgm": true,
+        "gasp": true,
+        "glyf": true,
+        "head": true,
+        "hhea": true,
+        "hmtx": true,
+        "loca": true,
+        "maxp": true,
+        "name": true,
+        "post": true,
+        "prep": true
+      },
+      "nonidentical_raw_tables": [],
+      "outline_tables": [
+        "glyf",
+        "loca"
+      ],
+      "all_outline_tables_identical": true,
+      "cmap_table_identical": true,
+      "best_cmap_identical": true,
+      "glyph_order_identical": true,
+      "metric_tables": [
+        "hmtx",
+        "hhea",
+        "OS/2"
+      ],
+      "all_metric_tables_identical": true,
+      "units_per_em_identical": true,
+      "name_table_identical": true,
+      "name_records": [
+        {
+          "name_id": 1,
+          "platform_id": 1,
+          "encoding_id": 0,
+          "language_id": 0,
+          "text": "Nanum Brush Script"
+        },
+        {
+          "name_id": 2,
+          "platform_id": 1,
+          "encoding_id": 0,
+          "language_id": 0,
+          "text": "Regular"
+        },
+        {
+          "name_id": 4,
+          "platform_id": 1,
+          "encoding_id": 0,
+          "language_id": 0,
+          "text": "Nanum Brush Script"
+        },
+        {
+          "name_id": 6,
+          "platform_id": 1,
+          "encoding_id": 0,
+          "language_id": 0,
+          "text": "NanumBrush"
+        },
+        {
+          "name_id": 1,
+          "platform_id": 1,
+          "encoding_id": 3,
+          "language_id": 23,
+          "text": "나눔손글씨 붓"
+        },
+        {
+          "name_id": 2,
+          "platform_id": 1,
+          "encoding_id": 3,
+          "language_id": 23,
+          "text": "Regular"
+        },
+        {
+          "name_id": 4,
+          "platform_id": 1,
+          "encoding_id": 3,
+          "language_id": 23,
+          "text": "나눔손글씨 붓"
+        },
+        {
+          "name_id": 1,
+          "platform_id": 3,
+          "encoding_id": 1,
+          "language_id": 1033,
+          "text": "Nanum Brush Script"
+        },
+        {
+          "name_id": 2,
+          "platform_id": 3,
+          "encoding_id": 1,
+          "language_id": 1033,
+          "text": "Regular"
+        },
+        {
+          "name_id": 4,
+          "platform_id": 3,
+          "encoding_id": 1,
+          "language_id": 1033,
+          "text": "Nanum Brush Script"
+        },
+        {
+          "name_id": 6,
+          "platform_id": 3,
+          "encoding_id": 1,
+          "language_id": 1033,
+          "text": "NanumBrush"
+        },
+        {
+          "name_id": 1,
+          "platform_id": 3,
+          "encoding_id": 1,
+          "language_id": 1042,
+          "text": "나눔손글씨 붓"
+        },
+        {
+          "name_id": 2,
+          "platform_id": 3,
+          "encoding_id": 1,
+          "language_id": 1042,
+          "text": "Regular"
+        },
+        {
+          "name_id": 4,
+          "platform_id": 3,
+          "encoding_id": 1,
+          "language_id": 1042,
+          "text": "나눔손글씨 붓"
+        }
+      ],
+      "jsx_expected_family_present": true,
+      "jsx_expected_style_present": true,
+      "jsx_expected_postscript_present": true,
+      "idml_expectations_match_jsx": true,
+      "manifest_metadata_matches_binary": true,
+      "font_head_macStyle": 0,
+      "font_os2_fsSelection": 192,
+      "font_weight_class": 400,
+      "bold_or_italic_style_bits_present": false,
+      "jsx_frame_count": 15,
+      "jsx_font_styles": {
+        "Regular": 15
+      },
+      "jsx_synthetic_bold_frames": 0,
+      "characters_used_in_jsx": 207,
+      "missing_used_characters": [],
+      "passed": true
+    },
+    {
+      "key": "pixel",
+      "delivered_file": "/workspace/font_delivery_20261103/package/Fonts/DungGeunMo.ttf",
+      "original_file": "/workspace/final28/revision_diverse/fonts/DungGeunMo.ttf",
+      "original_ttc_index": null,
+      "family": "DungGeunMo",
+      "style": "Normal",
+      "postscript": "DungGeunMo",
+      "bytes": 7263420,
+      "sha256": "c7b4520c435b77fd0acd1e512dc28710aeb172f0eb5cd97a7936a3573a1e068c",
+      "whole_file_identical_to_original": true,
+      "all_tables_fully_parsed": true,
+      "glyphs_parsed": 17433,
+      "original_glyphs_parsed": 17433,
+      "table_tags": [
+        "DSIG",
+        "GDEF",
+        "GSUB",
+        "OS/2",
+        "cmap",
+        "cvt ",
+        "fpgm",
+        "gasp",
+        "glyf",
+        "head",
+        "hhea",
+        "hmtx",
+        "loca",
+        "maxp",
+        "name",
+        "post",
+        "prep"
+      ],
+      "same_table_set": true,
+      "raw_table_matches": {
+        "DSIG": true,
+        "GDEF": true,
+        "GSUB": true,
+        "OS/2": true,
+        "cmap": true,
+        "cvt ": true,
+        "fpgm": true,
+        "gasp": true,
+        "glyf": true,
+        "head": true,
+        "hhea": true,
+        "hmtx": true,
+        "loca": true,
+        "maxp": true,
+        "name": true,
+        "post": true,
+        "prep": true
+      },
+      "nonidentical_raw_tables": [],
+      "outline_tables": [
+        "glyf",
+        "loca"
+      ],
+      "all_outline_tables_identical": true,
+      "cmap_table_identical": true,
+      "best_cmap_identical": true,
+      "glyph_order_identical": true,
+      "metric_tables": [
+        "hmtx",
+        "hhea",
+        "OS/2"
+      ],
+      "all_metric_tables_identical": true,
+      "units_per_em_identical": true,
+      "name_table_identical": true,
+      "name_records": [
+        {
+          "name_id": 1,
+          "platform_id": 1,
+          "encoding_id": 0,
+          "language_id": 0,
+          "text": "DungGeunMo"
+        },
+        {
+          "name_id": 2,
+          "platform_id": 1,
+          "encoding_id": 0,
+          "language_id": 0,
+          "text": "Normal"
+        },
+        {
+          "name_id": 4,
+          "platform_id": 1,
+          "encoding_id": 0,
+          "language_id": 0,
+          "text": "DungGeunMo"
+        },
+        {
+          "name_id": 6,
+          "platform_id": 1,
+          "encoding_id": 0,
+          "language_id": 0,
+          "text": "DungGeunMo"
+        },
+        {
+          "name_id": 1,
+          "platform_id": 3,
+          "encoding_id": 1,
+          "language_id": 1033,
+          "text": "DungGeunMo Normal"
+        },
+        {
+          "name_id": 2,
+          "platform_id": 3,
+          "encoding_id": 1,
+          "language_id": 1033,
+          "text": "Regular"
+        },
+        {
+          "name_id": 4,
+          "platform_id": 3,
+          "encoding_id": 1,
+          "language_id": 1033,
+          "text": "DungGeunMo"
+        },
+        {
+          "name_id": 6,
+          "platform_id": 3,
+          "encoding_id": 1,
+          "language_id": 1033,
+          "text": "DungGeunMo"
+        },
+        {
+          "name_id": 16,
+          "platform_id": 3,
+          "encoding_id": 1,
+          "language_id": 1033,
+          "text": "DungGeunMo"
+        },
+        {
+          "name_id": 17,
+          "platform_id": 3,
+          "encoding_id": 1,
+          "language_id": 1033,
+          "text": "Normal"
+        },
+        {
+          "name_id": 1,
+          "platform_id": 3,
+          "encoding_id": 1,
+          "language_id": 1042,
+          "text": "둥근모꼴 일반체"
+        },
+        {
+          "name_id": 2,
+          "platform_id": 3,
+          "encoding_id": 1,
+          "language_id": 1042,
+          "text": "Regular"
+        },
+        {
+          "name_id": 16,
+          "platform_id": 3,
+          "encoding_id": 1,
+          "language_id": 1042,
+          "text": "둥근모꼴"
+        },
+        {
+          "name_id": 17,
+          "platform_id": 3,
+          "encoding_id": 1,
+          "language_id": 1042,
+          "text": "일반체"
+        }
+      ],
+      "jsx_expected_family_present": true,
+      "jsx_expected_style_present": true,
+      "jsx_expected_postscript_present": true,
+      "idml_expectations_match_jsx": true,
+      "manifest_metadata_matches_binary": true,
+      "font_head_macStyle": 0,
+      "font_os2_fsSelection": 64,
+      "font_weight_class": 400,
+      "bold_or_italic_style_bits_present": false,
+      "jsx_frame_count": 14,
+      "jsx_font_styles": {
+        "Normal": 14
+      },
+      "jsx_synthetic_bold_frames": 0,
+      "characters_used_in_jsx": 67,
+      "missing_used_characters": [],
+      "passed": true
+    },
+    {
+      "key": "blackhan",
+      "delivered_file": "/workspace/font_delivery_20261103/package/Fonts/BlackHanSans-Regular.ttf",
+      "original_file": "/workspace/final28/revision_gabo/fonts/BlackHanSans-Regular.ttf",
+      "original_ttc_index": null,
+      "family": "Black Han Sans",
+      "style": "Regular",
+      "postscript": "BlackHanSans-Regular",
+      "bytes": 998424,
+      "sha256": "31960809284026681774a8e52dc19ebcad26cf69b0ad9d560f288296fbb52739",
+      "whole_file_identical_to_original": true,
+      "all_tables_fully_parsed": true,
+      "glyphs_parsed": 2734,
+      "original_glyphs_parsed": 2734,
+      "table_tags": [
+        "DSIG",
+        "OS/2",
+        "cmap",
+        "cvt ",
+        "fpgm",
+        "gasp",
+        "glyf",
+        "head",
+        "hhea",
+        "hmtx",
+        "loca",
+        "maxp",
+        "name",
+        "post",
+        "prep"
+      ],
+      "same_table_set": true,
+      "raw_table_matches": {
+        "DSIG": true,
+        "OS/2": true,
+        "cmap": true,
+        "cvt ": true,
+        "fpgm": true,
+        "gasp": true,
+        "glyf": true,
+        "head": true,
+        "hhea": true,
+        "hmtx": true,
+        "loca": true,
+        "maxp": true,
+        "name": true,
+        "post": true,
+        "prep": true
+      },
+      "nonidentical_raw_tables": [],
+      "outline_tables": [
+        "glyf",
+        "loca"
+      ],
+      "all_outline_tables_identical": true,
+      "cmap_table_identical": true,
+      "best_cmap_identical": true,
+      "glyph_order_identical": true,
+      "metric_tables": [
+        "hmtx",
+        "hhea",
+        "OS/2"
+      ],
+      "all_metric_tables_identical": true,
+      "units_per_em_identical": true,
+      "name_table_identical": true,
+      "name_records": [
+        {
+          "name_id": 1,
+          "platform_id": 3,
+          "encoding_id": 1,
+          "language_id": 1033,
+          "text": "Black Han Sans"
+        },
+        {
+          "name_id": 2,
+          "platform_id": 3,
+          "encoding_id": 1,
+          "language_id": 1033,
+          "text": "Regular"
+        },
+        {
+          "name_id": 4,
+          "platform_id": 3,
+          "encoding_id": 1,
+          "language_id": 1033,
+          "text": "Black Han Sans Regular"
+        },
+        {
+          "name_id": 6,
+          "platform_id": 3,
+          "encoding_id": 1,
+          "language_id": 1033,
+          "text": "BlackHanSans-Regular"
+        },
+        {
+          "name_id": 1,
+          "platform_id": 3,
+          "encoding_id": 1,
+          "language_id": 1042,
+          "text": "검은고딕"
+        },
+        {
+          "name_id": 2,
+          "platform_id": 3,
+          "encoding_id": 1,
+          "language_id": 1042,
+          "text": "Regular"
+        },
+        {
+          "name_id": 4,
+          "platform_id": 3,
+          "encoding_id": 1,
+          "language_id": 1042,
+          "text": "검은고딕 Regular"
+        }
+      ],
+      "jsx_expected_family_present": true,
+      "jsx_expected_style_present": true,
+      "jsx_expected_postscript_present": true,
+      "idml_expectations_match_jsx": true,
+      "manifest_metadata_matches_binary": true,
+      "font_head_macStyle": 0,
+      "font_os2_fsSelection": 192,
+      "font_weight_class": 400,
+      "bold_or_italic_style_bits_present": false,
+      "jsx_frame_count": 17,
+      "jsx_font_styles": {
+        "Regular": 17
+      },
+      "jsx_synthetic_bold_frames": 0,
+      "characters_used_in_jsx": 75,
+      "missing_used_characters": [],
+      "passed": true
+    },
+    {
+      "key": "gugi",
+      "delivered_file": "/workspace/font_delivery_20261103/package/Fonts/Gugi-Regular.ttf",
+      "original_file": "/workspace/final28/revision_gabo/fonts/Gugi-Regular.ttf",
+      "original_ttc_index": null,
+      "family": "Gugi",
+      "style": "Regular",
+      "postscript": "Gugi-Regular",
+      "bytes": 990856,
+      "sha256": "c0b1f979979cfc309fb2438fa9464f96173353e0c4842cc7a5919658184ed9d3",
+      "whole_file_identical_to_original": true,
+      "all_tables_fully_parsed": true,
+      "glyphs_parsed": 2495,
+      "original_glyphs_parsed": 2495,
+      "table_tags": [
+        "DSIG",
+        "OS/2",
+        "cmap",
+        "cvt ",
+        "fpgm",
+        "gasp",
+        "glyf",
+        "head",
+        "hhea",
+        "hmtx",
+        "loca",
+        "maxp",
+        "name",
+        "post",
+        "prep"
+      ],
+      "same_table_set": true,
+      "raw_table_matches": {
+        "DSIG": true,
+        "OS/2": true,
+        "cmap": true,
+        "cvt ": true,
+        "fpgm": true,
+        "gasp": true,
+        "glyf": true,
+        "head": true,
+        "hhea": true,
+        "hmtx": true,
+        "loca": true,
+        "maxp": true,
+        "name": true,
+        "post": true,
+        "prep": true
+      },
+      "nonidentical_raw_tables": [],
+      "outline_tables": [
+        "glyf",
+        "loca"
+      ],
+      "all_outline_tables_identical": true,
+      "cmap_table_identical": true,
+      "best_cmap_identical": true,
+      "glyph_order_identical": true,
+      "metric_tables": [
+        "hmtx",
+        "hhea",
+        "OS/2"
+      ],
+      "all_metric_tables_identical": true,
+      "units_per_em_identical": true,
+      "name_table_identical": true,
+      "name_records": [
+        {
+          "name_id": 1,
+          "platform_id": 1,
+          "encoding_id": 0,
+          "language_id": 0,
+          "text": "Gugi"
+        },
+        {
+          "name_id": 2,
+          "platform_id": 1,
+          "encoding_id": 0,
+          "language_id": 0,
+          "text": "Regular"
+        },
+        {
+          "name_id": 4,
+          "platform_id": 1,
+          "encoding_id": 0,
+          "language_id": 0,
+          "text": "Gugi Regular"
+        },
+        {
+          "name_id": 6,
+          "platform_id": 1,
+          "encoding_id": 0,
+          "language_id": 0,
+          "text": "Gugi-Regular"
+        },
+        {
+          "name_id": 1,
+          "platform_id": 3,
+          "encoding_id": 1,
+          "language_id": 1033,
+          "text": "Gugi"
+        },
+        {
+          "name_id": 2,
+          "platform_id": 3,
+          "encoding_id": 1,
+          "language_id": 1033,
+          "text": "Regular"
+        },
+        {
+          "name_id": 4,
+          "platform_id": 3,
+          "encoding_id": 1,
+          "language_id": 1033,
+          "text": "Gugi Regular"
+        },
+        {
+          "name_id": 6,
+          "platform_id": 3,
+          "encoding_id": 1,
+          "language_id": 1033,
+          "text": "Gugi-Regular"
+        },
+        {
+          "name_id": 1,
+          "platform_id": 3,
+          "encoding_id": 1,
+          "language_id": 1042,
+          "text": "구기"
+        },
+        {
+          "name_id": 2,
+          "platform_id": 3,
+          "encoding_id": 1,
+          "language_id": 1042,
+          "text": "Regular"
+        },
+        {
+          "name_id": 4,
+          "platform_id": 3,
+          "encoding_id": 1,
+          "language_id": 1042,
+          "text": "구기 Regular"
+        },
+        {
+          "name_id": 6,
+          "platform_id": 3,
+          "encoding_id": 1,
+          "language_id": 1042,
+          "text": "구기-Regular"
+        }
+      ],
+      "jsx_expected_family_present": true,
+      "jsx_expected_style_present": true,
+      "jsx_expected_postscript_present": true,
+      "idml_expectations_match_jsx": true,
+      "manifest_metadata_matches_binary": true,
+      "font_head_macStyle": 0,
+      "font_os2_fsSelection": 192,
+      "font_weight_class": 400,
+      "bold_or_italic_style_bits_present": false,
+      "jsx_frame_count": 12,
+      "jsx_font_styles": {
+        "Regular": 12
+      },
+      "jsx_synthetic_bold_frames": 0,
+      "characters_used_in_jsx": 63,
+      "missing_used_characters": [],
+      "passed": true
+    },
+    {
+      "key": "kirang",
+      "delivered_file": "/workspace/font_delivery_20261103/package/Fonts/KirangHaerang-Regular.ttf",
+      "original_file": "/workspace/final28/revision_gabo/fonts/KirangHaerang-Regular.ttf",
+      "original_ttc_index": null,
+      "family": "Kirang Haerang",
+      "style": "Regular",
+      "postscript": "KirangHaerang-Regular",
+      "bytes": 5995608,
+      "sha256": "d677d28d466989017c520f00a2a7794ea581ea3d9fa9a830fbb44f1015eac72d",
+      "whole_file_identical_to_original": true,
+      "all_tables_fully_parsed": true,
+      "glyphs_parsed": 5638,
+      "original_glyphs_parsed": 5638,
+      "table_tags": [
+        "DSIG",
+        "GPOS",
+        "GSUB",
+        "OS/2",
+        "cmap",
+        "cvt ",
+        "fpgm",
+        "gasp",
+        "glyf",
+        "head",
+        "hhea",
+        "hmtx",
+        "loca",
+        "maxp",
+        "name",
+        "post",
+        "prep"
+      ],
+      "same_table_set": true,
+      "raw_table_matches": {
+        "DSIG": true,
+        "GPOS": true,
+        "GSUB": true,
+        "OS/2": true,
+        "cmap": true,
+        "cvt ": true,
+        "fpgm": true,
+        "gasp": true,
+        "glyf": true,
+        "head": true,
+        "hhea": true,
+        "hmtx": true,
+        "loca": true,
+        "maxp": true,
+        "name": true,
+        "post": true,
+        "prep": true
+      },
+      "nonidentical_raw_tables": [],
+      "outline_tables": [
+        "glyf",
+        "loca"
+      ],
+      "all_outline_tables_identical": true,
+      "cmap_table_identical": true,
+      "best_cmap_identical": true,
+      "glyph_order_identical": true,
+      "metric_tables": [
+        "hmtx",
+        "hhea",
+        "OS/2"
+      ],
+      "all_metric_tables_identical": true,
+      "units_per_em_identical": true,
+      "name_table_identical": true,
+      "name_records": [
+        {
+          "name_id": 1,
+          "platform_id": 1,
+          "encoding_id": 0,
+          "language_id": 0,
+          "text": "Kirang Haerang"
+        },
+        {
+          "name_id": 2,
+          "platform_id": 1,
+          "encoding_id": 0,
+          "language_id": 0,
+          "text": "Regular"
+        },
+        {
+          "name_id": 4,
+          "platform_id": 1,
+          "encoding_id": 0,
+          "language_id": 0,
+          "text": "Kirang Haerang Regular"
+        },
+        {
+          "name_id": 6,
+          "platform_id": 1,
+          "encoding_id": 0,
+          "language_id": 0,
+          "text": "KirangHaerang-Regular"
+        },
+        {
+          "name_id": 1,
+          "platform_id": 3,
+          "encoding_id": 1,
+          "language_id": 1033,
+          "text": "Kirang Haerang"
+        },
+        {
+          "name_id": 2,
+          "platform_id": 3,
+          "encoding_id": 1,
+          "language_id": 1033,
+          "text": "Regular"
+        },
+        {
+          "name_id": 4,
+          "platform_id": 3,
+          "encoding_id": 1,
+          "language_id": 1033,
+          "text": "Kirang Haerang Regular"
+        },
+        {
+          "name_id": 6,
+          "platform_id": 3,
+          "encoding_id": 1,
+          "language_id": 1033,
+          "text": "KirangHaerang-Regular"
+        }
+      ],
+      "jsx_expected_family_present": true,
+      "jsx_expected_style_present": true,
+      "jsx_expected_postscript_present": true,
+      "idml_expectations_match_jsx": true,
+      "manifest_metadata_matches_binary": true,
+      "font_head_macStyle": 0,
+      "font_os2_fsSelection": 192,
+      "font_weight_class": 400,
+      "bold_or_italic_style_bits_present": false,
+      "jsx_frame_count": 13,
+      "jsx_font_styles": {
+        "Regular": 13
+      },
+      "jsx_synthetic_bold_frames": 0,
+      "characters_used_in_jsx": 93,
+      "missing_used_characters": [],
+      "passed": true
+    },
+    {
+      "key": "singleday",
+      "delivered_file": "/workspace/font_delivery_20261103/package/Fonts/SingleDay-Regular.ttf",
+      "original_file": "/workspace/final28/revision_gabo/fonts/SingleDay-Regular.ttf",
+      "original_ttc_index": null,
+      "family": "Single Day",
+      "style": "Regular",
+      "postscript": "SingleDay-Regular",
+      "bytes": 816524,
+      "sha256": "716ff67a4b0675b35c26d60a4bb83173f7d153ab754474ed36c3369593ca1ca8",
+      "whole_file_identical_to_original": true,
+      "all_tables_fully_parsed": true,
+      "glyphs_parsed": 12127,
+      "original_glyphs_parsed": 12127,
+      "table_tags": [
+        "DSIG",
+        "GPOS",
+        "GSUB",
+        "OS/2",
+        "cmap",
+        "cvt ",
+        "fpgm",
+        "gasp",
+        "glyf",
+        "head",
+        "hhea",
+        "hmtx",
+        "loca",
+        "maxp",
+        "name",
+        "post",
+        "prep"
+      ],
+      "same_table_set": true,
+      "raw_table_matches": {
+        "DSIG": true,
+        "GPOS": true,
+        "GSUB": true,
+        "OS/2": true,
+        "cmap": true,
+        "cvt ": true,
+        "fpgm": true,
+        "gasp": true,
+        "glyf": true,
+        "head": true,
+        "hhea": true,
+        "hmtx": true,
+        "loca": true,
+        "maxp": true,
+        "name": true,
+        "post": true,
+        "prep": true
+      },
+      "nonidentical_raw_tables": [],
+      "outline_tables": [
+        "glyf",
+        "loca"
+      ],
+      "all_outline_tables_identical": true,
+      "cmap_table_identical": true,
+      "best_cmap_identical": true,
+      "glyph_order_identical": true,
+      "metric_tables": [
+        "hmtx",
+        "hhea",
+        "OS/2"
+      ],
+      "all_metric_tables_identical": true,
+      "units_per_em_identical": true,
+      "name_table_identical": true,
+      "name_records": [
+        {
+          "name_id": 1,
+          "platform_id": 1,
+          "encoding_id": 0,
+          "language_id": 0,
+          "text": "Single Day"
+        },
+        {
+          "name_id": 2,
+          "platform_id": 1,
+          "encoding_id": 0,
+          "language_id": 0,
+          "text": "Regular"
+        },
+        {
+          "name_id": 4,
+          "platform_id": 1,
+          "encoding_id": 0,
+          "language_id": 0,
+          "text": "Single Day Regular"
+        },
+        {
+          "name_id": 6,
+          "platform_id": 1,
+          "encoding_id": 0,
+          "language_id": 0,
+          "text": "SingleDay-Regular"
+        },
+        {
+          "name_id": 1,
+          "platform_id": 3,
+          "encoding_id": 1,
+          "language_id": 1033,
+          "text": "Single Day"
+        },
+        {
+          "name_id": 2,
+          "platform_id": 3,
+          "encoding_id": 1,
+          "language_id": 1033,
+          "text": "Regular"
+        },
+        {
+          "name_id": 4,
+          "platform_id": 3,
+          "encoding_id": 1,
+          "language_id": 1033,
+          "text": "Single Day Regular"
+        },
+        {
+          "name_id": 6,
+          "platform_id": 3,
+          "encoding_id": 1,
+          "language_id": 1033,
+          "text": "SingleDay-Regular"
+        },
+        {
+          "name_id": 1,
+          "platform_id": 3,
+          "encoding_id": 1,
+          "language_id": 1042,
+          "text": "싱글데이"
+        },
+        {
+          "name_id": 2,
+          "platform_id": 3,
+          "encoding_id": 1,
+          "language_id": 1042,
+          "text": "Regular"
+        },
+        {
+          "name_id": 4,
+          "platform_id": 3,
+          "encoding_id": 1,
+          "language_id": 1042,
+          "text": "Single Day Regular"
+        },
+        {
+          "name_id": 6,
+          "platform_id": 3,
+          "encoding_id": 1,
+          "language_id": 1042,
+          "text": "SingleDay-Regular"
+        }
+      ],
+      "jsx_expected_family_present": true,
+      "jsx_expected_style_present": true,
+      "jsx_expected_postscript_present": true,
+      "idml_expectations_match_jsx": true,
+      "manifest_metadata_matches_binary": true,
+      "font_head_macStyle": 0,
+      "font_os2_fsSelection": 192,
+      "font_weight_class": 400,
+      "bold_or_italic_style_bits_present": false,
+      "jsx_frame_count": 12,
+      "jsx_font_styles": {
+        "Regular": 12
+      },
+      "jsx_synthetic_bold_frames": 0,
+      "characters_used_in_jsx": 113,
+      "missing_used_characters": [],
+      "passed": true
+    },
+    {
+      "key": "bawpic",
+      "delivered_file": "/workspace/font_delivery_20261103/package/Fonts/BlackAndWhitePicture-Regular.ttf",
+      "original_file": "/workspace/final28/revision_gabo/fonts/BlackAndWhitePicture-Regular.ttf",
+      "original_ttc_index": null,
+      "family": "Black And White Picture",
+      "style": "Regular",
+      "postscript": "BlackAndWhitePicture-Regular",
+      "bytes": 9606352,
+      "sha256": "4d72cd6de1f210b446c86f06b4e13d7641cbcfb1b375c6927341388aa8e08056",
+      "whole_file_identical_to_original": true,
+      "all_tables_fully_parsed": true,
+      "glyphs_parsed": 11368,
+      "original_glyphs_parsed": 11368,
+      "table_tags": [
+        "DSIG",
+        "GDEF",
+        "OS/2",
+        "cmap",
+        "cvt ",
+        "fpgm",
+        "gasp",
+        "glyf",
+        "head",
+        "hhea",
+        "hmtx",
+        "loca",
+        "maxp",
+        "name",
+        "post",
+        "prep"
+      ],
+      "same_table_set": true,
+      "raw_table_matches": {
+        "DSIG": true,
+        "GDEF": true,
+        "OS/2": true,
+        "cmap": true,
+        "cvt ": true,
+        "fpgm": true,
+        "gasp": true,
+        "glyf": true,
+        "head": true,
+        "hhea": true,
+        "hmtx": true,
+        "loca": true,
+        "maxp": true,
+        "name": true,
+        "post": true,
+        "prep": true
+      },
+      "nonidentical_raw_tables": [],
+      "outline_tables": [
+        "glyf",
+        "loca"
+      ],
+      "all_outline_tables_identical": true,
+      "cmap_table_identical": true,
+      "best_cmap_identical": true,
+      "glyph_order_identical": true,
+      "metric_tables": [
+        "hmtx",
+        "hhea",
+        "OS/2"
+      ],
+      "all_metric_tables_identical": true,
+      "units_per_em_identical": true,
+      "name_table_identical": true,
+      "name_records": [
+        {
+          "name_id": 1,
+          "platform_id": 1,
+          "encoding_id": 0,
+          "language_id": 0,
+          "text": "Black And White Picture"
+        },
+        {
+          "name_id": 2,
+          "platform_id": 1,
+          "encoding_id": 0,
+          "language_id": 0,
+          "text": "Regular"
+        },
+        {
+          "name_id": 4,
+          "platform_id": 1,
+          "encoding_id": 0,
+          "language_id": 0,
+          "text": "Black And White Picture Regular"
+        },
+        {
+          "name_id": 6,
+          "platform_id": 1,
+          "encoding_id": 0,
+          "language_id": 0,
+          "text": "BlackAndWhitePicture-Regular"
+        },
+        {
+          "name_id": 1,
+          "platform_id": 3,
+          "encoding_id": 1,
+          "language_id": 1033,
+          "text": "Black And White Picture"
+        },
+        {
+          "name_id": 2,
+          "platform_id": 3,
+          "encoding_id": 1,
+          "language_id": 1033,
+          "text": "Regular"
+        },
+        {
+          "name_id": 4,
+          "platform_id": 3,
+          "encoding_id": 1,
+          "language_id": 1033,
+          "text": "Black And White Picture Regular"
+        },
+        {
+          "name_id": 6,
+          "platform_id": 3,
+          "encoding_id": 1,
+          "language_id": 1033,
+          "text": "BlackAndWhitePicture-Regular"
+        },
+        {
+          "name_id": 1,
+          "platform_id": 3,
+          "encoding_id": 1,
+          "language_id": 1042,
+          "text": "흑백사진"
+        },
+        {
+          "name_id": 2,
+          "platform_id": 3,
+          "encoding_id": 1,
+          "language_id": 1042,
+          "text": "Regular"
+        },
+        {
+          "name_id": 4,
+          "platform_id": 3,
+          "encoding_id": 1,
+          "language_id": 1042,
+          "text": "Black And White Picture Regular"
+        },
+        {
+          "name_id": 6,
+          "platform_id": 3,
+          "encoding_id": 1,
+          "language_id": 1042,
+          "text": "BlackAndWhitePicture-Regular"
+        }
+      ],
+      "jsx_expected_family_present": true,
+      "jsx_expected_style_present": true,
+      "jsx_expected_postscript_present": true,
+      "idml_expectations_match_jsx": true,
+      "manifest_metadata_matches_binary": true,
+      "font_head_macStyle": 0,
+      "font_os2_fsSelection": 192,
+      "font_weight_class": 400,
+      "bold_or_italic_style_bits_present": false,
+      "jsx_frame_count": 13,
+      "jsx_font_styles": {
+        "Regular": 13
+      },
+      "jsx_synthetic_bold_frames": 0,
+      "characters_used_in_jsx": 60,
+      "missing_used_characters": [],
+      "passed": true
+    }
+  ],
+  "expected_font_keys": [
+    "bawpic",
+    "blackhan",
+    "brush",
+    "gugi",
+    "gungseo",
+    "jua",
+    "kirang",
+    "pixel",
+    "sans",
+    "serif",
+    "singleday"
+  ],
+  "actual_font_keys": [
+    "bawpic",
+    "blackhan",
+    "brush",
+    "gugi",
+    "gungseo",
+    "jua",
+    "kirang",
+    "pixel",
+    "sans",
+    "serif",
+    "singleday"
+  ],
+  "missing_font_keys": [],
+  "unexpected_font_keys": [],
+  "jsx_text_frame_count": 1036,
+  "jsx_font_frame_counts": {
+    "YES24": 532,
+    "sans": 362,
+    "blackhan": 17,
+    "gugi": 12,
+    "kirang": 13,
+    "singleday": 12,
+    "bawpic": 13,
+    "pixel": 14,
+    "gungseo": 17,
+    "jua": 16,
+    "brush": 15,
+    "serif": 13
+  },
+  "jsx_synthetic_bold_frame_count": 0,
+  "idml_font_family_count": 12,
+  "idml_font_styles": {
+    "Regular": 1128,
+    "Normal": 14
+  },
+  "idml_applied_families": {
+    "YES24": 570,
+    "Noto Sans CJK KR": 396,
+    "Black Han Sans": 17,
+    "Gugi": 17,
+    "Kirang Haerang": 20,
+    "Single Day": 21,
+    "Black And White Picture": 13,
+    "DungGeunMo": 14,
+    "UnGungseo": 25,
+    "Jua": 16,
+    "Nanum Brush Script": 20,
+    "Noto Serif CJK KR": 13
+  },
+  "idml_synthetic_style_flags": [],
+  "yes24_excluded_from_package": true,
+  "yes24_user_file_exists": true,
+  "windows_naming_notes": {
+    "DungGeunMo": "Canonical typographic family/style DungGeunMo/Normal. Legacy Windows English family/style DungGeunMo Normal/Regular; Korean family/style 둥근모꼴 일반체/Regular; typographic Korean 둥근모꼴/일반체. Existing JSX aliases cover all.",
+    "UnGungseo": "Windows Korean family 은 궁서 (with space), English family UnGungseo; English full name Un Gungseo; PostScript UnGungseo. Existing JSX aliases cover both families.",
+    "Noto": "Both standalone OTFs retain Korean family names and PostScript names, and are exact outlines/cmap/metrics from index 1 of the actual original TTCs."
+  },
+  "passed": true
+}
