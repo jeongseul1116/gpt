@@ -1,0 +1,15 @@
+{
+  "status": "pass",
+  "pages_checked": [
+    16,
+    17,
+    18,
+    19,
+    20
+  ],
+  "specimens_checked": 30,
+  "control_phrase": "북쪽에계신메리메리",
+  "no_isolated_syllables": true,
+  "all_sentence_specimens_centered": true,
+  "failures": []
+}

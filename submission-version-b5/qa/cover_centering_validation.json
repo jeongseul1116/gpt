@@ -1,0 +1,706 @@
+{
+  "status": "passed",
+  "centered_text": [
+    {
+      "physical_page": 1,
+      "label": "마참내! 폰트도 웃길 수 있다",
+      "role": "cover_subtitle",
+      "font": "YES24",
+      "cell": [
+        24,
+        24,
+        371.5276,
+        27
+      ],
+      "target_center": [
+        209.7638,
+        37.5
+      ],
+      "actual_ink_center": [
+        209.7635,
+        37.5
+      ],
+      "center_error_pt": 0.00030000000000995897,
+      "native_paragraph_align": "center"
+    },
+    {
+      "physical_page": 1,
+      "label": "한 문장으로 12종 폰트의 말투를 접수합니다.",
+      "role": "cover_tagline",
+      "font": "sans",
+      "cell": [
+        24,
+        51,
+        371.5276,
+        19
+      ],
+      "target_center": [
+        209.7638,
+        60.5
+      ],
+      "actual_ink_center": [
+        209.76399999999998,
+        60.4995
+      ],
+      "center_error_pt": 0.0005000000000023874,
+      "native_paragraph_align": "center"
+    },
+    {
+      "physical_page": 1,
+      "label": "밈 폰트 도감",
+      "role": "cover_title",
+      "font": "YES24",
+      "cell": [
+        24,
+        82,
+        371.5276,
+        84
+      ],
+      "target_center": [
+        209.7638,
+        124.0
+      ],
+      "actual_ink_center": [
+        209.764,
+        124.0
+      ],
+      "center_error_pt": 0.0002000000000066393,
+      "native_paragraph_align": "center"
+    },
+    {
+      "physical_page": 1,
+      "label": "말투수집실",
+      "role": "cover_title",
+      "font": "YES24",
+      "cell": [
+        24,
+        166,
+        371.5276,
+        84
+      ],
+      "target_center": [
+        209.7638,
+        208.0
+      ],
+      "actual_ink_center": [
+        209.764,
+        208.0
+      ],
+      "center_error_pt": 0.0002000000000066393,
+      "native_paragraph_align": "center"
+    },
+    {
+      "physical_page": 1,
+      "label": "폰트 분석 · 말투 복구 · 감정 과다",
+      "role": "cover_services",
+      "font": "YES24",
+      "cell": [
+        24,
+        266,
+        371.5276,
+        24
+      ],
+      "target_center": [
+        209.7638,
+        278.0
+      ],
+      "actual_ink_center": [
+        209.764,
+        278.0
+      ],
+      "center_error_pt": 0.0002000000000066393,
+      "native_paragraph_align": "center"
+    },
+    {
+      "physical_page": 1,
+      "label": "고딕·궁서·손글씨·도트 | 12종 상시 접수",
+      "role": "cover_font_range",
+      "font": "sans",
+      "cell": [
+        24,
+        291,
+        371.5276,
+        18
+      ],
+      "target_center": [
+        209.7638,
+        300.0
+      ],
+      "actual_ink_center": [
+        209.764,
+        300.0
+      ],
+      "center_error_pt": 0.0002000000000066393,
+      "native_paragraph_align": "center"
+    },
+    {
+      "physical_page": 1,
+      "label": "같은 ‘북쪽에계신메리메리’로 모양부터 비교합니다.",
+      "role": "cover_comparison_phrase",
+      "font": "sans",
+      "cell": [
+        24,
+        311,
+        371.5276,
+        16
+      ],
+      "target_center": [
+        209.7638,
+        319.0
+      ],
+      "actual_ink_center": [
+        209.764,
+        319.0
+      ],
+      "center_error_pt": 0.0002000000000066393,
+      "native_paragraph_align": "center"
+    },
+    {
+      "physical_page": 1,
+      "label": "12종 / 15밈 / 28쪽",
+      "role": "cover_statistics",
+      "font": "YES24",
+      "cell": [
+        24,
+        331,
+        371.5276,
+        60
+      ],
+      "target_center": [
+        209.7638,
+        361.0
+      ],
+      "actual_ink_center": [
+        209.76350000000002,
+        361.0
+      ],
+      "center_error_pt": 0.00029999999998153726,
+      "native_paragraph_align": "center"
+    },
+    {
+      "physical_page": 1,
+      "label": "떼인 말투",
+      "role": "cover_hook",
+      "font": "blackhan",
+      "cell": [
+        24,
+        410,
+        264,
+        35
+      ],
+      "target_center": [
+        156.0,
+        427.5
+      ],
+      "actual_ink_center": [
+        156.0,
+        427.5
+      ],
+      "center_error_pt": 0.0,
+      "native_paragraph_align": "center"
+    },
+    {
+      "physical_page": 1,
+      "label": "찾아드립니다",
+      "role": "cover_hook",
+      "font": "blackhan",
+      "cell": [
+        24,
+        445,
+        264,
+        35
+      ],
+      "target_center": [
+        156.0,
+        462.5
+      ],
+      "actual_ink_center": [
+        156.0,
+        462.5
+      ],
+      "center_error_pt": 0.0,
+      "native_paragraph_align": "center"
+    },
+    {
+      "physical_page": 1,
+      "label": "진심",
+      "role": "cover_burst_copy",
+      "font": "YES24",
+      "cell": [
+        317.7638,
+        427.0,
+        48,
+        18
+      ],
+      "target_center": [
+        341.7638,
+        436.0
+      ],
+      "actual_ink_center": [
+        341.764,
+        436.0
+      ],
+      "center_error_pt": 0.0002000000000066393,
+      "native_paragraph_align": "center"
+    },
+    {
+      "physical_page": 1,
+      "label": "상담",
+      "role": "cover_burst_copy",
+      "font": "YES24",
+      "cell": [
+        317.7638,
+        445.0,
+        48,
+        18
+      ],
+      "target_center": [
+        341.7638,
+        454.0
+      ],
+      "actual_ink_center": [
+        341.7636923076923,
+        454.0
+      ],
+      "center_error_pt": 0.00010769230772211813,
+      "native_paragraph_align": "center"
+    },
+    {
+      "physical_page": 1,
+      "label": "말투 한 장씩 챙겨가세요",
+      "role": "cover_tearoff_instruction",
+      "font": "sans",
+      "cell": [
+        24,
+        506,
+        371.5276,
+        18
+      ],
+      "target_center": [
+        209.7638,
+        515.0
+      ],
+      "actual_ink_center": [
+        209.7635,
+        515.0
+      ],
+      "center_error_pt": 0.00030000000000995897,
+      "native_paragraph_align": "center"
+    },
+    {
+      "physical_page": 1,
+      "label": "고딕",
+      "role": "tearoff_font_label",
+      "font": "blackhan",
+      "cell": [
+        24.0,
+        526,
+        92.8819,
+        32
+      ],
+      "target_center": [
+        70.44095,
+        542.0
+      ],
+      "actual_ink_center": [
+        70.441,
+        542.0
+      ],
+      "center_error_pt": 5.000000000165983e-05,
+      "native_paragraph_align": "center"
+    },
+    {
+      "physical_page": 1,
+      "label": "궁서",
+      "role": "tearoff_font_label",
+      "font": "gungseo",
+      "cell": [
+        116.8819,
+        526,
+        92.8819,
+        32
+      ],
+      "target_center": [
+        163.32285000000002,
+        542.0
+      ],
+      "actual_ink_center": [
+        163.3225,
+        542.0
+      ],
+      "center_error_pt": 0.00035000000002582965,
+      "native_paragraph_align": "center"
+    },
+    {
+      "physical_page": 1,
+      "label": "손글씨",
+      "role": "tearoff_font_label",
+      "font": "brush",
+      "cell": [
+        209.7638,
+        526,
+        92.8819,
+        32
+      ],
+      "target_center": [
+        256.20475,
+        542.0
+      ],
+      "actual_ink_center": [
+        256.2045183796273,
+        542.0
+      ],
+      "center_error_pt": 0.00023162037268775748,
+      "native_paragraph_align": "center"
+    },
+    {
+      "physical_page": 1,
+      "label": "도트",
+      "role": "tearoff_font_label",
+      "font": "pixel",
+      "cell": [
+        302.64570000000003,
+        526,
+        92.8819,
+        32
+      ],
+      "target_center": [
+        349.08665,
+        542.0
+      ],
+      "actual_ink_center": [
+        349.0865,
+        542.0005000000001
+      ],
+      "center_error_pt": 0.0005000000001018634,
+      "native_paragraph_align": "center"
+    },
+    {
+      "physical_page": 28,
+      "label": "말투수집실 / 열람 완료",
+      "role": "backcover_eyebrow",
+      "font": "sans",
+      "cell": [
+        36.0,
+        25,
+        347.5276,
+        20
+      ],
+      "target_center": [
+        209.7638,
+        35.0
+      ],
+      "actual_ink_center": [
+        209.764,
+        35.0
+      ],
+      "center_error_pt": 0.0002000000000066393,
+      "native_paragraph_align": "center"
+    },
+    {
+      "physical_page": 28,
+      "label": "문장 하나로",
+      "role": "backcover_heading",
+      "font": "YES24",
+      "cell": [
+        36.0,
+        85,
+        180,
+        38
+      ],
+      "target_center": [
+        126.0,
+        104.0
+      ],
+      "actual_ink_center": [
+        126.0,
+        104.0
+      ],
+      "center_error_pt": 0.0,
+      "native_paragraph_align": "center"
+    },
+    {
+      "physical_page": 28,
+      "label": "이렇게까지.",
+      "role": "backcover_heading",
+      "font": "YES24",
+      "cell": [
+        36.0,
+        123,
+        180,
+        38
+      ],
+      "target_center": [
+        126.0,
+        142.0
+      ],
+      "actual_ink_center": [
+        126.0,
+        142.0
+      ],
+      "center_error_pt": 0.0,
+      "native_paragraph_align": "center"
+    },
+    {
+      "physical_page": 28,
+      "label": "폰트 바꿨을 뿐인데",
+      "role": "backcover_hook",
+      "font": "blackhan",
+      "cell": [
+        36.0,
+        185,
+        180,
+        20
+      ],
+      "target_center": [
+        126.0,
+        195.0
+      ],
+      "actual_ink_center": [
+        126.0,
+        195.0
+      ],
+      "center_error_pt": 0.0,
+      "native_paragraph_align": "center"
+    },
+    {
+      "physical_page": 28,
+      "label": "말투가 급발진.",
+      "role": "backcover_hook",
+      "font": "blackhan",
+      "cell": [
+        36.0,
+        205,
+        180,
+        20
+      ],
+      "target_center": [
+        126.0,
+        215.0
+      ],
+      "actual_ink_center": [
+        126.0,
+        215.0
+      ],
+      "center_error_pt": 0.0,
+      "native_paragraph_align": "center"
+    },
+    {
+      "physical_page": 28,
+      "label": "진심 100% · 말투는 각자",
+      "role": "backcover_badge_copy",
+      "font": "YES24",
+      "cell": [
+        36.0,
+        245,
+        180,
+        27
+      ],
+      "target_center": [
+        126.0,
+        258.5
+      ],
+      "actual_ink_center": [
+        126.0,
+        258.5005
+      ],
+      "center_error_pt": 0.0004999999999881766,
+      "native_paragraph_align": "center"
+    },
+    {
+      "physical_page": 28,
+      "label": "열람 완료 / 출처와 만든 사람",
+      "role": "backcover_credits_bar_copy",
+      "font": "YES24",
+      "cell": [
+        36.0,
+        305,
+        347.5276,
+        24
+      ],
+      "target_center": [
+        209.7638,
+        317.0
+      ],
+      "actual_ink_center": [
+        209.764,
+        317.0
+      ],
+      "center_error_pt": 0.0002000000000066393,
+      "native_paragraph_align": "center"
+    },
+    {
+      "physical_page": 28,
+      "label": "형태는 관찰하고, 말투는 막 나갑니다.",
+      "role": "backcover_closing",
+      "font": "sans",
+      "cell": [
+        36.0,
+        528,
+        347.5276,
+        24
+      ],
+      "target_center": [
+        209.7638,
+        540.0
+      ],
+      "actual_ink_center": [
+        209.76350000000002,
+        539.9994999999999
+      ],
+      "center_error_pt": 0.0005000000001018634,
+      "native_paragraph_align": "center"
+    }
+  ],
+  "centered_objects": [
+    {
+      "physical_page": 1,
+      "role": "poster_red_emphasis",
+      "cell": [
+        71.17399999999999,
+        175.76,
+        64,
+        64
+      ],
+      "target_center": [
+        103.17399999999999,
+        207.76
+      ],
+      "actual_center": [
+        103.17399999999998,
+        207.76
+      ],
+      "center_error_pt": 1.4210854715202004e-14
+    },
+    {
+      "physical_page": 1,
+      "role": "poster_burst",
+      "cell": [
+        288,
+        405,
+        107.5276,
+        80
+      ],
+      "target_center": [
+        341.7638,
+        445.0
+      ],
+      "actual_center": [
+        341.7638,
+        445.0
+      ],
+      "center_error_pt": 0.0
+    },
+    {
+      "physical_page": 28,
+      "role": "embedded_backcover_photo",
+      "cell": [
+        232,
+        78,
+        151.5276,
+        208
+      ],
+      "target_center": [
+        307.7638,
+        182.0
+      ],
+      "actual_center": [
+        307.7638,
+        182.0
+      ],
+      "center_error_pt": 0.0
+    }
+  ],
+  "labels": [
+    {
+      "physical_page": 1,
+      "label": "고딕",
+      "role": "tearoff_font_label",
+      "font": "blackhan",
+      "cell": [
+        24.0,
+        526,
+        92.8819,
+        32
+      ],
+      "target_center": [
+        70.44095,
+        542.0
+      ],
+      "actual_ink_center": [
+        70.441,
+        542.0
+      ],
+      "center_error_pt": 5.000000000165983e-05,
+      "native_paragraph_align": "center"
+    },
+    {
+      "physical_page": 1,
+      "label": "궁서",
+      "role": "tearoff_font_label",
+      "font": "gungseo",
+      "cell": [
+        116.8819,
+        526,
+        92.8819,
+        32
+      ],
+      "target_center": [
+        163.32285000000002,
+        542.0
+      ],
+      "actual_ink_center": [
+        163.3225,
+        542.0
+      ],
+      "center_error_pt": 0.00035000000002582965,
+      "native_paragraph_align": "center"
+    },
+    {
+      "physical_page": 1,
+      "label": "손글씨",
+      "role": "tearoff_font_label",
+      "font": "brush",
+      "cell": [
+        209.7638,
+        526,
+        92.8819,
+        32
+      ],
+      "target_center": [
+        256.20475,
+        542.0
+      ],
+      "actual_ink_center": [
+        256.2045183796273,
+        542.0
+      ],
+      "center_error_pt": 0.00023162037268775748,
+      "native_paragraph_align": "center"
+    },
+    {
+      "physical_page": 1,
+      "label": "도트",
+      "role": "tearoff_font_label",
+      "font": "pixel",
+      "cell": [
+        302.64570000000003,
+        526,
+        92.8819,
+        32
+      ],
+      "target_center": [
+        349.08665,
+        542.0
+      ],
+      "actual_ink_center": [
+        349.0865,
+        542.0005000000001
+      ],
+      "center_error_pt": 0.0005000000001018634,
+      "native_paragraph_align": "center"
+    }
+  ],
+  "max_center_error_pt": 0.0005000000001018634,
+  "failures": []
+}

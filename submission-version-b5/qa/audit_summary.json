@@ -1,0 +1,324 @@
+{
+  "status": "passed",
+  "edition": "Version B5",
+  "reports_final": true,
+  "idml_sha256": "1f24e0ff9967924c628229e055b47fe6c89c434d549ecea94359fe9e123c7632",
+  "source_sha256": "012811b83bc6b604c7870be19f55bd1866f9cb8d435da1d0fda18f55646da0a3",
+  "review_sha256": "2f7fd33acf1647c05fae1d3a6fbfb1bf019156865bfc57079a030d9e4085a0a4",
+  "print_sha256": "31d7450a99c142b6550e4491b394a50962ab6133cfbf07e3f9048beb66a41304",
+  "physical_pages_including_covers": 28,
+  "physical_A3_sheets": 7,
+  "imposed_faces": 14,
+  "pairs_left_to_right": [
+    [
+      28,
+      1
+    ],
+    [
+      2,
+      27
+    ],
+    [
+      26,
+      3
+    ],
+    [
+      4,
+      25
+    ],
+    [
+      24,
+      5
+    ],
+    [
+      6,
+      23
+    ],
+    [
+      22,
+      7
+    ],
+    [
+      8,
+      21
+    ],
+    [
+      20,
+      9
+    ],
+    [
+      10,
+      19
+    ],
+    [
+      18,
+      11
+    ],
+    [
+      12,
+      17
+    ],
+    [
+      16,
+      13
+    ],
+    [
+      14,
+      15
+    ]
+  ],
+  "fold_model_reading_order": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28
+  ],
+  "crop_marks_K100_0_25pt": 112,
+  "control_rulers_100mm": 14,
+  "all_28_placement_matrices_translation_only_at_100_percent": true,
+  "all_28_original_source_half_clips_retained": true,
+  "all_vector_type_outline_paths": 1933,
+  "matching_vector_type_outline_paths": 1933,
+  "maximum_actual_vector_deviation_pt": 0.00010503320311272546,
+  "maximum_actual_vector_deviation_mm": 3.705337998698926e-05,
+  "vector_acceptance_tolerance_pt": 0.004,
+  "inside_3mm_trim_pixel_exact_all28": true,
+  "inside_3mm_checks": [
+    {
+      "face": 1,
+      "physical_page": 28,
+      "pixel_exact": true,
+      "maximum_channel_error": 0
+    },
+    {
+      "face": 1,
+      "physical_page": 1,
+      "pixel_exact": true,
+      "maximum_channel_error": 0
+    },
+    {
+      "face": 2,
+      "physical_page": 2,
+      "pixel_exact": true,
+      "maximum_channel_error": 0
+    },
+    {
+      "face": 2,
+      "physical_page": 27,
+      "pixel_exact": true,
+      "maximum_channel_error": 0
+    },
+    {
+      "face": 3,
+      "physical_page": 26,
+      "pixel_exact": true,
+      "maximum_channel_error": 0
+    },
+    {
+      "face": 3,
+      "physical_page": 3,
+      "pixel_exact": true,
+      "maximum_channel_error": 0
+    },
+    {
+      "face": 4,
+      "physical_page": 4,
+      "pixel_exact": true,
+      "maximum_channel_error": 0
+    },
+    {
+      "face": 4,
+      "physical_page": 25,
+      "pixel_exact": true,
+      "maximum_channel_error": 0
+    },
+    {
+      "face": 5,
+      "physical_page": 24,
+      "pixel_exact": true,
+      "maximum_channel_error": 0
+    },
+    {
+      "face": 5,
+      "physical_page": 5,
+      "pixel_exact": true,
+      "maximum_channel_error": 0
+    },
+    {
+      "face": 6,
+      "physical_page": 6,
+      "pixel_exact": true,
+      "maximum_channel_error": 0
+    },
+    {
+      "face": 6,
+      "physical_page": 23,
+      "pixel_exact": true,
+      "maximum_channel_error": 0
+    },
+    {
+      "face": 7,
+      "physical_page": 22,
+      "pixel_exact": true,
+      "maximum_channel_error": 0
+    },
+    {
+      "face": 7,
+      "physical_page": 7,
+      "pixel_exact": true,
+      "maximum_channel_error": 0
+    },
+    {
+      "face": 8,
+      "physical_page": 8,
+      "pixel_exact": true,
+      "maximum_channel_error": 0
+    },
+    {
+      "face": 8,
+      "physical_page": 21,
+      "pixel_exact": true,
+      "maximum_channel_error": 0
+    },
+    {
+      "face": 9,
+      "physical_page": 20,
+      "pixel_exact": true,
+      "maximum_channel_error": 0
+    },
+    {
+      "face": 9,
+      "physical_page": 9,
+      "pixel_exact": true,
+      "maximum_channel_error": 0
+    },
+    {
+      "face": 10,
+      "physical_page": 10,
+      "pixel_exact": true,
+      "maximum_channel_error": 0
+    },
+    {
+      "face": 10,
+      "physical_page": 19,
+      "pixel_exact": true,
+      "maximum_channel_error": 0
+    },
+    {
+      "face": 11,
+      "physical_page": 18,
+      "pixel_exact": true,
+      "maximum_channel_error": 0
+    },
+    {
+      "face": 11,
+      "physical_page": 11,
+      "pixel_exact": true,
+      "maximum_channel_error": 0
+    },
+    {
+      "face": 12,
+      "physical_page": 12,
+      "pixel_exact": true,
+      "maximum_channel_error": 0
+    },
+    {
+      "face": 12,
+      "physical_page": 17,
+      "pixel_exact": true,
+      "maximum_channel_error": 0
+    },
+    {
+      "face": 13,
+      "physical_page": 16,
+      "pixel_exact": true,
+      "maximum_channel_error": 0
+    },
+    {
+      "face": 13,
+      "physical_page": 13,
+      "pixel_exact": true,
+      "maximum_channel_error": 0
+    },
+    {
+      "face": 14,
+      "physical_page": 14,
+      "pixel_exact": true,
+      "maximum_channel_error": 0
+    },
+    {
+      "face": 14,
+      "physical_page": 15,
+      "pixel_exact": true,
+      "maximum_channel_error": 0
+    }
+  ],
+  "fold9_white_paper_probe": [
+    {
+      "dpi": 72,
+      "minimum_RGB": 255,
+      "maximum_RGB": 255
+    },
+    {
+      "dpi": 120,
+      "minimum_RGB": 255,
+      "maximum_RGB": 255
+    },
+    {
+      "dpi": 254,
+      "minimum_RGB": 255,
+      "maximum_RGB": 255
+    }
+  ],
+  "max_trim_mean_channel_error_of255": 0.006663,
+  "max_trim_fraction_pixels_error_over8": 0.00045624,
+  "actual_3mm_outer_ink_pages": [
+    21
+  ],
+  "first_sheet_and_all14_overview_visual": "passed",
+  "cover_pixels": [
+    874,
+    1275
+  ],
+  "cover_width_pt": 130.0,
+  "cover_effective_ppi": 484.0615384615385,
+  "cover_original_RGB_alpha_preserved": true,
+  "cover_source_to_print_raw_streams_byte_exact": true,
+  "frozen_previous_file_count": 257,
+  "all_frozen_previous_hashes_unchanged": true,
+  "source_layout": {
+    "status": "passed",
+    "idml_sha256": "1f24e0ff9967924c628229e055b47fe6c89c434d549ecea94359fe9e123c7632",
+    "fixed_baseline_frames": 626,
+    "actual_ink_clips": 0,
+    "approximate_wraps": 0,
+    "fit_flags": 0,
+    "renderer": "Custom direct IDML subset proof; actual Adobe application not tested"
+  },
+  "actual_printer_test": false,
+  "Adobe_application_verification": false
+}

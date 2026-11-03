@@ -1,0 +1,9 @@
+{
+  "status": "passed",
+  "phrase": "북쪽에계신메리메리",
+  "font_count": 12,
+  "point_size": 32,
+  "checked_text_lines": 216,
+  "no_isolated_glyph_comparison": true,
+  "failures": []
+}

@@ -1,3 +1,16 @@
+# 최신 B5 — 문장 통째로, 말투는 B급으로
+
+‘북쪽에계신메리메리’를 폰트 12종의 같은 크기 문장으로 비교합니다. 한 글자 비교를 문장 전체로 바꾸고, 인상은 B급 말투로 다듬었습니다. 비교 문장과 표지의 제목·띠 문구·장식 문구를 각 영역 중앙에 맞췄습니다.
+
+- [B5 PDF](submission-version-b5/Meme_Font_Book_Version_B5_28p_Review.pdf)
+- [B5 편집용 IDML](submission-version-b5/Meme_Font_Book_Version_B5_28p.idml)
+- [B5 A3 인쇄 PDF](submission-version-b5/Meme_Font_Book_Version_B5_A3_Duplex_28p.pdf)
+- [B5 전체 ZIP](Meme_Font_Book_Version_B5_28p.zip) · [수정·인쇄 안내](submission-version-b5/README_KO.md)
+
+이전 판본은 아래에 보존했습니다.
+
+---
+
 # 최신 B4 — 가운데 정렬과 형태에서 말투로
 
 표지 라벨과 확대 글자를 윤곽 기준으로 가운데에 맞췄습니다. 문장 비교에 실제 획 면적·글자 몸집과 틈을 더하고 ‘어떤 목소리로, 언제 쓸지’로 연결했습니다. 28면과 들어가며1쪽, 사진이 있는뒷표지는유지했습니다.

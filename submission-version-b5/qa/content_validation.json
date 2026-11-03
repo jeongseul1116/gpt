@@ -1,0 +1,3843 @@
+{
+  "status": "passed",
+  "scope": "Independent B5 full-sentence, centering, real font geometry and coverage/gaps, approved text and previous-edition preservation. No Adobe execution.",
+  "scene": "/workspace/version_b5_20261103/design/scene.json",
+  "scene_sha256": "c702aa1808b385b9e9675fac434bab98b6d804593b7ee924072bb26dfc9a72a6",
+  "item_count": 1881,
+  "text_frames": 626,
+  "checks": [
+    {
+      "check": "28 physical A5 pages",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "Comparison phrase is exact no-space user request",
+      "passed": true,
+      "evidence": "북쪽에계신메리메리"
+    },
+    {
+      "check": "All12 atlas specimens show entire requested sentence at common32pt",
+      "passed": true,
+      "evidence": [
+        {
+          "page": 4,
+          "specimens": [
+            {
+              "kind": "text",
+              "text": "북쪽에계신메리메리",
+              "x": 36.000000000000014,
+              "y": 108,
+              "w": 347.5276,
+              "h": 68,
+              "size": 32,
+              "font": "blackhan",
+              "color": "ink",
+              "leading": 44.8,
+              "baseline_offset": 46.16,
+              "role": "specimen",
+              "align": "center",
+              "centering_cell": [
+                36.0,
+                108,
+                347.5276,
+                68
+              ],
+              "centered_cell": [
+                36.0,
+                108,
+                347.5276,
+                68
+              ],
+              "target_ink_center": [
+                209.7638,
+                142.0
+              ],
+              "optical_sidebearing_shift_pt": 1.4210854715202004e-14,
+              "source_text": "북쪽에계신메리메리",
+              "controlled_size_pt": 32,
+              "no_per_font_fit": true
+            }
+          ],
+          "passed": true
+        },
+        {
+          "page": 5,
+          "specimens": [
+            {
+              "kind": "text",
+              "text": "북쪽에계신메리메리",
+              "x": 37.26400000000001,
+              "y": 108,
+              "w": 347.5276,
+              "h": 68,
+              "size": 32,
+              "font": "sans",
+              "color": "ink",
+              "leading": 44.8,
+              "baseline_offset": 45.968,
+              "role": "specimen",
+              "align": "center",
+              "centering_cell": [
+                36.0,
+                108,
+                347.5276,
+                68
+              ],
+              "centered_cell": [
+                36.0,
+                108,
+                347.5276,
+                68
+              ],
+              "target_ink_center": [
+                209.7638,
+                142.0
+              ],
+              "optical_sidebearing_shift_pt": 1.26400000000001,
+              "source_text": "북쪽에계신메리메리",
+              "controlled_size_pt": 32,
+              "no_per_font_fit": true
+            }
+          ],
+          "passed": true
+        },
+        {
+          "page": 6,
+          "specimens": [
+            {
+              "kind": "text",
+              "text": "북쪽에계신메리메리",
+              "x": 38.08600000000001,
+              "y": 108,
+              "w": 347.5276,
+              "h": 68,
+              "size": 32,
+              "font": "serif",
+              "color": "ink",
+              "leading": 44.8,
+              "baseline_offset": 45.76,
+              "role": "specimen",
+              "align": "center",
+              "centering_cell": [
+                36.0,
+                108,
+                347.5276,
+                68
+              ],
+              "centered_cell": [
+                36.0,
+                108,
+                347.5276,
+                68
+              ],
+              "target_ink_center": [
+                209.7638,
+                142.0
+              ],
+              "optical_sidebearing_shift_pt": 2.0860000000000127,
+              "source_text": "북쪽에계신메리메리",
+              "controlled_size_pt": 32,
+              "no_per_font_fit": true
+            }
+          ],
+          "passed": true
+        },
+        {
+          "page": 7,
+          "specimens": [
+            {
+              "kind": "text",
+              "text": "북쪽에계신메리메리",
+              "x": 38.06400000000002,
+              "y": 108,
+              "w": 347.5276,
+              "h": 68,
+              "size": 32,
+              "font": "gungseo",
+              "color": "ink",
+              "leading": 44.8,
+              "baseline_offset": 44.480000000000004,
+              "role": "specimen",
+              "align": "center",
+              "centering_cell": [
+                36.0,
+                108,
+                347.5276,
+                68
+              ],
+              "centered_cell": [
+                36.0,
+                108,
+                347.5276,
+                68
+              ],
+              "target_ink_center": [
+                209.7638,
+                142.0
+              ],
+              "optical_sidebearing_shift_pt": 2.0640000000000214,
+              "source_text": "북쪽에계신메리메리",
+              "controlled_size_pt": 32,
+              "no_per_font_fit": true
+            }
+          ],
+          "passed": true
+        },
+        {
+          "page": 8,
+          "specimens": [
+            {
+              "kind": "text",
+              "text": "북쪽에계신메리메리",
+              "x": 37.65611040145981,
+              "y": 108,
+              "w": 347.5276,
+              "h": 68,
+              "size": 32,
+              "font": "gugi",
+              "color": "ink",
+              "leading": 44.8,
+              "baseline_offset": 46.224000000000004,
+              "role": "specimen",
+              "align": "center",
+              "centering_cell": [
+                36.0,
+                108,
+                347.5276,
+                68
+              ],
+              "centered_cell": [
+                36.0,
+                108,
+                347.5276,
+                68
+              ],
+              "target_ink_center": [
+                209.7638,
+                142.0
+              ],
+              "optical_sidebearing_shift_pt": 1.656110401459813,
+              "source_text": "북쪽에계신메리메리",
+              "controlled_size_pt": 32,
+              "no_per_font_fit": true
+            }
+          ],
+          "passed": true
+        },
+        {
+          "page": 9,
+          "specimens": [
+            {
+              "kind": "text",
+              "text": "북쪽에계신메리메리",
+              "x": 37.0,
+              "y": 108,
+              "w": 347.5276,
+              "h": 68,
+              "size": 32,
+              "font": "pixel",
+              "color": "ink",
+              "leading": 44.8,
+              "baseline_offset": 45.0,
+              "role": "specimen",
+              "align": "center",
+              "centering_cell": [
+                36.0,
+                108,
+                347.5276,
+                68
+              ],
+              "centered_cell": [
+                36.0,
+                108,
+                347.5276,
+                68
+              ],
+              "target_ink_center": [
+                209.7638,
+                142.0
+              ],
+              "optical_sidebearing_shift_pt": 1.0,
+              "source_text": "북쪽에계신메리메리",
+              "controlled_size_pt": 32,
+              "no_per_font_fit": true
+            }
+          ],
+          "passed": true
+        },
+        {
+          "page": 10,
+          "specimens": [
+            {
+              "kind": "text",
+              "text": "북쪽에계신메리메리",
+              "x": 36.17070355751029,
+              "y": 108,
+              "w": 347.5276,
+              "h": 68,
+              "size": 32,
+              "font": "jua",
+              "color": "ink",
+              "leading": 44.8,
+              "baseline_offset": 45.519999999999996,
+              "role": "specimen",
+              "align": "center",
+              "centering_cell": [
+                36.0,
+                108,
+                347.5276,
+                68
+              ],
+              "centered_cell": [
+                36.0,
+                108,
+                347.5276,
+                68
+              ],
+              "target_ink_center": [
+                209.7638,
+                142.0
+              ],
+              "optical_sidebearing_shift_pt": 0.17070355751029354,
+              "source_text": "북쪽에계신메리메리",
+              "controlled_size_pt": 32,
+              "no_per_font_fit": true
+            }
+          ],
+          "passed": true
+        },
+        {
+          "page": 11,
+          "specimens": [
+            {
+              "kind": "text",
+              "text": "북쪽에계신메리메리",
+              "x": 37.0155,
+              "y": 108,
+              "w": 347.5276,
+              "h": 68,
+              "size": 32,
+              "font": "singleday",
+              "color": "ink",
+              "leading": 44.8,
+              "baseline_offset": 42.4215,
+              "role": "specimen",
+              "align": "center",
+              "centering_cell": [
+                36.0,
+                108,
+                347.5276,
+                68
+              ],
+              "centered_cell": [
+                36.0,
+                108,
+                347.5276,
+                68
+              ],
+              "target_ink_center": [
+                209.7638,
+                142.0
+              ],
+              "optical_sidebearing_shift_pt": 1.015500000000003,
+              "source_text": "북쪽에계신메리메리",
+              "controlled_size_pt": 32,
+              "no_per_font_fit": true
+            }
+          ],
+          "passed": true
+        },
+        {
+          "page": 12,
+          "specimens": [
+            {
+              "kind": "text",
+              "text": "북쪽에계신메리메리",
+              "x": 35.823875,
+              "y": 108,
+              "w": 347.5276,
+              "h": 68,
+              "size": 32,
+              "font": "kirang",
+              "color": "ink",
+              "leading": 44.8,
+              "baseline_offset": 45.575874999999996,
+              "role": "specimen",
+              "align": "center",
+              "centering_cell": [
+                36.0,
+                108,
+                347.5276,
+                68
+              ],
+              "centered_cell": [
+                36.0,
+                108,
+                347.5276,
+                68
+              ],
+              "target_ink_center": [
+                209.7638,
+                142.0
+              ],
+              "optical_sidebearing_shift_pt": -0.17612499999999898,
+              "source_text": "북쪽에계신메리메리",
+              "controlled_size_pt": 32,
+              "no_per_font_fit": true
+            }
+          ],
+          "passed": true
+        },
+        {
+          "page": 13,
+          "specimens": [
+            {
+              "kind": "text",
+              "text": "북쪽에계신메리메리",
+              "x": 36.480000000000004,
+              "y": 108,
+              "w": 347.5276,
+              "h": 68,
+              "size": 32,
+              "font": "bawpic",
+              "color": "ink",
+              "leading": 44.8,
+              "baseline_offset": 43.552,
+              "role": "specimen",
+              "align": "center",
+              "centering_cell": [
+                36.0,
+                108,
+                347.5276,
+                68
+              ],
+              "centered_cell": [
+                36.0,
+                108,
+                347.5276,
+                68
+              ],
+              "target_ink_center": [
+                209.7638,
+                142.0
+              ],
+              "optical_sidebearing_shift_pt": 0.480000000000004,
+              "source_text": "북쪽에계신메리메리",
+              "controlled_size_pt": 32,
+              "no_per_font_fit": true
+            }
+          ],
+          "passed": true
+        },
+        {
+          "page": 14,
+          "specimens": [
+            {
+              "kind": "text",
+              "text": "북쪽에계신메리메리",
+              "x": 36.51792962014939,
+              "y": 108,
+              "w": 347.5276,
+              "h": 68,
+              "size": 32,
+              "font": "brush",
+              "color": "ink",
+              "leading": 44.8,
+              "baseline_offset": 39.52148901949962,
+              "role": "specimen",
+              "align": "center",
+              "centering_cell": [
+                36.0,
+                108,
+                347.5276,
+                68
+              ],
+              "centered_cell": [
+                36.0,
+                108,
+                347.5276,
+                68
+              ],
+              "target_ink_center": [
+                209.7638,
+                142.0
+              ],
+              "optical_sidebearing_shift_pt": 0.5179296201493884,
+              "source_text": "북쪽에계신메리메리",
+              "controlled_size_pt": 32,
+              "no_per_font_fit": true
+            }
+          ],
+          "passed": true
+        },
+        {
+          "page": 15,
+          "specimens": [
+            {
+              "kind": "text",
+              "text": "북쪽에계신메리메리",
+              "x": 36.79999999999998,
+              "y": 108,
+              "w": 347.5276,
+              "h": 68,
+              "size": 32,
+              "font": "YES24",
+              "color": "ink",
+              "leading": 44.8,
+              "baseline_offset": 45.936,
+              "role": "specimen",
+              "align": "center",
+              "centering_cell": [
+                36.0,
+                108,
+                347.5276,
+                68
+              ],
+              "centered_cell": [
+                36.0,
+                108,
+                347.5276,
+                68
+              ],
+              "target_ink_center": [
+                209.7638,
+                142.0
+              ],
+              "optical_sidebearing_shift_pt": 0.799999999999983,
+              "source_text": "북쪽에계신메리메리",
+              "controlled_size_pt": 32,
+              "no_per_font_fit": true
+            }
+          ],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "check": "Every primary comparison uses the complete same phrase without arbitrary linebreaks",
+      "passed": true,
+      "evidence": {
+        "count": 68,
+        "wrong": []
+      }
+    },
+    {
+      "check": "No isolated-character illustration remains",
+      "passed": true,
+      "evidence": []
+    },
+    {
+      "check": "Old comparison phrase and single-character size claims removed",
+      "passed": true,
+      "evidence": []
+    },
+    {
+      "check": "12font coverage comparison at common32pt",
+      "passed": true,
+      "evidence": [
+        {
+          "page": 16,
+          "font": "blackhan",
+          "size": 32
+        },
+        {
+          "page": 16,
+          "font": "sans",
+          "size": 32
+        },
+        {
+          "page": 16,
+          "font": "serif",
+          "size": 32
+        },
+        {
+          "page": 16,
+          "font": "gungseo",
+          "size": 32
+        },
+        {
+          "page": 16,
+          "font": "gugi",
+          "size": 32
+        },
+        {
+          "page": 16,
+          "font": "pixel",
+          "size": 32
+        },
+        {
+          "page": 17,
+          "font": "jua",
+          "size": 32
+        },
+        {
+          "page": 17,
+          "font": "singleday",
+          "size": 32
+        },
+        {
+          "page": 17,
+          "font": "kirang",
+          "size": 32
+        },
+        {
+          "page": 17,
+          "font": "bawpic",
+          "size": 32
+        },
+        {
+          "page": 17,
+          "font": "brush",
+          "size": 32
+        },
+        {
+          "page": 17,
+          "font": "YES24",
+          "size": 32
+        }
+      ]
+    },
+    {
+      "check": "12font sentence rhythm comparison at common32pt",
+      "passed": true,
+      "evidence": [
+        {
+          "page": 18,
+          "font": "blackhan",
+          "size": 32
+        },
+        {
+          "page": 18,
+          "font": "sans",
+          "size": 32
+        },
+        {
+          "page": 18,
+          "font": "serif",
+          "size": 32
+        },
+        {
+          "page": 18,
+          "font": "gungseo",
+          "size": 32
+        },
+        {
+          "page": 18,
+          "font": "gugi",
+          "size": 32
+        },
+        {
+          "page": 18,
+          "font": "pixel",
+          "size": 32
+        },
+        {
+          "page": 19,
+          "font": "jua",
+          "size": 32
+        },
+        {
+          "page": 19,
+          "font": "singleday",
+          "size": 32
+        },
+        {
+          "page": 19,
+          "font": "kirang",
+          "size": 32
+        },
+        {
+          "page": 19,
+          "font": "bawpic",
+          "size": 32
+        },
+        {
+          "page": 19,
+          "font": "brush",
+          "size": 32
+        },
+        {
+          "page": 19,
+          "font": "YES24",
+          "size": 32
+        }
+      ]
+    },
+    {
+      "check": "Meme applications occur only on pages22–27",
+      "passed": true,
+      "evidence": [
+        22,
+        23,
+        24,
+        25,
+        26,
+        27
+      ]
+    },
+    {
+      "check": "All15 approved prompts and response pairs exact at matching natural pointsize/color",
+      "passed": true,
+      "evidence": [
+        {
+          "case": "E01",
+          "passed": true,
+          "pages": [
+            22
+          ]
+        },
+        {
+          "case": "E02",
+          "passed": true,
+          "pages": [
+            24
+          ]
+        },
+        {
+          "case": "E03",
+          "passed": true,
+          "pages": [
+            25
+          ]
+        },
+        {
+          "case": "E04",
+          "passed": true,
+          "pages": [
+            25
+          ]
+        },
+        {
+          "case": "E05",
+          "passed": true,
+          "pages": [
+            23
+          ]
+        },
+        {
+          "case": "E06",
+          "passed": true,
+          "pages": [
+            24
+          ]
+        },
+        {
+          "case": "E07",
+          "passed": true,
+          "pages": [
+            25
+          ]
+        },
+        {
+          "case": "E08",
+          "passed": true,
+          "pages": [
+            23
+          ]
+        },
+        {
+          "case": "E09",
+          "passed": true,
+          "pages": [
+            26
+          ]
+        },
+        {
+          "case": "E10",
+          "passed": true,
+          "pages": [
+            24
+          ]
+        },
+        {
+          "case": "E11",
+          "passed": true,
+          "pages": [
+            23
+          ]
+        },
+        {
+          "case": "E12",
+          "passed": true,
+          "pages": [
+            22
+          ]
+        },
+        {
+          "case": "E13",
+          "passed": true,
+          "pages": [
+            26
+          ]
+        },
+        {
+          "case": "E14",
+          "passed": true,
+          "pages": [
+            27
+          ]
+        },
+        {
+          "case": "E15",
+          "passed": true,
+          "pages": [
+            27
+          ]
+        }
+      ]
+    },
+    {
+      "check": "Approved meme application quotations deferred until22",
+      "passed": true,
+      "evidence": []
+    },
+    {
+      "check": "All frozen previous editions including B4 unchanged",
+      "passed": true,
+      "evidence": [
+        {
+          "path": "/workspace/gpt/submission-alignment/SHA256SUMS.txt",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-alignment/Alignment_Intro_02_Detail.png",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-alignment/All_28_Pages.png",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-alignment/Meme_Font_Book_Alignment_A3_Duplex_28p.pdf",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-alignment/Alignment_Backcover_Preview.png",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-alignment/README_KO.md",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-alignment/Alignment_Font_Analysis_03_04.png",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-alignment/Alignment_Font_Methods_03.png",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-alignment/Alignment_Footer_Before_After.png",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-alignment/Approved_Examples_15.md",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-alignment/Meme_Font_Book_Alignment_28p_Review.pdf",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-alignment/Alignment_Font_Methods_04.png",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-alignment/Alignment_All_9_Footers.png",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-alignment/A3_All_14_Faces.jpg",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-alignment/Alignment_Backcover_Before_After.png",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-alignment/Meme_Font_Book_Alignment_28p.idml",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-alignment/qa/vector_precision_validation.json",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-alignment/qa/visual_validation.json",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-alignment/qa/print_validation.json",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-alignment/qa/all28_previous_comparison.json",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-alignment/qa/embedded_image_validation.json",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-alignment/qa/change_manifest.json",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-alignment/qa/table_existing_sample_validation.json",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-alignment/qa/fixed_baseline_validation.json",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-alignment/qa/first_sheet_visual_review.json",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-alignment/qa/back_cover_validation.json",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-alignment/qa/render_report.json",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-alignment/qa/geometry_validation.json",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-alignment/qa/intro_structure_validation.json",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-alignment/qa/print_pairs.json",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-alignment/qa/idml_alignment_validation.json",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-alignment/qa/audit_summary.json",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-alignment/qa/render_hashes.json",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-alignment/qa/imposition_manifest.json",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b/SHA256SUMS.txt",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b/Meme_Font_Book_Version_B_28p_Review.pdf",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b/Version_B_Reading_Guide.png",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b/Version_B_Applications_22_27.jpg",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b/Version_B_All_12_Live_Specimens.png",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b/Version_B_Contents.png",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b/Version_B_Atlas_12_Fonts.jpg",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b/Version_B_Experiment_Cross.png",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b/Version_B_Atlas_BlackHan_NotoSans.png",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b/README_KO.md",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b/Version_B_Dark_Opener.png",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b/Version_B_Experiments_16_20.jpg",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b/Version_B_Backcover.png",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b/Version_B_All_28_Pages.png",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b/Version_B_Plan_KO.md",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b/Version_B_Spacing_18_19.png",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b/Version_B_Cover.png",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b/Meme_Font_Book_Version_B_28p.idml",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b/Version_B_A3_All_14_Faces.jpg",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b/Version_B_Applications_22_23.png",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b/Meme_Font_Book_Version_B_A3_Duplex_28p.pdf",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b/archive/Meme_Archive_Current_A.json",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b/archive/Approved_Examples_15.md",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b/archive/Approved_Application_Cases_15.json",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b/qa/experiments_validation.json",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b/qa/book_manifest.json",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b/qa/vector_precision_validation.json",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b/qa/native_validation.json",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b/qa/experiments_manifest.json",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b/qa/visual_validation.json",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b/qa/content_validation.json",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b/qa/print_validation.json",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b/qa/version_A_preserved.json",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b/qa/idml_build_report.json",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b/qa/atlas_manifest.json",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b/qa/embedded_image_validation.json",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b/qa/text_layout_validation.json",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b/qa/first_sheet_visual_review.json",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b/qa/render_report.json",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b/qa/geometry_validation.json",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b/qa/print_pairs.json",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b/qa/audit_summary.json",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b/qa/render_hashes.json",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b/qa/imposition_manifest.json",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b2/SHA256SUMS.txt",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b2/Version_B2_Same_Sim_All_12.png",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b2/Meme_Font_Book_Version_B2_A3_Duplex_28p.pdf",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b2/Version_B2_Backcover.png",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b2/README_KO.md",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b2/Version_B2_A3_All_14_Faces.jpg",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b2/Version_B2_Atlas_12_Fonts.jpg",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b2/Version_B2_Atlas_BlackHan_NotoSans.png",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b2/Meme_Font_Book_Version_B2_28p_Review.pdf",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b2/Version_B2_Experiments_16_20.jpg",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b2/Version_B2_Contents.png",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b2/Version_B2_Observation_to_Impression.png",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b2/Version_B2_Cover.png",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b2/Version_B2_Dark_Opener.png",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b2/Meme_Font_Book_Version_B2_28p.idml",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b2/Version_B2_Plan_KO.md",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b2/Version_B2_Reading_Guide.png",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b2/Version_B2_All_12_Live_Specimens.png",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b2/Version_B2_Applications_22_23.png",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b2/Version_B2_Same_Word_All_12.png",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b2/Version_B2_All_28_Pages.png",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b2/Version_B2_Atlas_BlackHan_Brush_Comparison.png",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b2/Version_B2_Applications_22_27.jpg",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b2/archive/Meme_Archive_Current_A.json",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b2/archive/Approved_Application_Cases_15.json",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b2/qa/experiments_validation.json",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b2/qa/book_manifest.json",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b2/qa/vector_precision_validation.json",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b2/qa/native_validation.json",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b2/qa/experiments_manifest.json",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b2/qa/visual_validation.json",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b2/qa/content_validation.json",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b2/qa/print_validation.json",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b2/qa/idml_build_report.json",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b2/qa/atlas_manifest.json",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b2/qa/embedded_image_validation.json",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b2/qa/text_layout_validation.json",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b2/qa/geometry_validation.json",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b2/qa/previous_editions_preserved.json",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b2/qa/audit_summary.json",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b2/qa/render_hashes.json",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/Meme_Font_Book_Alignment_28p.zip",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/Meme_Font_Book_Version_B_28p.zip",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/Meme_Font_Book_Version_B2_28p.zip",
+          "passed": true
+        },
+        {
+          "path": "/workspace/final28/CURRENT_EDITION.json",
+          "passed": true
+        },
+        {
+          "path": "/workspace/version_b_20261103/CURRENT_B.json",
+          "passed": true
+        },
+        {
+          "path": "/workspace/version_b2_20261103/CURRENT_B2.json",
+          "passed": true
+        },
+        {
+          "path": "/workspace/version_b2_20261103/design/scene.json",
+          "passed": true
+        },
+        {
+          "path": "/workspace/version_b2_20261103/design/Meme_Font_Book_Version_B2_28p.idml",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b3/SHA256SUMS.txt",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b3/Version_B3_Applications_22_23.png",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b3/Meme_Font_Book_Version_B3_28p.idml",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b3/Version_B3_Atlas_BlackHan_Brush_Comparison.png",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b3/README_KO.md",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b3/Version_B3_Same_Sim_All_12.png",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b3/Version_B3_Backcover.png",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b3/Version_B3_Contents_Intro.png",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b3/Version_B3_Observation_to_Impression.png",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b3/Version_B3_Dark_Opener.png",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b3/Version_B3_Atlas_12_13.png",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b3/Version_B3_Reading_Guide.png",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b3/Meme_Font_Book_Version_B3_28p_Review.pdf",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b3/Version_B3_Atlas_04_05.png",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b3/Version_B3_Applications_26_27.png",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b3/Version_B3_Atlas_14_15.png",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b3/Version_B3_Cover_Backcover.png",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b3/Version_B3_Experiments_16_20.jpg",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b3/Meme_Font_Book_Version_B3_A3_Duplex_28p.pdf",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b3/Version_B3_Plan_KO.md",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b3/Version_B3_Atlas_08_09.png",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b3/Version_B3_Atlas_10_11.png",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b3/Version_B3_Atlas_06_07.png",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b3/Version_B3_Cover.png",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b3/Version_B3_Contents.png",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b3/Version_B3_Atlas_BlackHan_NotoSans.png",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b3/Version_B3_Same_Word_All_12.png",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b3/Version_B3_A3_All_14_Faces.jpg",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b3/Version_B3_Applications_22_27.jpg",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b3/Version_B3_Applications_24_25.png",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b3/Version_B3_Atlas_12_Fonts.jpg",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b3/Version_B3_All_28_Pages.png",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b3/Version_B3_All_12_Live_Specimens.png",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b3/archive/Meme_Archive_Current_A.json",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b3/archive/Approved_Application_Cases_15.json",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b3/qa/experiments_validation.json",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b3/qa/book_manifest.json",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b3/qa/atlas_rhythm_validation.json",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b3/qa/vector_precision_validation.json",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b3/qa/application_validation.json",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b3/qa/native_validation.json",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b3/qa/application_manifest.json",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b3/qa/experiments_manifest.json",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b3/qa/visual_validation.json",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b3/qa/content_validation.json",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b3/qa/print_validation.json",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b3/qa/idml_build_report.json",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b3/qa/atlas_manifest.json",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b3/qa/cover_layout_validation.json",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b3/qa/embedded_image_validation.json",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b3/qa/text_layout_validation.json",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b3/qa/descriptor_fix_visual_identity.json",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b3/qa/comparison_controls_preserved.json",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b3/qa/geometry_validation.json",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b3/qa/previous_editions_preserved.json",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b3/qa/audit_summary.json",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b3/qa/render_hashes.json",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/Meme_Font_Book_Version_B3_28p.zip",
+          "passed": true
+        },
+        {
+          "path": "/workspace/version_b3_20261103/CURRENT_B3.json",
+          "passed": true
+        },
+        {
+          "path": "/workspace/version_b3_20261103/design/scene.json",
+          "passed": true
+        },
+        {
+          "path": "/workspace/version_b3_20261103/design/Meme_Font_Book_Version_B3_28p.idml",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b4/SHA256SUMS.txt",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b4/Version_B4_Atlas_12_13.png",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b4/Version_B4_Backcover.png",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b4/Version_B4_A3_All_14_Faces.jpg",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b4/Version_B4_Same_Sim_All_12.png",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b4/Version_B4_Cover.png",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b4/Version_B4_Centered_Cover_Labels.png",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b4/Meme_Font_Book_Version_B4_A3_Duplex_28p.pdf",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b4/Version_B4_Dark_Opener.png",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b4/README_KO.md",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b4/Version_B4_Observation_to_Impression.png",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b4/Version_B4_Applications_26_27.png",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b4/Version_B4_Centered_128pt_Details.png",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b4/Version_B4_Atlas_06_07.png",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b4/Version_B4_Atlas_12_Fonts.jpg",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b4/Version_B4_Applications_24_25.png",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b4/Version_B4_Atlas_BlackHan_NotoSans.png",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b4/Version_B4_Atlas_10_11.png",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b4/Version_B4_Experiments_16_20.jpg",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b4/Version_B4_Applications_22_27.jpg",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b4/Version_B4_Same_Word_All_12.png",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b4/Version_B4_Atlas_14_15.png",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b4/Version_B4_Atlas_BlackHan_Brush_Comparison.png",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b4/Meme_Font_Book_Version_B4_28p.idml",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b4/Version_B4_Plan_KO.md",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b4/Meme_Font_Book_Version_B4_28p_Review.pdf",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b4/Version_B4_Contents.png",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b4/Version_B4_Atlas_08_09.png",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b4/Version_B4_Cover_Backcover.png",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b4/Version_B4_Applications_22_23.png",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b4/Version_B4_Contents_Intro.png",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b4/Version_B4_Why_These_Voices.png",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b4/Version_B4_All_12_Live_Specimens.png",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b4/Version_B4_All_28_Pages.png",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b4/Version_B4_Reading_Guide.png",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b4/Version_B4_Atlas_04_05.png",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b4/archive/Meme_Archive_Current_A.json",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b4/archive/Approved_Application_Cases_15.json",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b4/qa/experiments_validation.json",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b4/qa/book_manifest.json",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b4/qa/visual_metrics.json",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b4/qa/vector_precision_validation.json",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b4/qa/application_validation.json",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b4/qa/native_validation.json",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b4/qa/application_manifest.json",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b4/qa/experiments_manifest.json",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b4/qa/atlas_centering_validation.json",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b4/qa/visual_validation.json",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b4/qa/unchanged_pages_validation.json",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b4/qa/content_validation.json",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b4/qa/print_validation.json",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b4/qa/cover_centering_validation.json",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b4/qa/idml_build_report.json",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b4/qa/atlas_manifest.json",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b4/qa/cover_layout_validation.json",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b4/qa/embedded_image_validation.json",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b4/qa/centering_render_validation.json",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b4/qa/text_layout_validation.json",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b4/qa/causal_evidence_review.json",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b4/qa/manual_visual_review.json",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b4/qa/centering_source_validation.json",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b4/qa/geometry_validation.json",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b4/qa/previous_editions_preserved.json",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b4/qa/audit_summary.json",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b4/qa/render_hashes.json",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/Meme_Font_Book_Version_B4_28p.zip",
+          "passed": true
+        },
+        {
+          "path": "/workspace/version_b4_20261103/CURRENT_B4.json",
+          "passed": true
+        },
+        {
+          "path": "/workspace/version_b4_20261103/design/scene.json",
+          "passed": true
+        },
+        {
+          "path": "/workspace/version_b4_20261103/design/Meme_Font_Book_Version_B4_28p.idml",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "check": "15 currentA source meme blocks archived verbatim",
+      "passed": true,
+      "evidence": [
+        {
+          "source_id": "B01",
+          "passed": true
+        },
+        {
+          "source_id": "A04",
+          "passed": true
+        },
+        {
+          "source_id": "B02",
+          "passed": true
+        },
+        {
+          "source_id": "A02",
+          "passed": true
+        },
+        {
+          "source_id": "A03",
+          "passed": true
+        },
+        {
+          "source_id": "A10",
+          "passed": true
+        },
+        {
+          "source_id": "B06",
+          "passed": true
+        },
+        {
+          "source_id": "B05",
+          "passed": true
+        },
+        {
+          "source_id": "B03",
+          "passed": true
+        },
+        {
+          "source_id": "A05",
+          "passed": true
+        },
+        {
+          "source_id": "B07",
+          "passed": true
+        },
+        {
+          "source_id": "A06",
+          "passed": true
+        },
+        {
+          "source_id": "A07",
+          "passed": true
+        },
+        {
+          "source_id": "A08",
+          "passed": true
+        },
+        {
+          "source_id": "A09",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "check": "Archived source and approvedcase files byte exact",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "12 authorized actual font families without fakeweight/distortion/tracking or unjustifiedcenter",
+      "passed": true,
+      "evidence": []
+    },
+    {
+      "check": "Every displayed character has actual glyph coverage",
+      "passed": true,
+      "evidence": []
+    },
+    {
+      "check": "Removed face/emoticon memes absent",
+      "passed": true,
+      "evidence": []
+    },
+    {
+      "check": "Font terminology consistent",
+      "passed": true,
+      "evidence": []
+    },
+    {
+      "check": "Intro01 throughbody25, covers and contents unnumbered",
+      "passed": true,
+      "evidence": [
+        {
+          "page": 1,
+          "values": [],
+          "passed": true
+        },
+        {
+          "page": 2,
+          "values": [],
+          "passed": true
+        },
+        {
+          "page": 3,
+          "values": [
+            "01"
+          ],
+          "passed": true
+        },
+        {
+          "page": 4,
+          "values": [
+            "02"
+          ],
+          "passed": true
+        },
+        {
+          "page": 5,
+          "values": [
+            "03"
+          ],
+          "passed": true
+        },
+        {
+          "page": 6,
+          "values": [
+            "04"
+          ],
+          "passed": true
+        },
+        {
+          "page": 7,
+          "values": [
+            "05"
+          ],
+          "passed": true
+        },
+        {
+          "page": 8,
+          "values": [
+            "06"
+          ],
+          "passed": true
+        },
+        {
+          "page": 9,
+          "values": [
+            "07"
+          ],
+          "passed": true
+        },
+        {
+          "page": 10,
+          "values": [
+            "08"
+          ],
+          "passed": true
+        },
+        {
+          "page": 11,
+          "values": [
+            "09"
+          ],
+          "passed": true
+        },
+        {
+          "page": 12,
+          "values": [
+            "10"
+          ],
+          "passed": true
+        },
+        {
+          "page": 13,
+          "values": [
+            "11"
+          ],
+          "passed": true
+        },
+        {
+          "page": 14,
+          "values": [
+            "12"
+          ],
+          "passed": true
+        },
+        {
+          "page": 15,
+          "values": [
+            "13"
+          ],
+          "passed": true
+        },
+        {
+          "page": 16,
+          "values": [
+            "14"
+          ],
+          "passed": true
+        },
+        {
+          "page": 17,
+          "values": [
+            "15"
+          ],
+          "passed": true
+        },
+        {
+          "page": 18,
+          "values": [
+            "16"
+          ],
+          "passed": true
+        },
+        {
+          "page": 19,
+          "values": [
+            "17"
+          ],
+          "passed": true
+        },
+        {
+          "page": 20,
+          "values": [
+            "18"
+          ],
+          "passed": true
+        },
+        {
+          "page": 21,
+          "values": [
+            "19"
+          ],
+          "passed": true
+        },
+        {
+          "page": 22,
+          "values": [
+            "20"
+          ],
+          "passed": true
+        },
+        {
+          "page": 23,
+          "values": [
+            "21"
+          ],
+          "passed": true
+        },
+        {
+          "page": 24,
+          "values": [
+            "22"
+          ],
+          "passed": true
+        },
+        {
+          "page": 25,
+          "values": [
+            "23"
+          ],
+          "passed": true
+        },
+        {
+          "page": 26,
+          "values": [
+            "24"
+          ],
+          "passed": true
+        },
+        {
+          "page": 27,
+          "values": [
+            "25"
+          ],
+          "passed": true
+        },
+        {
+          "page": 28,
+          "values": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "check": "Contents numeric references correct",
+      "passed": true,
+      "evidence": {
+        "actual": [
+          "01",
+          "02",
+          "03",
+          "04",
+          "05",
+          "06",
+          "07",
+          "08",
+          "09",
+          "10",
+          "11",
+          "12",
+          "13",
+          "14-15",
+          "16-17",
+          "18",
+          "19-25"
+        ],
+        "expected": [
+          "01",
+          "02",
+          "03",
+          "04",
+          "05",
+          "06",
+          "07",
+          "08",
+          "09",
+          "10",
+          "11",
+          "12",
+          "13",
+          "14-15",
+          "16-17",
+          "18",
+          "19-25"
+        ]
+      }
+    },
+    {
+      "check": "All live frames respect page and horizontal margins",
+      "passed": true,
+      "evidence": []
+    },
+    {
+      "check": "Actual Bézier ink of every live line fits its own frame",
+      "passed": true,
+      "evidence": []
+    },
+    {
+      "check": "No overlapping live text frames",
+      "passed": true,
+      "evidence": []
+    },
+    {
+      "check": "Every declared center uses actual ink center in both axes",
+      "passed": true,
+      "evidence": [
+        {
+          "page": 1,
+          "id": 2,
+          "role": "cover_subtitle",
+          "errors_pt": [
+            0.00030000000000995897,
+            0.0
+          ],
+          "passed": true
+        },
+        {
+          "page": 1,
+          "id": 3,
+          "role": "cover_tagline",
+          "errors_pt": [
+            0.0001999999999782176,
+            0.0005000000000023874
+          ],
+          "passed": true
+        },
+        {
+          "page": 1,
+          "id": 5,
+          "role": "poster_red_emphasis",
+          "errors_pt": [
+            1.4210854715202004e-14,
+            0.0
+          ],
+          "passed": true
+        },
+        {
+          "page": 1,
+          "id": 6,
+          "role": "cover_title",
+          "errors_pt": [
+            0.0002000000000066393,
+            0.0
+          ],
+          "passed": true
+        },
+        {
+          "page": 1,
+          "id": 7,
+          "role": "cover_title",
+          "errors_pt": [
+            0.0002000000000066393,
+            0.0
+          ],
+          "passed": true
+        },
+        {
+          "page": 1,
+          "id": 9,
+          "role": "cover_services",
+          "errors_pt": [
+            0.0002000000000066393,
+            0.0
+          ],
+          "passed": true
+        },
+        {
+          "page": 1,
+          "id": 10,
+          "role": "cover_font_range",
+          "errors_pt": [
+            0.0002000000000066393,
+            0.0
+          ],
+          "passed": true
+        },
+        {
+          "page": 1,
+          "id": 11,
+          "role": "cover_comparison_phrase",
+          "errors_pt": [
+            0.0002000000000066393,
+            0.0
+          ],
+          "passed": true
+        },
+        {
+          "page": 1,
+          "id": 13,
+          "role": "cover_statistics",
+          "errors_pt": [
+            0.00029999999998153726,
+            0.0
+          ],
+          "passed": true
+        },
+        {
+          "page": 1,
+          "id": 14,
+          "role": "cover_hook",
+          "errors_pt": [
+            0.0,
+            0.0
+          ],
+          "passed": true
+        },
+        {
+          "page": 1,
+          "id": 15,
+          "role": "cover_hook",
+          "errors_pt": [
+            0.0,
+            0.0
+          ],
+          "passed": true
+        },
+        {
+          "page": 1,
+          "id": 16,
+          "role": "poster_burst",
+          "errors_pt": [
+            0.0,
+            0.0
+          ],
+          "passed": true
+        },
+        {
+          "page": 1,
+          "id": 17,
+          "role": "cover_burst_copy",
+          "errors_pt": [
+            0.0002000000000066393,
+            0.0
+          ],
+          "passed": true
+        },
+        {
+          "page": 1,
+          "id": 18,
+          "role": "cover_burst_copy",
+          "errors_pt": [
+            0.00010769230772211813,
+            0.0
+          ],
+          "passed": true
+        },
+        {
+          "page": 1,
+          "id": 20,
+          "role": "cover_tearoff_instruction",
+          "errors_pt": [
+            0.00030000000000995897,
+            0.0
+          ],
+          "passed": true
+        },
+        {
+          "page": 1,
+          "id": 45,
+          "role": "tearoff_font_label",
+          "errors_pt": [
+            5.000000000165983e-05,
+            0.0
+          ],
+          "passed": true
+        },
+        {
+          "page": 1,
+          "id": 46,
+          "role": "tearoff_font_label",
+          "errors_pt": [
+            0.00035000000002582965,
+            0.0
+          ],
+          "passed": true
+        },
+        {
+          "page": 1,
+          "id": 47,
+          "role": "tearoff_font_label",
+          "errors_pt": [
+            0.00023162037268775748,
+            0.0
+          ],
+          "passed": true
+        },
+        {
+          "page": 1,
+          "id": 48,
+          "role": "tearoff_font_label",
+          "errors_pt": [
+            0.00015000000001919034,
+            0.0005000000001018634
+          ],
+          "passed": true
+        },
+        {
+          "page": 3,
+          "id": 6,
+          "role": "intro_control_word",
+          "errors_pt": [
+            0.0002000000000066393,
+            0.0
+          ],
+          "passed": true
+        },
+        {
+          "page": 3,
+          "id": 11,
+          "role": "intro_control_word",
+          "errors_pt": [
+            0.0002000000000066393,
+            0.0
+          ],
+          "passed": true
+        },
+        {
+          "page": 4,
+          "id": 8,
+          "role": "specimen",
+          "errors_pt": [
+            0.0002000000000066393,
+            0.0
+          ],
+          "passed": true
+        },
+        {
+          "page": 4,
+          "id": 34,
+          "role": "detail_reference",
+          "errors_pt": [
+            0.0,
+            0.0
+          ],
+          "passed": true
+        },
+        {
+          "page": 4,
+          "id": 53,
+          "role": "detail_selected",
+          "errors_pt": [
+            0.0,
+            0.0
+          ],
+          "passed": true
+        },
+        {
+          "page": 5,
+          "id": 8,
+          "role": "specimen",
+          "errors_pt": [
+            0.0002000000000066393,
+            0.0
+          ],
+          "passed": true
+        },
+        {
+          "page": 5,
+          "id": 34,
+          "role": "detail_reference",
+          "errors_pt": [
+            0.0,
+            0.0
+          ],
+          "passed": true
+        },
+        {
+          "page": 5,
+          "id": 53,
+          "role": "detail_selected",
+          "errors_pt": [
+            0.0,
+            0.0
+          ],
+          "passed": true
+        },
+        {
+          "page": 6,
+          "id": 8,
+          "role": "specimen",
+          "errors_pt": [
+            0.0002000000000066393,
+            0.0
+          ],
+          "passed": true
+        },
+        {
+          "page": 6,
+          "id": 34,
+          "role": "detail_reference",
+          "errors_pt": [
+            0.0,
+            0.0
+          ],
+          "passed": true
+        },
+        {
+          "page": 6,
+          "id": 53,
+          "role": "detail_selected",
+          "errors_pt": [
+            0.0,
+            0.0
+          ],
+          "passed": true
+        },
+        {
+          "page": 7,
+          "id": 8,
+          "role": "specimen",
+          "errors_pt": [
+            0.0002000000000066393,
+            0.0
+          ],
+          "passed": true
+        },
+        {
+          "page": 7,
+          "id": 34,
+          "role": "detail_reference",
+          "errors_pt": [
+            0.0,
+            0.0
+          ],
+          "passed": true
+        },
+        {
+          "page": 7,
+          "id": 53,
+          "role": "detail_selected",
+          "errors_pt": [
+            0.0,
+            0.0
+          ],
+          "passed": true
+        },
+        {
+          "page": 8,
+          "id": 8,
+          "role": "specimen",
+          "errors_pt": [
+            8.959854011436619e-05,
+            0.0
+          ],
+          "passed": true
+        },
+        {
+          "page": 8,
+          "id": 34,
+          "role": "detail_reference",
+          "errors_pt": [
+            0.0,
+            0.0
+          ],
+          "passed": true
+        },
+        {
+          "page": 8,
+          "id": 53,
+          "role": "detail_selected",
+          "errors_pt": [
+            0.0,
+            0.0
+          ],
+          "passed": true
+        },
+        {
+          "page": 9,
+          "id": 8,
+          "role": "specimen",
+          "errors_pt": [
+            0.0002000000000066393,
+            0.0
+          ],
+          "passed": true
+        },
+        {
+          "page": 9,
+          "id": 34,
+          "role": "detail_reference",
+          "errors_pt": [
+            0.0,
+            0.0
+          ],
+          "passed": true
+        },
+        {
+          "page": 9,
+          "id": 53,
+          "role": "detail_selected",
+          "errors_pt": [
+            0.0,
+            0.0
+          ],
+          "passed": true
+        },
+        {
+          "page": 10,
+          "id": 8,
+          "role": "specimen",
+          "errors_pt": [
+            0.0003857699588820651,
+            0.0
+          ],
+          "passed": true
+        },
+        {
+          "page": 10,
+          "id": 34,
+          "role": "detail_reference",
+          "errors_pt": [
+            0.0,
+            0.0
+          ],
+          "passed": true
+        },
+        {
+          "page": 10,
+          "id": 53,
+          "role": "detail_selected",
+          "errors_pt": [
+            2.842170943040401e-14,
+            0.0
+          ],
+          "passed": true
+        },
+        {
+          "page": 11,
+          "id": 8,
+          "role": "specimen",
+          "errors_pt": [
+            0.0001999999999782176,
+            0.0005000000000165983
+          ],
+          "passed": true
+        },
+        {
+          "page": 11,
+          "id": 34,
+          "role": "detail_reference",
+          "errors_pt": [
+            0.0,
+            0.0
+          ],
+          "passed": true
+        },
+        {
+          "page": 11,
+          "id": 53,
+          "role": "detail_selected",
+          "errors_pt": [
+            0.0,
+            0.0
+          ],
+          "passed": true
+        },
+        {
+          "page": 12,
+          "id": 8,
+          "role": "specimen",
+          "errors_pt": [
+            0.0002000000000066393,
+            0.00012499999999704414
+          ],
+          "passed": true
+        },
+        {
+          "page": 12,
+          "id": 34,
+          "role": "detail_reference",
+          "errors_pt": [
+            0.0,
+            0.0
+          ],
+          "passed": true
+        },
+        {
+          "page": 12,
+          "id": 53,
+          "role": "detail_selected",
+          "errors_pt": [
+            0.0,
+            0.0
+          ],
+          "passed": true
+        },
+        {
+          "page": 13,
+          "id": 8,
+          "role": "specimen",
+          "errors_pt": [
+            0.0002000000000066393,
+            0.0
+          ],
+          "passed": true
+        },
+        {
+          "page": 13,
+          "id": 34,
+          "role": "detail_reference",
+          "errors_pt": [
+            0.0,
+            0.0
+          ],
+          "passed": true
+        },
+        {
+          "page": 13,
+          "id": 53,
+          "role": "detail_selected",
+          "errors_pt": [
+            0.0,
+            0.0
+          ],
+          "passed": true
+        },
+        {
+          "page": 14,
+          "id": 8,
+          "role": "specimen",
+          "errors_pt": [
+            5.966085154796019e-05,
+            0.0004769747461637053
+          ],
+          "passed": true
+        },
+        {
+          "page": 14,
+          "id": 34,
+          "role": "detail_reference",
+          "errors_pt": [
+            0.0,
+            0.0
+          ],
+          "passed": true
+        },
+        {
+          "page": 14,
+          "id": 53,
+          "role": "detail_selected",
+          "errors_pt": [
+            0.0,
+            0.0
+          ],
+          "passed": true
+        },
+        {
+          "page": 15,
+          "id": 8,
+          "role": "specimen",
+          "errors_pt": [
+            0.0002000000000066393,
+            0.0
+          ],
+          "passed": true
+        },
+        {
+          "page": 15,
+          "id": 34,
+          "role": "detail_reference",
+          "errors_pt": [
+            0.0,
+            0.0
+          ],
+          "passed": true
+        },
+        {
+          "page": 15,
+          "id": 53,
+          "role": "detail_selected",
+          "errors_pt": [
+            0.0,
+            0.0
+          ],
+          "passed": true
+        },
+        {
+          "page": 16,
+          "id": 11,
+          "role": "overview_wholeword",
+          "errors_pt": [
+            0.0002000000000066393,
+            0.0
+          ],
+          "passed": true
+        },
+        {
+          "page": 16,
+          "id": 43,
+          "role": "overview_wholeword",
+          "errors_pt": [
+            0.0002000000000066393,
+            0.0
+          ],
+          "passed": true
+        },
+        {
+          "page": 16,
+          "id": 75,
+          "role": "overview_wholeword",
+          "errors_pt": [
+            0.0002000000000066393,
+            0.0
+          ],
+          "passed": true
+        },
+        {
+          "page": 16,
+          "id": 107,
+          "role": "overview_wholeword",
+          "errors_pt": [
+            0.0002000000000066393,
+            0.0
+          ],
+          "passed": true
+        },
+        {
+          "page": 16,
+          "id": 139,
+          "role": "overview_wholeword",
+          "errors_pt": [
+            8.959854011436619e-05,
+            0.0
+          ],
+          "passed": true
+        },
+        {
+          "page": 16,
+          "id": 171,
+          "role": "overview_wholeword",
+          "errors_pt": [
+            0.0002000000000066393,
+            0.0
+          ],
+          "passed": true
+        },
+        {
+          "page": 17,
+          "id": 11,
+          "role": "overview_wholeword",
+          "errors_pt": [
+            0.0003857699588820651,
+            0.0
+          ],
+          "passed": true
+        },
+        {
+          "page": 17,
+          "id": 43,
+          "role": "overview_wholeword",
+          "errors_pt": [
+            0.0001999999999782176,
+            0.0004999999999881766
+          ],
+          "passed": true
+        },
+        {
+          "page": 17,
+          "id": 75,
+          "role": "overview_wholeword",
+          "errors_pt": [
+            0.0002000000000066393,
+            0.00012499999996862243
+          ],
+          "passed": true
+        },
+        {
+          "page": 17,
+          "id": 107,
+          "role": "overview_wholeword",
+          "errors_pt": [
+            0.0002000000000066393,
+            0.0
+          ],
+          "passed": true
+        },
+        {
+          "page": 17,
+          "id": 139,
+          "role": "overview_wholeword",
+          "errors_pt": [
+            5.966085154796019e-05,
+            0.0004769747461637053
+          ],
+          "passed": true
+        },
+        {
+          "page": 17,
+          "id": 171,
+          "role": "overview_wholeword",
+          "errors_pt": [
+            0.0002000000000066393,
+            0.0
+          ],
+          "passed": true
+        },
+        {
+          "page": 18,
+          "id": 10,
+          "role": "overview_sentence_rhythm",
+          "errors_pt": [
+            0.0002000000000066393,
+            0.0
+          ],
+          "passed": true
+        },
+        {
+          "page": 18,
+          "id": 26,
+          "role": "overview_sentence_rhythm",
+          "errors_pt": [
+            0.0002000000000066393,
+            0.0
+          ],
+          "passed": true
+        },
+        {
+          "page": 18,
+          "id": 42,
+          "role": "overview_sentence_rhythm",
+          "errors_pt": [
+            0.0002000000000066393,
+            0.0
+          ],
+          "passed": true
+        },
+        {
+          "page": 18,
+          "id": 58,
+          "role": "overview_sentence_rhythm",
+          "errors_pt": [
+            0.0002000000000066393,
+            0.0
+          ],
+          "passed": true
+        },
+        {
+          "page": 18,
+          "id": 74,
+          "role": "overview_sentence_rhythm",
+          "errors_pt": [
+            8.959854011436619e-05,
+            0.0
+          ],
+          "passed": true
+        },
+        {
+          "page": 18,
+          "id": 90,
+          "role": "overview_sentence_rhythm",
+          "errors_pt": [
+            0.0002000000000066393,
+            0.0
+          ],
+          "passed": true
+        },
+        {
+          "page": 19,
+          "id": 10,
+          "role": "overview_sentence_rhythm",
+          "errors_pt": [
+            0.0003857699588820651,
+            0.0
+          ],
+          "passed": true
+        },
+        {
+          "page": 19,
+          "id": 26,
+          "role": "overview_sentence_rhythm",
+          "errors_pt": [
+            0.0001999999999782176,
+            0.0004999999999881766
+          ],
+          "passed": true
+        },
+        {
+          "page": 19,
+          "id": 42,
+          "role": "overview_sentence_rhythm",
+          "errors_pt": [
+            0.0002000000000066393,
+            0.00012499999996862243
+          ],
+          "passed": true
+        },
+        {
+          "page": 19,
+          "id": 58,
+          "role": "overview_sentence_rhythm",
+          "errors_pt": [
+            0.0002000000000066393,
+            0.0
+          ],
+          "passed": true
+        },
+        {
+          "page": 19,
+          "id": 74,
+          "role": "overview_sentence_rhythm",
+          "errors_pt": [
+            5.966085154796019e-05,
+            0.0004769747461637053
+          ],
+          "passed": true
+        },
+        {
+          "page": 19,
+          "id": 90,
+          "role": "overview_sentence_rhythm",
+          "errors_pt": [
+            0.0002000000000066393,
+            0.0
+          ],
+          "passed": true
+        },
+        {
+          "page": 20,
+          "id": 11,
+          "role": "conclusion_wholeword",
+          "errors_pt": [
+            0.0,
+            0.0
+          ],
+          "passed": true
+        },
+        {
+          "page": 20,
+          "id": 17,
+          "role": "conclusion_wholeword",
+          "errors_pt": [
+            0.0,
+            0.0
+          ],
+          "passed": true
+        },
+        {
+          "page": 20,
+          "id": 28,
+          "role": "conclusion_wholeword",
+          "errors_pt": [
+            0.0,
+            0.0
+          ],
+          "passed": true
+        },
+        {
+          "page": 20,
+          "id": 34,
+          "role": "conclusion_wholeword",
+          "errors_pt": [
+            0.0,
+            0.0
+          ],
+          "passed": true
+        },
+        {
+          "page": 20,
+          "id": 45,
+          "role": "conclusion_wholeword",
+          "errors_pt": [
+            0.0,
+            0.0
+          ],
+          "passed": true
+        },
+        {
+          "page": 20,
+          "id": 51,
+          "role": "conclusion_wholeword",
+          "errors_pt": [
+            7.016957425776127e-05,
+            0.00019020521062884654
+          ],
+          "passed": true
+        },
+        {
+          "page": 28,
+          "id": 1,
+          "role": "backcover_eyebrow",
+          "errors_pt": [
+            0.0002000000000066393,
+            0.0
+          ],
+          "passed": true
+        },
+        {
+          "page": 28,
+          "id": 2,
+          "role": "backcover_heading",
+          "errors_pt": [
+            0.0,
+            0.0
+          ],
+          "passed": true
+        },
+        {
+          "page": 28,
+          "id": 3,
+          "role": "backcover_heading",
+          "errors_pt": [
+            0.0,
+            0.0
+          ],
+          "passed": true
+        },
+        {
+          "page": 28,
+          "id": 4,
+          "role": "backcover_hook",
+          "errors_pt": [
+            0.0,
+            0.0
+          ],
+          "passed": true
+        },
+        {
+          "page": 28,
+          "id": 5,
+          "role": "backcover_hook",
+          "errors_pt": [
+            0.0,
+            0.0
+          ],
+          "passed": true
+        },
+        {
+          "page": 28,
+          "id": 7,
+          "role": "backcover_badge_copy",
+          "errors_pt": [
+            0.0,
+            0.0004999999999881766
+          ],
+          "passed": true
+        },
+        {
+          "page": 28,
+          "id": 8,
+          "role": "embedded_backcover_photo",
+          "errors_pt": [
+            0.0,
+            0.0
+          ],
+          "passed": true
+        },
+        {
+          "page": 28,
+          "id": 10,
+          "role": "backcover_credits_bar_copy",
+          "errors_pt": [
+            0.0002000000000066393,
+            0.0
+          ],
+          "passed": true
+        },
+        {
+          "page": 28,
+          "id": 14,
+          "role": "backcover_closing",
+          "errors_pt": [
+            0.00029999999998153726,
+            0.0005000000001018634
+          ],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "check": "All24 atlas sentencevector panels retain true font geometry at common32pt",
+      "passed": true,
+      "evidence": [
+        {
+          "page": 4,
+          "id": 34,
+          "role": "detail_reference",
+          "font": "sans",
+          "size": 32,
+          "passed": true
+        },
+        {
+          "page": 4,
+          "id": 53,
+          "role": "detail_selected",
+          "font": "blackhan",
+          "size": 32,
+          "passed": true
+        },
+        {
+          "page": 5,
+          "id": 34,
+          "role": "detail_reference",
+          "font": "sans",
+          "size": 32,
+          "passed": true
+        },
+        {
+          "page": 5,
+          "id": 53,
+          "role": "detail_selected",
+          "font": "sans",
+          "size": 32,
+          "passed": true
+        },
+        {
+          "page": 6,
+          "id": 34,
+          "role": "detail_reference",
+          "font": "sans",
+          "size": 32,
+          "passed": true
+        },
+        {
+          "page": 6,
+          "id": 53,
+          "role": "detail_selected",
+          "font": "serif",
+          "size": 32,
+          "passed": true
+        },
+        {
+          "page": 7,
+          "id": 34,
+          "role": "detail_reference",
+          "font": "sans",
+          "size": 32,
+          "passed": true
+        },
+        {
+          "page": 7,
+          "id": 53,
+          "role": "detail_selected",
+          "font": "gungseo",
+          "size": 32,
+          "passed": true
+        },
+        {
+          "page": 8,
+          "id": 34,
+          "role": "detail_reference",
+          "font": "sans",
+          "size": 32,
+          "passed": true
+        },
+        {
+          "page": 8,
+          "id": 53,
+          "role": "detail_selected",
+          "font": "gugi",
+          "size": 32,
+          "passed": true
+        },
+        {
+          "page": 9,
+          "id": 34,
+          "role": "detail_reference",
+          "font": "sans",
+          "size": 32,
+          "passed": true
+        },
+        {
+          "page": 9,
+          "id": 53,
+          "role": "detail_selected",
+          "font": "pixel",
+          "size": 32,
+          "passed": true
+        },
+        {
+          "page": 10,
+          "id": 34,
+          "role": "detail_reference",
+          "font": "sans",
+          "size": 32,
+          "passed": true
+        },
+        {
+          "page": 10,
+          "id": 53,
+          "role": "detail_selected",
+          "font": "jua",
+          "size": 32,
+          "passed": true
+        },
+        {
+          "page": 11,
+          "id": 34,
+          "role": "detail_reference",
+          "font": "sans",
+          "size": 32,
+          "passed": true
+        },
+        {
+          "page": 11,
+          "id": 53,
+          "role": "detail_selected",
+          "font": "singleday",
+          "size": 32,
+          "passed": true
+        },
+        {
+          "page": 12,
+          "id": 34,
+          "role": "detail_reference",
+          "font": "sans",
+          "size": 32,
+          "passed": true
+        },
+        {
+          "page": 12,
+          "id": 53,
+          "role": "detail_selected",
+          "font": "kirang",
+          "size": 32,
+          "passed": true
+        },
+        {
+          "page": 13,
+          "id": 34,
+          "role": "detail_reference",
+          "font": "sans",
+          "size": 32,
+          "passed": true
+        },
+        {
+          "page": 13,
+          "id": 53,
+          "role": "detail_selected",
+          "font": "bawpic",
+          "size": 32,
+          "passed": true
+        },
+        {
+          "page": 14,
+          "id": 34,
+          "role": "detail_reference",
+          "font": "sans",
+          "size": 32,
+          "passed": true
+        },
+        {
+          "page": 14,
+          "id": 53,
+          "role": "detail_selected",
+          "font": "brush",
+          "size": 32,
+          "passed": true
+        },
+        {
+          "page": 15,
+          "id": 34,
+          "role": "detail_reference",
+          "font": "sans",
+          "size": 32,
+          "passed": true
+        },
+        {
+          "page": 15,
+          "id": 53,
+          "role": "detail_selected",
+          "font": "YES24",
+          "size": 32,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "check": "Every declared sentence counter is an exact real contour",
+      "passed": true,
+      "evidence": [
+        {
+          "page": 4,
+          "id": 35,
+          "font": "sans",
+          "passed": true
+        },
+        {
+          "page": 4,
+          "id": 54,
+          "font": "blackhan",
+          "passed": true
+        },
+        {
+          "page": 5,
+          "id": 35,
+          "font": "sans",
+          "passed": true
+        },
+        {
+          "page": 5,
+          "id": 54,
+          "font": "sans",
+          "passed": true
+        },
+        {
+          "page": 6,
+          "id": 35,
+          "font": "sans",
+          "passed": true
+        },
+        {
+          "page": 6,
+          "id": 54,
+          "font": "serif",
+          "passed": true
+        },
+        {
+          "page": 7,
+          "id": 35,
+          "font": "sans",
+          "passed": true
+        },
+        {
+          "page": 7,
+          "id": 54,
+          "font": "gungseo",
+          "passed": true
+        },
+        {
+          "page": 8,
+          "id": 35,
+          "font": "sans",
+          "passed": true
+        },
+        {
+          "page": 8,
+          "id": 54,
+          "font": "gugi",
+          "passed": true
+        },
+        {
+          "page": 9,
+          "id": 35,
+          "font": "sans",
+          "passed": true
+        },
+        {
+          "page": 9,
+          "id": 54,
+          "font": "pixel",
+          "passed": true
+        },
+        {
+          "page": 10,
+          "id": 35,
+          "font": "sans",
+          "passed": true
+        },
+        {
+          "page": 10,
+          "id": 54,
+          "font": "jua",
+          "passed": true
+        },
+        {
+          "page": 11,
+          "id": 35,
+          "font": "sans",
+          "passed": true
+        },
+        {
+          "page": 11,
+          "id": 54,
+          "font": "singleday",
+          "passed": true
+        },
+        {
+          "page": 12,
+          "id": 35,
+          "font": "sans",
+          "passed": true
+        },
+        {
+          "page": 12,
+          "id": 54,
+          "font": "kirang",
+          "passed": true
+        },
+        {
+          "page": 13,
+          "id": 35,
+          "font": "sans",
+          "passed": true
+        },
+        {
+          "page": 13,
+          "id": 54,
+          "font": "bawpic",
+          "passed": true
+        },
+        {
+          "page": 14,
+          "id": 35,
+          "font": "sans",
+          "passed": true
+        },
+        {
+          "page": 14,
+          "id": 54,
+          "font": "brush",
+          "passed": true
+        },
+        {
+          "page": 15,
+          "id": 35,
+          "font": "sans",
+          "passed": true
+        },
+        {
+          "page": 15,
+          "id": 54,
+          "font": "YES24",
+          "passed": true
+        },
+        {
+          "page": 16,
+          "id": 13,
+          "font": "blackhan",
+          "passed": true
+        },
+        {
+          "page": 16,
+          "id": 45,
+          "font": "sans",
+          "passed": true
+        },
+        {
+          "page": 16,
+          "id": 77,
+          "font": "serif",
+          "passed": true
+        },
+        {
+          "page": 16,
+          "id": 109,
+          "font": "gungseo",
+          "passed": true
+        },
+        {
+          "page": 16,
+          "id": 141,
+          "font": "gugi",
+          "passed": true
+        },
+        {
+          "page": 16,
+          "id": 173,
+          "font": "pixel",
+          "passed": true
+        },
+        {
+          "page": 17,
+          "id": 13,
+          "font": "jua",
+          "passed": true
+        },
+        {
+          "page": 17,
+          "id": 45,
+          "font": "singleday",
+          "passed": true
+        },
+        {
+          "page": 17,
+          "id": 77,
+          "font": "kirang",
+          "passed": true
+        },
+        {
+          "page": 17,
+          "id": 109,
+          "font": "bawpic",
+          "passed": true
+        },
+        {
+          "page": 17,
+          "id": 141,
+          "font": "brush",
+          "passed": true
+        },
+        {
+          "page": 17,
+          "id": 173,
+          "font": "YES24",
+          "passed": true
+        },
+        {
+          "page": 18,
+          "id": 11,
+          "font": "blackhan",
+          "passed": true
+        },
+        {
+          "page": 18,
+          "id": 27,
+          "font": "sans",
+          "passed": true
+        },
+        {
+          "page": 18,
+          "id": 43,
+          "font": "serif",
+          "passed": true
+        },
+        {
+          "page": 18,
+          "id": 59,
+          "font": "gungseo",
+          "passed": true
+        },
+        {
+          "page": 18,
+          "id": 75,
+          "font": "gugi",
+          "passed": true
+        },
+        {
+          "page": 18,
+          "id": 91,
+          "font": "pixel",
+          "passed": true
+        },
+        {
+          "page": 19,
+          "id": 11,
+          "font": "jua",
+          "passed": true
+        },
+        {
+          "page": 19,
+          "id": 27,
+          "font": "singleday",
+          "passed": true
+        },
+        {
+          "page": 19,
+          "id": 43,
+          "font": "kirang",
+          "passed": true
+        },
+        {
+          "page": 19,
+          "id": 59,
+          "font": "bawpic",
+          "passed": true
+        },
+        {
+          "page": 19,
+          "id": 75,
+          "font": "brush",
+          "passed": true
+        },
+        {
+          "page": 19,
+          "id": 91,
+          "font": "YES24",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "check": "All12 actual nine-glyph measurements use fullphrase32pt nonzero union and48pt denominator",
+      "passed": true,
+      "evidence": [
+        {
+          "font": "blackhan",
+          "glyphs": 9,
+          "fraction": 0.33800083544884074,
+          "passed": true
+        },
+        {
+          "font": "sans",
+          "glyphs": 9,
+          "fraction": 0.166436214916165,
+          "passed": true
+        },
+        {
+          "font": "serif",
+          "glyphs": 9,
+          "fraction": 0.12940692863899744,
+          "passed": true
+        },
+        {
+          "font": "gungseo",
+          "glyphs": 9,
+          "fraction": 0.11202008836755913,
+          "passed": true
+        },
+        {
+          "font": "gugi",
+          "glyphs": 9,
+          "fraction": 0.2380422635268842,
+          "passed": true
+        },
+        {
+          "font": "pixel",
+          "glyphs": 9,
+          "fraction": 0.20342194024600582,
+          "passed": true
+        },
+        {
+          "font": "jua",
+          "glyphs": 9,
+          "fraction": 0.2784092339289276,
+          "passed": true
+        },
+        {
+          "font": "singleday",
+          "glyphs": 9,
+          "fraction": 0.15821676909931534,
+          "passed": true
+        },
+        {
+          "font": "kirang",
+          "glyphs": 9,
+          "fraction": 0.19899822674861764,
+          "passed": true
+        },
+        {
+          "font": "bawpic",
+          "glyphs": 9,
+          "fraction": 0.1443749150958443,
+          "passed": true
+        },
+        {
+          "font": "brush",
+          "glyphs": 9,
+          "fraction": 0.09152674824434848,
+          "passed": true
+        },
+        {
+          "font": "YES24",
+          "glyphs": 9,
+          "fraction": 0.26562287192576906,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "check": "All12 printed graph panels use common0–40scale and true nine-glyph gap spans",
+      "passed": true,
+      "evidence": [
+        {
+          "page": 16,
+          "font": "blackhan",
+          "bars_match_source": true,
+          "nine_glyph_spans_match_source": true,
+          "subjective_impression_distinct": true,
+          "passed": true
+        },
+        {
+          "page": 16,
+          "font": "sans",
+          "bars_match_source": true,
+          "nine_glyph_spans_match_source": true,
+          "subjective_impression_distinct": true,
+          "passed": true
+        },
+        {
+          "page": 16,
+          "font": "serif",
+          "bars_match_source": true,
+          "nine_glyph_spans_match_source": true,
+          "subjective_impression_distinct": true,
+          "passed": true
+        },
+        {
+          "page": 16,
+          "font": "gungseo",
+          "bars_match_source": true,
+          "nine_glyph_spans_match_source": true,
+          "subjective_impression_distinct": true,
+          "passed": true
+        },
+        {
+          "page": 16,
+          "font": "gugi",
+          "bars_match_source": true,
+          "nine_glyph_spans_match_source": true,
+          "subjective_impression_distinct": true,
+          "passed": true
+        },
+        {
+          "page": 16,
+          "font": "pixel",
+          "bars_match_source": true,
+          "nine_glyph_spans_match_source": true,
+          "subjective_impression_distinct": true,
+          "passed": true
+        },
+        {
+          "page": 17,
+          "font": "jua",
+          "bars_match_source": true,
+          "nine_glyph_spans_match_source": true,
+          "subjective_impression_distinct": true,
+          "passed": true
+        },
+        {
+          "page": 17,
+          "font": "singleday",
+          "bars_match_source": true,
+          "nine_glyph_spans_match_source": true,
+          "subjective_impression_distinct": true,
+          "passed": true
+        },
+        {
+          "page": 17,
+          "font": "kirang",
+          "bars_match_source": true,
+          "nine_glyph_spans_match_source": true,
+          "subjective_impression_distinct": true,
+          "passed": true
+        },
+        {
+          "page": 17,
+          "font": "bawpic",
+          "bars_match_source": true,
+          "nine_glyph_spans_match_source": true,
+          "subjective_impression_distinct": true,
+          "passed": true
+        },
+        {
+          "page": 17,
+          "font": "brush",
+          "bars_match_source": true,
+          "nine_glyph_spans_match_source": true,
+          "subjective_impression_distinct": true,
+          "passed": true
+        },
+        {
+          "page": 17,
+          "font": "YES24",
+          "bars_match_source": true,
+          "nine_glyph_spans_match_source": true,
+          "subjective_impression_distinct": true,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "check": "Six explicit font selection situations follow shape observations",
+      "passed": true,
+      "evidence": [
+        "선택  말보다 기세가 먼저 도착할 때",
+        "선택  시끄러운 말도 침착한 척할 때",
+        "선택  쓸데없이 우아하게 말할 때",
+        "선택  사소한 일에 목숨 건 척할 때",
+        "선택  친구한테 귀엽게 찔러볼 때",
+        "선택  생각보다 손이 먼저 달릴 때"
+      ]
+    },
+    {
+      "check": "Single embedded photograph appears only onbackcover28",
+      "passed": true,
+      "evidence": [
+        {
+          "page": 28,
+          "asset": "cover"
+        }
+      ]
+    },
+    {
+      "check": "Scene unchanged during independent audit",
+      "passed": true,
+      "evidence": null
+    }
+  ],
+  "failures": [],
+  "native_Adobe_execution": false
+}

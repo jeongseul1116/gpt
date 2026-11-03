@@ -1,0 +1,530 @@
+{
+  "status": "passed",
+  "reviewer": "independent cover agent; read-only atlas/experiment review",
+  "phrase": "북쪽에계신메리메리",
+  "syllables": 9,
+  "comparison_samples": 66,
+  "actual_ink_center_checks": 66,
+  "max_center_error_pt": 0.0005000000000165983,
+  "no_sentence_split": true,
+  "no_isolated_character_comparison": true,
+  "all_fonts_same_size_within_each_comparison": true,
+  "all_actual_shaped_glyphs_verified": [
+    {
+      "font": "blackhan",
+      "glyph_count": 9,
+      "exact_phrase": true,
+      "actual_shaped_paths": true,
+      "stable_outline_sha256": "ce448448507d03514b1dc43aa815127946f7564337ee600a57c99424b1168ee2",
+      "coverage_fraction": 0.33800083544884074
+    },
+    {
+      "font": "sans",
+      "glyph_count": 9,
+      "exact_phrase": true,
+      "actual_shaped_paths": true,
+      "stable_outline_sha256": "97ace6d4427be1bda7de054d98b3deb95a5b5be37b281806d5d30bfced67c735",
+      "coverage_fraction": 0.166436214916165
+    },
+    {
+      "font": "serif",
+      "glyph_count": 9,
+      "exact_phrase": true,
+      "actual_shaped_paths": true,
+      "stable_outline_sha256": "50199fd2ad198fd9b3da8a6b553924ae057ec22d1837454c39d4c1223807f59d",
+      "coverage_fraction": 0.12940692863899744
+    },
+    {
+      "font": "gungseo",
+      "glyph_count": 9,
+      "exact_phrase": true,
+      "actual_shaped_paths": true,
+      "stable_outline_sha256": "89fa7e1be6bfa2a6b5cc67fd0adab0d1c4d448bb06273b0407bb8d5055ffcd5d",
+      "coverage_fraction": 0.11202008836755913
+    },
+    {
+      "font": "gugi",
+      "glyph_count": 9,
+      "exact_phrase": true,
+      "actual_shaped_paths": true,
+      "stable_outline_sha256": "342199b4ee57452f844a4da7b5339cdddb8058dd821702fd25f03355f6602c4a",
+      "coverage_fraction": 0.2380422635268842
+    },
+    {
+      "font": "pixel",
+      "glyph_count": 9,
+      "exact_phrase": true,
+      "actual_shaped_paths": true,
+      "stable_outline_sha256": "d76429b63b3dce821df5b83b46ada6ea7cb1fb1091bd84968cdadb935d04d8ef",
+      "coverage_fraction": 0.20342194024600582
+    },
+    {
+      "font": "jua",
+      "glyph_count": 9,
+      "exact_phrase": true,
+      "actual_shaped_paths": true,
+      "stable_outline_sha256": "63295be1b217eace1d37cb7854568433e5fd1e690deafb2fb3261adc752fe3f9",
+      "coverage_fraction": 0.2784092339289276
+    },
+    {
+      "font": "singleday",
+      "glyph_count": 9,
+      "exact_phrase": true,
+      "actual_shaped_paths": true,
+      "stable_outline_sha256": "a8dc1eb452dd0eba5b71d8fe8f2ede36533cea0fcc28ca20e23fa8dbbb5bf956",
+      "coverage_fraction": 0.15821676909931534
+    },
+    {
+      "font": "kirang",
+      "glyph_count": 9,
+      "exact_phrase": true,
+      "actual_shaped_paths": true,
+      "stable_outline_sha256": "0a622568bf0b2d688780529f5df5777c45e99d5ff1fdea399abe51aa46ce6270",
+      "coverage_fraction": 0.19899822674861764
+    },
+    {
+      "font": "bawpic",
+      "glyph_count": 9,
+      "exact_phrase": true,
+      "actual_shaped_paths": true,
+      "stable_outline_sha256": "c5addea4a6d3a4e7142d2cd2c466ddafda70c8633038a3d40309c2803bc86273",
+      "coverage_fraction": 0.1443749150958443
+    },
+    {
+      "font": "brush",
+      "glyph_count": 9,
+      "exact_phrase": true,
+      "actual_shaped_paths": true,
+      "stable_outline_sha256": "a2caea975097a150664640f31995bcdee95aa6fc6a413b88ed742acb88606d9b",
+      "coverage_fraction": 0.09152674824434848
+    },
+    {
+      "font": "YES24",
+      "glyph_count": 9,
+      "exact_phrase": true,
+      "actual_shaped_paths": true,
+      "stable_outline_sha256": "dd3942c4af47238e47171f79a390af44d2c23432f6f7b7091bd795a8602abd6b",
+      "coverage_fraction": 0.26562287192576906
+    }
+  ],
+  "same_fixed_coverage_formula_and_converged_measurements": true,
+  "source_files_sha256": {
+    "font_atlas.py": "4eb0c10e3920a99b4ba2a851e42739a55e389a8e15cc088facb7a11e00386814",
+    "experiments.py": "7d3e1ebbfba74751268c5bea685b9bacc6d30a9637e48d1e52ef18529541d5c6",
+    "visual_metrics.json": "e2de853151efa923f532bbe35842a8ec5235294b82e98db4aaac4b093e62f944"
+  },
+  "visual_feature_review": {
+    "artifact": "editorial_sentence_fonts.png",
+    "renderer": "Pillow FreeType from same font sources; feature check only, not PDF or metric measurement",
+    "all_12_sentence_shapes_viewed": true,
+    "features_match_written_observations": true,
+    "single_day_note": "Actual phrase has heart ornaments above several syllables even without 하. Current generic curves/height observations are valid; no unsupported heart-to-하 assertion.",
+    "B_grade_voice_examples": [
+      "메리메리 한 번 했는데 확성기 풀충전.",
+      "편의점 가는데 출정식부터 열렸다.",
+      "메리메리. 반박은 결재 받고 오세요."
+    ],
+    "tone_is_playful_and_subjective": true,
+    "no_emotion_score_claim": true
+  },
+  "provenance_note": "Normalized font buffer hashes vary across processes because FontTools.save recalculates modified timestamp. Fresh nine-glyph contours and stable whole-outline hashes verified exactly instead. Numeric glyph assembly equality includes harmless signed zero differences in JSON serialization.",
+  "failures": [],
+  "center_records": [
+    {
+      "page": 4,
+      "role": "specimen",
+      "font": "blackhan",
+      "error_pt": 0.0002000000000066393
+    },
+    {
+      "page": 4,
+      "role": "detail_reference",
+      "font": "sans",
+      "error_pt": 0.0
+    },
+    {
+      "page": 4,
+      "role": "detail_selected",
+      "font": "blackhan",
+      "error_pt": 0.0
+    },
+    {
+      "page": 5,
+      "role": "specimen",
+      "font": "sans",
+      "error_pt": 0.0002000000000066393
+    },
+    {
+      "page": 5,
+      "role": "detail_reference",
+      "font": "sans",
+      "error_pt": 0.0
+    },
+    {
+      "page": 5,
+      "role": "detail_selected",
+      "font": "sans",
+      "error_pt": 0.0
+    },
+    {
+      "page": 6,
+      "role": "specimen",
+      "font": "serif",
+      "error_pt": 0.0002000000000066393
+    },
+    {
+      "page": 6,
+      "role": "detail_reference",
+      "font": "sans",
+      "error_pt": 0.0
+    },
+    {
+      "page": 6,
+      "role": "detail_selected",
+      "font": "serif",
+      "error_pt": 0.0
+    },
+    {
+      "page": 7,
+      "role": "specimen",
+      "font": "gungseo",
+      "error_pt": 0.0002000000000066393
+    },
+    {
+      "page": 7,
+      "role": "detail_reference",
+      "font": "sans",
+      "error_pt": 0.0
+    },
+    {
+      "page": 7,
+      "role": "detail_selected",
+      "font": "gungseo",
+      "error_pt": 0.0
+    },
+    {
+      "page": 8,
+      "role": "specimen",
+      "font": "gugi",
+      "error_pt": 8.959854011436619e-05
+    },
+    {
+      "page": 8,
+      "role": "detail_reference",
+      "font": "sans",
+      "error_pt": 0.0
+    },
+    {
+      "page": 8,
+      "role": "detail_selected",
+      "font": "gugi",
+      "error_pt": 0.0
+    },
+    {
+      "page": 9,
+      "role": "specimen",
+      "font": "pixel",
+      "error_pt": 0.0002000000000066393
+    },
+    {
+      "page": 9,
+      "role": "detail_reference",
+      "font": "sans",
+      "error_pt": 0.0
+    },
+    {
+      "page": 9,
+      "role": "detail_selected",
+      "font": "pixel",
+      "error_pt": 0.0
+    },
+    {
+      "page": 10,
+      "role": "specimen",
+      "font": "jua",
+      "error_pt": 0.0003857699588820651
+    },
+    {
+      "page": 10,
+      "role": "detail_reference",
+      "font": "sans",
+      "error_pt": 0.0
+    },
+    {
+      "page": 10,
+      "role": "detail_selected",
+      "font": "jua",
+      "error_pt": 2.842170943040401e-14
+    },
+    {
+      "page": 11,
+      "role": "specimen",
+      "font": "singleday",
+      "error_pt": 0.0005000000000165983
+    },
+    {
+      "page": 11,
+      "role": "detail_reference",
+      "font": "sans",
+      "error_pt": 0.0
+    },
+    {
+      "page": 11,
+      "role": "detail_selected",
+      "font": "singleday",
+      "error_pt": 0.0
+    },
+    {
+      "page": 12,
+      "role": "specimen",
+      "font": "kirang",
+      "error_pt": 0.0002000000000066393
+    },
+    {
+      "page": 12,
+      "role": "detail_reference",
+      "font": "sans",
+      "error_pt": 0.0
+    },
+    {
+      "page": 12,
+      "role": "detail_selected",
+      "font": "kirang",
+      "error_pt": 0.0
+    },
+    {
+      "page": 13,
+      "role": "specimen",
+      "font": "bawpic",
+      "error_pt": 0.0002000000000066393
+    },
+    {
+      "page": 13,
+      "role": "detail_reference",
+      "font": "sans",
+      "error_pt": 0.0
+    },
+    {
+      "page": 13,
+      "role": "detail_selected",
+      "font": "bawpic",
+      "error_pt": 0.0
+    },
+    {
+      "page": 14,
+      "role": "specimen",
+      "font": "brush",
+      "error_pt": 0.0004769747461637053
+    },
+    {
+      "page": 14,
+      "role": "detail_reference",
+      "font": "sans",
+      "error_pt": 0.0
+    },
+    {
+      "page": 14,
+      "role": "detail_selected",
+      "font": "brush",
+      "error_pt": 0.0
+    },
+    {
+      "page": 15,
+      "role": "specimen",
+      "font": "YES24",
+      "error_pt": 0.0002000000000066393
+    },
+    {
+      "page": 15,
+      "role": "detail_reference",
+      "font": "sans",
+      "error_pt": 0.0
+    },
+    {
+      "page": 15,
+      "role": "detail_selected",
+      "font": "YES24",
+      "error_pt": 0.0
+    },
+    {
+      "page": 16,
+      "role": "overview_wholeword",
+      "font": "blackhan",
+      "error_pt": 0.0002000000000066393
+    },
+    {
+      "page": 16,
+      "role": "overview_wholeword",
+      "font": "sans",
+      "error_pt": 0.0002000000000066393
+    },
+    {
+      "page": 16,
+      "role": "overview_wholeword",
+      "font": "serif",
+      "error_pt": 0.0002000000000066393
+    },
+    {
+      "page": 16,
+      "role": "overview_wholeword",
+      "font": "gungseo",
+      "error_pt": 0.0002000000000066393
+    },
+    {
+      "page": 16,
+      "role": "overview_wholeword",
+      "font": "gugi",
+      "error_pt": 8.959854011436619e-05
+    },
+    {
+      "page": 16,
+      "role": "overview_wholeword",
+      "font": "pixel",
+      "error_pt": 0.0002000000000066393
+    },
+    {
+      "page": 17,
+      "role": "overview_wholeword",
+      "font": "jua",
+      "error_pt": 0.0003857699588820651
+    },
+    {
+      "page": 17,
+      "role": "overview_wholeword",
+      "font": "singleday",
+      "error_pt": 0.0004999999999881766
+    },
+    {
+      "page": 17,
+      "role": "overview_wholeword",
+      "font": "kirang",
+      "error_pt": 0.0002000000000066393
+    },
+    {
+      "page": 17,
+      "role": "overview_wholeword",
+      "font": "bawpic",
+      "error_pt": 0.0002000000000066393
+    },
+    {
+      "page": 17,
+      "role": "overview_wholeword",
+      "font": "brush",
+      "error_pt": 0.0004769747461637053
+    },
+    {
+      "page": 17,
+      "role": "overview_wholeword",
+      "font": "YES24",
+      "error_pt": 0.0002000000000066393
+    },
+    {
+      "page": 18,
+      "role": "overview_sentence_rhythm",
+      "font": "blackhan",
+      "error_pt": 0.0002000000000066393
+    },
+    {
+      "page": 18,
+      "role": "overview_sentence_rhythm",
+      "font": "sans",
+      "error_pt": 0.0002000000000066393
+    },
+    {
+      "page": 18,
+      "role": "overview_sentence_rhythm",
+      "font": "serif",
+      "error_pt": 0.0002000000000066393
+    },
+    {
+      "page": 18,
+      "role": "overview_sentence_rhythm",
+      "font": "gungseo",
+      "error_pt": 0.0002000000000066393
+    },
+    {
+      "page": 18,
+      "role": "overview_sentence_rhythm",
+      "font": "gugi",
+      "error_pt": 8.959854011436619e-05
+    },
+    {
+      "page": 18,
+      "role": "overview_sentence_rhythm",
+      "font": "pixel",
+      "error_pt": 0.0002000000000066393
+    },
+    {
+      "page": 19,
+      "role": "overview_sentence_rhythm",
+      "font": "jua",
+      "error_pt": 0.0003857699588820651
+    },
+    {
+      "page": 19,
+      "role": "overview_sentence_rhythm",
+      "font": "singleday",
+      "error_pt": 0.0004999999999881766
+    },
+    {
+      "page": 19,
+      "role": "overview_sentence_rhythm",
+      "font": "kirang",
+      "error_pt": 0.0002000000000066393
+    },
+    {
+      "page": 19,
+      "role": "overview_sentence_rhythm",
+      "font": "bawpic",
+      "error_pt": 0.0002000000000066393
+    },
+    {
+      "page": 19,
+      "role": "overview_sentence_rhythm",
+      "font": "brush",
+      "error_pt": 0.0004769747461637053
+    },
+    {
+      "page": 19,
+      "role": "overview_sentence_rhythm",
+      "font": "YES24",
+      "error_pt": 0.0002000000000066393
+    },
+    {
+      "page": 20,
+      "role": "conclusion_wholeword",
+      "font": "blackhan",
+      "error_pt": 0.0
+    },
+    {
+      "page": 20,
+      "role": "conclusion_wholeword",
+      "font": "sans",
+      "error_pt": 0.0
+    },
+    {
+      "page": 20,
+      "role": "conclusion_wholeword",
+      "font": "serif",
+      "error_pt": 0.0
+    },
+    {
+      "page": 20,
+      "role": "conclusion_wholeword",
+      "font": "gungseo",
+      "error_pt": 0.0
+    },
+    {
+      "page": 20,
+      "role": "conclusion_wholeword",
+      "font": "singleday",
+      "error_pt": 0.0
+    },
+    {
+      "page": 20,
+      "role": "conclusion_wholeword",
+      "font": "brush",
+      "error_pt": 0.00019020521062884654
+    }
+  ]
+}

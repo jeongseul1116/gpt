@@ -1,0 +1,2115 @@
+{
+  "status": "passed",
+  "phrase": "북쪽에계신메리메리",
+  "point_size": 32,
+  "centered_sentence_panels": 24,
+  "max_center_error_pt": 2.842170943040401e-14,
+  "no_individual_fit": true,
+  "no_isolated_glyph_comparison": true,
+  "records": [
+    {
+      "physical_page": 4,
+      "reference": true,
+      "source_text": "북쪽에계신메리메리",
+      "font": "sans",
+      "point_size": 32,
+      "x_origin_pt": 78.5478,
+      "baseline_pt": 317.968,
+      "cell_left_pt": 36.0,
+      "raw_ink_bounds_pt": [
+        1.6,
+        -26.464,
+        260.832,
+        2.528
+      ],
+      "ink_bounds_relative_to_baseline_pt": [
+        1.6,
+        -26.464,
+        260.832,
+        2.528
+      ],
+      "ink_bounds_absolute_pt": [
+        80.14779999999999,
+        291.504,
+        339.3798,
+        320.49600000000004
+      ],
+      "ink_width_pt": 259.23199999999997,
+      "inner_counter_contours": [
+        1,
+        7,
+        14,
+        19
+      ],
+      "counter_containment_depths": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "centering_cell": [
+        36.0,
+        273,
+        347.5276,
+        66.0
+      ],
+      "common_camera_window_pt": [
+        36.0,
+        273,
+        347.5276,
+        66.0
+      ],
+      "target_ink_center_pt": [
+        209.7638,
+        306
+      ],
+      "actual_ink_center_pt": [
+        209.7638,
+        306.0
+      ],
+      "center_error_pt": 0.0,
+      "centering": "exact_ink_bounds",
+      "no_glyph_fit": true,
+      "whole_sentence_not_isolated_glyph": true
+    },
+    {
+      "physical_page": 4,
+      "reference": false,
+      "source_text": "북쪽에계신메리메리",
+      "font": "blackhan",
+      "point_size": 32,
+      "x_origin_pt": 89.9398,
+      "baseline_pt": 412.16,
+      "cell_left_pt": 36.0,
+      "raw_ink_bounds_pt": [
+        1.92,
+        -24.32,
+        237.728,
+        2.6645352591003757e-15
+      ],
+      "ink_bounds_relative_to_baseline_pt": [
+        1.92,
+        -24.32,
+        237.728,
+        2.6645352591003757e-15
+      ],
+      "ink_bounds_absolute_pt": [
+        91.8598,
+        387.84000000000003,
+        327.6678,
+        412.16
+      ],
+      "ink_width_pt": 235.80800000000002,
+      "inner_counter_contours": [
+        1,
+        4,
+        8,
+        11,
+        17,
+        22
+      ],
+      "counter_containment_depths": [
+        0,
+        1,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0
+      ],
+      "centering_cell": [
+        36.0,
+        367,
+        347.5276,
+        66.0
+      ],
+      "common_camera_window_pt": [
+        36.0,
+        367,
+        347.5276,
+        66.0
+      ],
+      "target_ink_center_pt": [
+        209.7638,
+        400
+      ],
+      "actual_ink_center_pt": [
+        209.7638,
+        400.0
+      ],
+      "center_error_pt": 0.0,
+      "centering": "exact_ink_bounds",
+      "no_glyph_fit": true,
+      "whole_sentence_not_isolated_glyph": true
+    },
+    {
+      "physical_page": 5,
+      "reference": true,
+      "source_text": "북쪽에계신메리메리",
+      "font": "sans",
+      "point_size": 32,
+      "x_origin_pt": 78.5478,
+      "baseline_pt": 317.968,
+      "cell_left_pt": 36.0,
+      "raw_ink_bounds_pt": [
+        1.6,
+        -26.464,
+        260.832,
+        2.528
+      ],
+      "ink_bounds_relative_to_baseline_pt": [
+        1.6,
+        -26.464,
+        260.832,
+        2.528
+      ],
+      "ink_bounds_absolute_pt": [
+        80.14779999999999,
+        291.504,
+        339.3798,
+        320.49600000000004
+      ],
+      "ink_width_pt": 259.23199999999997,
+      "inner_counter_contours": [
+        1,
+        7,
+        14,
+        19
+      ],
+      "counter_containment_depths": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "centering_cell": [
+        36.0,
+        273,
+        347.5276,
+        66.0
+      ],
+      "common_camera_window_pt": [
+        36.0,
+        273,
+        347.5276,
+        66.0
+      ],
+      "target_ink_center_pt": [
+        209.7638,
+        306
+      ],
+      "actual_ink_center_pt": [
+        209.7638,
+        306.0
+      ],
+      "center_error_pt": 0.0,
+      "centering": "exact_ink_bounds",
+      "no_glyph_fit": true,
+      "whole_sentence_not_isolated_glyph": true
+    },
+    {
+      "physical_page": 5,
+      "reference": false,
+      "source_text": "북쪽에계신메리메리",
+      "font": "sans",
+      "point_size": 32,
+      "x_origin_pt": 78.5478,
+      "baseline_pt": 411.968,
+      "cell_left_pt": 36.0,
+      "raw_ink_bounds_pt": [
+        1.6,
+        -26.464,
+        260.832,
+        2.528
+      ],
+      "ink_bounds_relative_to_baseline_pt": [
+        1.6,
+        -26.464,
+        260.832,
+        2.528
+      ],
+      "ink_bounds_absolute_pt": [
+        80.14779999999999,
+        385.504,
+        339.3798,
+        414.49600000000004
+      ],
+      "ink_width_pt": 259.23199999999997,
+      "inner_counter_contours": [
+        1,
+        7,
+        14,
+        19
+      ],
+      "counter_containment_depths": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "centering_cell": [
+        36.0,
+        367,
+        347.5276,
+        66.0
+      ],
+      "common_camera_window_pt": [
+        36.0,
+        367,
+        347.5276,
+        66.0
+      ],
+      "target_ink_center_pt": [
+        209.7638,
+        400
+      ],
+      "actual_ink_center_pt": [
+        209.7638,
+        400.0
+      ],
+      "center_error_pt": 0.0,
+      "centering": "exact_ink_bounds",
+      "no_glyph_fit": true,
+      "whole_sentence_not_isolated_glyph": true
+    },
+    {
+      "physical_page": 6,
+      "reference": true,
+      "source_text": "북쪽에계신메리메리",
+      "font": "sans",
+      "point_size": 32,
+      "x_origin_pt": 78.5478,
+      "baseline_pt": 317.968,
+      "cell_left_pt": 36.0,
+      "raw_ink_bounds_pt": [
+        1.6,
+        -26.464,
+        260.832,
+        2.528
+      ],
+      "ink_bounds_relative_to_baseline_pt": [
+        1.6,
+        -26.464,
+        260.832,
+        2.528
+      ],
+      "ink_bounds_absolute_pt": [
+        80.14779999999999,
+        291.504,
+        339.3798,
+        320.49600000000004
+      ],
+      "ink_width_pt": 259.23199999999997,
+      "inner_counter_contours": [
+        1,
+        7,
+        14,
+        19
+      ],
+      "counter_containment_depths": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "centering_cell": [
+        36.0,
+        273,
+        347.5276,
+        66.0
+      ],
+      "common_camera_window_pt": [
+        36.0,
+        273,
+        347.5276,
+        66.0
+      ],
+      "target_ink_center_pt": [
+        209.7638,
+        306
+      ],
+      "actual_ink_center_pt": [
+        209.7638,
+        306.0
+      ],
+      "center_error_pt": 0.0,
+      "centering": "exact_ink_bounds",
+      "no_glyph_fit": true,
+      "whole_sentence_not_isolated_glyph": true
+    },
+    {
+      "physical_page": 6,
+      "reference": false,
+      "source_text": "북쪽에계신메리메리",
+      "font": "serif",
+      "point_size": 32,
+      "x_origin_pt": 72.7458,
+      "baseline_pt": 411.76,
+      "cell_left_pt": 36.0,
+      "raw_ink_bounds_pt": [
+        0.82,
+        -27.296,
+        273.216,
+        3.776
+      ],
+      "ink_bounds_relative_to_baseline_pt": [
+        0.82,
+        -27.296,
+        273.216,
+        3.776
+      ],
+      "ink_bounds_absolute_pt": [
+        73.5658,
+        384.464,
+        345.96180000000004,
+        415.536
+      ],
+      "ink_width_pt": 272.396,
+      "inner_counter_contours": [
+        2,
+        4,
+        7,
+        16,
+        20
+      ],
+      "counter_containment_depths": [
+        0,
+        0,
+        1,
+        0,
+        1,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        0
+      ],
+      "centering_cell": [
+        36.0,
+        367,
+        347.5276,
+        66.0
+      ],
+      "common_camera_window_pt": [
+        36.0,
+        367,
+        347.5276,
+        66.0
+      ],
+      "target_ink_center_pt": [
+        209.7638,
+        400
+      ],
+      "actual_ink_center_pt": [
+        209.7638,
+        400.0
+      ],
+      "center_error_pt": 0.0,
+      "centering": "exact_ink_bounds",
+      "no_glyph_fit": true,
+      "whole_sentence_not_isolated_glyph": true
+    },
+    {
+      "physical_page": 7,
+      "reference": true,
+      "source_text": "북쪽에계신메리메리",
+      "font": "sans",
+      "point_size": 32,
+      "x_origin_pt": 78.5478,
+      "baseline_pt": 317.968,
+      "cell_left_pt": 36.0,
+      "raw_ink_bounds_pt": [
+        1.6,
+        -26.464,
+        260.832,
+        2.528
+      ],
+      "ink_bounds_relative_to_baseline_pt": [
+        1.6,
+        -26.464,
+        260.832,
+        2.528
+      ],
+      "ink_bounds_absolute_pt": [
+        80.14779999999999,
+        291.504,
+        339.3798,
+        320.49600000000004
+      ],
+      "ink_width_pt": 259.23199999999997,
+      "inner_counter_contours": [
+        1,
+        7,
+        14,
+        19
+      ],
+      "counter_containment_depths": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "centering_cell": [
+        36.0,
+        273,
+        347.5276,
+        66.0
+      ],
+      "common_camera_window_pt": [
+        36.0,
+        273,
+        347.5276,
+        66.0
+      ],
+      "target_ink_center_pt": [
+        209.7638,
+        306
+      ],
+      "actual_ink_center_pt": [
+        209.7638,
+        306.0
+      ],
+      "center_error_pt": 0.0,
+      "centering": "exact_ink_bounds",
+      "no_glyph_fit": true,
+      "whole_sentence_not_isolated_glyph": true
+    },
+    {
+      "physical_page": 7,
+      "reference": false,
+      "source_text": "북쪽에계신메리메리",
+      "font": "gungseo",
+      "point_size": 32,
+      "x_origin_pt": 67.82780000000002,
+      "baseline_pt": 410.48,
+      "cell_left_pt": 36.0,
+      "raw_ink_bounds_pt": [
+        3.328,
+        -24.672,
+        280.544,
+        3.712
+      ],
+      "ink_bounds_relative_to_baseline_pt": [
+        3.328,
+        -24.672,
+        280.544,
+        3.712
+      ],
+      "ink_bounds_absolute_pt": [
+        71.15580000000003,
+        385.808,
+        348.3718,
+        414.192
+      ],
+      "ink_width_pt": 277.216,
+      "inner_counter_contours": [
+        8
+      ],
+      "counter_containment_depths": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "centering_cell": [
+        36.0,
+        367,
+        347.5276,
+        66.0
+      ],
+      "common_camera_window_pt": [
+        36.0,
+        367,
+        347.5276,
+        66.0
+      ],
+      "target_ink_center_pt": [
+        209.7638,
+        400
+      ],
+      "actual_ink_center_pt": [
+        209.7638,
+        400.0
+      ],
+      "center_error_pt": 0.0,
+      "centering": "exact_ink_bounds",
+      "no_glyph_fit": true,
+      "whole_sentence_not_isolated_glyph": true
+    },
+    {
+      "physical_page": 8,
+      "reference": true,
+      "source_text": "북쪽에계신메리메리",
+      "font": "sans",
+      "point_size": 32,
+      "x_origin_pt": 78.5478,
+      "baseline_pt": 317.968,
+      "cell_left_pt": 36.0,
+      "raw_ink_bounds_pt": [
+        1.6,
+        -26.464,
+        260.832,
+        2.528
+      ],
+      "ink_bounds_relative_to_baseline_pt": [
+        1.6,
+        -26.464,
+        260.832,
+        2.528
+      ],
+      "ink_bounds_absolute_pt": [
+        80.14779999999999,
+        291.504,
+        339.3798,
+        320.49600000000004
+      ],
+      "ink_width_pt": 259.23199999999997,
+      "inner_counter_contours": [
+        1,
+        7,
+        14,
+        19
+      ],
+      "counter_containment_depths": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "centering_cell": [
+        36.0,
+        273,
+        347.5276,
+        66.0
+      ],
+      "common_camera_window_pt": [
+        36.0,
+        273,
+        347.5276,
+        66.0
+      ],
+      "target_ink_center_pt": [
+        209.7638,
+        306
+      ],
+      "actual_ink_center_pt": [
+        209.7638,
+        306.0
+      ],
+      "center_error_pt": 0.0,
+      "centering": "exact_ink_bounds",
+      "no_glyph_fit": true,
+      "whole_sentence_not_isolated_glyph": true
+    },
+    {
+      "physical_page": 8,
+      "reference": false,
+      "source_text": "북쪽에계신메리메리",
+      "font": "gugi",
+      "point_size": 32,
+      "x_origin_pt": 76.71591040145984,
+      "baseline_pt": 412.224,
+      "cell_left_pt": 36.0,
+      "raw_ink_bounds_pt": [
+        0.49577919708029194,
+        -26.368,
+        265.6,
+        1.92
+      ],
+      "ink_bounds_relative_to_baseline_pt": [
+        0.49577919708029194,
+        -26.368,
+        265.6,
+        1.92
+      ],
+      "ink_bounds_absolute_pt": [
+        77.21168959854013,
+        385.856,
+        342.31591040145986,
+        414.144
+      ],
+      "ink_width_pt": 265.1042208029197,
+      "inner_counter_contours": [
+        5,
+        8
+      ],
+      "counter_containment_depths": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "centering_cell": [
+        36.0,
+        367,
+        347.5276,
+        66.0
+      ],
+      "common_camera_window_pt": [
+        36.0,
+        367,
+        347.5276,
+        66.0
+      ],
+      "target_ink_center_pt": [
+        209.7638,
+        400
+      ],
+      "actual_ink_center_pt": [
+        209.7638,
+        400.0
+      ],
+      "center_error_pt": 0.0,
+      "centering": "exact_ink_bounds",
+      "no_glyph_fit": true,
+      "whole_sentence_not_isolated_glyph": true
+    },
+    {
+      "physical_page": 9,
+      "reference": true,
+      "source_text": "북쪽에계신메리메리",
+      "font": "sans",
+      "point_size": 32,
+      "x_origin_pt": 78.5478,
+      "baseline_pt": 317.968,
+      "cell_left_pt": 36.0,
+      "raw_ink_bounds_pt": [
+        1.6,
+        -26.464,
+        260.832,
+        2.528
+      ],
+      "ink_bounds_relative_to_baseline_pt": [
+        1.6,
+        -26.464,
+        260.832,
+        2.528
+      ],
+      "ink_bounds_absolute_pt": [
+        80.14779999999999,
+        291.504,
+        339.3798,
+        320.49600000000004
+      ],
+      "ink_width_pt": 259.23199999999997,
+      "inner_counter_contours": [
+        1,
+        7,
+        14,
+        19
+      ],
+      "counter_containment_depths": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "centering_cell": [
+        36.0,
+        273,
+        347.5276,
+        66.0
+      ],
+      "common_camera_window_pt": [
+        36.0,
+        273,
+        347.5276,
+        66.0
+      ],
+      "target_ink_center_pt": [
+        209.7638,
+        306
+      ],
+      "actual_ink_center_pt": [
+        209.7638,
+        306.0
+      ],
+      "center_error_pt": 0.0,
+      "centering": "exact_ink_bounds",
+      "no_glyph_fit": true,
+      "whole_sentence_not_isolated_glyph": true
+    },
+    {
+      "physical_page": 9,
+      "reference": false,
+      "source_text": "북쪽에계신메리메리",
+      "font": "pixel",
+      "point_size": 32,
+      "x_origin_pt": 66.7638,
+      "baseline_pt": 411.0,
+      "cell_left_pt": 36.0,
+      "raw_ink_bounds_pt": [
+        2.0,
+        -24.0,
+        284.0,
+        2.0
+      ],
+      "ink_bounds_relative_to_baseline_pt": [
+        2.0,
+        -24.0,
+        284.0,
+        2.0
+      ],
+      "ink_bounds_absolute_pt": [
+        68.7638,
+        387.0,
+        350.7638,
+        413.0
+      ],
+      "ink_width_pt": 282.0,
+      "inner_counter_contours": [
+        1,
+        4,
+        8,
+        17,
+        22
+      ],
+      "counter_containment_depths": [
+        0,
+        1,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0
+      ],
+      "centering_cell": [
+        36.0,
+        367,
+        347.5276,
+        66.0
+      ],
+      "common_camera_window_pt": [
+        36.0,
+        367,
+        347.5276,
+        66.0
+      ],
+      "target_ink_center_pt": [
+        209.7638,
+        400
+      ],
+      "actual_ink_center_pt": [
+        209.7638,
+        400.0
+      ],
+      "center_error_pt": 0.0,
+      "centering": "exact_ink_bounds",
+      "no_glyph_fit": true,
+      "whole_sentence_not_isolated_glyph": true
+    },
+    {
+      "physical_page": 10,
+      "reference": true,
+      "source_text": "북쪽에계신메리메리",
+      "font": "sans",
+      "point_size": 32,
+      "x_origin_pt": 78.5478,
+      "baseline_pt": 317.968,
+      "cell_left_pt": 36.0,
+      "raw_ink_bounds_pt": [
+        1.6,
+        -26.464,
+        260.832,
+        2.528
+      ],
+      "ink_bounds_relative_to_baseline_pt": [
+        1.6,
+        -26.464,
+        260.832,
+        2.528
+      ],
+      "ink_bounds_absolute_pt": [
+        80.14779999999999,
+        291.504,
+        339.3798,
+        320.49600000000004
+      ],
+      "ink_width_pt": 259.23199999999997,
+      "inner_counter_contours": [
+        1,
+        7,
+        14,
+        19
+      ],
+      "counter_containment_depths": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "centering_cell": [
+        36.0,
+        273,
+        347.5276,
+        66.0
+      ],
+      "common_camera_window_pt": [
+        36.0,
+        273,
+        347.5276,
+        66.0
+      ],
+      "target_ink_center_pt": [
+        209.7638,
+        306
+      ],
+      "actual_ink_center_pt": [
+        209.7638,
+        306.0
+      ],
+      "center_error_pt": 0.0,
+      "centering": "exact_ink_bounds",
+      "no_glyph_fit": true,
+      "whole_sentence_not_isolated_glyph": true
+    },
+    {
+      "physical_page": 10,
+      "reference": false,
+      "source_text": "북쪽에계신메리메리",
+      "font": "jua",
+      "point_size": 32,
+      "x_origin_pt": 95.47050355751028,
+      "baseline_pt": 411.52,
+      "cell_left_pt": 36.0,
+      "raw_ink_bounds_pt": [
+        0.64,
+        -24.768,
+        227.94659288497945,
+        1.728
+      ],
+      "ink_bounds_relative_to_baseline_pt": [
+        0.64,
+        -24.768,
+        227.94659288497945,
+        1.728
+      ],
+      "ink_bounds_absolute_pt": [
+        96.11050355751028,
+        386.75199999999995,
+        323.41709644248976,
+        413.248
+      ],
+      "ink_width_pt": 227.30659288497947,
+      "inner_counter_contours": [
+        2,
+        5,
+        8,
+        11,
+        17,
+        22
+      ],
+      "counter_containment_depths": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0
+      ],
+      "centering_cell": [
+        36.0,
+        367,
+        347.5276,
+        66.0
+      ],
+      "common_camera_window_pt": [
+        36.0,
+        367,
+        347.5276,
+        66.0
+      ],
+      "target_ink_center_pt": [
+        209.7638,
+        400
+      ],
+      "actual_ink_center_pt": [
+        209.76380000000003,
+        400.0
+      ],
+      "center_error_pt": 2.842170943040401e-14,
+      "centering": "exact_ink_bounds",
+      "no_glyph_fit": true,
+      "whole_sentence_not_isolated_glyph": true
+    },
+    {
+      "physical_page": 11,
+      "reference": true,
+      "source_text": "북쪽에계신메리메리",
+      "font": "sans",
+      "point_size": 32,
+      "x_origin_pt": 78.5478,
+      "baseline_pt": 317.968,
+      "cell_left_pt": 36.0,
+      "raw_ink_bounds_pt": [
+        1.6,
+        -26.464,
+        260.832,
+        2.528
+      ],
+      "ink_bounds_relative_to_baseline_pt": [
+        1.6,
+        -26.464,
+        260.832,
+        2.528
+      ],
+      "ink_bounds_absolute_pt": [
+        80.14779999999999,
+        291.504,
+        339.3798,
+        320.49600000000004
+      ],
+      "ink_width_pt": 259.23199999999997,
+      "inner_counter_contours": [
+        1,
+        7,
+        14,
+        19
+      ],
+      "counter_containment_depths": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "centering_cell": [
+        36.0,
+        273,
+        347.5276,
+        66.0
+      ],
+      "common_camera_window_pt": [
+        36.0,
+        273,
+        347.5276,
+        66.0
+      ],
+      "target_ink_center_pt": [
+        209.7638,
+        306
+      ],
+      "actual_ink_center_pt": [
+        209.7638,
+        306.0
+      ],
+      "center_error_pt": 0.0,
+      "centering": "exact_ink_bounds",
+      "no_glyph_fit": true,
+      "whole_sentence_not_isolated_glyph": true
+    },
+    {
+      "physical_page": 11,
+      "reference": false,
+      "source_text": "북쪽에계신메리메리",
+      "font": "singleday",
+      "point_size": 32,
+      "x_origin_pt": 94.9043,
+      "baseline_pt": 408.4215,
+      "cell_left_pt": 36.0,
+      "raw_ink_bounds_pt": [
+        1.438,
+        -23.312,
+        228.281,
+        6.469
+      ],
+      "ink_bounds_relative_to_baseline_pt": [
+        1.438,
+        -23.312,
+        228.281,
+        6.469
+      ],
+      "ink_bounds_absolute_pt": [
+        96.34230000000001,
+        385.10949999999997,
+        323.1853,
+        414.8905
+      ],
+      "ink_width_pt": 226.84300000000002,
+      "inner_counter_contours": [
+        0,
+        5,
+        8,
+        21,
+        29
+      ],
+      "counter_containment_depths": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "centering_cell": [
+        36.0,
+        367,
+        347.5276,
+        66.0
+      ],
+      "common_camera_window_pt": [
+        36.0,
+        367,
+        347.5276,
+        66.0
+      ],
+      "target_ink_center_pt": [
+        209.7638,
+        400
+      ],
+      "actual_ink_center_pt": [
+        209.7638,
+        400.0
+      ],
+      "center_error_pt": 0.0,
+      "centering": "exact_ink_bounds",
+      "no_glyph_fit": true,
+      "whole_sentence_not_isolated_glyph": true
+    },
+    {
+      "physical_page": 12,
+      "reference": true,
+      "source_text": "북쪽에계신메리메리",
+      "font": "sans",
+      "point_size": 32,
+      "x_origin_pt": 78.5478,
+      "baseline_pt": 317.968,
+      "cell_left_pt": 36.0,
+      "raw_ink_bounds_pt": [
+        1.6,
+        -26.464,
+        260.832,
+        2.528
+      ],
+      "ink_bounds_relative_to_baseline_pt": [
+        1.6,
+        -26.464,
+        260.832,
+        2.528
+      ],
+      "ink_bounds_absolute_pt": [
+        80.14779999999999,
+        291.504,
+        339.3798,
+        320.49600000000004
+      ],
+      "ink_width_pt": 259.23199999999997,
+      "inner_counter_contours": [
+        1,
+        7,
+        14,
+        19
+      ],
+      "counter_containment_depths": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "centering_cell": [
+        36.0,
+        273,
+        347.5276,
+        66.0
+      ],
+      "common_camera_window_pt": [
+        36.0,
+        273,
+        347.5276,
+        66.0
+      ],
+      "target_ink_center_pt": [
+        209.7638,
+        306
+      ],
+      "actual_ink_center_pt": [
+        209.7638,
+        306.0
+      ],
+      "center_error_pt": 0.0,
+      "centering": "exact_ink_bounds",
+      "no_glyph_fit": true,
+      "whole_sentence_not_isolated_glyph": true
+    },
+    {
+      "physical_page": 12,
+      "reference": false,
+      "source_text": "북쪽에계신메리메리",
+      "font": "kirang",
+      "point_size": 32,
+      "x_origin_pt": 110.227675,
+      "baseline_pt": 411.575875,
+      "cell_left_pt": 36.0,
+      "raw_ink_bounds_pt": [
+        2.016,
+        -25.39175,
+        197.05625,
+        2.24
+      ],
+      "ink_bounds_relative_to_baseline_pt": [
+        2.016,
+        -25.39175,
+        197.05625,
+        2.24
+      ],
+      "ink_bounds_absolute_pt": [
+        112.24367500000001,
+        386.184125,
+        307.283925,
+        413.815875
+      ],
+      "ink_width_pt": 195.04025000000001,
+      "inner_counter_contours": [
+        2,
+        10,
+        22,
+        28
+      ],
+      "counter_containment_depths": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0
+      ],
+      "centering_cell": [
+        36.0,
+        367,
+        347.5276,
+        66.0
+      ],
+      "common_camera_window_pt": [
+        36.0,
+        367,
+        347.5276,
+        66.0
+      ],
+      "target_ink_center_pt": [
+        209.7638,
+        400
+      ],
+      "actual_ink_center_pt": [
+        209.7638,
+        400.0
+      ],
+      "center_error_pt": 0.0,
+      "centering": "exact_ink_bounds",
+      "no_glyph_fit": true,
+      "whole_sentence_not_isolated_glyph": true
+    },
+    {
+      "physical_page": 13,
+      "reference": true,
+      "source_text": "북쪽에계신메리메리",
+      "font": "sans",
+      "point_size": 32,
+      "x_origin_pt": 78.5478,
+      "baseline_pt": 317.968,
+      "cell_left_pt": 36.0,
+      "raw_ink_bounds_pt": [
+        1.6,
+        -26.464,
+        260.832,
+        2.528
+      ],
+      "ink_bounds_relative_to_baseline_pt": [
+        1.6,
+        -26.464,
+        260.832,
+        2.528
+      ],
+      "ink_bounds_absolute_pt": [
+        80.14779999999999,
+        291.504,
+        339.3798,
+        320.49600000000004
+      ],
+      "ink_width_pt": 259.23199999999997,
+      "inner_counter_contours": [
+        1,
+        7,
+        14,
+        19
+      ],
+      "counter_containment_depths": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "centering_cell": [
+        36.0,
+        273,
+        347.5276,
+        66.0
+      ],
+      "common_camera_window_pt": [
+        36.0,
+        273,
+        347.5276,
+        66.0
+      ],
+      "target_ink_center_pt": [
+        209.7638,
+        306
+      ],
+      "actual_ink_center_pt": [
+        209.7638,
+        306.0
+      ],
+      "center_error_pt": 0.0,
+      "centering": "exact_ink_bounds",
+      "no_glyph_fit": true,
+      "whole_sentence_not_isolated_glyph": true
+    },
+    {
+      "physical_page": 13,
+      "reference": false,
+      "source_text": "북쪽에계신메리메리",
+      "font": "bawpic",
+      "point_size": 32,
+      "x_origin_pt": 88.5638,
+      "baseline_pt": 409.552,
+      "cell_left_pt": 36.0,
+      "raw_ink_bounds_pt": [
+        1.28,
+        -24.32,
+        241.12,
+        5.216
+      ],
+      "ink_bounds_relative_to_baseline_pt": [
+        1.28,
+        -24.32,
+        241.12,
+        5.216
+      ],
+      "ink_bounds_absolute_pt": [
+        89.8438,
+        385.232,
+        329.6838,
+        414.76800000000003
+      ],
+      "ink_width_pt": 239.84,
+      "inner_counter_contours": [
+        2,
+        10,
+        19,
+        39,
+        52
+      ],
+      "counter_containment_depths": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        2,
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        2,
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "centering_cell": [
+        36.0,
+        367,
+        347.5276,
+        66.0
+      ],
+      "common_camera_window_pt": [
+        36.0,
+        367,
+        347.5276,
+        66.0
+      ],
+      "target_ink_center_pt": [
+        209.7638,
+        400
+      ],
+      "actual_ink_center_pt": [
+        209.7638,
+        400.0
+      ],
+      "center_error_pt": 0.0,
+      "centering": "exact_ink_bounds",
+      "no_glyph_fit": true,
+      "whole_sentence_not_isolated_glyph": true
+    },
+    {
+      "physical_page": 14,
+      "reference": true,
+      "source_text": "북쪽에계신메리메리",
+      "font": "sans",
+      "point_size": 32,
+      "x_origin_pt": 78.5478,
+      "baseline_pt": 317.968,
+      "cell_left_pt": 36.0,
+      "raw_ink_bounds_pt": [
+        1.6,
+        -26.464,
+        260.832,
+        2.528
+      ],
+      "ink_bounds_relative_to_baseline_pt": [
+        1.6,
+        -26.464,
+        260.832,
+        2.528
+      ],
+      "ink_bounds_absolute_pt": [
+        80.14779999999999,
+        291.504,
+        339.3798,
+        320.49600000000004
+      ],
+      "ink_width_pt": 259.23199999999997,
+      "inner_counter_contours": [
+        1,
+        7,
+        14,
+        19
+      ],
+      "counter_containment_depths": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "centering_cell": [
+        36.0,
+        273,
+        347.5276,
+        66.0
+      ],
+      "common_camera_window_pt": [
+        36.0,
+        273,
+        347.5276,
+        66.0
+      ],
+      "target_ink_center_pt": [
+        209.7638,
+        306
+      ],
+      "actual_ink_center_pt": [
+        209.7638,
+        306.0
+      ],
+      "center_error_pt": 0.0,
+      "centering": "exact_ink_bounds",
+      "no_glyph_fit": true,
+      "whole_sentence_not_isolated_glyph": true
+    },
+    {
+      "physical_page": 14,
+      "reference": false,
+      "source_text": "북쪽에계신메리메리",
+      "font": "brush",
+      "point_size": 32,
+      "x_origin_pt": 116.52172962014937,
+      "baseline_pt": 405.5214890194996,
+      "cell_left_pt": 36.0,
+      "raw_ink_bounds_pt": [
+        0.544,
+        -19.746978038999234,
+        185.94014075970125,
+        8.704
+      ],
+      "ink_bounds_relative_to_baseline_pt": [
+        0.544,
+        -19.746978038999234,
+        185.94014075970125,
+        8.704
+      ],
+      "ink_bounds_absolute_pt": [
+        117.06572962014937,
+        385.77451098050034,
+        302.4618703798506,
+        414.2254890194996
+      ],
+      "ink_width_pt": 185.39614075970124,
+      "inner_counter_contours": [
+        3
+      ],
+      "counter_containment_depths": [
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "centering_cell": [
+        36.0,
+        367,
+        347.5276,
+        66.0
+      ],
+      "common_camera_window_pt": [
+        36.0,
+        367,
+        347.5276,
+        66.0
+      ],
+      "target_ink_center_pt": [
+        209.7638,
+        400
+      ],
+      "actual_ink_center_pt": [
+        209.7638,
+        400.0
+      ],
+      "center_error_pt": 0.0,
+      "centering": "exact_ink_bounds",
+      "no_glyph_fit": true,
+      "whole_sentence_not_isolated_glyph": true
+    },
+    {
+      "physical_page": 15,
+      "reference": true,
+      "source_text": "북쪽에계신메리메리",
+      "font": "sans",
+      "point_size": 32,
+      "x_origin_pt": 78.5478,
+      "baseline_pt": 317.968,
+      "cell_left_pt": 36.0,
+      "raw_ink_bounds_pt": [
+        1.6,
+        -26.464,
+        260.832,
+        2.528
+      ],
+      "ink_bounds_relative_to_baseline_pt": [
+        1.6,
+        -26.464,
+        260.832,
+        2.528
+      ],
+      "ink_bounds_absolute_pt": [
+        80.14779999999999,
+        291.504,
+        339.3798,
+        320.49600000000004
+      ],
+      "ink_width_pt": 259.23199999999997,
+      "inner_counter_contours": [
+        1,
+        7,
+        14,
+        19
+      ],
+      "counter_containment_depths": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "centering_cell": [
+        36.0,
+        273,
+        347.5276,
+        66.0
+      ],
+      "common_camera_window_pt": [
+        36.0,
+        273,
+        347.5276,
+        66.0
+      ],
+      "target_ink_center_pt": [
+        209.7638,
+        306
+      ],
+      "actual_ink_center_pt": [
+        209.7638,
+        306.0
+      ],
+      "center_error_pt": 0.0,
+      "centering": "exact_ink_bounds",
+      "no_glyph_fit": true,
+      "whole_sentence_not_isolated_glyph": true
+    },
+    {
+      "physical_page": 15,
+      "reference": false,
+      "source_text": "북쪽에계신메리메리",
+      "font": "YES24",
+      "point_size": 32,
+      "x_origin_pt": 79.5238,
+      "baseline_pt": 411.936,
+      "cell_left_pt": 36.0,
+      "raw_ink_bounds_pt": [
+        1.632,
+        -26.24,
+        258.848,
+        2.368
+      ],
+      "ink_bounds_relative_to_baseline_pt": [
+        1.632,
+        -26.24,
+        258.848,
+        2.368
+      ],
+      "ink_bounds_absolute_pt": [
+        81.1558,
+        385.69599999999997,
+        338.3718,
+        414.304
+      ],
+      "ink_width_pt": 257.216,
+      "inner_counter_contours": [
+        2,
+        8,
+        16,
+        21
+      ],
+      "counter_containment_depths": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0
+      ],
+      "centering_cell": [
+        36.0,
+        367,
+        347.5276,
+        66.0
+      ],
+      "common_camera_window_pt": [
+        36.0,
+        367,
+        347.5276,
+        66.0
+      ],
+      "target_ink_center_pt": [
+        209.7638,
+        400
+      ],
+      "actual_ink_center_pt": [
+        209.7638,
+        400.0
+      ],
+      "center_error_pt": 0.0,
+      "centering": "exact_ink_bounds",
+      "no_glyph_fit": true,
+      "whole_sentence_not_isolated_glyph": true
+    }
+  ]
+}
