@@ -1,0 +1,56 @@
+{
+  "status": "passed",
+  "candidate_sha256": "4b0b3d1fad499dc6a5f4338461200dab47d5896af8be44b18b8db38ffc610258",
+  "proof_sha256": "32304e92798c5c68441f41f6fda8793336f11804a3d19926573e9e489840daf2",
+  "renderer": "Direct IDML subset proof; not a native Adobe export",
+  "pages_reviewed": [
+    2,
+    8,
+    14,
+    22
+  ],
+  "findings": {
+    "physical_2": "TOC entries carry breathing labels; page ranges and visible text fit.",
+    "physical_8": "Pink poster is visibly distinct, original 10-line source and context remain visible; no visible clipping or overlap.",
+    "physical_14": "Six comparisons appear as open rows; all six specimens, form notes and interpretations are visible. Shrinking source preserves six lines.",
+    "physical_22": "Quiet white diary page; final source line keeps trailing periods together after widening, with no separate orphaned period line."
+  },
+  "native_Adobe_InDesign_validation": false,
+  "page_label_postprocess": {
+    "status": "passed",
+    "old_pdf_sha256": "32304e92798c5c68441f41f6fda8793336f11804a3d19926573e9e489840daf2",
+    "new_pdf_sha256": "2dac40cf559a86a44affa36973a9f0a1dae8388e3b7b7a3437a3121e4e08048e",
+    "page_labels": [
+      "표지",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12",
+      "13",
+      "14",
+      "15",
+      "16",
+      "17",
+      "18",
+      "19",
+      "20",
+      "21",
+      "22",
+      "23",
+      "24",
+      "25",
+      "26",
+      "뒤표지"
+    ],
+    "all28_decoded_page_content_streams_byte_identical": true,
+    "metadata_only": true
+  }
+}

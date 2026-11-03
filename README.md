@@ -1,3 +1,17 @@
+# 반복 사이에 세 번의 숨 고르기
+
+총28면 안에서07쪽은 분홍 고백 포스터,13쪽은 작아지는 정정문과 열린 비교 목록,21쪽은 여백이 많은 새벽 혼잣말로 바꿨습니다. 목차도 반영했습니다. 원문·126견본·21TF도해·내부 표지사진을 유지했습니다.
+
+- [새 세 면 나란히 보기](submission-interludes/Interludes_07_13_21.jpg)
+- [전체 검토PDF](submission-interludes/Meme_Font_Book_Interludes_28p_Proof.pdf)
+- [편집용IDML](submission-interludes/Meme_Font_Book_Interludes_28p.idml)
+- [IDML·PDF·미리보기 ZIP](https://github.com/jeongseul1116/gpt/raw/refs/heads/main/Meme_Font_Book_Interludes_28p.zip)
+- [파일과 확인 범위](submission-interludes/README_KO.md)
+
+표지 사진과 모든 도해는 내부에 포함돼 있습니다. 실제 Adobe InDesign 실행과 최종 인쇄는 이 환경에서 미검증이며 PDF는 검토용 근사 렌더입니다.
+
+---
+
 # TF 시각화로 폰트 느낌의 원인 보완
 
 사용자가 올린 수정파일.indd를 기준으로 설명과 글자 도해를 보완했습니다. 형태 → 내게 읽히는 말투 → 밈의 효과를 이어 읽도록 했습니다. 원문·126개 비교 견본·기존 페이지와 프레임·폰트·표지 사진은 유지했습니다.

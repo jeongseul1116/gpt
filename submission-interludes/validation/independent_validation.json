@@ -1,0 +1,589 @@
+{
+  "status": "passed",
+  "validation_kind": "independent IDML package and XML comparison; no native Adobe InDesign validation",
+  "baseline": "/workspace/tf_visual_revision_20261103/design/TF_Visual_Analysis_28p.idml",
+  "candidate": "/workspace/interlude_revision_20261103/design/Meme_Font_Book_Interludes_28p.idml",
+  "baseline_sha256": "d8700478ebf5ade92448c262cf3ab28eeabb0332be0830fdb2fda6d0743448c2",
+  "candidate_sha256": "4b0b3d1fad499dc6a5f4338461200dab47d5896af8be44b18b8db38ffc610258",
+  "checks": {
+    "zip_integrity": true,
+    "baseline_and_candidate_hashes_match_change_manifest": true,
+    "same_member_names": true,
+    "only_declared_members_changed": true,
+    "all_undeclared_members_byte_identical": true,
+    "page_count_28": true,
+    "page_order_names_and_page_attributes_unchanged": true,
+    "printed_names_1_through_26_and_named_covers": true,
+    "story_text_changes_match_declared_editorial_and_toc_only": true,
+    "all_other_content_and_break_tokens_preserved": true,
+    "three_recomposed_original_sources_exact_content_and_br": true,
+    "all_126_comparison_samples_and_styles_identical": true,
+    "all_original_twelve_sample_fonts_preserved": true,
+    "self_effacement_source_only_allowed_shrinking": true,
+    "all_21_tf_primary_diagrams_semantically_identical": true,
+    "all_tf_evidence_shapes_semantically_identical": true,
+    "original_photo_embedded_bytes_identical": true,
+    "all_non_target_companion_right_page_children_unchanged": true,
+    "no_new_duplicate_ids": true,
+    "no_new_unresolved_core_id_references": true,
+    "no_references_to_removed_decorations": true,
+    "pink_background_stops_exactly_at_gutter_without_right_page_overlap": true,
+    "all_original_folios_correct_and_unchanged_covers_have_none": true
+  },
+  "details": {
+    "same_member_names": {
+      "baseline": 1061,
+      "candidate": 1061
+    },
+    "only_declared_members_changed": {
+      "count": 70,
+      "unexpected": [],
+      "declared_but_unchanged": []
+    },
+    "all_undeclared_members_byte_identical": {
+      "count": 991
+    },
+    "page_order_names_and_page_attributes_unchanged": {
+      "page_names": [
+        "앞표지-1",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20",
+        "21",
+        "22",
+        "23",
+        "24",
+        "25",
+        "26",
+        "뒤표지-1"
+      ]
+    },
+    "story_text_changes_match_declared_editorial_and_toc_only": {
+      "count": 15,
+      "unexpected": []
+    },
+    "three_recomposed_original_sources_exact_content_and_br": [
+      {
+        "label": "love",
+        "story": "u1497",
+        "original_content_nodes": 10,
+        "original_br_nodes": 10,
+        "tokens_identical": true
+      },
+      {
+        "label": "self_effacement",
+        "story": "u2b4c",
+        "original_content_nodes": 6,
+        "original_br_nodes": 6,
+        "tokens_identical": true
+      },
+      {
+        "label": "tears",
+        "story": "u4a50",
+        "original_content_nodes": 6,
+        "original_br_nodes": 6,
+        "tokens_identical": true
+      }
+    ],
+    "all_126_comparison_samples_and_styles_identical": [
+      {
+        "meme": "B01",
+        "expected": 10,
+        "found": 10,
+        "size": "11",
+        "text_and_full_character_styles_identical": true
+      },
+      {
+        "meme": "A04",
+        "expected": 10,
+        "found": 10,
+        "size": "11",
+        "text_and_full_character_styles_identical": true
+      },
+      {
+        "meme": "B02",
+        "expected": 10,
+        "found": 10,
+        "size": "11",
+        "text_and_full_character_styles_identical": true
+      },
+      {
+        "meme": "A02",
+        "expected": 10,
+        "found": 10,
+        "size": "11",
+        "text_and_full_character_styles_identical": true
+      },
+      {
+        "meme": "A03",
+        "expected": 6,
+        "found": 6,
+        "size": "11",
+        "text_and_full_character_styles_identical": true
+      },
+      {
+        "meme": "A10",
+        "expected": 6,
+        "found": 6,
+        "size": "11",
+        "text_and_full_character_styles_identical": true
+      },
+      {
+        "meme": "B06",
+        "expected": 10,
+        "found": 10,
+        "size": "11",
+        "text_and_full_character_styles_identical": true
+      },
+      {
+        "meme": "B05",
+        "expected": 10,
+        "found": 10,
+        "size": "11",
+        "text_and_full_character_styles_identical": true
+      },
+      {
+        "meme": "B03",
+        "expected": 10,
+        "found": 10,
+        "size": "11",
+        "text_and_full_character_styles_identical": true
+      },
+      {
+        "meme": "A05",
+        "expected": 10,
+        "found": 10,
+        "size": "11",
+        "text_and_full_character_styles_identical": true
+      },
+      {
+        "meme": "B07",
+        "expected": 10,
+        "found": 10,
+        "size": "11",
+        "text_and_full_character_styles_identical": true
+      },
+      {
+        "meme": "A06",
+        "expected": 6,
+        "found": 6,
+        "size": "11",
+        "text_and_full_character_styles_identical": true
+      },
+      {
+        "meme": "A07",
+        "expected": 6,
+        "found": 6,
+        "size": "9.5",
+        "text_and_full_character_styles_identical": true
+      },
+      {
+        "meme": "A08",
+        "expected": 6,
+        "found": 6,
+        "size": "9.5",
+        "text_and_full_character_styles_identical": true
+      },
+      {
+        "meme": "A09",
+        "expected": 6,
+        "found": 6,
+        "size": "9.5",
+        "text_and_full_character_styles_identical": true
+      }
+    ],
+    "all_original_twelve_sample_fonts_preserved": {
+      "fonts": [
+        "Jua",
+        "Kirang Haerang",
+        "Noto Sans CJK KR",
+        "Noto Serif CJK KR",
+        "검은고딕",
+        "구기",
+        "나눔손글씨 붓",
+        "둥근모꼴",
+        "싱글데이",
+        "예스체",
+        "은 궁서",
+        "흑백사진"
+      ]
+    },
+    "self_effacement_source_only_allowed_shrinking": {
+      "sizes": [
+        "17",
+        "15",
+        "13",
+        "11",
+        "9",
+        "7.5"
+      ]
+    },
+    "all_21_tf_primary_diagrams_semantically_identical": {
+      "count": 21,
+      "ids": [
+        "u1b14",
+        "u22ad",
+        "u2a46",
+        "u3a30",
+        "u41c9",
+        "u4934",
+        "u50cd",
+        "u5892",
+        "u770",
+        "u7cf",
+        "u82e",
+        "u88d",
+        "u8ec",
+        "u94b",
+        "ua49",
+        "uaa8",
+        "ub07",
+        "ub66",
+        "ubc5",
+        "uc24",
+        "u137b"
+      ]
+    },
+    "all_tf_evidence_shapes_semantically_identical": {
+      "total_with_primary": 65
+    },
+    "original_photo_embedded_bytes_identical": {
+      "count": 1,
+      "bytes": 922981,
+      "sha256": "b8a68655e74748ada19123724d935f88fe9efa2b22c411a9537e8829821d7f3f"
+    },
+    "all_non_target_companion_right_page_children_unchanged": [
+      {
+        "spread": "Spreads/Spread_u13d8.xml",
+        "right_page_child_nodes": 193,
+        "all_identical": true
+      },
+      {
+        "spread": "Spreads/Spread_u2aa3.xml",
+        "right_page_child_nodes": 138,
+        "all_identical": true
+      },
+      {
+        "spread": "Spreads/Spread_u4991.xml",
+        "right_page_child_nodes": 193,
+        "all_identical": true
+      }
+    ],
+    "no_new_duplicate_ids": {
+      "baseline_duplicates": {},
+      "candidate_duplicates": {}
+    },
+    "no_new_unresolved_core_id_references": {
+      "new_unresolved": [],
+      "baseline_unresolved_count": 0,
+      "candidate_unresolved_count": 0
+    },
+    "no_references_to_removed_decorations": {
+      "count": 0
+    },
+    "pink_background_stops_exactly_at_gutter_without_right_page_overlap": {
+      "spread_x_min": -428.031537007874,
+      "spread_x_max": 0.0,
+      "spread_y_min": -306.14173700787404,
+      "spread_y_max": 306.14173700787404,
+      "stroke_weight": "0"
+    },
+    "all_original_folios_correct_and_unchanged_covers_have_none": [
+      {
+        "physical_page": 1,
+        "expected": [],
+        "found": [],
+        "all_story_bytes_identical": true
+      },
+      {
+        "physical_page": 2,
+        "expected": [
+          "01"
+        ],
+        "found": [
+          "01"
+        ],
+        "all_story_bytes_identical": true
+      },
+      {
+        "physical_page": 3,
+        "expected": [
+          "02"
+        ],
+        "found": [
+          "02"
+        ],
+        "all_story_bytes_identical": true
+      },
+      {
+        "physical_page": 4,
+        "expected": [
+          "03"
+        ],
+        "found": [
+          "03"
+        ],
+        "all_story_bytes_identical": true
+      },
+      {
+        "physical_page": 5,
+        "expected": [
+          "04"
+        ],
+        "found": [
+          "04"
+        ],
+        "all_story_bytes_identical": true
+      },
+      {
+        "physical_page": 6,
+        "expected": [
+          "05"
+        ],
+        "found": [
+          "05"
+        ],
+        "all_story_bytes_identical": true
+      },
+      {
+        "physical_page": 7,
+        "expected": [
+          "06"
+        ],
+        "found": [
+          "06"
+        ],
+        "all_story_bytes_identical": true
+      },
+      {
+        "physical_page": 8,
+        "expected": [
+          "07"
+        ],
+        "found": [
+          "07"
+        ],
+        "all_story_bytes_identical": true
+      },
+      {
+        "physical_page": 9,
+        "expected": [
+          "08"
+        ],
+        "found": [
+          "08"
+        ],
+        "all_story_bytes_identical": true
+      },
+      {
+        "physical_page": 10,
+        "expected": [
+          "09"
+        ],
+        "found": [
+          "09"
+        ],
+        "all_story_bytes_identical": true
+      },
+      {
+        "physical_page": 11,
+        "expected": [
+          "10"
+        ],
+        "found": [
+          "10"
+        ],
+        "all_story_bytes_identical": true
+      },
+      {
+        "physical_page": 12,
+        "expected": [
+          "11"
+        ],
+        "found": [
+          "11"
+        ],
+        "all_story_bytes_identical": true
+      },
+      {
+        "physical_page": 13,
+        "expected": [
+          "12"
+        ],
+        "found": [
+          "12"
+        ],
+        "all_story_bytes_identical": true
+      },
+      {
+        "physical_page": 14,
+        "expected": [
+          "13"
+        ],
+        "found": [
+          "13"
+        ],
+        "all_story_bytes_identical": true
+      },
+      {
+        "physical_page": 15,
+        "expected": [
+          "14"
+        ],
+        "found": [
+          "14"
+        ],
+        "all_story_bytes_identical": true
+      },
+      {
+        "physical_page": 16,
+        "expected": [
+          "15"
+        ],
+        "found": [
+          "15"
+        ],
+        "all_story_bytes_identical": true
+      },
+      {
+        "physical_page": 17,
+        "expected": [
+          "16"
+        ],
+        "found": [
+          "16"
+        ],
+        "all_story_bytes_identical": true
+      },
+      {
+        "physical_page": 18,
+        "expected": [
+          "17"
+        ],
+        "found": [
+          "17"
+        ],
+        "all_story_bytes_identical": true
+      },
+      {
+        "physical_page": 19,
+        "expected": [
+          "18"
+        ],
+        "found": [
+          "18"
+        ],
+        "all_story_bytes_identical": true
+      },
+      {
+        "physical_page": 20,
+        "expected": [
+          "19"
+        ],
+        "found": [
+          "19"
+        ],
+        "all_story_bytes_identical": true
+      },
+      {
+        "physical_page": 21,
+        "expected": [
+          "20"
+        ],
+        "found": [
+          "20"
+        ],
+        "all_story_bytes_identical": true
+      },
+      {
+        "physical_page": 22,
+        "expected": [
+          "21"
+        ],
+        "found": [
+          "21"
+        ],
+        "all_story_bytes_identical": true
+      },
+      {
+        "physical_page": 23,
+        "expected": [
+          "22"
+        ],
+        "found": [
+          "22"
+        ],
+        "all_story_bytes_identical": true
+      },
+      {
+        "physical_page": 24,
+        "expected": [
+          "23"
+        ],
+        "found": [
+          "23"
+        ],
+        "all_story_bytes_identical": true
+      },
+      {
+        "physical_page": 25,
+        "expected": [
+          "24"
+        ],
+        "found": [
+          "24"
+        ],
+        "all_story_bytes_identical": true
+      },
+      {
+        "physical_page": 26,
+        "expected": [
+          "25"
+        ],
+        "found": [
+          "25"
+        ],
+        "all_story_bytes_identical": true
+      },
+      {
+        "physical_page": 27,
+        "expected": [
+          "26"
+        ],
+        "found": [
+          "26"
+        ],
+        "all_story_bytes_identical": true
+      },
+      {
+        "physical_page": 28,
+        "expected": [],
+        "found": [],
+        "all_story_bytes_identical": true
+      }
+    ]
+  },
+  "failed_checks": [],
+  "notes": [
+    "No font binary validation requested or performed.",
+    "Proof rendering and visual clipping checks are handled separately by the renderer.",
+    "All non-editorial story Content and Br tokens are compared, including every original source and context string."
+  ]
+}

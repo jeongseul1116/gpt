@@ -1,0 +1,22 @@
+{
+  "source": "/workspace/tf_visual_revision_20261103/design/TF_Visual_Analysis_28p.idml",
+  "source_sha256": "d8700478ebf5ade92448c262cf3ab28eeabb0332be0830fdb2fda6d0743448c2",
+  "idml_sha256": "4b0b3d1fad499dc6a5f4338461200dab47d5896af8be44b18b8db38ffc610258",
+  "proof_pdf_sha256": "2dac40cf559a86a44affa36973a9f0a1dae8388e3b7b7a3437a3121e4e08048e",
+  "physical_pages": 28,
+  "printed_interlude_pages": [
+    7,
+    13,
+    21
+  ],
+  "physical_interlude_pages": [
+    8,
+    14,
+    22
+  ],
+  "TOC_updated": true,
+  "comparison_samples_preserved": 126,
+  "TF_diagrams_preserved": 21,
+  "image_embedded": true,
+  "native_Adobe_InDesign_execution": false
+}

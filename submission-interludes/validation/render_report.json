@@ -1,0 +1,402 @@
+{
+  "source": "/workspace/interlude_revision_20261103/design/Meme_Font_Book_Interludes_28p.idml",
+  "source_sha256": "4b0b3d1fad499dc6a5f4338461200dab47d5896af8be44b18b8db38ffc610258",
+  "renderer": "Direct IDML subset proof; not a native Adobe export",
+  "limitations": [
+    "First baseline AscentOffset is approximated from typographic font ascent and lowercase d outline height.",
+    "Source explicit lines are preserved. Overflowing lines use approximate fixed-frame wrapping; Adobe composition is not simulated.",
+    "All frames are clipped to their original geometry; line-fit flags are approximate, not Adobe overset results."
+  ],
+  "pages": [
+    {
+      "order": 1,
+      "name": "앞표지-1",
+      "uid": "u16b",
+      "spread_file": "Spreads/Spread_u166.xml",
+      "width_pt": 419.5276,
+      "height_pt": 595.2756
+    },
+    {
+      "order": 2,
+      "name": "1",
+      "uid": "u1f0",
+      "spread_file": "Spreads/Spread_u1eb.xml",
+      "width_pt": 419.5276,
+      "height_pt": 595.2756
+    },
+    {
+      "order": 3,
+      "name": "2",
+      "uid": "u1f1",
+      "spread_file": "Spreads/Spread_u1eb.xml",
+      "width_pt": 419.5276,
+      "height_pt": 595.2756
+    },
+    {
+      "order": 4,
+      "name": "3",
+      "uid": "u675",
+      "spread_file": "Spreads/Spread_u670.xml",
+      "width_pt": 419.5276,
+      "height_pt": 595.2756
+    },
+    {
+      "order": 5,
+      "name": "4",
+      "uid": "u676",
+      "spread_file": "Spreads/Spread_u670.xml",
+      "width_pt": 419.5276,
+      "height_pt": 595.2756
+    },
+    {
+      "order": 6,
+      "name": "5",
+      "uid": "uc2e",
+      "spread_file": "Spreads/Spread_uc29.xml",
+      "width_pt": 419.5276,
+      "height_pt": 595.2756
+    },
+    {
+      "order": 7,
+      "name": "6",
+      "uid": "uc2f",
+      "spread_file": "Spreads/Spread_uc29.xml",
+      "width_pt": 419.5276,
+      "height_pt": 595.2756
+    },
+    {
+      "order": 8,
+      "name": "7",
+      "uid": "u13dd",
+      "spread_file": "Spreads/Spread_u13d8.xml",
+      "width_pt": 419.5276,
+      "height_pt": 595.2756
+    },
+    {
+      "order": 9,
+      "name": "8",
+      "uid": "u13de",
+      "spread_file": "Spreads/Spread_u13d8.xml",
+      "width_pt": 419.5276,
+      "height_pt": 595.2756
+    },
+    {
+      "order": 10,
+      "name": "9",
+      "uid": "u1b76",
+      "spread_file": "Spreads/Spread_u1b71.xml",
+      "width_pt": 419.5276,
+      "height_pt": 595.2756
+    },
+    {
+      "order": 11,
+      "name": "10",
+      "uid": "u1b77",
+      "spread_file": "Spreads/Spread_u1b71.xml",
+      "width_pt": 419.5276,
+      "height_pt": 595.2756
+    },
+    {
+      "order": 12,
+      "name": "11",
+      "uid": "u230f",
+      "spread_file": "Spreads/Spread_u230a.xml",
+      "width_pt": 419.5276,
+      "height_pt": 595.2756
+    },
+    {
+      "order": 13,
+      "name": "12",
+      "uid": "u2310",
+      "spread_file": "Spreads/Spread_u230a.xml",
+      "width_pt": 419.5276,
+      "height_pt": 595.2756
+    },
+    {
+      "order": 14,
+      "name": "13",
+      "uid": "u2aa8",
+      "spread_file": "Spreads/Spread_u2aa3.xml",
+      "width_pt": 419.5276,
+      "height_pt": 595.2756
+    },
+    {
+      "order": 15,
+      "name": "14",
+      "uid": "u2aa9",
+      "spread_file": "Spreads/Spread_u2aa3.xml",
+      "width_pt": 419.5276,
+      "height_pt": 595.2756
+    },
+    {
+      "order": 16,
+      "name": "15",
+      "uid": "u32f9",
+      "spread_file": "Spreads/Spread_u32f4.xml",
+      "width_pt": 419.5276,
+      "height_pt": 595.2756
+    },
+    {
+      "order": 17,
+      "name": "16",
+      "uid": "u32fa",
+      "spread_file": "Spreads/Spread_u32f4.xml",
+      "width_pt": 419.5276,
+      "height_pt": 595.2756
+    },
+    {
+      "order": 18,
+      "name": "17",
+      "uid": "u3a92",
+      "spread_file": "Spreads/Spread_u3a8d.xml",
+      "width_pt": 419.5276,
+      "height_pt": 595.2756
+    },
+    {
+      "order": 19,
+      "name": "18",
+      "uid": "u3a93",
+      "spread_file": "Spreads/Spread_u3a8d.xml",
+      "width_pt": 419.5276,
+      "height_pt": 595.2756
+    },
+    {
+      "order": 20,
+      "name": "19",
+      "uid": "u422b",
+      "spread_file": "Spreads/Spread_u4226.xml",
+      "width_pt": 419.5276,
+      "height_pt": 595.2756
+    },
+    {
+      "order": 21,
+      "name": "20",
+      "uid": "u422c",
+      "spread_file": "Spreads/Spread_u4226.xml",
+      "width_pt": 419.5276,
+      "height_pt": 595.2756
+    },
+    {
+      "order": 22,
+      "name": "21",
+      "uid": "u4996",
+      "spread_file": "Spreads/Spread_u4991.xml",
+      "width_pt": 419.5276,
+      "height_pt": 595.2756
+    },
+    {
+      "order": 23,
+      "name": "22",
+      "uid": "u4997",
+      "spread_file": "Spreads/Spread_u4991.xml",
+      "width_pt": 419.5276,
+      "height_pt": 595.2756
+    },
+    {
+      "order": 24,
+      "name": "23",
+      "uid": "u512f",
+      "spread_file": "Spreads/Spread_u512a.xml",
+      "width_pt": 419.5276,
+      "height_pt": 595.2756
+    },
+    {
+      "order": 25,
+      "name": "24",
+      "uid": "u5130",
+      "spread_file": "Spreads/Spread_u512a.xml",
+      "width_pt": 419.5276,
+      "height_pt": 595.2756
+    },
+    {
+      "order": 26,
+      "name": "25",
+      "uid": "u58f4",
+      "spread_file": "Spreads/Spread_u58ef.xml",
+      "width_pt": 419.5276,
+      "height_pt": 595.2756
+    },
+    {
+      "order": 27,
+      "name": "26",
+      "uid": "u58f5",
+      "spread_file": "Spreads/Spread_u58ef.xml",
+      "width_pt": 419.5276,
+      "height_pt": 595.2756
+    },
+    {
+      "order": 28,
+      "name": "뒤표지-1",
+      "uid": "u62ea",
+      "spread_file": "Spreads/Spread_u62e5.xml",
+      "width_pt": 419.5276,
+      "height_pt": 595.2756
+    }
+  ],
+  "font_usage": {
+    "YES24": 4856,
+    "sans": 8701,
+    "blackhan": 144,
+    "gugi": 134,
+    "kirang": 187,
+    "singleday": 267,
+    "bawpic": 109,
+    "pixel": 117,
+    "gungseo": 236,
+    "jua": 218,
+    "brush": 811,
+    "serif": 108
+  },
+  "unknown_fonts": [],
+  "unsupported_items": {},
+  "line_fit_flags": [],
+  "approximate_wrapped_frames": [
+    {
+      "page": 3,
+      "frame": "u640",
+      "story": "u62e",
+      "explicit_lines": 11,
+      "proof_lines": 12
+    },
+    {
+      "page": 10,
+      "frame": "u1c42",
+      "story": "u1c30",
+      "explicit_lines": 1,
+      "proof_lines": 6
+    },
+    {
+      "page": 15,
+      "frame": "u2f83",
+      "story": "u2f71",
+      "explicit_lines": 1,
+      "proof_lines": 4
+    },
+    {
+      "page": 18,
+      "frame": "u3b5e",
+      "story": "u3b4c",
+      "explicit_lines": 1,
+      "proof_lines": 10
+    },
+    {
+      "page": 20,
+      "frame": "u42f7",
+      "story": "u42e5",
+      "explicit_lines": 1,
+      "proof_lines": 32
+    },
+    {
+      "page": 22,
+      "frame": "u4a62",
+      "story": "u4a50",
+      "explicit_lines": 6,
+      "proof_lines": 7
+    },
+    {
+      "page": 26,
+      "frame": "u59aa",
+      "story": "u5998",
+      "explicit_lines": 1,
+      "proof_lines": 2
+    }
+  ],
+  "mixed_style_frames": [
+    {
+      "page": 14,
+      "frame": "u2b5e",
+      "story": "u2b4c",
+      "lines": [
+        {
+          "text": "더 있을수도 있음",
+          "point_sizes": [
+            17.0
+          ],
+          "leading": 24.0,
+          "baseline": 14.586
+        },
+        {
+          "text": "내가 모를수도",
+          "point_sizes": [
+            15.0
+          ],
+          "leading": 22.0,
+          "baseline": 36.586
+        },
+        {
+          "text": "떠올리지 못했을수도",
+          "point_sizes": [
+            13.0
+          ],
+          "leading": 20.0,
+          "baseline": 56.586
+        },
+        {
+          "text": "내가 무지했을수도",
+          "point_sizes": [
+            11.0
+          ],
+          "leading": 18.0,
+          "baseline": 74.586
+        },
+        {
+          "text": "내가 감히",
+          "point_sizes": [
+            9.0
+          ],
+          "leading": 16.0,
+          "baseline": 90.586
+        },
+        {
+          "text": "내가 또 잘못을",
+          "point_sizes": [
+            7.5
+          ],
+          "leading": 14.0,
+          "baseline": 104.586
+        }
+      ]
+    }
+  ],
+  "embedded_images": 1,
+  "missing_glyphs": [],
+  "fonts_resolved": true,
+  "output_pdf": "/workspace/interlude_revision_20261103/rendering/Meme_Font_Book_Interludes_28p_Proof.pdf",
+  "page_label_postprocess": {
+    "status": "passed",
+    "old_pdf_sha256": "32304e92798c5c68441f41f6fda8793336f11804a3d19926573e9e489840daf2",
+    "new_pdf_sha256": "2dac40cf559a86a44affa36973a9f0a1dae8388e3b7b7a3437a3121e4e08048e",
+    "page_labels": [
+      "표지",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12",
+      "13",
+      "14",
+      "15",
+      "16",
+      "17",
+      "18",
+      "19",
+      "20",
+      "21",
+      "22",
+      "23",
+      "24",
+      "25",
+      "26",
+      "뒤표지"
+    ],
+    "all28_decoded_page_content_streams_byte_identical": true,
+    "metadata_only": true
+  }
+}
