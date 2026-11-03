@@ -1,0 +1,17 @@
+{
+  "source_kind": "User-provided modified INDD",
+  "source_indd_sha256": "6821eb9ff8efeb317d756cfa142e2d12f0d292a841d8fdb7b7e976054cc78a5d",
+  "input_conversion": "indd-utils136f973 (reverse engineered, not Adobe)",
+  "input_idml_sha256": "54de11d6ca9cc6d925e720b138a267482e2c5289d2f9b3458fef240adc70bb25",
+  "output_idml_sha256": "d8700478ebf5ade92448c262cf3ab28eeabb0332be0830fdb2fda6d0743448c2",
+  "proof_pdf_sha256": "d6f451cfed35dd76ba87bc55efd3d316fd92f6d9f3c343521b4ea2dff0ea9917",
+  "pages": 28,
+  "comparison_samples_preserved": 126,
+  "explanatory_stories_updated": 300,
+  "glyph_diagrams": 21,
+  "image_embedded": true,
+  "all_added_graphics_internal_vectors": true,
+  "external_graphic_dependencies_added": 0,
+  "source_indd_unchanged": true,
+  "actual_Adobe_InDesign_execution": false
+}

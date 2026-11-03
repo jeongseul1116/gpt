@@ -1,0 +1,1704 @@
+{
+  "status": "passed",
+  "source": "/workspace/tf_visual_revision_20261103/conversion/user_revision.idml",
+  "source_sha256": "54de11d6ca9cc6d925e720b138a267482e2c5289d2f9b3458fef240adc70bb25",
+  "candidate": "/workspace/tf_visual_revision_20261103/design/TF_Visual_Analysis_28p.idml",
+  "candidate_sha256": "d8700478ebf5ade92448c262cf3ab28eeabb0332be0830fdb2fda6d0743448c2",
+  "checks": [
+    {
+      "check": "ZIP CRC",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Same package member names and order",
+      "passed": true,
+      "detail": {
+        "source": 1061,
+        "candidate": 1061
+      }
+    },
+    {
+      "check": "Every XML member parses",
+      "passed": true,
+      "detail": 1060
+    },
+    {
+      "check": "Changed members exactly equal declared text and anatomy edits",
+      "passed": true,
+      "detail": {
+        "changed": 310,
+        "story_members": 300,
+        "spread_members": 10,
+        "unexpected": []
+      }
+    },
+    {
+      "check": "designmap.xml byte-identical",
+      "passed": true,
+      "detail": "2794f89c13c005d9549b972680c6d358aa0598a3226b2874134ac22ded78b764"
+    },
+    {
+      "check": "Resources/Fonts.xml byte-identical",
+      "passed": true,
+      "detail": "7d4bac21ec702a8f5a4c392e0ee2ac4f15882d20c23ddc86a4cc2a476862e5e5"
+    },
+    {
+      "check": "Resources/Graphic.xml byte-identical",
+      "passed": true,
+      "detail": "7e94ae4bae07e1942fb740a275dd6e40fdac0c800974a73e0f1eafb4f20b2eda"
+    },
+    {
+      "check": "Resources/Styles.xml byte-identical",
+      "passed": true,
+      "detail": "d8f1657dd3f7b8c4771c7ca40ee6004aa3c286b752e10c2bc66f728228675188"
+    },
+    {
+      "check": "Resources/Preferences.xml byte-identical",
+      "passed": true,
+      "detail": "0ef535b35becd5b6424d639664f145dbb74f059532a9a4716971c0e058938f1a"
+    },
+    {
+      "check": "MasterSpreads/MasterSpread_udb.xml byte-identical",
+      "passed": true,
+      "detail": "a56b6bd5866ad3649d9a56490225f2c207abc11891c0ce2fb33b5164809233ae"
+    },
+    {
+      "check": "Every untouched package member byte-identical",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Self identifiers unique",
+      "passed": true,
+      "detail": {
+        "source": 4562,
+        "candidate": 4522,
+        "candidate_duplicates": []
+      }
+    },
+    {
+      "check": "Existing identifiers retained except declared generic decoration removal",
+      "passed": true,
+      "detail": {
+        "declared_removed": 84,
+        "actual_removed": 84
+      }
+    },
+    {
+      "check": "Added identifiers are internal vector annotations",
+      "passed": true,
+      "detail": 44
+    },
+    {
+      "check": "New vector references resolve to existing resources",
+      "passed": true,
+      "detail": [
+        [
+          "AppliedObjectStyle",
+          "ObjectStyle/$ID/[None]"
+        ],
+        [
+          "FillColor",
+          "Color/Meme_pink"
+        ],
+        [
+          "FillColor",
+          "Color/Meme_red"
+        ],
+        [
+          "FillColor",
+          "Swatch/None"
+        ],
+        [
+          "ItemLayer",
+          "uda"
+        ],
+        [
+          "StrokeColor",
+          "Color/Meme_red"
+        ],
+        [
+          "StrokeColor",
+          "Swatch/None"
+        ]
+      ]
+    },
+    {
+      "check": "28 pages, 15 spreads, 1036 existing stories and text frames",
+      "passed": true,
+      "detail": {
+        "pages": 28,
+        "spreads": 15,
+        "stories": 1036,
+        "text_frames": 1036
+      }
+    },
+    {
+      "check": "All existing text frames, positions and geometry unchanged",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "All page properties and folio geometry unchanged",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "All story identifiers retained",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "All changed stories retain fonts, styles, properties and structure outside Content/Br",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Every edited Content payload matches declared editorial text",
+      "passed": true,
+      "detail": {
+        "count": 300,
+        "failures": []
+      }
+    },
+    {
+      "check": "Only font-analysis captions, rationale, effects, legends and one graphic-method paragraph targeted",
+      "passed": true,
+      "detail": {
+        "comparison_form": 108,
+        "comparison_voice": 108,
+        "short_cause_caption": 18,
+        "atlas_form": 12,
+        "atlas_personal_why": 12,
+        "panel_title": 9,
+        "panel_form": 9,
+        "panel_personal_why": 9,
+        "panel_meme_effect": 9,
+        "integrated_meme_effect": 3,
+        "atlas_legend": 2,
+        "intro_graphic_paragraph_only": 1
+      }
+    },
+    {
+      "check": "126 original font comparison sample frames and stories byte/semantic unchanged",
+      "passed": true,
+      "detail": {
+        "count": 126,
+        "failures": []
+      }
+    },
+    {
+      "check": "21 anatomy glyphs exactly match cached actual shaped font outlines and selected contours",
+      "passed": true,
+      "detail": [
+        {
+          "id": "u1b14",
+          "font_key": "singleday",
+          "glyph": "가",
+          "whole_path_error_pt": 0.0,
+          "highlight_path_error_pt": 0.0,
+          "passed": true,
+          "transform_unchanged": true
+        },
+        {
+          "id": "u22ad",
+          "font_key": "jua",
+          "glyph": "가",
+          "whole_path_error_pt": 0.0,
+          "highlight_path_error_pt": 0.0,
+          "passed": true,
+          "transform_unchanged": true
+        },
+        {
+          "id": "u2a46",
+          "font_key": "gungseo",
+          "glyph": "가",
+          "whole_path_error_pt": 0.0,
+          "highlight_path_error_pt": 0.0,
+          "passed": true,
+          "transform_unchanged": true
+        },
+        {
+          "id": "u3a30",
+          "font_key": "kirang",
+          "glyph": "가",
+          "whole_path_error_pt": 0.0,
+          "highlight_path_error_pt": 0.0,
+          "passed": true,
+          "transform_unchanged": true
+        },
+        {
+          "id": "u41c9",
+          "font_key": "brush",
+          "glyph": "가",
+          "whole_path_error_pt": 0.0,
+          "highlight_path_error_pt": 0.0,
+          "passed": true,
+          "transform_unchanged": true
+        },
+        {
+          "id": "u4934",
+          "font_key": "bawpic",
+          "glyph": "가",
+          "whole_path_error_pt": 0.0,
+          "highlight_path_error_pt": 0.0,
+          "passed": true,
+          "transform_unchanged": true
+        },
+        {
+          "id": "u50cd",
+          "font_key": "brush",
+          "glyph": "가",
+          "whole_path_error_pt": 0.0,
+          "highlight_path_error_pt": 0.0,
+          "passed": true,
+          "transform_unchanged": true
+        },
+        {
+          "id": "u5892",
+          "font_key": "pixel",
+          "glyph": "가",
+          "whole_path_error_pt": 0.0,
+          "highlight_path_error_pt": 0.0,
+          "passed": true,
+          "transform_unchanged": true
+        },
+        {
+          "id": "u770",
+          "font_key": "blackhan",
+          "glyph": "마",
+          "whole_path_error_pt": 0.0,
+          "highlight_path_error_pt": 0.0,
+          "passed": true,
+          "transform_unchanged": true
+        },
+        {
+          "id": "u7cf",
+          "font_key": "gugi",
+          "glyph": "가",
+          "whole_path_error_pt": 0.0,
+          "highlight_path_error_pt": 0.0,
+          "passed": true,
+          "transform_unchanged": true
+        },
+        {
+          "id": "u82e",
+          "font_key": "kirang",
+          "glyph": "가",
+          "whole_path_error_pt": 0.0,
+          "highlight_path_error_pt": 0.0,
+          "passed": true,
+          "transform_unchanged": true
+        },
+        {
+          "id": "u88d",
+          "font_key": "singleday",
+          "glyph": "가",
+          "whole_path_error_pt": 0.0,
+          "highlight_path_error_pt": 0.0,
+          "passed": true,
+          "transform_unchanged": true
+        },
+        {
+          "id": "u8ec",
+          "font_key": "bawpic",
+          "glyph": "가",
+          "whole_path_error_pt": 0.0,
+          "highlight_path_error_pt": 0.0,
+          "passed": true,
+          "transform_unchanged": true
+        },
+        {
+          "id": "u94b",
+          "font_key": "pixel",
+          "glyph": "가",
+          "whole_path_error_pt": 0.0,
+          "highlight_path_error_pt": 0.0,
+          "passed": true,
+          "transform_unchanged": true
+        },
+        {
+          "id": "ua49",
+          "font_key": "gungseo",
+          "glyph": "가",
+          "whole_path_error_pt": 0.0,
+          "highlight_path_error_pt": 0.0,
+          "passed": true,
+          "transform_unchanged": true
+        },
+        {
+          "id": "uaa8",
+          "font_key": "jua",
+          "glyph": "가",
+          "whole_path_error_pt": 0.0,
+          "highlight_path_error_pt": 0.0,
+          "passed": true,
+          "transform_unchanged": true
+        },
+        {
+          "id": "ub07",
+          "font_key": "brush",
+          "glyph": "가",
+          "whole_path_error_pt": 0.0,
+          "highlight_path_error_pt": 0.0,
+          "passed": true,
+          "transform_unchanged": true
+        },
+        {
+          "id": "ub66",
+          "font_key": "YES24",
+          "glyph": "가",
+          "whole_path_error_pt": 0.0,
+          "highlight_path_error_pt": 0.0,
+          "passed": true,
+          "transform_unchanged": true
+        },
+        {
+          "id": "ubc5",
+          "font_key": "sans",
+          "glyph": "가",
+          "whole_path_error_pt": 0.0,
+          "highlight_path_error_pt": 0.0,
+          "passed": true,
+          "transform_unchanged": true
+        },
+        {
+          "id": "uc24",
+          "font_key": "serif",
+          "glyph": "가",
+          "whole_path_error_pt": 0.0,
+          "highlight_path_error_pt": 0.0,
+          "passed": true,
+          "transform_unchanged": true
+        },
+        {
+          "id": "u137b",
+          "font_key": "blackhan",
+          "glyph": "마",
+          "whole_path_error_pt": 0.0,
+          "highlight_path_error_pt": 0.0,
+          "passed": true,
+          "transform_unchanged": true
+        }
+      ]
+    },
+    {
+      "check": "Anatomy transforms unchanged",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "All spread content outside declared anatomy glyphs/decorations/new vectors unchanged",
+      "passed": true,
+      "detail": [
+        {
+          "member": "Spreads/Spread_u670.xml",
+          "passed": true
+        },
+        {
+          "member": "Spreads/Spread_u1b71.xml",
+          "passed": true
+        },
+        {
+          "member": "Spreads/Spread_u4991.xml",
+          "passed": true
+        },
+        {
+          "member": "Spreads/Spread_u512a.xml",
+          "passed": true
+        },
+        {
+          "member": "Spreads/Spread_u13d8.xml",
+          "passed": true
+        },
+        {
+          "member": "Spreads/Spread_u3a8d.xml",
+          "passed": true
+        },
+        {
+          "member": "Spreads/Spread_u4226.xml",
+          "passed": true
+        },
+        {
+          "member": "Spreads/Spread_u32f4.xml",
+          "passed": true
+        },
+        {
+          "member": "Spreads/Spread_uc29.xml",
+          "passed": true
+        },
+        {
+          "member": "Spreads/Spread_u230a.xml",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "check": "Original embedded raster image preserved byte-exact with metadata/geometry",
+      "passed": true,
+      "detail": [
+        {
+          "id": "u1e3",
+          "member": "Spreads/Spread_u166.xml",
+          "embedded_bytes": 922981,
+          "sha256": "b8a68655e74748ada19123724d935f88fe9efa2b22c411a9537e8829821d7f3f",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "check": "No added external graphics dependencies",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Glyph metadata outside Name and PathGeometry retained",
+      "passed": true,
+      "detail": [
+        {
+          "id": "u1b14",
+          "passed": true
+        },
+        {
+          "id": "u22ad",
+          "passed": true
+        },
+        {
+          "id": "u2a46",
+          "passed": true
+        },
+        {
+          "id": "u3a30",
+          "passed": true
+        },
+        {
+          "id": "u41c9",
+          "passed": true
+        },
+        {
+          "id": "u4934",
+          "passed": true
+        },
+        {
+          "id": "u50cd",
+          "passed": true
+        },
+        {
+          "id": "u5892",
+          "passed": true
+        },
+        {
+          "id": "u770",
+          "passed": true
+        },
+        {
+          "id": "u7cf",
+          "passed": true
+        },
+        {
+          "id": "u82e",
+          "passed": true
+        },
+        {
+          "id": "u88d",
+          "passed": true
+        },
+        {
+          "id": "u8ec",
+          "passed": true
+        },
+        {
+          "id": "u94b",
+          "passed": true
+        },
+        {
+          "id": "ua49",
+          "passed": true
+        },
+        {
+          "id": "uaa8",
+          "passed": true
+        },
+        {
+          "id": "ub07",
+          "passed": true
+        },
+        {
+          "id": "ub66",
+          "passed": true
+        },
+        {
+          "id": "ubc5",
+          "passed": true
+        },
+        {
+          "id": "uc24",
+          "passed": true
+        },
+        {
+          "id": "u137b",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "check": "Every scanned story, layer, style, color and page reference resolves",
+      "passed": true,
+      "detail": {
+        "source_unresolved": [],
+        "candidate_unresolved": []
+      }
+    },
+    {
+      "check": "All package src references resolve",
+      "passed": true,
+      "detail": []
+    },
+    {
+      "check": "No remaining attribute references a removed decoration",
+      "passed": true,
+      "detail": []
+    },
+    {
+      "check": "All new vector anchors and controls lie on the same page as source glyph",
+      "passed": true,
+      "detail": [
+        {
+          "id": "tfV20261103_u82e_feature",
+          "bounds_spread_pt": [
+            -81.5326,
+            -9.521800000000042,
+            -72.08859999999999,
+            2.618199999999945
+          ],
+          "containing_page_ids": [
+            "u675"
+          ],
+          "same_page_as_source_glyph": true,
+          "passed": true
+        },
+        {
+          "id": "tfV20261103_u50cd_leader",
+          "bounds_spread_pt": [
+            51.249,
+            225.31419999999997,
+            56.049,
+            227.31419999999997
+          ],
+          "containing_page_ids": [
+            "u4997"
+          ],
+          "same_page_as_source_glyph": true,
+          "passed": true
+        },
+        {
+          "id": "tfV20261103_u2a46_feature",
+          "bounds_spread_pt": [
+            46.325,
+            217.40219999999994,
+            55.877,
+            226.88219999999995
+          ],
+          "containing_page_ids": [
+            "u2310"
+          ],
+          "same_page_as_source_glyph": true,
+          "passed": true
+        },
+        {
+          "id": "tfV20261103_uaa8_feature",
+          "bounds_spread_pt": [
+            348.525,
+            -81.39780000000002,
+            358.477,
+            -63.73380000000003
+          ],
+          "containing_page_ids": [
+            "u676"
+          ],
+          "same_page_as_source_glyph": true,
+          "passed": true
+        },
+        {
+          "id": "tfV20261103_u1b14_leader",
+          "bounds_spread_pt": [
+            57.932,
+            215.35470000000004,
+            62.732,
+            217.35470000000004
+          ],
+          "containing_page_ids": [
+            "u13de"
+          ],
+          "same_page_as_source_glyph": true,
+          "passed": true
+        },
+        {
+          "id": "tfV20261103_u770_feature",
+          "bounds_spread_pt": [
+            -76.73259999999999,
+            -145.08580000000003,
+            -75.02859999999998,
+            -134.95780000000002
+          ],
+          "containing_page_ids": [
+            "u675"
+          ],
+          "same_page_as_source_glyph": true,
+          "passed": true
+        },
+        {
+          "id": "tfV20261103_u137b_stem",
+          "bounds_spread_pt": [
+            45.12499999999999,
+            221.26219999999995,
+            49.63699999999999,
+            222.66220000000004
+          ],
+          "containing_page_ids": [
+            "uc2f"
+          ],
+          "same_page_as_source_glyph": true,
+          "passed": true
+        },
+        {
+          "id": "tfV20261103_u137b_feature",
+          "bounds_spread_pt": [
+            49.637,
+            215.9142,
+            51.341,
+            226.04219999999992
+          ],
+          "containing_page_ids": [
+            "uc2f"
+          ],
+          "same_page_as_source_glyph": true,
+          "passed": true
+        },
+        {
+          "id": "tfV20261103_u41c9_leader",
+          "bounds_spread_pt": [
+            51.249,
+            225.31419999999997,
+            56.049,
+            227.31419999999997
+          ],
+          "containing_page_ids": [
+            "u3a93"
+          ],
+          "same_page_as_source_glyph": true,
+          "passed": true
+        },
+        {
+          "id": "tfV20261103_ub07_leader",
+          "bounds_spread_pt": [
+            355.745,
+            -1.6858000000000288,
+            360.545,
+            0.31419999999997117
+          ],
+          "containing_page_ids": [
+            "u676"
+          ],
+          "same_page_as_source_glyph": true,
+          "passed": true
+        },
+        {
+          "id": "tfV20261103_u94b_leader",
+          "bounds_spread_pt": [
+            -71.4846,
+            194.11219999999997,
+            -66.68459999999999,
+            196.11219999999997
+          ],
+          "containing_page_ids": [
+            "u675"
+          ],
+          "same_page_as_source_glyph": true,
+          "passed": true
+        },
+        {
+          "id": "tfV20261103_u7cf_feature",
+          "bounds_spread_pt": [
+            -63.4366,
+            -76.69380000000004,
+            -59.74060000000003,
+            -72.99780000000004
+          ],
+          "containing_page_ids": [
+            "u675"
+          ],
+          "same_page_as_source_glyph": true,
+          "passed": true
+        },
+        {
+          "id": "tfV20261103_u1b14_feature",
+          "bounds_spread_pt": [
+            52.122,
+            215.50319999999994,
+            57.232,
+            219.20620000000002
+          ],
+          "containing_page_ids": [
+            "u13de"
+          ],
+          "same_page_as_source_glyph": true,
+          "passed": true
+        },
+        {
+          "id": "tfV20261103_u5892_leader",
+          "bounds_spread_pt": [
+            54.885000000000005,
+            220.11219999999997,
+            59.685,
+            222.11219999999997
+          ],
+          "containing_page_ids": [
+            "u5130"
+          ],
+          "same_page_as_source_glyph": true,
+          "passed": true
+        },
+        {
+          "id": "tfV20261103_ubc5_leader",
+          "bounds_spread_pt": [
+            370.217,
+            126.36219999999997,
+            375.017,
+            128.36219999999997
+          ],
+          "containing_page_ids": [
+            "u676"
+          ],
+          "same_page_as_source_glyph": true,
+          "passed": true
+        },
+        {
+          "id": "tfV20261103_uaa8_leader",
+          "bounds_spread_pt": [
+            359.17699999999996,
+            -74.56580000000002,
+            363.977,
+            -72.56580000000002
+          ],
+          "containing_page_ids": [
+            "u676"
+          ],
+          "same_page_as_source_glyph": true,
+          "passed": true
+        },
+        {
+          "id": "tfV20261103_ubc5_feature",
+          "bounds_spread_pt": [
+            364.069,
+            117.51419999999996,
+            369.517,
+            139.2102
+          ],
+          "containing_page_ids": [
+            "u676"
+          ],
+          "same_page_as_source_glyph": true,
+          "passed": true
+        },
+        {
+          "id": "tfV20261103_u5892_feature",
+          "bounds_spread_pt": [
+            45.185,
+            213.86219999999997,
+            54.185,
+            230.36219999999997
+          ],
+          "containing_page_ids": [
+            "u5130"
+          ],
+          "same_page_as_source_glyph": true,
+          "passed": true
+        },
+        {
+          "id": "tfV20261103_u4934_feature",
+          "bounds_spread_pt": [
+            43.925,
+            217.30619999999993,
+            53.045,
+            227.48219999999998
+          ],
+          "containing_page_ids": [
+            "u422c"
+          ],
+          "same_page_as_source_glyph": true,
+          "passed": true
+        },
+        {
+          "id": "tfV20261103_ub07_feature",
+          "bounds_spread_pt": [
+            348.733,
+            -4.189800000000048,
+            355.045,
+            4.802199999999971
+          ],
+          "containing_page_ids": [
+            "u676"
+          ],
+          "same_page_as_source_glyph": true,
+          "passed": true
+        },
+        {
+          "id": "tfV20261103_ua49_leader",
+          "bounds_spread_pt": [
+            361.073,
+            -140.85780000000003,
+            365.873,
+            -138.85780000000003
+          ],
+          "containing_page_ids": [
+            "u676"
+          ],
+          "same_page_as_source_glyph": true,
+          "passed": true
+        },
+        {
+          "id": "tfV20261103_u50cd_feature",
+          "bounds_spread_pt": [
+            44.237,
+            222.81019999999995,
+            50.549,
+            231.80220000000003
+          ],
+          "containing_page_ids": [
+            "u4997"
+          ],
+          "same_page_as_source_glyph": true,
+          "passed": true
+        },
+        {
+          "id": "tfV20261103_u770_stem",
+          "bounds_spread_pt": [
+            -81.24459999999999,
+            -139.73780000000002,
+            -76.73259999999999,
+            -138.33780000000004
+          ],
+          "containing_page_ids": [
+            "u675"
+          ],
+          "same_page_as_source_glyph": true,
+          "passed": true
+        },
+        {
+          "id": "tfV20261103_u3a30_leader",
+          "bounds_spread_pt": [
+            54.957,
+            221.55220000000003,
+            59.757,
+            223.55220000000003
+          ],
+          "containing_page_ids": [
+            "u32fa"
+          ],
+          "same_page_as_source_glyph": true,
+          "passed": true
+        },
+        {
+          "id": "tfV20261103_u88d_feature",
+          "bounds_spread_pt": [
+            -74.24860000000001,
+            55.50319999999999,
+            -69.1386,
+            59.20619999999997
+          ],
+          "containing_page_ids": [
+            "u675"
+          ],
+          "same_page_as_source_glyph": true,
+          "passed": true
+        },
+        {
+          "id": "tfV20261103_u137b_leader",
+          "bounds_spread_pt": [
+            52.041000000000004,
+            218.97819999999996,
+            56.841,
+            220.97819999999996
+          ],
+          "containing_page_ids": [
+            "uc2f"
+          ],
+          "same_page_as_source_glyph": true,
+          "passed": true
+        },
+        {
+          "id": "tfV20261103_u2a46_leader",
+          "bounds_spread_pt": [
+            56.577000000000005,
+            220.14219999999995,
+            61.377,
+            222.14219999999995
+          ],
+          "containing_page_ids": [
+            "u2310"
+          ],
+          "same_page_as_source_glyph": true,
+          "passed": true
+        },
+        {
+          "id": "tfV20261103_uc24_feature",
+          "bounds_spread_pt": [
+            362.557,
+            183.8902,
+            371.245,
+            206.95419999999996
+          ],
+          "containing_page_ids": [
+            "u676"
+          ],
+          "same_page_as_source_glyph": true,
+          "passed": true
+        },
+        {
+          "id": "tfV20261103_u8ec_feature",
+          "bounds_spread_pt": [
+            -82.44459999999998,
+            124.30619999999999,
+            -73.32460000000003,
+            134.48219999999998
+          ],
+          "containing_page_ids": [
+            "u675"
+          ],
+          "same_page_as_source_glyph": true,
+          "passed": true
+        },
+        {
+          "id": "tfV20261103_u94b_feature",
+          "bounds_spread_pt": [
+            -81.18459999999999,
+            187.86219999999997,
+            -72.18459999999999,
+            204.36219999999997
+          ],
+          "containing_page_ids": [
+            "u675"
+          ],
+          "same_page_as_source_glyph": true,
+          "passed": true
+        },
+        {
+          "id": "tfV20261103_u770_leader",
+          "bounds_spread_pt": [
+            -74.3286,
+            -142.02180000000004,
+            -69.52859999999998,
+            -140.02180000000004
+          ],
+          "containing_page_ids": [
+            "u675"
+          ],
+          "same_page_as_source_glyph": true,
+          "passed": true
+        },
+        {
+          "id": "tfV20261103_u88d_leader",
+          "bounds_spread_pt": [
+            -68.43860000000001,
+            55.35469999999998,
+            -63.6386,
+            57.35469999999998
+          ],
+          "containing_page_ids": [
+            "u675"
+          ],
+          "same_page_as_source_glyph": true,
+          "passed": true
+        },
+        {
+          "id": "tfV20261103_ub66_feature",
+          "bounds_spread_pt": [
+            349.765,
+            50.99419999999998,
+            360.037,
+            71.0102
+          ],
+          "containing_page_ids": [
+            "u676"
+          ],
+          "same_page_as_source_glyph": true,
+          "passed": true
+        },
+        {
+          "id": "tfV20261103_u3a30_feature",
+          "bounds_spread_pt": [
+            44.837,
+            217.47819999999996,
+            54.281,
+            229.61819999999994
+          ],
+          "containing_page_ids": [
+            "u32fa"
+          ],
+          "same_page_as_source_glyph": true,
+          "passed": true
+        },
+        {
+          "id": "tfV20261103_ua49_feature",
+          "bounds_spread_pt": [
+            350.821,
+            -143.59780000000003,
+            360.373,
+            -134.11780000000002
+          ],
+          "containing_page_ids": [
+            "u676"
+          ],
+          "same_page_as_source_glyph": true,
+          "passed": true
+        },
+        {
+          "id": "tfV20261103_u22ad_leader",
+          "bounds_spread_pt": [
+            54.681000000000004,
+            219.43419999999998,
+            59.481,
+            221.43419999999998
+          ],
+          "containing_page_ids": [
+            "u1b77"
+          ],
+          "same_page_as_source_glyph": true,
+          "passed": true
+        },
+        {
+          "id": "tfV20261103_u82e_leader",
+          "bounds_spread_pt": [
+            -71.4126,
+            -5.447800000000029,
+            -66.61259999999999,
+            -3.4478000000000293
+          ],
+          "containing_page_ids": [
+            "u675"
+          ],
+          "same_page_as_source_glyph": true,
+          "passed": true
+        },
+        {
+          "id": "tfV20261103_u7cf_leader",
+          "bounds_spread_pt": [
+            -59.04060000000004,
+            -76.84580000000005,
+            -54.24060000000003,
+            -74.84580000000005
+          ],
+          "containing_page_ids": [
+            "u675"
+          ],
+          "same_page_as_source_glyph": true,
+          "passed": true
+        },
+        {
+          "id": "tfV20261103_u22ad_feature",
+          "bounds_spread_pt": [
+            44.029,
+            212.60219999999998,
+            53.981,
+            230.26619999999997
+          ],
+          "containing_page_ids": [
+            "u1b77"
+          ],
+          "same_page_as_source_glyph": true,
+          "passed": true
+        },
+        {
+          "id": "tfV20261103_u41c9_feature",
+          "bounds_spread_pt": [
+            44.237,
+            222.81019999999995,
+            50.549,
+            231.80220000000003
+          ],
+          "containing_page_ids": [
+            "u3a93"
+          ],
+          "same_page_as_source_glyph": true,
+          "passed": true
+        },
+        {
+          "id": "tfV20261103_ub66_leader",
+          "bounds_spread_pt": [
+            360.73699999999997,
+            59.00219999999996,
+            365.537,
+            61.00219999999996
+          ],
+          "containing_page_ids": [
+            "u676"
+          ],
+          "same_page_as_source_glyph": true,
+          "passed": true
+        },
+        {
+          "id": "tfV20261103_u4934_leader",
+          "bounds_spread_pt": [
+            53.745000000000005,
+            220.3941999999999,
+            58.545,
+            222.3941999999999
+          ],
+          "containing_page_ids": [
+            "u422c"
+          ],
+          "same_page_as_source_glyph": true,
+          "passed": true
+        },
+        {
+          "id": "tfV20261103_u8ec_leader",
+          "bounds_spread_pt": [
+            -72.62460000000004,
+            127.39420000000001,
+            -67.82460000000003,
+            129.3942
+          ],
+          "containing_page_ids": [
+            "u675"
+          ],
+          "same_page_as_source_glyph": true,
+          "passed": true
+        },
+        {
+          "id": "tfV20261103_uc24_leader",
+          "bounds_spread_pt": [
+            371.921,
+            193.42219999999998,
+            376.721,
+            195.42219999999998
+          ],
+          "containing_page_ids": [
+            "u676"
+          ],
+          "same_page_as_source_glyph": true,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "check": "Exactly 21 planes and 63 original line/cap rectangles removed",
+      "passed": true,
+      "detail": {
+        "roles": {
+          "generic_plane": 21,
+          "advance_strip": 63
+        },
+        "failures": []
+      }
+    },
+    {
+      "check": "Exactly 21 feature, 21 leader and 2 stem vectors added",
+      "passed": true,
+      "detail": {
+        "feature": 21,
+        "leader": 21,
+        "stem": 2
+      }
+    },
+    {
+      "check": "Final approximate proof and 28 page PNGs match final candidate",
+      "passed": true,
+      "detail": {
+        "page_count": 28,
+        "page_sizes_pt": [
+          [
+            419.528,
+            595.276
+          ]
+        ],
+        "source_sha256": "d8700478ebf5ade92448c262cf3ab28eeabb0332be0830fdb2fda6d0743448c2",
+        "pdf_sha256": "d6f451cfed35dd76ba87bc55efd3d316fd92f6d9f3c343521b4ea2dff0ea9917"
+      }
+    },
+    {
+      "check": "Uploaded native INDD remains byte-identical to initial inspection",
+      "passed": true,
+      "detail": {
+        "path": "/workspace/attachments/81529fe8-6d35-4f02-826c-21bc5a80b538/수정파일.indd",
+        "sha256": "6821eb9ff8efeb317d756cfa142e2d12f0d292a841d8fdb7b7e976054cc78a5d"
+      }
+    }
+  ],
+  "changed_members": [
+    "Spreads/Spread_u13d8.xml",
+    "Spreads/Spread_u1b71.xml",
+    "Spreads/Spread_u230a.xml",
+    "Spreads/Spread_u32f4.xml",
+    "Spreads/Spread_u3a8d.xml",
+    "Spreads/Spread_u4226.xml",
+    "Spreads/Spread_u4991.xml",
+    "Spreads/Spread_u512a.xml",
+    "Spreads/Spread_u670.xml",
+    "Spreads/Spread_uc29.xml",
+    "Stories/Story_u100d.xml",
+    "Stories/Story_u1023.xml",
+    "Stories/Story_u1098.xml",
+    "Stories/Story_u10ae.xml",
+    "Stories/Story_u1123.xml",
+    "Stories/Story_u1139.xml",
+    "Stories/Story_u11ae.xml",
+    "Stories/Story_u11c4.xml",
+    "Stories/Story_u1239.xml",
+    "Stories/Story_u124f.xml",
+    "Stories/Story_u12c4.xml",
+    "Stories/Story_u12da.xml",
+    "Stories/Story_u134f.xml",
+    "Stories/Story_u1365.xml",
+    "Stories/Story_u1381.xml",
+    "Stories/Story_u1397.xml",
+    "Stories/Story_u13ad.xml",
+    "Stories/Story_u13c3.xml",
+    "Stories/Story_u1605.xml",
+    "Stories/Story_u161b.xml",
+    "Stories/Story_u1690.xml",
+    "Stories/Story_u16a6.xml",
+    "Stories/Story_u171b.xml",
+    "Stories/Story_u1731.xml",
+    "Stories/Story_u17a6.xml",
+    "Stories/Story_u17bc.xml",
+    "Stories/Story_u1831.xml",
+    "Stories/Story_u1847.xml",
+    "Stories/Story_u18bc.xml",
+    "Stories/Story_u18d2.xml",
+    "Stories/Story_u1947.xml",
+    "Stories/Story_u195d.xml",
+    "Stories/Story_u19d2.xml",
+    "Stories/Story_u19e8.xml",
+    "Stories/Story_u1a5d.xml",
+    "Stories/Story_u1a73.xml",
+    "Stories/Story_u1ae8.xml",
+    "Stories/Story_u1afe.xml",
+    "Stories/Story_u1b1a.xml",
+    "Stories/Story_u1b30.xml",
+    "Stories/Story_u1b46.xml",
+    "Stories/Story_u1b5c.xml",
+    "Stories/Story_u1d9e.xml",
+    "Stories/Story_u1db4.xml",
+    "Stories/Story_u1e29.xml",
+    "Stories/Story_u1e3f.xml",
+    "Stories/Story_u1eb4.xml",
+    "Stories/Story_u1eca.xml",
+    "Stories/Story_u1f3f.xml",
+    "Stories/Story_u1f55.xml",
+    "Stories/Story_u1fca.xml",
+    "Stories/Story_u1fe0.xml",
+    "Stories/Story_u2055.xml",
+    "Stories/Story_u206b.xml",
+    "Stories/Story_u20e0.xml",
+    "Stories/Story_u20f6.xml",
+    "Stories/Story_u216b.xml",
+    "Stories/Story_u2181.xml",
+    "Stories/Story_u21f6.xml",
+    "Stories/Story_u220c.xml",
+    "Stories/Story_u2281.xml",
+    "Stories/Story_u2297.xml",
+    "Stories/Story_u22b3.xml",
+    "Stories/Story_u22c9.xml",
+    "Stories/Story_u22df.xml",
+    "Stories/Story_u22f5.xml",
+    "Stories/Story_u2537.xml",
+    "Stories/Story_u254d.xml",
+    "Stories/Story_u25c2.xml",
+    "Stories/Story_u25d8.xml",
+    "Stories/Story_u264d.xml",
+    "Stories/Story_u2663.xml",
+    "Stories/Story_u26d8.xml",
+    "Stories/Story_u26ee.xml",
+    "Stories/Story_u2763.xml",
+    "Stories/Story_u2779.xml",
+    "Stories/Story_u27ee.xml",
+    "Stories/Story_u2804.xml",
+    "Stories/Story_u2879.xml",
+    "Stories/Story_u288f.xml",
+    "Stories/Story_u2904.xml",
+    "Stories/Story_u291a.xml",
+    "Stories/Story_u298f.xml",
+    "Stories/Story_u29a5.xml",
+    "Stories/Story_u2a1a.xml",
+    "Stories/Story_u2a30.xml",
+    "Stories/Story_u2a4c.xml",
+    "Stories/Story_u2a62.xml",
+    "Stories/Story_u2a78.xml",
+    "Stories/Story_u2a8e.xml",
+    "Stories/Story_u2bc1.xml",
+    "Stories/Story_u2bd7.xml",
+    "Stories/Story_u2c4c.xml",
+    "Stories/Story_u2c62.xml",
+    "Stories/Story_u2cd7.xml",
+    "Stories/Story_u2ced.xml",
+    "Stories/Story_u2d62.xml",
+    "Stories/Story_u2d78.xml",
+    "Stories/Story_u2ded.xml",
+    "Stories/Story_u2e03.xml",
+    "Stories/Story_u2e78.xml",
+    "Stories/Story_u2e8e.xml",
+    "Stories/Story_u2ea4.xml",
+    "Stories/Story_u2fe6.xml",
+    "Stories/Story_u2ffc.xml",
+    "Stories/Story_u3071.xml",
+    "Stories/Story_u3087.xml",
+    "Stories/Story_u30fc.xml",
+    "Stories/Story_u3112.xml",
+    "Stories/Story_u3187.xml",
+    "Stories/Story_u319d.xml",
+    "Stories/Story_u3212.xml",
+    "Stories/Story_u3228.xml",
+    "Stories/Story_u329d.xml",
+    "Stories/Story_u32b3.xml",
+    "Stories/Story_u32c9.xml",
+    "Stories/Story_u3521.xml",
+    "Stories/Story_u3537.xml",
+    "Stories/Story_u35ac.xml",
+    "Stories/Story_u35c2.xml",
+    "Stories/Story_u3637.xml",
+    "Stories/Story_u364d.xml",
+    "Stories/Story_u36c2.xml",
+    "Stories/Story_u36d8.xml",
+    "Stories/Story_u374d.xml",
+    "Stories/Story_u3763.xml",
+    "Stories/Story_u37d8.xml",
+    "Stories/Story_u37ee.xml",
+    "Stories/Story_u3863.xml",
+    "Stories/Story_u3879.xml",
+    "Stories/Story_u38ee.xml",
+    "Stories/Story_u3904.xml",
+    "Stories/Story_u3979.xml",
+    "Stories/Story_u398f.xml",
+    "Stories/Story_u3a04.xml",
+    "Stories/Story_u3a1a.xml",
+    "Stories/Story_u3a36.xml",
+    "Stories/Story_u3a4c.xml",
+    "Stories/Story_u3a62.xml",
+    "Stories/Story_u3a78.xml",
+    "Stories/Story_u3cba.xml",
+    "Stories/Story_u3cd0.xml",
+    "Stories/Story_u3d45.xml",
+    "Stories/Story_u3d5b.xml",
+    "Stories/Story_u3dd0.xml",
+    "Stories/Story_u3de6.xml",
+    "Stories/Story_u3e5b.xml",
+    "Stories/Story_u3e71.xml",
+    "Stories/Story_u3ee6.xml",
+    "Stories/Story_u3efc.xml",
+    "Stories/Story_u3f71.xml",
+    "Stories/Story_u3f87.xml",
+    "Stories/Story_u3ffc.xml",
+    "Stories/Story_u4012.xml",
+    "Stories/Story_u4087.xml",
+    "Stories/Story_u409d.xml",
+    "Stories/Story_u4112.xml",
+    "Stories/Story_u4128.xml",
+    "Stories/Story_u419d.xml",
+    "Stories/Story_u41b3.xml",
+    "Stories/Story_u41cf.xml",
+    "Stories/Story_u41e5.xml",
+    "Stories/Story_u41fb.xml",
+    "Stories/Story_u4211.xml",
+    "Stories/Story_u4425.xml",
+    "Stories/Story_u443b.xml",
+    "Stories/Story_u44b0.xml",
+    "Stories/Story_u44c6.xml",
+    "Stories/Story_u453b.xml",
+    "Stories/Story_u4551.xml",
+    "Stories/Story_u45c6.xml",
+    "Stories/Story_u45dc.xml",
+    "Stories/Story_u4651.xml",
+    "Stories/Story_u4667.xml",
+    "Stories/Story_u46dc.xml",
+    "Stories/Story_u46f2.xml",
+    "Stories/Story_u4767.xml",
+    "Stories/Story_u477d.xml",
+    "Stories/Story_u47f2.xml",
+    "Stories/Story_u4808.xml",
+    "Stories/Story_u487d.xml",
+    "Stories/Story_u4893.xml",
+    "Stories/Story_u4908.xml",
+    "Stories/Story_u491e.xml",
+    "Stories/Story_u493a.xml",
+    "Stories/Story_u4950.xml",
+    "Stories/Story_u4966.xml",
+    "Stories/Story_u497c.xml",
+    "Stories/Story_u4bbe.xml",
+    "Stories/Story_u4bd4.xml",
+    "Stories/Story_u4c49.xml",
+    "Stories/Story_u4c5f.xml",
+    "Stories/Story_u4cd4.xml",
+    "Stories/Story_u4cea.xml",
+    "Stories/Story_u4d5f.xml",
+    "Stories/Story_u4d75.xml",
+    "Stories/Story_u4dea.xml",
+    "Stories/Story_u4e00.xml",
+    "Stories/Story_u4e75.xml",
+    "Stories/Story_u4e8b.xml",
+    "Stories/Story_u4f00.xml",
+    "Stories/Story_u4f16.xml",
+    "Stories/Story_u4f8b.xml",
+    "Stories/Story_u4fa1.xml",
+    "Stories/Story_u5016.xml",
+    "Stories/Story_u502c.xml",
+    "Stories/Story_u50a1.xml",
+    "Stories/Story_u50b7.xml",
+    "Stories/Story_u50d3.xml",
+    "Stories/Story_u50e9.xml",
+    "Stories/Story_u50ff.xml",
+    "Stories/Story_u5115.xml",
+    "Stories/Story_u5383.xml",
+    "Stories/Story_u5399.xml",
+    "Stories/Story_u540e.xml",
+    "Stories/Story_u5424.xml",
+    "Stories/Story_u5499.xml",
+    "Stories/Story_u54af.xml",
+    "Stories/Story_u5524.xml",
+    "Stories/Story_u553a.xml",
+    "Stories/Story_u55af.xml",
+    "Stories/Story_u55c5.xml",
+    "Stories/Story_u563a.xml",
+    "Stories/Story_u5650.xml",
+    "Stories/Story_u56c5.xml",
+    "Stories/Story_u56db.xml",
+    "Stories/Story_u5750.xml",
+    "Stories/Story_u5766.xml",
+    "Stories/Story_u57db.xml",
+    "Stories/Story_u57f1.xml",
+    "Stories/Story_u5866.xml",
+    "Stories/Story_u587c.xml",
+    "Stories/Story_u5898.xml",
+    "Stories/Story_u58ae.xml",
+    "Stories/Story_u58c4.xml",
+    "Stories/Story_u58da.xml",
+    "Stories/Story_u5a0d.xml",
+    "Stories/Story_u5a23.xml",
+    "Stories/Story_u5a98.xml",
+    "Stories/Story_u5aae.xml",
+    "Stories/Story_u5b23.xml",
+    "Stories/Story_u5b39.xml",
+    "Stories/Story_u5bae.xml",
+    "Stories/Story_u5bc4.xml",
+    "Stories/Story_u5c39.xml",
+    "Stories/Story_u5c4f.xml",
+    "Stories/Story_u5cc4.xml",
+    "Stories/Story_u5cda.xml",
+    "Stories/Story_u5cf0.xml",
+    "Stories/Story_u5e14.xml",
+    "Stories/Story_u5e56.xml",
+    "Stories/Story_u5e98.xml",
+    "Stories/Story_u5eda.xml",
+    "Stories/Story_u5f1c.xml",
+    "Stories/Story_u5f5e.xml",
+    "Stories/Story_u5fcd.xml",
+    "Stories/Story_u600f.xml",
+    "Stories/Story_u6051.xml",
+    "Stories/Story_u6093.xml",
+    "Stories/Story_u60d5.xml",
+    "Stories/Story_u6117.xml",
+    "Stories/Story_u6186.xml",
+    "Stories/Story_u61c8.xml",
+    "Stories/Story_u620a.xml",
+    "Stories/Story_u624c.xml",
+    "Stories/Story_u628e.xml",
+    "Stories/Story_u62d0.xml",
+    "Stories/Story_u62e.xml",
+    "Stories/Story_u6a6.xml",
+    "Stories/Story_u744.xml",
+    "Stories/Story_u75a.xml",
+    "Stories/Story_u7a3.xml",
+    "Stories/Story_u7b9.xml",
+    "Stories/Story_u802.xml",
+    "Stories/Story_u818.xml",
+    "Stories/Story_u861.xml",
+    "Stories/Story_u877.xml",
+    "Stories/Story_u8c0.xml",
+    "Stories/Story_u8d6.xml",
+    "Stories/Story_u91f.xml",
+    "Stories/Story_u935.xml",
+    "Stories/Story_u97f.xml",
+    "Stories/Story_ua1d.xml",
+    "Stories/Story_ua33.xml",
+    "Stories/Story_ua7c.xml",
+    "Stories/Story_ua92.xml",
+    "Stories/Story_uadb.xml",
+    "Stories/Story_uaf1.xml",
+    "Stories/Story_ub3a.xml",
+    "Stories/Story_ub50.xml",
+    "Stories/Story_ub99.xml",
+    "Stories/Story_ubaf.xml",
+    "Stories/Story_ubf8.xml",
+    "Stories/Story_uc0e.xml",
+    "Stories/Story_ue6c.xml",
+    "Stories/Story_ue82.xml",
+    "Stories/Story_uef7.xml",
+    "Stories/Story_uf0d.xml",
+    "Stories/Story_uf82.xml",
+    "Stories/Story_uf98.xml"
+  ],
+  "added_vector_ids": [
+    "tfV20261103_u137b_feature",
+    "tfV20261103_u137b_leader",
+    "tfV20261103_u137b_stem",
+    "tfV20261103_u1b14_feature",
+    "tfV20261103_u1b14_leader",
+    "tfV20261103_u22ad_feature",
+    "tfV20261103_u22ad_leader",
+    "tfV20261103_u2a46_feature",
+    "tfV20261103_u2a46_leader",
+    "tfV20261103_u3a30_feature",
+    "tfV20261103_u3a30_leader",
+    "tfV20261103_u41c9_feature",
+    "tfV20261103_u41c9_leader",
+    "tfV20261103_u4934_feature",
+    "tfV20261103_u4934_leader",
+    "tfV20261103_u50cd_feature",
+    "tfV20261103_u50cd_leader",
+    "tfV20261103_u5892_feature",
+    "tfV20261103_u5892_leader",
+    "tfV20261103_u770_feature",
+    "tfV20261103_u770_leader",
+    "tfV20261103_u770_stem",
+    "tfV20261103_u7cf_feature",
+    "tfV20261103_u7cf_leader",
+    "tfV20261103_u82e_feature",
+    "tfV20261103_u82e_leader",
+    "tfV20261103_u88d_feature",
+    "tfV20261103_u88d_leader",
+    "tfV20261103_u8ec_feature",
+    "tfV20261103_u8ec_leader",
+    "tfV20261103_u94b_feature",
+    "tfV20261103_u94b_leader",
+    "tfV20261103_ua49_feature",
+    "tfV20261103_ua49_leader",
+    "tfV20261103_uaa8_feature",
+    "tfV20261103_uaa8_leader",
+    "tfV20261103_ub07_feature",
+    "tfV20261103_ub07_leader",
+    "tfV20261103_ub66_feature",
+    "tfV20261103_ub66_leader",
+    "tfV20261103_ubc5_feature",
+    "tfV20261103_ubc5_leader",
+    "tfV20261103_uc24_feature",
+    "tfV20261103_uc24_leader"
+  ],
+  "removed_generic_decoration_ids": [
+    "u137a",
+    "u137d",
+    "u137e",
+    "u137f",
+    "u1b13",
+    "u1b16",
+    "u1b17",
+    "u1b18",
+    "u22ac",
+    "u22af",
+    "u22b0",
+    "u22b1",
+    "u2a45",
+    "u2a48",
+    "u2a49",
+    "u2a4a",
+    "u3a2f",
+    "u3a32",
+    "u3a33",
+    "u3a34",
+    "u41c8",
+    "u41cb",
+    "u41cc",
+    "u41cd",
+    "u4933",
+    "u4936",
+    "u4937",
+    "u4938",
+    "u50cc",
+    "u50cf",
+    "u50d0",
+    "u50d1",
+    "u5891",
+    "u5894",
+    "u5895",
+    "u5896",
+    "u76f",
+    "u772",
+    "u773",
+    "u774",
+    "u7ce",
+    "u7d1",
+    "u7d2",
+    "u7d3",
+    "u82d",
+    "u830",
+    "u831",
+    "u832",
+    "u88c",
+    "u88f",
+    "u890",
+    "u891",
+    "u8eb",
+    "u8ee",
+    "u8ef",
+    "u8f0",
+    "u94a",
+    "u94d",
+    "u94e",
+    "u94f",
+    "ua48",
+    "ua4b",
+    "ua4c",
+    "ua4d",
+    "uaa7",
+    "uaaa",
+    "uaab",
+    "uaac",
+    "ub06",
+    "ub09",
+    "ub0a",
+    "ub0b",
+    "ub65",
+    "ub68",
+    "ub69",
+    "ub6a",
+    "ubc4",
+    "ubc7",
+    "ubc8",
+    "ubc9",
+    "uc23",
+    "uc26",
+    "uc27",
+    "uc28"
+  ],
+  "proof": {
+    "report_path": "/workspace/tf_visual_revision_20261103/rendering/render_report.json",
+    "matches_candidate": true,
+    "visual_review": "Independent selected final proof PNG review: pages 4 and 25 rechecked after removal of original generic line/cap decorations; pages 14 and 20 reviewed before decoration-only cleanup. Captions fit within cards, new glyph feature and leaders fit within the original page."
+  },
+  "limitations": [
+    "The baseline is a reverse-engineered Rust conversion of the actual uploaded INDD, not an Adobe InDesign IDML export.",
+    "XML/ZIP and controlled-change checks do not certify Adobe open/save acceptance or native rendering fidelity.",
+    "Exact glyph audit reuses cached actual-font contour measurements, verifies font binary hashes, and compares all anchors/control points at the stored 0.001 pt precision; it does not reparse every font.",
+    "Approximate proof rendering cannot certify Adobe text composition, native overset, or final print output."
+  ],
+  "independent_review": {
+    "auditor": "indd_preview_inspect",
+    "font_binary_rereads": false,
+    "geometry_basis": "Independently parsed cached actual shaped font contours at 0.001 pt precision; all 21 outlines and highlighted contours checked.",
+    "visual_pages_reviewed": [
+      4,
+      14,
+      20,
+      25
+    ],
+    "visual_note": "Comparison and explanation captions fit within original cards; preserved dense meme block on physical page 20; page 25 feature/leader sits below comparison cards. Final proof hash match checked separately.",
+    "removed_decoration_roles": {
+      "generic_plane": 21,
+      "advance_strip": 63
+    },
+    "final_pngs_rechecked_after_cleanup": [
+      4,
+      25
+    ]
+  }
+}

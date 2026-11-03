@@ -1,0 +1,37 @@
+{
+  "input": "/workspace/tf_visual_revision_20261103/conversion/user_revision.idml",
+  "output": "/workspace/tf_visual_revision_20261103/text_application/text_only.idml",
+  "physical_pages": 28,
+  "frames": 1036,
+  "comparison_samples": 126,
+  "comparison_pair_cards": 108,
+  "short_cause_captions": 18,
+  "category_counts": {
+    "comparison_form": 108,
+    "comparison_voice": 108,
+    "short_cause_caption": 18,
+    "atlas_form": 12,
+    "atlas_personal_why": 12,
+    "panel_title": 9,
+    "panel_form": 9,
+    "panel_personal_why": 9,
+    "panel_meme_effect": 9,
+    "integrated_meme_effect": 3,
+    "atlas_legend": 2,
+    "intro_graphic_paragraph_only": 1
+  },
+  "changed_story_count": 300,
+  "unchanged_archive_member_count": 761,
+  "non_story_members_byte_identical": true,
+  "all_untouched_stories_byte_identical": true,
+  "all_changed_story_style_and_properties_identical": true,
+  "all_original_meme_sample_stories_unchanged": true,
+  "fit_measurement": "HarfBuzz actual font advances at original point size, natural word spacing; explicit wrapping where needed; no size/scaling/tracking/style changes. First-line point size + remaining leading used for conservative content-height estimate; actual ink extents also recorded. Adobe native overset check not executed.",
+  "fit_failures": [],
+  "output_sha256": "8f35ae64aaf551cce18fec475ef009302745d6cab2fcca23674afae98e5868ca",
+  "independent_payload_checks": {
+    "all_126_comparison_sample_story_bytes_identical": true,
+    "intro_only_content_indices_4_and_5_changed": true,
+    "intro_keeps_same_two_graphic_lines": true
+  }
+}

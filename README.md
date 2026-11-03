@@ -1,3 +1,19 @@
+# TF 시각화로 폰트 느낌의 원인 보완
+
+사용자가 올린 수정파일.indd를 기준으로 설명과 글자 도해를 보완했습니다. 형태 → 내게 읽히는 말투 → 밈의 효과를 이어 읽도록 했습니다. 원문·126개 비교 견본·기존 페이지와 프레임·폰트·표지 사진은 유지했습니다.
+
+- [폰트 분석 펼침면03–04](submission-tf-visual/Font_Analysis_03_04.jpg)
+- [실제 글자 부위 확대](submission-tf-visual/TF_Anatomy_Detail.png)
+- [비교 카드06쪽](submission-tf-visual/Comparison_06_Preview.png)
+- [전체 검토PDF](submission-tf-visual/TF_Visual_Analysis_28p_Proof.pdf)
+- [InDesign 편집용IDML](submission-tf-visual/TF_Visual_Analysis_28p.idml)
+- [PDF·IDML·미리보기 ZIP](https://github.com/jeongseul1116/gpt/raw/refs/heads/main/Meme_Font_Book_TF_Visual_Revision_28p.zip)
+- [변경 내용과 확인 범위](submission-tf-visual/README_KO.md)
+
+사진과 도해는 파일 안에 들어 있습니다. 원본INDD는 변경하지 않았습니다. IDML은 업로드된 INDD를 읽는 변환기를 통해 만들었으며 검토PDF는 근사 렌더입니다. Adobe InDesign 실제 열기·저장·줄바꿈·넘침과 최종 인쇄는 이 환경에서 미검증입니다.
+
+---
+
 # 이미지가 내부에 포함된 최신 인디자인 파일
 
 [이미지 내장 IDML 다운로드](https://github.com/jeongseul1116/gpt/raw/refs/heads/main/submission-embedded-image/Meme_Font_Book_28p_Embedded_Image.idml) · [파일 안내](submission-embedded-image/README_KO.md)
