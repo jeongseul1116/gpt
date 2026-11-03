@@ -1,3 +1,5 @@
+> **IDML 열기 오류 수정:** 식별 헤더와 Story 참조 순서를 복구했습니다. 이 폴더의 현재 IDML과 전체 ZIP에는 수정본이 들어 있습니다. [별도 이름의 수정 파일](../submission-idml-open-fix/Meme_Font_Book_2026_Open_Fixed.idml) · [수정 내역](../submission-idml-open-fix/README_KO.md). PDF는 동일합니다. 기존 렌더 보고서의 SHA는 헤더 수정 전 파일의 것으로, 디자인 내용이 같은 파일임을 추가 수정 보고서에서 확인했습니다.
+
 # 밈 폰트 도감 — 양면 인쇄 순서와 도입 시각화 수정판
 
 ## 바로 사용할 파일

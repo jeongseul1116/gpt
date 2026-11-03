@@ -1,0 +1,53 @@
+{
+  "status": "passed_static_byte_preservation_checks",
+  "source": "/workspace/print_visual_revision_20261103/design/Meme_Font_Book_Early_Visuals_28p.idml",
+  "source_sha256": "a7106240b82d37965ddb7660dbec9fef90a42ae32915151b1c3aaa47520575b6",
+  "baseline_header_source": "/workspace/interlude_revision_20261103/design/Meme_Font_Book_Interludes_28p.idml",
+  "baseline_sha256": "4b0b3d1fad499dc6a5f4338461200dab47d5896af8be44b18b8db38ffc610258",
+  "output": "/workspace/idml_repair_20261103/Meme_Font_Book_2026_Open_Fixed.idml",
+  "output_sha256": "1bd635a6aa171f0289b70fbe67b5972ba545e1c9ddefca125278f866a107f318",
+  "output_bytes": 1996598,
+  "changed_members": [
+    "designmap.xml"
+  ],
+  "changed_member_count": 1,
+  "change_scope": "Two latest-only repairs within designmap.xml: restore exact baseline XML declaration/aid identification PI, and relocate 10 byte-identical new story refs into the existing story-ref group before late document objects.",
+  "restored_declaration": "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"yes\"?>",
+  "restored_aid_pi": "<?aid style=\"50\" type=\"document\" readerVersion=\"6.0\" featureSet=\"257\" product=\"21.6\" ?>",
+  "aid_pi_count_before": 0,
+  "aid_pi_count_after": 1,
+  "all_other_member_bytes_identical": true,
+  "designmap_root_attributes_identical": true,
+  "all_designmap_child_element_xml_identical_except_order_and_tail_whitespace": true,
+  "moved_story_refs_count": 10,
+  "moved_story_ref_original_bytes_identical": true,
+  "story_refs_contiguous_after_repair": true,
+  "story_refs_before_Assignment": true,
+  "all_page_geometry_unchanged": true,
+  "all_story_and_meme_bytes_unchanged": true,
+  "embedded_image_bytes_unchanged": true,
+  "inventory": {
+    "unique_ids": 4374,
+    "validated_references": 12526,
+    "missing_references": [],
+    "physical_page_count": 28,
+    "textframes": 1046,
+    "stories": 1046,
+    "storylist_entries": 1047,
+    "dom_version": "21.6",
+    "embedded_images": [
+      {
+        "member": "Spreads/Spread_u166.xml",
+        "Self": "u1e3",
+        "bytes": 922981,
+        "sha256": "b8a68655e74748ada19123724d935f88fe9efa2b22c411a9537e8829821d7f3f"
+      }
+    ],
+    "all_ids_unique": true
+  },
+  "zip_mimetype_first_and_uncompressed": true,
+  "remaining_members_deflated": true,
+  "native_Adobe_execution": false,
+  "actual_opening_fixed_confirmed": false,
+  "new_story_order_evidence": "Published Document_Object RNC places idPkg:Story* before late Assignment; 79 Adobe-native fixture packages (including 9 DOM21) have no Assignment before their first Story ref."
+}

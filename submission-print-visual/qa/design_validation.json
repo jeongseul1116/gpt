@@ -1,6 +1,6 @@
 {
   "status": "passed",
-  "candidate_sha256": "a7106240b82d37965ddb7660dbec9fef90a42ae32915151b1c3aaa47520575b6",
+  "candidate_sha256": "1bd635a6aa171f0289b70fbe67b5972ba545e1c9ddefca125278f866a107f318",
   "physical_pages": 28,
   "stories": 1046,
   "textframes": 1046,
@@ -14,5 +14,10 @@
   "source_StoryList_prefix_retained_and10new_storyrefs_valid": true,
   "resource_refs_resolve": true,
   "embedded_cover_unchanged": true,
-  "actual_Adobe_execution": false
+  "actual_Adobe_execution": false,
+  "previous_candidate_sha256": "a7106240b82d37965ddb7660dbec9fef90a42ae32915151b1c3aaa47520575b6",
+  "aid_processing_instruction_present": true,
+  "story_references_in_schema_order": true,
+  "header_repair_all_other_package_members_unchanged": true,
+  "open_repair_report": "idml_open_repair_validation.json"
 }

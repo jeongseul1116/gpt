@@ -1,3 +1,15 @@
+# InDesign 2026 열기 오류 수정
+
+최근 IDML에서 누락된 Adobe 식별 헤더를 복원하고 새 Story 참조10개의 순서를 바로잡았습니다. 본문·폰트·사진·도해와 PDF 인쇄 순서는 동일합니다.
+
+- **[수정 IDML 다운로드](https://github.com/jeongseul1116/gpt/raw/refs/heads/main/submission-idml-open-fix/Meme_Font_Book_2026_Open_Fixed.idml)**
+- [수정 IDML ZIP](https://github.com/jeongseul1116/gpt/raw/refs/heads/main/Meme_Font_Book_2026_Open_Fixed.zip)
+- [열기·저장 방법과 수정 내역](submission-idml-open-fix/README_KO.md)
+
+아래 인쇄 수정판의 IDML·전체 ZIP도 같은 수정본으로 교체했습니다. 실제 Adobe 실행 검증은 이 환경에서 수행하지 못했습니다.
+
+---
+
 # A3 양면 인쇄 순서 + 도입 시각화 수정판
 
 표지 포함28면을 A3용지7장에 **앞면28｜1, 뒷면2｜27** 순서로 배치했습니다. 재단선과3mm도련을 포함합니다. 본문의 쪽수는 기존대로 목차01부터 시작합니다.
