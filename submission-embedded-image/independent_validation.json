@@ -1,0 +1,161 @@
+{
+  "audit": "Independent read-only static inspection of candidate and baseline using Python standard library; no Adobe runtime available.",
+  "baseline": "/workspace/final28/revision_contents_one/editable/Meme_Font_Book_System_28p.idml",
+  "candidate": "/workspace/final28/revision_embedded_image/Meme_Font_Book_28p_Embedded_Image.idml",
+  "candidate_sha256": "3e3865eb5e07d51bd023341f6d8fddb013d726af8e8047e74b05b436a06f3797",
+  "baseline_sha256": "522ca7719c55bb77963f794b873911270a5e6f2fe039438afd2e422e27375b62",
+  "checks": {
+    "baseline_zip_integrity": true,
+    "candidate_zip_integrity": true,
+    "member_names_and_order_exact": true,
+    "only_first_spread_member_changed": true,
+    "no_links_or_image_binary_zip_members": true,
+    "all_xml_well_formed": true,
+    "expected_counts_unchanged": true,
+    "all_stories_fonts_styles_preferences_other_spreads_byte_exact": true,
+    "single_image_retained": true,
+    "direct_image_properties_contents_present": true,
+    "contents_precedes_graphic_bounds": true,
+    "embedded_bytes_exact_original_asset": true,
+    "embedded_sha256_matches_known_original": true,
+    "padded_rfc4648_base64_canonical": true,
+    "base64_wrap_76": true,
+    "complete_png_all_chunk_crcs_valid": true,
+    "link_marked_embedded": true,
+    "rendition_actual": true,
+    "embedded_placeholder_uri": true,
+    "link_resource_size_matches_png": true,
+    "image_and_link_use_native_png_token": true,
+    "contents_only_cdata_chunks": true,
+    "cdata_chunks_at_most_262144": true,
+    "only_allowed_image_link_attribute_changes": true,
+    "first_spread_deep_semantic_exact_after_reverting_embedding_changes": true,
+    "image_frame_bounds_and_transform_preserved": true,
+    "contents_01_and_all_folio_story_data_unchanged": true,
+    "no_external_link_dependency_in_document_structure": true,
+    "native_fixture_supports_contents_embedded_and_png_token": true,
+    "production_exporter_uses_same_file_embedded_placeholder": true,
+    "adobe_spec_mirror_explicitly_documents_embedded_contents": true
+  },
+  "details": {
+    "changed_members": [
+      "Spreads/Spread_01.xml"
+    ],
+    "baseline_counts": {
+      "pages": 28,
+      "spread_members": 15,
+      "story_members": 1036,
+      "font_families": 12
+    },
+    "candidate_counts": {
+      "pages": 28,
+      "spread_members": 15,
+      "story_members": 1036,
+      "font_families": 12
+    },
+    "image_properties_child_order": [
+      "Profile",
+      "Contents",
+      "GraphicBounds"
+    ],
+    "embedded_png_bytes": 922981,
+    "embedded_png_sha256": "b8a68655e74748ada19123724d935f88fe9efa2b22c411a9537e8829821d7f3f",
+    "embedded_png_dimensions": [
+      874,
+      1275
+    ],
+    "base64_line_lengths": {
+      "76": 16192,
+      "52": 1
+    },
+    "base64_has_trailing_newline": false,
+    "link_attributes": {
+      "Self": "m28Photo1_8Link",
+      "AssetURL": "$ID/",
+      "AssetID": "$ID/",
+      "LinkResourceURI": "file:embedded",
+      "LinkResourceFormat": "$ID/Portable Network Graphics (PNG)",
+      "StoredState": "Embedded",
+      "LinkClassID": "35906",
+      "LinkClientID": "257",
+      "LinkResourceModified": "false",
+      "LinkObjectModified": "false",
+      "ShowInUI": "true",
+      "CanEmbed": "true",
+      "CanUnembed": "true",
+      "CanPackage": "true",
+      "ImportPolicy": "NoAutoImport",
+      "ExportPolicy": "NoAutoExport",
+      "RenditionData": "Actual",
+      "LinkResourceSize": "0~e1565"
+    },
+    "expected_LinkResourceSize": "0~e1565",
+    "contents_cdata_chunk_lengths": [
+      262144,
+      262144,
+      262144,
+      262144,
+      198260
+    ],
+    "attribute_differences": [
+      {
+        "element": "Image",
+        "attribute": "ImageTypeName",
+        "before": "$ID/PNG",
+        "after": "$ID/Portable Network Graphics (PNG)",
+        "allowed": true
+      },
+      {
+        "element": "Link",
+        "attribute": "LinkResourceFormat",
+        "before": "$ID/PNG",
+        "after": "$ID/Portable Network Graphics (PNG)",
+        "allowed": true
+      },
+      {
+        "element": "Link",
+        "attribute": "RenditionData",
+        "before": null,
+        "after": "Actual",
+        "allowed": true
+      },
+      {
+        "element": "Link",
+        "attribute": "LinkResourceURI",
+        "before": "file:Links/cover_cutout.png",
+        "after": "file:embedded",
+        "allowed": true
+      },
+      {
+        "element": "Link",
+        "attribute": "StoredState",
+        "before": "Normal",
+        "after": "Embedded",
+        "allowed": true
+      },
+      {
+        "element": "Link",
+        "attribute": "LinkResourceSize",
+        "before": null,
+        "after": "0~e1565",
+        "allowed": true
+      }
+    ],
+    "native_fixture": {
+      "path": "/workspace/idml_embedded_20261103/schema/idml-schema-master/tests/data/multipage.idml",
+      "sha256": "3a73c4dc925d0fce009d39b3711f90683345b2ccf8d186f6f566f97e830a3d98",
+      "member": "Spreads/Spread_ue5.xml",
+      "image_self": "u23f",
+      "designmap_aid_header": "<?aid style=\"50\" type=\"document\" readerVersion=\"6.0\" featureSet=\"257\" product=\"15.0(209)\" ?>"
+    },
+    "production_exporter": {
+      "path": "/workspace/idml_embedded_20261103/npm/@imgly_idml-exporter/index.js",
+      "sha256": "2d13a9255bbfd46e3a7d0ed38d021fccc75d14dcf5a305ef3d665a66f281b330",
+      "package": "@imgly/idml-exporter",
+      "version": "0.1.0",
+      "matching_snippet": ".attr(\"StoredState\",\"Embedded\").attr(\"LinkResourceURI\",\"file:embedded\")"
+    }
+  },
+  "overall_static_validation_passed": true,
+  "runtime_verification": "Not performed: no Adobe InDesign runtime is available. Results establish byte-level integrity, documented native representation, unchanged layout data, and embedded image data without an external resource dependency in the IDML structure."
+}

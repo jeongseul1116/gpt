@@ -26,7 +26,7 @@
 ZIP을 풀고 Fonts폴더의 TTF·OTF11개를 설치한 뒤 InDesign을 다시 실행하세요. 예스체는 전에 제공하신 YES24.ttf를 별도로 설치합니다. 라이선스와 은궁서 대응 소스를 동봉했습니다. 책 디자인·쪽수·인쇄본은 변경하지 않았습니다.
 
 
-## 이미지 연결 복구
+## 이전 외부 연결판 복구(새 내장판에는 불필요)
 
 [이미지 복구 ZIP](https://github.com/jeongseul1116/gpt/raw/refs/heads/main/Meme_Font_Book_Image_Repair.zip) · [표지 PNG](image-link-repair/Links/cover_cutout.png) · [사용법](image-link-repair/README_KO.md)
 
