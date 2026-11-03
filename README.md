@@ -1,3 +1,19 @@
+# 1차 수정 — 표지·목차·인트로·단어 비교·확정 예문
+
+표지 제목을 키우고 부제를 위로 옮겼습니다. 목차26쪽에 숏밈을 직접 넣고, 인트로를 다시 썼습니다. 한 글자 도해25곳을 단어 비교로 바꿨고, 사용자가 검토한 예문15개를 확정 반영했습니다.
+
+- **[수정 PDF](submission-round1/Meme_Font_Book_Round1_28p_Review.pdf)**
+- **[이미지 내장 편집용 IDML](submission-round1/Meme_Font_Book_Round1_28p.idml)**
+- **[A3 양면 인쇄 PDF](submission-round1/Meme_Font_Book_Round1_A3_Duplex_28p.pdf)**
+- [초반 수정 미리보기](submission-round1/Round1_Early_Pages_Overview.jpg) · [단어 비교03–04쪽](submission-round1/Round1_Font_Comparison_03_04.png)
+- [확정 예문15개](submission-round1/Approved_Examples_15.md) · [바뀐 예문 지면](submission-round1/Approved_Usage_Changed_Blocks.png)
+- [전체 ZIP](https://github.com/jeongseul1116/gpt/raw/refs/heads/main/Meme_Font_Book_Round1_28p.zip)
+- [변경 내용·인쇄 설정·검수 범위](submission-round1/README_KO.md)
+
+최신 파일은 **submission-round1**입니다. 인쇄는 A3가로·양면·짧은 쪽 넘김·100%, 소책자·모아찍기·용지맞춤 해제입니다. 실제 Adobe 실행과 실물 출력은 미검증입니다. 아래는 이전 수정 내역입니다.
+
+---
+
 # InDesign 2026 열기 오류 수정
 
 최근 IDML에서 누락된 Adobe 식별 헤더를 복원하고 새 Story 참조10개의 순서를 바로잡았습니다. 본문·폰트·사진·도해와 PDF 인쇄 순서는 동일합니다.

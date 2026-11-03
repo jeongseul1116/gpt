@@ -1,0 +1,1202 @@
+{
+  "status": "user_confirmed_ready_to_apply",
+  "source_file": "/workspace/idml_repair_20261103/Meme_Font_Book_2026_Open_Fixed.idml",
+  "source_sha256": "1bd635a6aa171f0289b70fbe67b5972ba545e1c9ddefca125278f866a107f318",
+  "review_entries": 15,
+  "all_entries_user_confirmed": true,
+  "changed_story_blocks": 7,
+  "unchanged_review_entries": 8,
+  "approval_history": [
+    {
+      "order": 1,
+      "event": "다섯번째이미지의상황·대화예문전체를검토해달라는요청을받아15개항목추출",
+      "state": "pending_user_review",
+      "source": "examples_review.json"
+    },
+    {
+      "order": 2,
+      "event": "사용자가15개항목을검토하고6개대화와1개상황문장을확정함",
+      "state": "user_confirmed",
+      "payload_origin": "부모에이전트가전달한사용자확정문구그대로"
+    },
+    {
+      "order": 3,
+      "event": "예문원고만7개스토리블록에반영가능한모듈과승인원고를준비;현재IDML파일은변경하지않음",
+      "state": "ready_for_integration"
+    }
+  ],
+  "meme_originals_unchanged": true,
+  "E03_context_explicitly_kept": true,
+  "IDML_file_mutated_by_preparation": false,
+  "changes": [
+    {
+      "review_id": "E01",
+      "field": "dialogue",
+      "physical_page": 6,
+      "printed_page": "5",
+      "frame_id": "ud6a",
+      "story_id": "ud58",
+      "story_member": "Stories/Story_ud58.xml",
+      "before": "친구: 자료 조사는 누가 할래?\n→ 가보자고\n",
+      "after": "친구: 미친 시험 내일임ㅋ; 벼락치기 간다\n→ 가보자고\n",
+      "approval_state": "user_confirmed"
+    },
+    {
+      "review_id": "E02",
+      "field": "dialogue",
+      "physical_page": 8,
+      "printed_page": "7",
+      "frame_id": "u1503",
+      "story_id": "u14f1",
+      "story_member": "Stories/Story_u14f1.xml",
+      "before": "친구: 네 커피도 사 왔어.\n→ 사랑사랑 내가 말했지\n",
+      "after": "친구: 네 커피도 사 왔어.\n→ 사랑사랑 친구가 말했지\n",
+      "approval_state": "user_confirmed"
+    },
+    {
+      "review_id": "E03",
+      "field": "dialogue",
+      "physical_page": 10,
+      "printed_page": "9",
+      "frame_id": "u1c9c",
+      "story_id": "u1c8a",
+      "story_member": "Stories/Story_u1c8a.xml",
+      "before": "친구: 조별 과제 파일 정리해 뒀어.\n→ 코리안탑클래스 굿나잇\n",
+      "after": "친구: 나 이제 자러감\n→ 코리안탑클래스 굿나잇\n",
+      "approval_state": "user_confirmed"
+    },
+    {
+      "review_id": "E04",
+      "field": "dialogue",
+      "physical_page": 12,
+      "printed_page": "11",
+      "frame_id": "u2435",
+      "story_id": "u2423",
+      "story_member": "Stories/Story_u2423.xml",
+      "before": "친구: 이번에 티켓팅 성공했어.\n→ 남의 기쁨을 진심으로 축하해주지 못하고,\n",
+      "after": "친구: ㅁㅊ 야 이번에 티켓팅 성공함 너는?\n→ 남의 기쁨을 진심으로 축하해주지 못하고,\n",
+      "approval_state": "user_confirmed"
+    },
+    {
+      "review_id": "E05",
+      "field": "dialogue",
+      "physical_page": 14,
+      "printed_page": "13",
+      "frame_id": "u2ecc",
+      "story_id": "u2eba",
+      "story_member": "Stories/Story_u2eba.xml",
+      "before": "친구: 그거 말고 다른 버전도 있는데?\n→ 내가 모를수도\n",
+      "after": "친구: 제 가수는 왜 빼세요?\n→ 내가 모를수도\n",
+      "approval_state": "user_confirmed"
+    },
+    {
+      "review_id": "E06",
+      "field": "dialogue",
+      "physical_page": 15,
+      "printed_page": "14",
+      "frame_id": "u32f1",
+      "story_id": "u32df",
+      "story_member": "Stories/Story_u32df.xml",
+      "before": "친구: 자기소개 한 줄만 적어줘.\n→ 당신의뮤즈가되겠습니다\n",
+      "after": "친구: 나랑 사귈래?\n→ 당신의뮤즈가되겠습니다\n",
+      "approval_state": "user_confirmed"
+    },
+    {
+      "review_id": "E08",
+      "field": "context",
+      "physical_page": 18,
+      "printed_page": "17",
+      "frame_id": "u3ba2",
+      "story_id": "u3b90",
+      "story_member": "Stories/Story_u3b90.xml",
+      "before": "친구가 자랑을 시작했는데 설명이 자꾸 옆길로 샐 때.\n",
+      "after": "잘 모를때\n",
+      "approval_state": "user_confirmed"
+    }
+  ],
+  "entries": [
+    {
+      "review_id": "E01",
+      "kind": "chapter_usage_example",
+      "chapter": "01. 일단 가보자고",
+      "physical_page": 6,
+      "printed_page": "5",
+      "spread_member": "Spreads/Spread_uc29.xml",
+      "page_id": "uc2e",
+      "context": {
+        "frame_id": "ud54",
+        "story_id": "ud42",
+        "story_member": "Stories/Story_ud42.xml",
+        "position_page_pt": [
+          28.346456700000033,
+          501.0
+        ],
+        "text": "준비는 덜 됐는데 누군가는 시작해야 할 때.\n"
+      },
+      "dialogue": {
+        "frame_id": "ud6a",
+        "story_id": "ud58",
+        "story_member": "Stories/Story_ud58.xml",
+        "position_page_pt": [
+          28.346456700000033,
+          535.0
+        ],
+        "text": "친구: 자료 조사는 누가 할래?\n→ 가보자고\n"
+      },
+      "origin": "editorial_draft_in_current_book",
+      "approval_state": "user_confirmed",
+      "meme_original_is_separate": true,
+      "notes": [],
+      "approval_source": "사용자의15개항목별회신; 부모에이전트가전달한확정문구",
+      "before": {
+        "context": {
+          "frame_id": "ud54",
+          "story_id": "ud42",
+          "story_member": "Stories/Story_ud42.xml",
+          "position_page_pt": [
+            28.346456700000033,
+            501.0
+          ],
+          "text": "준비는 덜 됐는데 누군가는 시작해야 할 때.\n"
+        },
+        "dialogue": {
+          "frame_id": "ud6a",
+          "story_id": "ud58",
+          "story_member": "Stories/Story_ud58.xml",
+          "position_page_pt": [
+            28.346456700000033,
+            535.0
+          ],
+          "text": "친구: 자료 조사는 누가 할래?\n→ 가보자고\n"
+        },
+        "usage": null
+      },
+      "approved": {
+        "context": {
+          "frame_id": "ud54",
+          "story_id": "ud42",
+          "story_member": "Stories/Story_ud42.xml",
+          "position_page_pt": [
+            28.346456700000033,
+            501.0
+          ],
+          "text": "준비는 덜 됐는데 누군가는 시작해야 할 때.\n"
+        },
+        "dialogue": {
+          "frame_id": "ud6a",
+          "story_id": "ud58",
+          "story_member": "Stories/Story_ud58.xml",
+          "position_page_pt": [
+            28.346456700000033,
+            535.0
+          ],
+          "text": "친구: 미친 시험 내일임ㅋ; 벼락치기 간다\n→ 가보자고\n"
+        },
+        "usage": null
+      },
+      "changed_fields": [
+        "dialogue"
+      ],
+      "approval_notes": []
+    },
+    {
+      "review_id": "E02",
+      "kind": "chapter_usage_example",
+      "chapter": "02. 사랑이 너무 많아",
+      "physical_page": 8,
+      "printed_page": "7",
+      "spread_member": "Spreads/Spread_u13d8.xml",
+      "page_id": "u13dd",
+      "context": {
+        "frame_id": "u14ed",
+        "story_id": "u14db",
+        "story_member": "Stories/Story_u14db.xml",
+        "position_page_pt": [
+          28.346000000000004,
+          488.0
+        ],
+        "text": "친구의 작은 배려에 감정이 과해졌을 때.\n"
+      },
+      "dialogue": {
+        "frame_id": "u1503",
+        "story_id": "u14f1",
+        "story_member": "Stories/Story_u14f1.xml",
+        "position_page_pt": [
+          28.346000000000004,
+          523.0
+        ],
+        "text": "친구: 네 커피도 사 왔어.\n→ 사랑사랑 내가 말했지\n"
+      },
+      "origin": "editorial_draft_in_current_book",
+      "approval_state": "user_confirmed",
+      "meme_original_is_separate": true,
+      "notes": [],
+      "approval_source": "사용자의15개항목별회신; 부모에이전트가전달한확정문구",
+      "before": {
+        "context": {
+          "frame_id": "u14ed",
+          "story_id": "u14db",
+          "story_member": "Stories/Story_u14db.xml",
+          "position_page_pt": [
+            28.346000000000004,
+            488.0
+          ],
+          "text": "친구의 작은 배려에 감정이 과해졌을 때.\n"
+        },
+        "dialogue": {
+          "frame_id": "u1503",
+          "story_id": "u14f1",
+          "story_member": "Stories/Story_u14f1.xml",
+          "position_page_pt": [
+            28.346000000000004,
+            523.0
+          ],
+          "text": "친구: 네 커피도 사 왔어.\n→ 사랑사랑 내가 말했지\n"
+        },
+        "usage": null
+      },
+      "approved": {
+        "context": {
+          "frame_id": "u14ed",
+          "story_id": "u14db",
+          "story_member": "Stories/Story_u14db.xml",
+          "position_page_pt": [
+            28.346000000000004,
+            488.0
+          ],
+          "text": "친구의 작은 배려에 감정이 과해졌을 때.\n"
+        },
+        "dialogue": {
+          "frame_id": "u1503",
+          "story_id": "u14f1",
+          "story_member": "Stories/Story_u14f1.xml",
+          "position_page_pt": [
+            28.346000000000004,
+            523.0
+          ],
+          "text": "친구: 네 커피도 사 왔어.\n→ 사랑사랑 친구가 말했지\n"
+        },
+        "usage": null
+      },
+      "changed_fields": [
+        "dialogue"
+      ],
+      "approval_notes": []
+    },
+    {
+      "review_id": "E03",
+      "kind": "chapter_usage_example",
+      "chapter": "03. 칭찬도 정도껏",
+      "physical_page": 10,
+      "printed_page": "9",
+      "spread_member": "Spreads/Spread_u1b71.xml",
+      "page_id": "u1b76",
+      "context": {
+        "frame_id": "u1c86",
+        "story_id": "u1c74",
+        "story_member": "Stories/Story_u1c74.xml",
+        "position_page_pt": [
+          28.346456700000033,
+          501.0
+        ],
+        "text": "친구의 공로가 대단해서 평범한 칭찬으로는 모자랄 때.\n"
+      },
+      "dialogue": {
+        "frame_id": "u1c9c",
+        "story_id": "u1c8a",
+        "story_member": "Stories/Story_u1c8a.xml",
+        "position_page_pt": [
+          28.346456700000033,
+          535.0
+        ],
+        "text": "친구: 조별 과제 파일 정리해 뒀어.\n→ 코리안탑클래스 굿나잇\n"
+      },
+      "origin": "editorial_draft_in_current_book",
+      "approval_state": "user_confirmed",
+      "meme_original_is_separate": true,
+      "notes": [],
+      "approval_source": "사용자의15개항목별회신; 부모에이전트가전달한확정문구",
+      "before": {
+        "context": {
+          "frame_id": "u1c86",
+          "story_id": "u1c74",
+          "story_member": "Stories/Story_u1c74.xml",
+          "position_page_pt": [
+            28.346456700000033,
+            501.0
+          ],
+          "text": "친구의 공로가 대단해서 평범한 칭찬으로는 모자랄 때.\n"
+        },
+        "dialogue": {
+          "frame_id": "u1c9c",
+          "story_id": "u1c8a",
+          "story_member": "Stories/Story_u1c8a.xml",
+          "position_page_pt": [
+            28.346456700000033,
+            535.0
+          ],
+          "text": "친구: 조별 과제 파일 정리해 뒀어.\n→ 코리안탑클래스 굿나잇\n"
+        },
+        "usage": null
+      },
+      "approved": {
+        "context": {
+          "frame_id": "u1c86",
+          "story_id": "u1c74",
+          "story_member": "Stories/Story_u1c74.xml",
+          "position_page_pt": [
+            28.346456700000033,
+            501.0
+          ],
+          "text": "친구의 공로가 대단해서 평범한 칭찬으로는 모자랄 때.\n"
+        },
+        "dialogue": {
+          "frame_id": "u1c9c",
+          "story_id": "u1c8a",
+          "story_member": "Stories/Story_u1c8a.xml",
+          "position_page_pt": [
+            28.346456700000033,
+            535.0
+          ],
+          "text": "친구: 나 이제 자러감\n→ 코리안탑클래스 굿나잇\n"
+        },
+        "usage": null
+      },
+      "changed_fields": [
+        "dialogue"
+      ],
+      "approval_notes": [
+        "사용자가공로에대한기존상황문장을명시적으로유지했으므로,새로확정한취침대사와의연관성을이유로자동수정하지않음."
+      ]
+    },
+    {
+      "review_id": "E04",
+      "kind": "chapter_usage_example",
+      "chapter": "04. 축하해. 근데 이제",
+      "physical_page": 12,
+      "printed_page": "11",
+      "spread_member": "Spreads/Spread_u230a.xml",
+      "page_id": "u230f",
+      "context": {
+        "frame_id": "u241f",
+        "story_id": "u240d",
+        "story_member": "Stories/Story_u240d.xml",
+        "position_page_pt": [
+          28.346456700000033,
+          501.0
+        ],
+        "text": "친구의 좋은 소식에 축하와 부러움이 동시에 올라올 때.\n"
+      },
+      "dialogue": {
+        "frame_id": "u2435",
+        "story_id": "u2423",
+        "story_member": "Stories/Story_u2423.xml",
+        "position_page_pt": [
+          28.346456700000033,
+          535.0
+        ],
+        "text": "친구: 이번에 티켓팅 성공했어.\n→ 남의 기쁨을 진심으로 축하해주지 못하고,\n"
+      },
+      "origin": "editorial_draft_in_current_book",
+      "approval_state": "user_confirmed",
+      "meme_original_is_separate": true,
+      "notes": [],
+      "approval_source": "사용자의15개항목별회신; 부모에이전트가전달한확정문구",
+      "before": {
+        "context": {
+          "frame_id": "u241f",
+          "story_id": "u240d",
+          "story_member": "Stories/Story_u240d.xml",
+          "position_page_pt": [
+            28.346456700000033,
+            501.0
+          ],
+          "text": "친구의 좋은 소식에 축하와 부러움이 동시에 올라올 때.\n"
+        },
+        "dialogue": {
+          "frame_id": "u2435",
+          "story_id": "u2423",
+          "story_member": "Stories/Story_u2423.xml",
+          "position_page_pt": [
+            28.346456700000033,
+            535.0
+          ],
+          "text": "친구: 이번에 티켓팅 성공했어.\n→ 남의 기쁨을 진심으로 축하해주지 못하고,\n"
+        },
+        "usage": null
+      },
+      "approved": {
+        "context": {
+          "frame_id": "u241f",
+          "story_id": "u240d",
+          "story_member": "Stories/Story_u240d.xml",
+          "position_page_pt": [
+            28.346456700000033,
+            501.0
+          ],
+          "text": "친구의 좋은 소식에 축하와 부러움이 동시에 올라올 때.\n"
+        },
+        "dialogue": {
+          "frame_id": "u2435",
+          "story_id": "u2423",
+          "story_member": "Stories/Story_u2423.xml",
+          "position_page_pt": [
+            28.346456700000033,
+            535.0
+          ],
+          "text": "친구: ㅁㅊ 야 이번에 티켓팅 성공함 너는?\n→ 남의 기쁨을 진심으로 축하해주지 못하고,\n"
+        },
+        "usage": null
+      },
+      "changed_fields": [
+        "dialogue"
+      ],
+      "approval_notes": []
+    },
+    {
+      "review_id": "E05",
+      "kind": "chapter_usage_example",
+      "chapter": "05. 내가 감히",
+      "physical_page": 14,
+      "printed_page": "13",
+      "spread_member": "Spreads/Spread_u2aa3.xml",
+      "page_id": "u2aa8",
+      "context": null,
+      "dialogue": {
+        "frame_id": "u2ecc",
+        "story_id": "u2eba",
+        "story_member": "Stories/Story_u2eba.xml",
+        "position_page_pt": [
+          28.346000000000004,
+          538.0
+        ],
+        "text": "친구: 그거 말고 다른 버전도 있는데?\n→ 내가 모를수도\n"
+      },
+      "origin": "editorial_draft_in_current_book",
+      "approval_state": "user_confirmed",
+      "meme_original_is_separate": true,
+      "notes": [
+        "현재 지면에는 독립된 사용 상황 설명 없이 대화 예문만 있음."
+      ],
+      "approval_source": "사용자의15개항목별회신; 부모에이전트가전달한확정문구",
+      "before": {
+        "context": null,
+        "dialogue": {
+          "frame_id": "u2ecc",
+          "story_id": "u2eba",
+          "story_member": "Stories/Story_u2eba.xml",
+          "position_page_pt": [
+            28.346000000000004,
+            538.0
+          ],
+          "text": "친구: 그거 말고 다른 버전도 있는데?\n→ 내가 모를수도\n"
+        },
+        "usage": null
+      },
+      "approved": {
+        "context": null,
+        "dialogue": {
+          "frame_id": "u2ecc",
+          "story_id": "u2eba",
+          "story_member": "Stories/Story_u2eba.xml",
+          "position_page_pt": [
+            28.346000000000004,
+            538.0
+          ],
+          "text": "친구: 제 가수는 왜 빼세요?\n→ 내가 모를수도\n"
+        },
+        "usage": null
+      },
+      "changed_fields": [
+        "dialogue"
+      ],
+      "approval_notes": []
+    },
+    {
+      "review_id": "E06",
+      "kind": "chapter_usage_example",
+      "chapter": "06. 로맨틱한언어들",
+      "physical_page": 15,
+      "printed_page": "14",
+      "spread_member": "Spreads/Spread_u2aa3.xml",
+      "page_id": "u2aa9",
+      "context": null,
+      "dialogue": {
+        "frame_id": "u32f1",
+        "story_id": "u32df",
+        "story_member": "Stories/Story_u32df.xml",
+        "position_page_pt": [
+          39.68503937,
+          540.0
+        ],
+        "text": "친구: 자기소개 한 줄만 적어줘.\n→ 당신의뮤즈가되겠습니다\n"
+      },
+      "origin": "editorial_draft_in_current_book",
+      "approval_state": "user_confirmed",
+      "meme_original_is_separate": true,
+      "notes": [
+        "현재 지면에는 독립된 사용 상황 설명 없이 대화 예문만 있음."
+      ],
+      "approval_source": "사용자의15개항목별회신; 부모에이전트가전달한확정문구",
+      "before": {
+        "context": null,
+        "dialogue": {
+          "frame_id": "u32f1",
+          "story_id": "u32df",
+          "story_member": "Stories/Story_u32df.xml",
+          "position_page_pt": [
+            39.68503937,
+            540.0
+          ],
+          "text": "친구: 자기소개 한 줄만 적어줘.\n→ 당신의뮤즈가되겠습니다\n"
+        },
+        "usage": null
+      },
+      "approved": {
+        "context": null,
+        "dialogue": {
+          "frame_id": "u32f1",
+          "story_id": "u32df",
+          "story_member": "Stories/Story_u32df.xml",
+          "position_page_pt": [
+            39.68503937,
+            540.0
+          ],
+          "text": "친구: 나랑 사귈래?\n→ 당신의뮤즈가되겠습니다\n"
+        },
+        "usage": null
+      },
+      "changed_fields": [
+        "dialogue"
+      ],
+      "approval_notes": []
+    },
+    {
+      "review_id": "E07",
+      "kind": "chapter_usage_example",
+      "chapter": "07. 선배 고단수다~",
+      "physical_page": 16,
+      "printed_page": "15",
+      "spread_member": "Spreads/Spread_u32f4.xml",
+      "page_id": "u32f9",
+      "context": {
+        "frame_id": "u3409",
+        "story_id": "u33f7",
+        "story_member": "Stories/Story_u33f7.xml",
+        "position_page_pt": [
+          28.346456700000033,
+          501.0
+        ],
+        "text": "친구가 슬쩍 자랑하는 의도를 눈치챘을 때.\n"
+      },
+      "dialogue": {
+        "frame_id": "u341f",
+        "story_id": "u340d",
+        "story_member": "Stories/Story_u340d.xml",
+        "position_page_pt": [
+          28.346456700000033,
+          535.0
+        ],
+        "text": "친구: 사진은 그냥 골라 본 건데 배경이 좀 잘 나왔지?\n→ 선배 고단수드앙~\n"
+      },
+      "origin": "editorial_draft_in_current_book",
+      "approval_state": "user_confirmed",
+      "meme_original_is_separate": true,
+      "notes": [],
+      "approval_source": "사용자의15개항목별회신; 부모에이전트가전달한확정문구",
+      "before": {
+        "context": {
+          "frame_id": "u3409",
+          "story_id": "u33f7",
+          "story_member": "Stories/Story_u33f7.xml",
+          "position_page_pt": [
+            28.346456700000033,
+            501.0
+          ],
+          "text": "친구가 슬쩍 자랑하는 의도를 눈치챘을 때.\n"
+        },
+        "dialogue": {
+          "frame_id": "u341f",
+          "story_id": "u340d",
+          "story_member": "Stories/Story_u340d.xml",
+          "position_page_pt": [
+            28.346456700000033,
+            535.0
+          ],
+          "text": "친구: 사진은 그냥 골라 본 건데 배경이 좀 잘 나왔지?\n→ 선배 고단수드앙~\n"
+        },
+        "usage": null
+      },
+      "approved": {
+        "context": {
+          "frame_id": "u3409",
+          "story_id": "u33f7",
+          "story_member": "Stories/Story_u33f7.xml",
+          "position_page_pt": [
+            28.346456700000033,
+            501.0
+          ],
+          "text": "친구가 슬쩍 자랑하는 의도를 눈치챘을 때.\n"
+        },
+        "dialogue": {
+          "frame_id": "u341f",
+          "story_id": "u340d",
+          "story_member": "Stories/Story_u340d.xml",
+          "position_page_pt": [
+            28.346456700000033,
+            535.0
+          ],
+          "text": "친구: 사진은 그냥 골라 본 건데 배경이 좀 잘 나왔지?\n→ 선배 고단수드앙~\n"
+        },
+        "usage": null
+      },
+      "changed_fields": [],
+      "approval_notes": []
+    },
+    {
+      "review_id": "E08",
+      "kind": "chapter_usage_example",
+      "chapter": "08. 입이 쉬지를 않음",
+      "physical_page": 18,
+      "printed_page": "17",
+      "spread_member": "Spreads/Spread_u3a8d.xml",
+      "page_id": "u3a92",
+      "context": {
+        "frame_id": "u3ba2",
+        "story_id": "u3b90",
+        "story_member": "Stories/Story_u3b90.xml",
+        "position_page_pt": [
+          28.346456700000033,
+          501.0
+        ],
+        "text": "친구가 자랑을 시작했는데 설명이 자꾸 옆길로 샐 때.\n"
+      },
+      "dialogue": {
+        "frame_id": "u3bb8",
+        "story_id": "u3ba6",
+        "story_member": "Stories/Story_u3ba6.xml",
+        "position_page_pt": [
+          28.346456700000033,
+          535.0
+        ],
+        "text": "친구: 새로 산 거 보여줄게. 근데 사이즈가 좀…\n→ 모루게쒀여\n"
+      },
+      "origin": "editorial_draft_in_current_book",
+      "approval_state": "user_confirmed",
+      "meme_original_is_separate": true,
+      "notes": [],
+      "approval_source": "사용자의15개항목별회신; 부모에이전트가전달한확정문구",
+      "before": {
+        "context": {
+          "frame_id": "u3ba2",
+          "story_id": "u3b90",
+          "story_member": "Stories/Story_u3b90.xml",
+          "position_page_pt": [
+            28.346456700000033,
+            501.0
+          ],
+          "text": "친구가 자랑을 시작했는데 설명이 자꾸 옆길로 샐 때.\n"
+        },
+        "dialogue": {
+          "frame_id": "u3bb8",
+          "story_id": "u3ba6",
+          "story_member": "Stories/Story_u3ba6.xml",
+          "position_page_pt": [
+            28.346456700000033,
+            535.0
+          ],
+          "text": "친구: 새로 산 거 보여줄게. 근데 사이즈가 좀…\n→ 모루게쒀여\n"
+        },
+        "usage": null
+      },
+      "approved": {
+        "context": {
+          "frame_id": "u3ba2",
+          "story_id": "u3b90",
+          "story_member": "Stories/Story_u3b90.xml",
+          "position_page_pt": [
+            28.346456700000033,
+            501.0
+          ],
+          "text": "잘 모를때\n"
+        },
+        "dialogue": {
+          "frame_id": "u3bb8",
+          "story_id": "u3ba6",
+          "story_member": "Stories/Story_u3ba6.xml",
+          "position_page_pt": [
+            28.346456700000033,
+            535.0
+          ],
+          "text": "친구: 새로 산 거 보여줄게. 근데 사이즈가 좀…\n→ 모루게쒀여\n"
+        },
+        "usage": null
+      },
+      "changed_fields": [
+        "context"
+      ],
+      "approval_notes": []
+    },
+    {
+      "review_id": "E09",
+      "kind": "chapter_usage_example",
+      "chapter": "09. 인정? 어 인정",
+      "physical_page": 20,
+      "printed_page": "19",
+      "spread_member": "Spreads/Spread_u4226.xml",
+      "page_id": "u422b",
+      "context": null,
+      "dialogue": {
+        "frame_id": "u430d",
+        "story_id": "u42fb",
+        "story_member": "Stories/Story_u42fb.xml",
+        "position_page_pt": [
+          28.346456700000033,
+          536.0
+        ],
+        "text": "친구: 여기 떡볶이 맛있다.\n→ ㅇㅈ? ㅇㅇㅈ~~~~~\n"
+      },
+      "origin": "editorial_draft_in_current_book",
+      "approval_state": "user_confirmed",
+      "meme_original_is_separate": true,
+      "notes": [
+        "현재 지면에는 독립된 사용 상황 설명 없이 대화 예문만 있음."
+      ],
+      "approval_source": "사용자의15개항목별회신; 부모에이전트가전달한확정문구",
+      "before": {
+        "context": null,
+        "dialogue": {
+          "frame_id": "u430d",
+          "story_id": "u42fb",
+          "story_member": "Stories/Story_u42fb.xml",
+          "position_page_pt": [
+            28.346456700000033,
+            536.0
+          ],
+          "text": "친구: 여기 떡볶이 맛있다.\n→ ㅇㅈ? ㅇㅇㅈ~~~~~\n"
+        },
+        "usage": null
+      },
+      "approved": {
+        "context": null,
+        "dialogue": {
+          "frame_id": "u430d",
+          "story_id": "u42fb",
+          "story_member": "Stories/Story_u42fb.xml",
+          "position_page_pt": [
+            28.346456700000033,
+            536.0
+          ],
+          "text": "친구: 여기 떡볶이 맛있다.\n→ ㅇㅈ? ㅇㅇㅈ~~~~~\n"
+        },
+        "usage": null
+      },
+      "changed_fields": [],
+      "approval_notes": []
+    },
+    {
+      "review_id": "E10",
+      "kind": "chapter_usage_example",
+      "chapter": "10. 가끔은 눈물을 흘린다",
+      "physical_page": 22,
+      "printed_page": "21",
+      "spread_member": "Spreads/Spread_u4991.xml",
+      "page_id": "u4996",
+      "context": {
+        "frame_id": "u4aa6",
+        "story_id": "u4a94",
+        "story_member": "Stories/Story_u4a94.xml",
+        "position_page_pt": [
+          52.0,
+          517.0
+        ],
+        "text": "친구의 작은 위로나 다정한 말에 감정이 과해졌을 때.\n"
+      },
+      "dialogue": {
+        "frame_id": "u4abc",
+        "story_id": "u4aaa",
+        "story_member": "Stories/Story_u4aaa.xml",
+        "position_page_pt": [
+          52.0,
+          543.0
+        ],
+        "text": "친구: 오늘 수고했어. 푹 쉬어.\n→ 난... 눈물ㅇ ㅣ ....좋다.....\n"
+      },
+      "origin": "editorial_draft_in_current_book",
+      "approval_state": "user_confirmed",
+      "meme_original_is_separate": true,
+      "notes": [],
+      "approval_source": "사용자의15개항목별회신; 부모에이전트가전달한확정문구",
+      "before": {
+        "context": {
+          "frame_id": "u4aa6",
+          "story_id": "u4a94",
+          "story_member": "Stories/Story_u4a94.xml",
+          "position_page_pt": [
+            52.0,
+            517.0
+          ],
+          "text": "친구의 작은 위로나 다정한 말에 감정이 과해졌을 때.\n"
+        },
+        "dialogue": {
+          "frame_id": "u4abc",
+          "story_id": "u4aaa",
+          "story_member": "Stories/Story_u4aaa.xml",
+          "position_page_pt": [
+            52.0,
+            543.0
+          ],
+          "text": "친구: 오늘 수고했어. 푹 쉬어.\n→ 난... 눈물ㅇ ㅣ ....좋다.....\n"
+        },
+        "usage": null
+      },
+      "approved": {
+        "context": {
+          "frame_id": "u4aa6",
+          "story_id": "u4a94",
+          "story_member": "Stories/Story_u4a94.xml",
+          "position_page_pt": [
+            52.0,
+            517.0
+          ],
+          "text": "친구의 작은 위로나 다정한 말에 감정이 과해졌을 때.\n"
+        },
+        "dialogue": {
+          "frame_id": "u4abc",
+          "story_id": "u4aaa",
+          "story_member": "Stories/Story_u4aaa.xml",
+          "position_page_pt": [
+            52.0,
+            543.0
+          ],
+          "text": "친구: 오늘 수고했어. 푹 쉬어.\n→ 난... 눈물ㅇ ㅣ ....좋다.....\n"
+        },
+        "usage": null
+      },
+      "changed_fields": [],
+      "approval_notes": []
+    },
+    {
+      "review_id": "E11",
+      "kind": "chapter_usage_example",
+      "chapter": "11. 내일 출근 실화냐",
+      "physical_page": 24,
+      "printed_page": "23",
+      "spread_member": "Spreads/Spread_u512a.xml",
+      "page_id": "u512f",
+      "context": {
+        "frame_id": "u5255",
+        "story_id": "u5243",
+        "story_member": "Stories/Story_u5243.xml",
+        "position_page_pt": [
+          28.346456700000033,
+          501.0
+        ],
+        "text": "일요일 밤, 내일 출근을 과하게 홍보하며 현실을 받아들일 때.\n"
+      },
+      "dialogue": {
+        "frame_id": "u526b",
+        "story_id": "u5259",
+        "story_member": "Stories/Story_u5259.xml",
+        "position_page_pt": [
+          28.346456700000033,
+          535.0
+        ],
+        "text": "친구: 내일 월요일이네.\n→ 무조건☞출.근.가.능!☜\n"
+      },
+      "origin": "editorial_draft_in_current_book",
+      "approval_state": "user_confirmed",
+      "meme_original_is_separate": true,
+      "notes": [],
+      "approval_source": "사용자의15개항목별회신; 부모에이전트가전달한확정문구",
+      "before": {
+        "context": {
+          "frame_id": "u5255",
+          "story_id": "u5243",
+          "story_member": "Stories/Story_u5243.xml",
+          "position_page_pt": [
+            28.346456700000033,
+            501.0
+          ],
+          "text": "일요일 밤, 내일 출근을 과하게 홍보하며 현실을 받아들일 때.\n"
+        },
+        "dialogue": {
+          "frame_id": "u526b",
+          "story_id": "u5259",
+          "story_member": "Stories/Story_u5259.xml",
+          "position_page_pt": [
+            28.346456700000033,
+            535.0
+          ],
+          "text": "친구: 내일 월요일이네.\n→ 무조건☞출.근.가.능!☜\n"
+        },
+        "usage": null
+      },
+      "approved": {
+        "context": {
+          "frame_id": "u5255",
+          "story_id": "u5243",
+          "story_member": "Stories/Story_u5243.xml",
+          "position_page_pt": [
+            28.346456700000033,
+            501.0
+          ],
+          "text": "일요일 밤, 내일 출근을 과하게 홍보하며 현실을 받아들일 때.\n"
+        },
+        "dialogue": {
+          "frame_id": "u526b",
+          "story_id": "u5259",
+          "story_member": "Stories/Story_u5259.xml",
+          "position_page_pt": [
+            28.346456700000033,
+            535.0
+          ],
+          "text": "친구: 내일 월요일이네.\n→ 무조건☞출.근.가.능!☜\n"
+        },
+        "usage": null
+      },
+      "changed_fields": [],
+      "approval_notes": []
+    },
+    {
+      "review_id": "E12",
+      "kind": "chapter_usage_example",
+      "chapter": "12. 난 오늘만 산다",
+      "physical_page": 26,
+      "printed_page": "25",
+      "spread_member": "Spreads/Spread_u58ef.xml",
+      "page_id": "u58f4",
+      "context": null,
+      "dialogue": {
+        "frame_id": "u5d18",
+        "story_id": "u5d06",
+        "story_member": "Stories/Story_u5d06.xml",
+        "position_page_pt": [
+          28.346456700000033,
+          540.0
+        ],
+        "text": "친구: 내일 할 과제도 있는데 오늘 놀아도 돼?\n→ 난 오늘만 산다\n"
+      },
+      "origin": "editorial_draft_in_current_book",
+      "approval_state": "user_confirmed",
+      "meme_original_is_separate": true,
+      "notes": [
+        "현재 지면에는 독립된 사용 상황 설명 없이 대화 예문만 있음."
+      ],
+      "approval_source": "사용자의15개항목별회신; 부모에이전트가전달한확정문구",
+      "before": {
+        "context": null,
+        "dialogue": {
+          "frame_id": "u5d18",
+          "story_id": "u5d06",
+          "story_member": "Stories/Story_u5d06.xml",
+          "position_page_pt": [
+            28.346456700000033,
+            540.0
+          ],
+          "text": "친구: 내일 할 과제도 있는데 오늘 놀아도 돼?\n→ 난 오늘만 산다\n"
+        },
+        "usage": null
+      },
+      "approved": {
+        "context": null,
+        "dialogue": {
+          "frame_id": "u5d18",
+          "story_id": "u5d06",
+          "story_member": "Stories/Story_u5d06.xml",
+          "position_page_pt": [
+            28.346456700000033,
+            540.0
+          ],
+          "text": "친구: 내일 할 과제도 있는데 오늘 놀아도 돼?\n→ 난 오늘만 산다\n"
+        },
+        "usage": null
+      },
+      "changed_fields": [],
+      "approval_notes": []
+    },
+    {
+      "review_id": "E13",
+      "kind": "short_meme_usage_example",
+      "chapter": "야르",
+      "physical_page": 27,
+      "printed_page": "26",
+      "spread_member": "Spreads/Spread_u58ef.xml",
+      "page_id": "u58f5",
+      "context": null,
+      "dialogue": null,
+      "usage": {
+        "frame_id": "u5de4",
+        "story_id": "u5dd2",
+        "story_member": "Stories/Story_u5dd2.xml",
+        "position_page_pt": [
+          48.68503937,
+          170.00000000000003
+        ],
+        "text": "사용 예  이 음식 완전 야르하다\n"
+      },
+      "usage_example_without_label": "이 음식 완전 야르하다",
+      "origin": "user_supplied_verbatim",
+      "approval_state": "user_confirmed",
+      "meme_original_is_separate": true,
+      "notes": [
+        "사용자가 직접 제공한 예문이며 의미를 새로 추측해 쓰지 않음."
+      ],
+      "approval_source": "사용자의15개항목별회신; 부모에이전트가전달한확정문구",
+      "before": {
+        "context": null,
+        "dialogue": null,
+        "usage": {
+          "frame_id": "u5de4",
+          "story_id": "u5dd2",
+          "story_member": "Stories/Story_u5dd2.xml",
+          "position_page_pt": [
+            48.68503937,
+            170.00000000000003
+          ],
+          "text": "사용 예  이 음식 완전 야르하다\n"
+        }
+      },
+      "approved": {
+        "context": null,
+        "dialogue": null,
+        "usage": {
+          "frame_id": "u5de4",
+          "story_id": "u5dd2",
+          "story_member": "Stories/Story_u5dd2.xml",
+          "position_page_pt": [
+            48.68503937,
+            170.00000000000003
+          ],
+          "text": "사용 예  이 음식 완전 야르하다\n"
+        }
+      },
+      "changed_fields": [],
+      "approval_notes": [
+        "사용자가직접제공한숏밈예문을그대로유지하고최종확인완료처리함."
+      ]
+    },
+    {
+      "review_id": "E14",
+      "kind": "short_meme_usage_example",
+      "chapter": "밤티",
+      "physical_page": 27,
+      "printed_page": "26",
+      "spread_member": "Spreads/Spread_u58ef.xml",
+      "page_id": "u58f5",
+      "context": null,
+      "dialogue": null,
+      "usage": {
+        "frame_id": "u5f9d",
+        "story_id": "u5f8b",
+        "story_member": "Stories/Story_u5f8b.xml",
+        "position_page_pt": [
+          48.68503937,
+          307.0
+        ],
+        "text": "사용 예  이 디자인 완전 밤티인데\n"
+      },
+      "usage_example_without_label": "이 디자인 완전 밤티인데",
+      "origin": "user_supplied_verbatim",
+      "approval_state": "user_confirmed",
+      "meme_original_is_separate": true,
+      "notes": [
+        "사용자가 직접 제공한 예문이며 의미를 새로 추측해 쓰지 않음."
+      ],
+      "approval_source": "사용자의15개항목별회신; 부모에이전트가전달한확정문구",
+      "before": {
+        "context": null,
+        "dialogue": null,
+        "usage": {
+          "frame_id": "u5f9d",
+          "story_id": "u5f8b",
+          "story_member": "Stories/Story_u5f8b.xml",
+          "position_page_pt": [
+            48.68503937,
+            307.0
+          ],
+          "text": "사용 예  이 디자인 완전 밤티인데\n"
+        }
+      },
+      "approved": {
+        "context": null,
+        "dialogue": null,
+        "usage": {
+          "frame_id": "u5f9d",
+          "story_id": "u5f8b",
+          "story_member": "Stories/Story_u5f8b.xml",
+          "position_page_pt": [
+            48.68503937,
+            307.0
+          ],
+          "text": "사용 예  이 디자인 완전 밤티인데\n"
+        }
+      },
+      "changed_fields": [],
+      "approval_notes": [
+        "사용자가직접제공한숏밈예문을그대로유지하고최종확인완료처리함."
+      ]
+    },
+    {
+      "review_id": "E15",
+      "kind": "short_meme_usage_example",
+      "chapter": "이태민 이태민 이태민",
+      "physical_page": 27,
+      "printed_page": "26",
+      "spread_member": "Spreads/Spread_u58ef.xml",
+      "page_id": "u58f5",
+      "context": null,
+      "dialogue": null,
+      "usage": {
+        "frame_id": "u6156",
+        "story_id": "u6144",
+        "story_member": "Stories/Story_u6144.xml",
+        "position_page_pt": [
+          48.68503937,
+          444.0
+        ],
+        "text": "사용 예  아 이거 꼭 당첨되어야 해 이태민 이태민 이태민\n"
+      },
+      "usage_example_without_label": "아 이거 꼭 당첨되어야 해 이태민 이태민 이태민",
+      "origin": "user_supplied_verbatim",
+      "approval_state": "user_confirmed",
+      "meme_original_is_separate": true,
+      "notes": [
+        "사용자가 직접 제공한 예문이며 의미를 새로 추측해 쓰지 않음."
+      ],
+      "approval_source": "사용자의15개항목별회신; 부모에이전트가전달한확정문구",
+      "before": {
+        "context": null,
+        "dialogue": null,
+        "usage": {
+          "frame_id": "u6156",
+          "story_id": "u6144",
+          "story_member": "Stories/Story_u6144.xml",
+          "position_page_pt": [
+            48.68503937,
+            444.0
+          ],
+          "text": "사용 예  아 이거 꼭 당첨되어야 해 이태민 이태민 이태민\n"
+        }
+      },
+      "approved": {
+        "context": null,
+        "dialogue": null,
+        "usage": {
+          "frame_id": "u6156",
+          "story_id": "u6144",
+          "story_member": "Stories/Story_u6144.xml",
+          "position_page_pt": [
+            48.68503937,
+            444.0
+          ],
+          "text": "사용 예  아 이거 꼭 당첨되어야 해 이태민 이태민 이태민\n"
+        }
+      },
+      "changed_fields": [],
+      "approval_notes": [
+        "사용자가직접제공한숏밈예문을그대로유지하고최종확인완료처리함."
+      ]
+    }
+  ]
+}

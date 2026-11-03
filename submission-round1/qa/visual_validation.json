@@ -1,0 +1,123 @@
+{
+  "status": "passed",
+  "idml_sha256": "f8560813028317dc90844c011f98aa1f6c623e3eee9121120fedb41600bd59f6",
+  "reader_sha256": "958e3d7cc58790c2290a20c8888fafd9e9489717506fdcf61842cb8d551d4986",
+  "source_bleed_sha256": "ef1a71780bbbd093fab8cf58dec77d5c92bec35975da3f042e50a8e49123d4ef",
+  "visual_method": "Viewed actual final PDF rasters of cover, contents, intro,12-fontwordtable and7changeduser-approvedusageareas. NoIDMLorPDFmodifiedduringreview.",
+  "cover": {
+    "main_title_equal40pt_lines": true,
+    "subtitle_above_title18pt": true,
+    "photo_complete_oval_visible": true,
+    "photo_effective_ppi": 314.64,
+    "original_decoded_RGBA_pixels_and_alpha_preserved": true
+  },
+  "contents": {
+    "short_meme_names_in_normal26folio_row": true,
+    "detached_footer_note_removed": true,
+    "contents_starts_folio01": true
+  },
+  "intro": {
+    "new_three_line_hook_fits": true,
+    "words_maeum56pt_and_gaja48pt": true,
+    "real_font_feature_highlights_clear": true,
+    "no_orphan_or_crossed_text": true
+  },
+  "wordtable": {
+    "all12worddiagrams_visible": true,
+    "same_word_gamanhi17pt_in_reserved_column": true,
+    "all_captions_fit": true
+  },
+  "approved_examples": {
+    "all7changed_story_areas_visually_fit": true,
+    "long_E01_E04_dialogues_not_clipped": true,
+    "user_confirmed_E03_context_retained": true
+  },
+  "all_12_fonts_resolved": true,
+  "missing_glyphs": [],
+  "line_fit_flags": [],
+  "approximate_wraps_identical_to_prior6": true,
+  "approximate_wrapped_frames": [
+    {
+      "page": 10,
+      "frame": "u1c42",
+      "story": "u1c30",
+      "explicit_lines": 1,
+      "proof_lines": 6
+    },
+    {
+      "page": 15,
+      "frame": "u2f83",
+      "story": "u2f71",
+      "explicit_lines": 1,
+      "proof_lines": 4
+    },
+    {
+      "page": 18,
+      "frame": "u3b5e",
+      "story": "u3b4c",
+      "explicit_lines": 1,
+      "proof_lines": 10
+    },
+    {
+      "page": 20,
+      "frame": "u42f7",
+      "story": "u42e5",
+      "explicit_lines": 1,
+      "proof_lines": 32
+    },
+    {
+      "page": 22,
+      "frame": "u4a62",
+      "story": "u4a50",
+      "explicit_lines": 6,
+      "proof_lines": 7
+    },
+    {
+      "page": 26,
+      "frame": "u59aa",
+      "story": "u5998",
+      "explicit_lines": 1,
+      "proof_lines": 2
+    }
+  ],
+  "unmodified_pages_pixel_checks": [
+    {
+      "physical_page": 16,
+      "printed_folio": 15,
+      "pixels_identical_at120dpi": true
+    },
+    {
+      "physical_page": 20,
+      "printed_folio": 19,
+      "pixels_identical_at120dpi": true
+    },
+    {
+      "physical_page": 22,
+      "printed_folio": 21,
+      "pixels_identical_at120dpi": true
+    },
+    {
+      "physical_page": 24,
+      "printed_folio": 23,
+      "pixels_identical_at120dpi": true
+    },
+    {
+      "physical_page": 26,
+      "printed_folio": 25,
+      "pixels_identical_at120dpi": true
+    },
+    {
+      "physical_page": 27,
+      "printed_folio": 26,
+      "pixels_identical_at120dpi": true
+    },
+    {
+      "physical_page": 28,
+      "printed_folio": "뒤표지",
+      "pixels_identical_at120dpi": true
+    }
+  ],
+  "native_Adobe_execution": false,
+  "physical_print_test": false,
+  "PDF_is_native_Adobe_export": false
+}

@@ -1,0 +1,538 @@
+{
+  "status": "passed",
+  "source": "/workspace/idml_repair_20261103/Meme_Font_Book_2026_Open_Fixed.idml",
+  "source_sha256": "1bd635a6aa171f0289b70fbe67b5972ba545e1c9ddefca125278f866a107f318",
+  "candidate": "/workspace/round1_revision_20261103/design/Meme_Font_Book_Round1_28p.idml",
+  "candidate_sha256": "f8560813028317dc90844c011f98aa1f6c623e3eee9121120fedb41600bd59f6",
+  "checks": [
+    {
+      "check": "ZIP membership unchanged",
+      "passed": true,
+      "evidence": {
+        "members": 1071
+      }
+    },
+    {
+      "check": "All Self identifiers retained and unique",
+      "passed": true,
+      "evidence": {
+        "source": 4374,
+        "candidate": 4374
+      }
+    },
+    {
+      "check": "Changed member set equals final design manifest",
+      "passed": true,
+      "evidence": [
+        "Spreads/Spread_u13d8.xml",
+        "Spreads/Spread_u166.xml",
+        "Spreads/Spread_u1b71.xml",
+        "Spreads/Spread_u1eb.xml",
+        "Spreads/Spread_u230a.xml",
+        "Spreads/Spread_u32f4.xml",
+        "Spreads/Spread_u3a8d.xml",
+        "Spreads/Spread_u4226.xml",
+        "Spreads/Spread_u4991.xml",
+        "Spreads/Spread_u512a.xml",
+        "Spreads/Spread_u670.xml",
+        "Spreads/Spread_uc29.xml",
+        "Stories/Story_earlyVisualStory_blackhan_label.xml",
+        "Stories/Story_earlyVisualStory_gugi_label.xml",
+        "Stories/Story_earlyVisualStory_sans_label.xml",
+        "Stories/Story_earlyVisualStory_section1.xml",
+        "Stories/Story_earlyVisualStory_singleday_label.xml",
+        "Stories/Story_u13ad.xml",
+        "Stories/Story_u14f1.xml",
+        "Stories/Story_u186.xml",
+        "Stories/Story_u19c.xml",
+        "Stories/Story_u1b2.xml",
+        "Stories/Story_u1c8a.xml",
+        "Stories/Story_u1c9.xml",
+        "Stories/Story_u2423.xml",
+        "Stories/Story_u2eba.xml",
+        "Stories/Story_u32df.xml",
+        "Stories/Story_u3b90.xml",
+        "Stories/Story_u535.xml",
+        "Stories/Story_u58f.xml",
+        "Stories/Story_u5bd.xml",
+        "Stories/Story_u62e.xml",
+        "Stories/Story_u744.xml",
+        "Stories/Story_ud58.xml"
+      ]
+    },
+    {
+      "check": "Adobe identification and all document references byte-exact",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "Exactly one native Adobe identification PI retained",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "Story references remain contiguous and before Assignment",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "All object/style/color/layer references resolve",
+      "passed": true,
+      "evidence": {
+        "references": 12526,
+        "missing": []
+      }
+    },
+    {
+      "check": "StoryList references resolve",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "28 pages and1046 stories/frames retained",
+      "passed": true,
+      "evidence": {
+        "pages": [
+          28,
+          28
+        ],
+        "stories": [
+          1046,
+          1046
+        ],
+        "frames": [
+          1046,
+          1046
+        ]
+      }
+    },
+    {
+      "check": "All physical page attributes and properties unchanged",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "All font/style/color/preference resource bytes unchanged",
+      "passed": true,
+      "evidence": [
+        "Resources/Fonts.xml",
+        "Resources/Graphic.xml",
+        "Resources/Preferences.xml",
+        "Resources/Styles.xml"
+      ]
+    },
+    {
+      "check": "Embedded cover PNG payload unchanged",
+      "passed": true,
+      "evidence": [
+        {
+          "id": "u1e3",
+          "member": "Spreads/Spread_u166.xml",
+          "bytes": 922981,
+          "sha256": "b8a68655e74748ada19123724d935f88fe9efa2b22c411a9537e8829821d7f3f",
+          "payload_exact": true,
+          "effective_ppi": "314.640000 314.640000"
+        }
+      ]
+    },
+    {
+      "check": "No external image dependency introduced",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "Exactly7 approved usage blocks changed;16 remain byte-identical",
+      "passed": true,
+      "evidence": [
+        {
+          "member": "Stories/Story_u14db.xml",
+          "approved": false,
+          "passed": true
+        },
+        {
+          "member": "Stories/Story_u14f1.xml",
+          "approved": true,
+          "passed": true,
+          "text": "친구: 네 커피도 사 왔어.\n→ 사랑사랑 친구가 말했지\n"
+        },
+        {
+          "member": "Stories/Story_u1c74.xml",
+          "approved": false,
+          "passed": true
+        },
+        {
+          "member": "Stories/Story_u1c8a.xml",
+          "approved": true,
+          "passed": true,
+          "text": "친구: 나 이제 자러감\n→ 코리안탑클래스 굿나잇\n"
+        },
+        {
+          "member": "Stories/Story_u240d.xml",
+          "approved": false,
+          "passed": true
+        },
+        {
+          "member": "Stories/Story_u2423.xml",
+          "approved": true,
+          "passed": true,
+          "text": "친구: ㅁㅊ 야 이번에 티켓팅 성공함 너는?\n→ 남의 기쁨을 진심으로 축하해주지 못하고,\n"
+        },
+        {
+          "member": "Stories/Story_u2eba.xml",
+          "approved": true,
+          "passed": true,
+          "text": "친구: 제 가수는 왜 빼세요?\n→ 내가 모를수도\n"
+        },
+        {
+          "member": "Stories/Story_u32df.xml",
+          "approved": true,
+          "passed": true,
+          "text": "친구: 나랑 사귈래?\n→ 당신의뮤즈가되겠습니다\n"
+        },
+        {
+          "member": "Stories/Story_u33f7.xml",
+          "approved": false,
+          "passed": true
+        },
+        {
+          "member": "Stories/Story_u340d.xml",
+          "approved": false,
+          "passed": true
+        },
+        {
+          "member": "Stories/Story_u3b90.xml",
+          "approved": true,
+          "passed": true,
+          "text": "잘 모를때\n"
+        },
+        {
+          "member": "Stories/Story_u3ba6.xml",
+          "approved": false,
+          "passed": true
+        },
+        {
+          "member": "Stories/Story_u42fb.xml",
+          "approved": false,
+          "passed": true
+        },
+        {
+          "member": "Stories/Story_u4a94.xml",
+          "approved": false,
+          "passed": true
+        },
+        {
+          "member": "Stories/Story_u4aaa.xml",
+          "approved": false,
+          "passed": true
+        },
+        {
+          "member": "Stories/Story_u5243.xml",
+          "approved": false,
+          "passed": true
+        },
+        {
+          "member": "Stories/Story_u5259.xml",
+          "approved": false,
+          "passed": true
+        },
+        {
+          "member": "Stories/Story_u5d06.xml",
+          "approved": false,
+          "passed": true
+        },
+        {
+          "member": "Stories/Story_u5dd2.xml",
+          "approved": false,
+          "passed": true
+        },
+        {
+          "member": "Stories/Story_u5f8b.xml",
+          "approved": false,
+          "passed": true
+        },
+        {
+          "member": "Stories/Story_u6144.xml",
+          "approved": false,
+          "passed": true
+        },
+        {
+          "member": "Stories/Story_ud42.xml",
+          "approved": false,
+          "passed": true
+        },
+        {
+          "member": "Stories/Story_ud58.xml",
+          "approved": true,
+          "passed": true,
+          "text": "친구: 미친 시험 내일임ㅋ; 벼락치기 간다\n→ 가보자고\n"
+        }
+      ]
+    },
+    {
+      "check": "Approved example edits retain all fonts/styles/properties outside Content and Br",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "All126 comparison sample stories and frame geometry retained",
+      "passed": true,
+      "evidence": {
+        "count": 126,
+        "failures": []
+      }
+    },
+    {
+      "check": "All25 word diagrams and highlights equal actual shaped font paths",
+      "passed": true,
+      "evidence": [
+        {
+          "glyph_id": "u1b14",
+          "font": "singleday",
+          "word": "가만히",
+          "pt": 14,
+          "path_error_pt": 0.0,
+          "feature_error_pt": 0.0,
+          "passed": true
+        },
+        {
+          "glyph_id": "u22ad",
+          "font": "jua",
+          "word": "가만히",
+          "pt": 14,
+          "path_error_pt": 0.0,
+          "feature_error_pt": 0.0,
+          "passed": true
+        },
+        {
+          "glyph_id": "u2a46",
+          "font": "gungseo",
+          "word": "가만히",
+          "pt": 14,
+          "path_error_pt": 0.0,
+          "feature_error_pt": 0.0,
+          "passed": true
+        },
+        {
+          "glyph_id": "u3a30",
+          "font": "kirang",
+          "word": "가만히",
+          "pt": 14,
+          "path_error_pt": 0.0,
+          "feature_error_pt": 0.0,
+          "passed": true
+        },
+        {
+          "glyph_id": "u41c9",
+          "font": "brush",
+          "word": "가만히",
+          "pt": 14,
+          "path_error_pt": 0.0,
+          "feature_error_pt": 0.0,
+          "passed": true
+        },
+        {
+          "glyph_id": "u4934",
+          "font": "bawpic",
+          "word": "가만히",
+          "pt": 14,
+          "path_error_pt": 0.0,
+          "feature_error_pt": 0.0,
+          "passed": true
+        },
+        {
+          "glyph_id": "u50cd",
+          "font": "brush",
+          "word": "가만히",
+          "pt": 14,
+          "path_error_pt": 0.0,
+          "feature_error_pt": 0.0,
+          "passed": true
+        },
+        {
+          "glyph_id": "u5892",
+          "font": "pixel",
+          "word": "가만히",
+          "pt": 14,
+          "path_error_pt": 0.0,
+          "feature_error_pt": 0.0,
+          "passed": true
+        },
+        {
+          "glyph_id": "u770",
+          "font": "blackhan",
+          "word": "가만히",
+          "pt": 17,
+          "path_error_pt": 0.0,
+          "feature_error_pt": 0.0,
+          "passed": true
+        },
+        {
+          "glyph_id": "u7cf",
+          "font": "gugi",
+          "word": "가만히",
+          "pt": 17,
+          "path_error_pt": 0.0,
+          "feature_error_pt": 0.0,
+          "passed": true
+        },
+        {
+          "glyph_id": "u82e",
+          "font": "kirang",
+          "word": "가만히",
+          "pt": 17,
+          "path_error_pt": 0.0,
+          "feature_error_pt": 0.0,
+          "passed": true
+        },
+        {
+          "glyph_id": "u88d",
+          "font": "singleday",
+          "word": "가만히",
+          "pt": 17,
+          "path_error_pt": 0.0,
+          "feature_error_pt": 0.0,
+          "passed": true
+        },
+        {
+          "glyph_id": "u8ec",
+          "font": "bawpic",
+          "word": "가만히",
+          "pt": 17,
+          "path_error_pt": 0.0,
+          "feature_error_pt": 0.0,
+          "passed": true
+        },
+        {
+          "glyph_id": "u94b",
+          "font": "pixel",
+          "word": "가만히",
+          "pt": 17,
+          "path_error_pt": 0.0,
+          "feature_error_pt": 0.0,
+          "passed": true
+        },
+        {
+          "glyph_id": "ua49",
+          "font": "gungseo",
+          "word": "가만히",
+          "pt": 17,
+          "path_error_pt": 0.0,
+          "feature_error_pt": 0.0,
+          "passed": true
+        },
+        {
+          "glyph_id": "uaa8",
+          "font": "jua",
+          "word": "가만히",
+          "pt": 17,
+          "path_error_pt": 0.0,
+          "feature_error_pt": 0.0,
+          "passed": true
+        },
+        {
+          "glyph_id": "ub07",
+          "font": "brush",
+          "word": "가만히",
+          "pt": 17,
+          "path_error_pt": 0.0,
+          "feature_error_pt": 0.0,
+          "passed": true
+        },
+        {
+          "glyph_id": "ub66",
+          "font": "YES24",
+          "word": "가만히",
+          "pt": 17,
+          "path_error_pt": 0.0,
+          "feature_error_pt": 0.0,
+          "passed": true
+        },
+        {
+          "glyph_id": "ubc5",
+          "font": "sans",
+          "word": "가만히",
+          "pt": 17,
+          "path_error_pt": 0.0,
+          "feature_error_pt": 0.0,
+          "passed": true
+        },
+        {
+          "glyph_id": "uc24",
+          "font": "serif",
+          "word": "가만히",
+          "pt": 17,
+          "path_error_pt": 0.0,
+          "feature_error_pt": 0.0,
+          "passed": true
+        },
+        {
+          "glyph_id": "u137b",
+          "font": "blackhan",
+          "word": "가만히",
+          "pt": 14,
+          "path_error_pt": 0.0,
+          "feature_error_pt": 0.0,
+          "passed": true
+        },
+        {
+          "glyph_id": "earlyVisual_blackhan_glyph",
+          "font": "blackhan",
+          "word": "마음",
+          "pt": 56,
+          "path_error_pt": 0.0,
+          "feature_error_pt": 0.0,
+          "passed": true
+        },
+        {
+          "glyph_id": "earlyVisual_sans_glyph",
+          "font": "sans",
+          "word": "마음",
+          "pt": 56,
+          "path_error_pt": 0.0,
+          "feature_error_pt": 0.0,
+          "passed": true
+        },
+        {
+          "glyph_id": "earlyVisual_gugi_glyph",
+          "font": "gugi",
+          "word": "가자",
+          "pt": 48,
+          "path_error_pt": 0.0,
+          "feature_error_pt": 0.0,
+          "passed": true
+        },
+        {
+          "glyph_id": "earlyVisual_singleday_glyph",
+          "font": "singleday",
+          "word": "가자",
+          "pt": 48,
+          "path_error_pt": 0.0,
+          "feature_error_pt": 0.0,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "check": "Only approved cover/TOC/intro nodes and25 diagram groups changed in spreads",
+      "passed": true,
+      "evidence": []
+    },
+    {
+      "check": "Only explicitly approved editorial/example stories changed",
+      "passed": true,
+      "evidence": []
+    },
+    {
+      "check": "No document identification/resource/other member edits",
+      "passed": true,
+      "evidence": []
+    }
+  ],
+  "failures": [],
+  "limits": {
+    "actual_Adobe_opening_tested": false,
+    "Adobe_overset_or_text_reflow_tested": false,
+    "PDF_marker_run": false,
+    "visual_fit_review": "Owned by rendering review; this report validates package structure, content preservation, scope and actual vector geometry only."
+  }
+}

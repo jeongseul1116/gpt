@@ -1,0 +1,161 @@
+{
+  "status": "passed",
+  "edition": "Round1",
+  "reports_final": true,
+  "idml_sha256": "f8560813028317dc90844c011f98aa1f6c623e3eee9121120fedb41600bd59f6",
+  "source_sha256": "ef1a71780bbbd093fab8cf58dec77d5c92bec35975da3f042e50a8e49123d4ef",
+  "review_sha256": "958e3d7cc58790c2290a20c8888fafd9e9489717506fdcf61842cb8d551d4986",
+  "print_sha256": "7d3bf40fdcbbac755118bea7dfd9bf95cfac18d34b08c1cef17e5d5ba85f92e1",
+  "physical_pages_including_covers": 28,
+  "physical_A3_sheets": 7,
+  "imposed_faces": 14,
+  "pairs_left_to_right": [
+    [
+      28,
+      1
+    ],
+    [
+      2,
+      27
+    ],
+    [
+      26,
+      3
+    ],
+    [
+      4,
+      25
+    ],
+    [
+      24,
+      5
+    ],
+    [
+      6,
+      23
+    ],
+    [
+      22,
+      7
+    ],
+    [
+      8,
+      21
+    ],
+    [
+      20,
+      9
+    ],
+    [
+      10,
+      19
+    ],
+    [
+      18,
+      11
+    ],
+    [
+      12,
+      17
+    ],
+    [
+      16,
+      13
+    ],
+    [
+      14,
+      15
+    ]
+  ],
+  "fold_model_reading_order": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28
+  ],
+  "crop_marks_K100_0_25pt": 112,
+  "control_rulers_100mm": 14,
+  "all_28_placement_matrices_identity_linear_part_within_1e_10": true,
+  "all_vector_type_outline_paths": 3223,
+  "matching_vector_type_outline_paths": 3223,
+  "maximum_actual_vector_deviation_pt": 0.00010503320311272546,
+  "maximum_actual_vector_deviation_mm": 3.705337998698926e-05,
+  "vector_acceptance_tolerance_pt": 0.004,
+  "max_trim_mean_channel_error_of255": 0.012172,
+  "max_trim_fraction_pixels_error_over8": 0.00083526,
+  "inside_3mm_trim_pixel_exact_all28": true,
+  "max_bleed_mean_channel_error_of255": 0.000206,
+  "source_text_representation": "vector outlines",
+  "actual_3mm_outer_ink_pages": [
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    23,
+    24,
+    25,
+    26,
+    27
+  ],
+  "intentional_white_outer_pages": [
+    1,
+    14,
+    22,
+    28
+  ],
+  "first_sheet_and_all14_overview_visual": "passed",
+  "cover_pixels": [
+    874,
+    1275
+  ],
+  "cover_width_pt": 200,
+  "cover_effective_ppi": 314.64,
+  "cover_original_RGB_alpha_preserved": true,
+  "cover_source_to_print_raw_streams_byte_exact": true,
+  "reports": [
+    "print_validation.json",
+    "vector_precision_validation.json",
+    "first_sheet_visual_review.json"
+  ],
+  "actual_printer_test": false,
+  "Adobe_application_verification": false
+}

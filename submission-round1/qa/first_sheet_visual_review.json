@@ -1,0 +1,41 @@
+{
+  "status": "passed",
+  "edition": "Round1",
+  "print_sha256": "7d3bf40fdcbbac755118bea7dfd9bf95cfac18d34b08c1cef17e5d5ba85f92e1",
+  "method": "Viewed actual Round1 first-sheet front/back rasters and all14-face contact sheet. Contact sheet checks placement/orientation and edition anchors; source-content fidelity is audited numerically for every physicalpage.",
+  "images": [
+    "../output/A3_Side_01.png",
+    "../output/A3_Side_02.png",
+    "../output/A3_All_14_Faces.jpg"
+  ],
+  "first_front": {
+    "pair": [
+      28,
+      1
+    ],
+    "back_cover_left_front_cover_right": true,
+    "cover_photo_and_updated_header_present": true,
+    "upright": true
+  },
+  "first_back": {
+    "pair": [
+      2,
+      27
+    ],
+    "contents_left_last_inside_page_right": true,
+    "visible_folios": [
+      "01",
+      "26"
+    ],
+    "upright": true
+  },
+  "all14_face_overview": {
+    "seven_rows_front_back_pairs": true,
+    "all_faces_upright": true,
+    "new_Round1_intro_word_diagrams_visible": true,
+    "pink_page8_stops_at_fold": true,
+    "crop_marks_and_rulers_visible": true
+  },
+  "physical_printer_test": false,
+  "native_Adobe_verification": false
+}

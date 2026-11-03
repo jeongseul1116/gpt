@@ -1,0 +1,666 @@
+{
+  "status": "passed",
+  "single_glyph_diagrams_replaced": 25,
+  "intro_pair_words": [
+    "마음",
+    "가자"
+  ],
+  "table_and_footer_word": "가만히",
+  "table_size_pt": 17,
+  "footer_size_pt": 14,
+  "all_font_graphics_internal_editable_vectors": true,
+  "all_feature_highlights_are_actual_glyph_contours": true,
+  "original_meme_text_unchanged": true,
+  "document_identification_and_story_reference_order_untouched": true,
+  "changed_spreads": [
+    "Spreads/Spread_u13d8.xml",
+    "Spreads/Spread_u1b71.xml",
+    "Spreads/Spread_u1eb.xml",
+    "Spreads/Spread_u230a.xml",
+    "Spreads/Spread_u32f4.xml",
+    "Spreads/Spread_u3a8d.xml",
+    "Spreads/Spread_u4226.xml",
+    "Spreads/Spread_u4991.xml",
+    "Spreads/Spread_u512a.xml",
+    "Spreads/Spread_u670.xml",
+    "Spreads/Spread_uc29.xml"
+  ],
+  "text_changes": [
+    {
+      "member": "Stories/Story_earlyVisualStory_blackhan_label.xml",
+      "before": "블랙 한 산스 / 76pt",
+      "after": "블랙 한 산스 / 56pt"
+    },
+    {
+      "member": "Stories/Story_earlyVisualStory_sans_label.xml",
+      "before": "Noto Sans CJK KR / 76pt",
+      "after": "Noto Sans CJK KR / 56pt"
+    },
+    {
+      "member": "Stories/Story_earlyVisualStory_gugi_label.xml",
+      "before": "구기 / 56pt",
+      "after": "구기 / 48pt"
+    },
+    {
+      "member": "Stories/Story_earlyVisualStory_singleday_label.xml",
+      "before": "싱글데이 / 56pt",
+      "after": "싱글데이 / 48pt"
+    },
+    {
+      "member": "Stories/Story_earlyVisualStory_section1.xml",
+      "before": "01  같은 크기, 다른 목소리",
+      "after": "01  같은 단어, 다른 목소리"
+    },
+    {
+      "member": "Stories/Story_u744.xml",
+      "before": "형태: 두꺼운 세로획과 그 사이의 좁은 ㅁ 속공간",
+      "after": "형태: 두꺼운 세로획과 '만'의 좁은 ㅁ 속공간"
+    },
+    {
+      "member": "Stories/Story_u13ad.xml",
+      "before": "보의 좁은 속공간과 두꺼운 획이 한 덩어리로 밀려와, 내겐 가벼운 제안도 출발 구호다.",
+      "after": "'만'의 좁은 속공간과 두꺼운 획이 한 덩어리로 밀려와, 내겐 가벼운 제안도 출발 구호다."
+    }
+  ],
+  "diagrams": [
+    {
+      "member": "Spreads/Spread_u13d8.xml",
+      "glyph_id": "u1b14",
+      "font_key": "singleday",
+      "word": "가만히",
+      "size_pt": 14,
+      "origin": [
+        34.68503937,
+        528.0
+      ],
+      "bounds_local": [
+        35.232,
+        518.238,
+        66.964,
+        529.258
+      ],
+      "feature_contours": [
+        2
+      ],
+      "feature": "장식 하트",
+      "baseline_id": "u1b15",
+      "actual_shaped_font_paths": true,
+      "same_word_for_all_12_fonts": true
+    },
+    {
+      "member": "Spreads/Spread_u1b71.xml",
+      "glyph_id": "u22ad",
+      "font_key": "jua",
+      "word": "가만히",
+      "size_pt": 14,
+      "origin": [
+        34.68503937,
+        528.0
+      ],
+      "bounds_local": [
+        34.895,
+        516.744,
+        68.649,
+        528.504
+      ],
+      "feature_contours": [
+        0
+      ],
+      "feature": "ㄱ 전체",
+      "baseline_id": "u22ae",
+      "actual_shaped_font_paths": true,
+      "same_word_for_all_12_fonts": true
+    },
+    {
+      "member": "Spreads/Spread_u230a.xml",
+      "glyph_id": "u2a46",
+      "font_key": "gungseo",
+      "word": "가만히",
+      "size_pt": 14,
+      "origin": [
+        34.68503937,
+        528.0
+      ],
+      "bounds_local": [
+        36.225,
+        517.668,
+        73.423,
+        529.428
+      ],
+      "feature_contours": [
+        0
+      ],
+      "feature": "ㄱ 전체",
+      "baseline_id": "u2a47",
+      "actual_shaped_font_paths": true,
+      "same_word_for_all_12_fonts": true
+    },
+    {
+      "member": "Spreads/Spread_u32f4.xml",
+      "glyph_id": "u3a30",
+      "font_key": "kirang",
+      "word": "가만히",
+      "size_pt": 14,
+      "origin": [
+        34.68503937,
+        528.0
+      ],
+      "bounds_local": [
+        35.357,
+        516.933,
+        62.979,
+        528.945
+      ],
+      "feature_contours": [
+        0
+      ],
+      "feature": "낮게 눌린 ㄱ",
+      "baseline_id": "u3a31",
+      "actual_shaped_font_paths": true,
+      "same_word_for_all_12_fonts": true
+    },
+    {
+      "member": "Spreads/Spread_u3a8d.xml",
+      "glyph_id": "u41c9",
+      "font_key": "brush",
+      "word": "가만히",
+      "size_pt": 14,
+      "origin": [
+        34.68503937,
+        528.0
+      ],
+      "bounds_local": [
+        35.007,
+        520.118,
+        60.788,
+        530.422
+      ],
+      "feature_contours": [
+        1
+      ],
+      "feature": "ㄱ 전체",
+      "baseline_id": "u41ca",
+      "actual_shaped_font_paths": true,
+      "same_word_for_all_12_fonts": true
+    },
+    {
+      "member": "Spreads/Spread_u4226.xml",
+      "glyph_id": "u4934",
+      "font_key": "bawpic",
+      "word": "가만히",
+      "size_pt": 14,
+      "origin": [
+        34.68503937,
+        528.0
+      ],
+      "bounds_local": [
+        34.825,
+        517.416,
+        68.971,
+        530.282
+      ],
+      "feature_contours": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "feature": "ㄱ과 주변의 잉크 조각",
+      "baseline_id": "u4935",
+      "actual_shaped_font_paths": true,
+      "same_word_for_all_12_fonts": true
+    },
+    {
+      "member": "Spreads/Spread_u4991.xml",
+      "glyph_id": "u50cd",
+      "font_key": "brush",
+      "word": "가만히",
+      "size_pt": 14,
+      "origin": [
+        34.68503937,
+        528.0
+      ],
+      "bounds_local": [
+        35.007,
+        520.118,
+        60.788,
+        530.422
+      ],
+      "feature_contours": [
+        1
+      ],
+      "feature": "ㄱ 전체",
+      "baseline_id": "u50ce",
+      "actual_shaped_font_paths": true,
+      "same_word_for_all_12_fonts": true
+    },
+    {
+      "member": "Spreads/Spread_u512a.xml",
+      "glyph_id": "u5892",
+      "font_key": "pixel",
+      "word": "가만히",
+      "size_pt": 14,
+      "origin": [
+        34.68503937,
+        528.0
+      ],
+      "bounds_local": [
+        35.56,
+        517.5,
+        74.935,
+        528.875
+      ],
+      "feature_contours": [
+        1
+      ],
+      "feature": "ㄱ 전체",
+      "baseline_id": "u5893",
+      "actual_shaped_font_paths": true,
+      "same_word_for_all_12_fonts": true
+    },
+    {
+      "member": "Spreads/Spread_u670.xml",
+      "glyph_id": "u770",
+      "font_key": "blackhan",
+      "word": "가만히",
+      "size_pt": 17,
+      "origin": [
+        321,
+        167.0
+      ],
+      "bounds_local": [
+        321.85,
+        153.74,
+        362.327,
+        167.0
+      ],
+      "feature_contours": [
+        4
+      ],
+      "feature": "'만'의 실제 ㅁ 속공간",
+      "baseline_id": "u771",
+      "actual_shaped_font_paths": true,
+      "same_word_for_all_12_fonts": true
+    },
+    {
+      "member": "Spreads/Spread_u670.xml",
+      "glyph_id": "u7cf",
+      "font_key": "gugi",
+      "word": "가만히",
+      "size_pt": 17,
+      "origin": [
+        321,
+        234.0
+      ],
+      "bounds_local": [
+        321.553,
+        219.992,
+        368.328,
+        234.833
+      ],
+      "feature_contours": [
+        0
+      ],
+      "feature": "ㅏ 오른쪽의 분리된 원",
+      "baseline_id": "u7d0",
+      "actual_shaped_font_paths": true,
+      "same_word_for_all_12_fonts": true
+    },
+    {
+      "member": "Spreads/Spread_u670.xml",
+      "glyph_id": "u82e",
+      "font_key": "kirang",
+      "word": "가만히",
+      "size_pt": 17,
+      "origin": [
+        321,
+        301.0
+      ],
+      "bounds_local": [
+        321.816,
+        287.562,
+        355.357,
+        302.147
+      ],
+      "feature_contours": [
+        0
+      ],
+      "feature": "낮게 눌린 ㄱ",
+      "baseline_id": "u82f",
+      "actual_shaped_font_paths": true,
+      "same_word_for_all_12_fonts": true
+    },
+    {
+      "member": "Spreads/Spread_u670.xml",
+      "glyph_id": "u88d",
+      "font_key": "singleday",
+      "word": "가만히",
+      "size_pt": 17,
+      "origin": [
+        321,
+        368.0
+      ],
+      "bounds_local": [
+        321.664,
+        356.146,
+        360.196,
+        369.527
+      ],
+      "feature_contours": [
+        2
+      ],
+      "feature": "장식 하트",
+      "baseline_id": "u88e",
+      "actual_shaped_font_paths": true,
+      "same_word_for_all_12_fonts": true
+    },
+    {
+      "member": "Spreads/Spread_u670.xml",
+      "glyph_id": "u8ec",
+      "font_key": "bawpic",
+      "word": "가만히",
+      "size_pt": 17,
+      "origin": [
+        321,
+        435.0
+      ],
+      "bounds_local": [
+        321.17,
+        422.148,
+        362.633,
+        437.771
+      ],
+      "feature_contours": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "feature": "ㄱ과 주변의 잉크 조각",
+      "baseline_id": "u8ed",
+      "actual_shaped_font_paths": true,
+      "same_word_for_all_12_fonts": true
+    },
+    {
+      "member": "Spreads/Spread_u670.xml",
+      "glyph_id": "u94b",
+      "font_key": "pixel",
+      "word": "가만히",
+      "size_pt": 17,
+      "origin": [
+        321,
+        502.0
+      ],
+      "bounds_local": [
+        322.062,
+        489.25,
+        369.875,
+        503.062
+      ],
+      "feature_contours": [
+        1
+      ],
+      "feature": "ㄱ 전체",
+      "baseline_id": "u94c",
+      "actual_shaped_font_paths": true,
+      "same_word_for_all_12_fonts": true
+    },
+    {
+      "member": "Spreads/Spread_u670.xml",
+      "glyph_id": "ua49",
+      "font_key": "gungseo",
+      "word": "가만히",
+      "size_pt": 17,
+      "origin": [
+        321,
+        167.0
+      ],
+      "bounds_local": [
+        322.87,
+        154.454,
+        368.039,
+        168.734
+      ],
+      "feature_contours": [
+        0
+      ],
+      "feature": "ㄱ 전체",
+      "baseline_id": "ua4a",
+      "actual_shaped_font_paths": true,
+      "same_word_for_all_12_fonts": true
+    },
+    {
+      "member": "Spreads/Spread_u670.xml",
+      "glyph_id": "uaa8",
+      "font_key": "jua",
+      "word": "가만히",
+      "size_pt": 17,
+      "origin": [
+        321,
+        234.0
+      ],
+      "bounds_local": [
+        321.255,
+        220.332,
+        362.242,
+        234.612
+      ],
+      "feature_contours": [
+        0
+      ],
+      "feature": "ㄱ 전체",
+      "baseline_id": "uaa9",
+      "actual_shaped_font_paths": true,
+      "same_word_for_all_12_fonts": true
+    },
+    {
+      "member": "Spreads/Spread_u670.xml",
+      "glyph_id": "ub07",
+      "font_key": "brush",
+      "word": "가만히",
+      "size_pt": 17,
+      "origin": [
+        321,
+        301.0
+      ],
+      "bounds_local": [
+        321.391,
+        291.429,
+        352.697,
+        303.941
+      ],
+      "feature_contours": [
+        1
+      ],
+      "feature": "ㄱ 전체",
+      "baseline_id": "ub08",
+      "actual_shaped_font_paths": true,
+      "same_word_for_all_12_fonts": true
+    },
+    {
+      "member": "Spreads/Spread_u670.xml",
+      "glyph_id": "ub66",
+      "font_key": "YES24",
+      "word": "가만히",
+      "size_pt": 17,
+      "origin": [
+        321,
+        368.0
+      ],
+      "bounds_local": [
+        322.122,
+        353.584,
+        365.693,
+        369.258
+      ],
+      "feature_contours": [
+        0
+      ],
+      "feature": "ㄱ 전체",
+      "baseline_id": "ub67",
+      "actual_shaped_font_paths": true,
+      "same_word_for_all_12_fonts": true
+    },
+    {
+      "member": "Spreads/Spread_u670.xml",
+      "glyph_id": "ubc5",
+      "font_key": "sans",
+      "word": "가만히",
+      "size_pt": 17,
+      "origin": [
+        321,
+        435.0
+      ],
+      "bounds_local": [
+        321.935,
+        420.941,
+        365.71,
+        436.326
+      ],
+      "feature_contours": [
+        0
+      ],
+      "feature": "ㅏ 전체",
+      "baseline_id": "ubc6",
+      "actual_shaped_font_paths": true,
+      "same_word_for_all_12_fonts": true
+    },
+    {
+      "member": "Spreads/Spread_u670.xml",
+      "glyph_id": "uc24",
+      "font_key": "serif",
+      "word": "가만히",
+      "size_pt": 17,
+      "origin": [
+        321,
+        502.0
+      ],
+      "bounds_local": [
+        321.816,
+        487.499,
+        367.614,
+        503.836
+      ],
+      "feature_contours": [
+        1
+      ],
+      "feature": "ㅏ 전체",
+      "baseline_id": "uc25",
+      "actual_shaped_font_paths": true,
+      "same_word_for_all_12_fonts": true
+    },
+    {
+      "member": "Spreads/Spread_uc29.xml",
+      "glyph_id": "u137b",
+      "font_key": "blackhan",
+      "word": "가만히",
+      "size_pt": 14,
+      "origin": [
+        34.68503937,
+        528.0
+      ],
+      "bounds_local": [
+        35.385,
+        517.08,
+        68.719,
+        528.0
+      ],
+      "feature_contours": [
+        4
+      ],
+      "feature": "'만'의 실제 ㅁ 속공간",
+      "baseline_id": "u137c",
+      "actual_shaped_font_paths": true,
+      "same_word_for_all_12_fonts": true
+    },
+    {
+      "member": "Spreads/Spread_u1eb.xml",
+      "glyph_id": "earlyVisual_blackhan_glyph",
+      "font_key": "blackhan",
+      "word": "마음",
+      "size_pt": 56,
+      "origin": [
+        48,
+        314
+      ],
+      "bounds_local": [
+        51.36,
+        271.44,
+        138.608,
+        314.0
+      ],
+      "feature_contours": [
+        2
+      ],
+      "actual_shaped_font_paths": true,
+      "same_size_and_word_within_pair": true
+    },
+    {
+      "member": "Spreads/Spread_u1eb.xml",
+      "glyph_id": "earlyVisual_sans_glyph",
+      "font_key": "sans",
+      "word": "마음",
+      "size_pt": 56,
+      "origin": [
+        231,
+        314
+      ],
+      "bounds_local": [
+        235.816,
+        267.688,
+        331.072,
+        318.368
+      ],
+      "feature_contours": [
+        1
+      ],
+      "actual_shaped_font_paths": true,
+      "same_size_and_word_within_pair": true
+    },
+    {
+      "member": "Spreads/Spread_u1eb.xml",
+      "glyph_id": "earlyVisual_gugi_glyph",
+      "font_key": "gugi",
+      "word": "가자",
+      "size_pt": 48,
+      "origin": [
+        48,
+        456
+      ],
+      "bounds_local": [
+        49.56,
+        416.448,
+        140.688,
+        457.248
+      ],
+      "feature_contours": [
+        0
+      ],
+      "actual_shaped_font_paths": true,
+      "same_size_and_word_within_pair": true
+    },
+    {
+      "member": "Spreads/Spread_u1eb.xml",
+      "glyph_id": "earlyVisual_singleday_glyph",
+      "font_key": "singleday",
+      "word": "가자",
+      "size_pt": 48,
+      "origin": [
+        231,
+        456
+      ],
+      "bounds_local": [
+        232.875,
+        426.281,
+        307.734,
+        458.438
+      ],
+      "feature_contours": [
+        2
+      ],
+      "actual_shaped_font_paths": true,
+      "same_size_and_word_within_pair": true
+    }
+  ],
+  "actual_Adobe_execution": false
+}
