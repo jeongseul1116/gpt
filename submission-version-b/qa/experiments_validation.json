@@ -1,0 +1,20 @@
+{
+  "status": "passed",
+  "physical_pages": [
+    16,
+    17,
+    18,
+    19,
+    20
+  ],
+  "issues": [],
+  "checks": [
+    "all_text_lines_fit_width",
+    "all_control_hulls_inside_symmetric36pt_horizontal_grid",
+    "all_items_above551.5pt",
+    "wholewordHarfBuzzorigins_preserved",
+    "exactBezierinkbounds",
+    "tracking_is_explicit_editing_not_designed_kerning",
+    "qualitative_map_is_not_numeric_scoring"
+  ]
+}

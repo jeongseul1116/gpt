@@ -1,0 +1,885 @@
+{
+  "status": "built",
+  "font_count": 12,
+  "physical_pages": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+  ],
+  "physical_page_range": [
+    4,
+    15
+  ],
+  "common_live_specimen": "진심입니다",
+  "common_live_size_pt": 64,
+  "main_visual_methods": [
+    "actual_counter_plane_and_stem_gauge",
+    "real_stroke_section_and_terminal_bounds",
+    "brush_pressure_sections_in_advance_plane",
+    "detached_dot_and_outline_gap_measure",
+    "actual_sixteen_unit_glyph_lattice",
+    "actual_rounding_curve_enlargement",
+    "literal_font_ornament_enlargement",
+    "real_advance_axis_and_irregular_skeleton",
+    "actual_worn_outline_positive_negative",
+    "actual_HarfBuzz_advance_width_bars",
+    "actual_straight_edge_length_probe"
+  ],
+  "page_records": [
+    {
+      "physical_page": 4,
+      "printed_folio": 3,
+      "font_key": "blackhan",
+      "font_name": "블랙 한 산스",
+      "specimen": "진심입니다",
+      "specimen_size_pt": 64,
+      "specimen_baseline_pt": 182,
+      "specimen_advance_pt": 263.296,
+      "actual_feature_character": "심",
+      "local_contour_indexes": [
+        3
+      ],
+      "method": "actual_counter_plane_and_stem_gauge",
+      "measurements": {
+        "source_font_size_pt": 64,
+        "local_stem_width_em": 0.188,
+        "local_stem_width_pt_at64": 12.032,
+        "magnification": 5
+      },
+      "all_large_graphics_bounds": [
+        [
+          97.6,
+          319.84000000000003,
+          315.2,
+          420.0
+        ],
+        [
+          157.76,
+          363.04,
+          255.04,
+          376.8
+        ],
+        [
+          97.6,
+          369.92,
+          157.76,
+          369.92
+        ],
+        [
+          97.6,
+          366.92,
+          97.6,
+          372.92
+        ],
+        [
+          157.76,
+          366.92,
+          157.76,
+          372.92
+        ]
+      ],
+      "all_contours_from_verified_font_features": true,
+      "shape_statement": "두꺼운 획이 ‘심’의 ㅁ 속공간을 좁게 둘러싼다.",
+      "personal_impression": "나는 작은 말도 크게 단언하는 목소리처럼 읽는다."
+    },
+    {
+      "physical_page": 5,
+      "printed_folio": 4,
+      "font_key": "sans",
+      "font_name": "Noto Sans CJK KR",
+      "specimen": "진심입니다",
+      "specimen_size_pt": 64,
+      "specimen_baseline_pt": 182,
+      "specimen_advance_pt": 294.4,
+      "actual_feature_character": "다",
+      "local_contour_indexes": [
+        0
+      ],
+      "method": "real_stroke_section_and_terminal_bounds",
+      "measurements": {
+        "source_font_size_pt": 64,
+        "scan_y_em": -0.5733199999999999,
+        "local_stroke_interval_em": [
+          0.662,
+          0.745
+        ],
+        "local_width_pt_at64": 5.311999999999998,
+        "display_scale_pt": 203.09050772626932
+      },
+      "all_large_graphics_bounds": [
+        [
+          114.35761589403972,
+          253.99999999999997,
+          277.6423841059603,
+          437.99999999999994
+        ],
+        [
+          230.72847682119203,
+          253.99999999999997,
+          277.6423841059603,
+          437.99999999999994
+        ],
+        [
+          230.72847682119203,
+          305.52,
+          247.58498896247238,
+          305.52
+        ],
+        [
+          230.72847682119203,
+          302.52,
+          230.72847682119203,
+          308.52
+        ],
+        [
+          247.58498896247238,
+          302.52,
+          247.58498896247238,
+          308.52
+        ],
+        [
+          56.0,
+          253.99999999999997,
+          361,
+          253.99999999999997
+        ],
+        [
+          56.0,
+          437.99999999999994,
+          361,
+          437.99999999999994
+        ]
+      ],
+      "all_contours_from_verified_font_features": true,
+      "shape_statement": "굵기 차가 작고 끝에 장식이 없어 골격이 고르게 이어진다.",
+      "personal_impression": "나는 감정을 덜어 낸 차분한 안내문처럼 읽는다."
+    },
+    {
+      "physical_page": 6,
+      "printed_folio": 5,
+      "font_key": "serif",
+      "font_name": "Noto Serif CJK KR",
+      "specimen": "진심입니다",
+      "specimen_size_pt": 64,
+      "specimen_baseline_pt": 182,
+      "specimen_advance_pt": 309.12,
+      "actual_feature_character": "진",
+      "local_contour_indexes": [
+        0
+      ],
+      "method": "real_stroke_section_and_terminal_bounds",
+      "measurements": {
+        "source_font_size_pt": 64,
+        "scan_y_em": -0.6542,
+        "local_stroke_interval_em": [
+          0.735,
+          0.806
+        ],
+        "local_width_pt_at64": 4.544000000000004,
+        "display_scale_pt": 199.34994582881905
+      },
+      "all_large_graphics_bounds": [
+        [
+          116.19640319599016,
+          254.0,
+          275.8035968040099,
+          438.0
+        ],
+        [
+          230.94985899252558,
+          254.0,
+          262.447150433479,
+          395.53846153846155
+        ],
+        [
+          247.69525444214636,
+          293.63076923076926,
+          261.8491005959925,
+          293.63076923076926
+        ],
+        [
+          247.69525444214636,
+          290.63076923076926,
+          247.69525444214636,
+          296.63076923076926
+        ],
+        [
+          261.8491005959925,
+          290.63076923076926,
+          261.8491005959925,
+          296.63076923076926
+        ],
+        [
+          56.0,
+          254.0,
+          361,
+          254.0
+        ],
+        [
+          56.0,
+          438.0,
+          361,
+          438.0
+        ]
+      ],
+      "all_contours_from_verified_font_features": true,
+      "shape_statement": "가는 가로획과 굵은 세로획, 끝의 돌출이 대비를 만든다.",
+      "personal_impression": "나는 짧은 문장도 격식을 갖춘 말처럼 읽는다."
+    },
+    {
+      "physical_page": 7,
+      "printed_folio": 6,
+      "font_key": "gungseo",
+      "font_name": "은궁서",
+      "specimen": "진심입니다",
+      "specimen_size_pt": 64,
+      "specimen_baseline_pt": 182,
+      "specimen_advance_pt": 320.0,
+      "actual_feature_character": "진",
+      "local_contour_indexes": [
+        0
+      ],
+      "method": "brush_pressure_sections_in_advance_plane",
+      "measurements": {
+        "actual_advance_em": 1.0,
+        "local_probes": [
+          {
+            "y_em": -0.53,
+            "width_pt_at64": 5.852172765145383
+          },
+          {
+            "y_em": -0.378,
+            "width_pt_at64": 7.808633451029735
+          }
+        ]
+      },
+      "all_large_graphics_bounds": [
+        [
+          130.49698431845596,
+          250.0,
+          280.503015681544,
+          437.0
+        ],
+        [
+          130.49698431845596,
+          275.4897466827503,
+          235.83956574185765,
+          361.2074788902292
+        ],
+        [
+          160.58921007661215,
+          296.91917973462,
+          181.21564831323357,
+          296.91917973462
+        ],
+        [
+          160.58921007661215,
+          293.91917973462,
+          160.58921007661215,
+          299.91917973462
+        ],
+        [
+          181.21564831323357,
+          293.91917973462,
+          181.21564831323357,
+          299.91917973462
+        ],
+        [
+          204.06053852916523,
+          331.2062726176116,
+          231.5826746747955,
+          331.2062726176116
+        ],
+        [
+          204.06053852916523,
+          328.2062726176116,
+          204.06053852916523,
+          334.2062726176116
+        ],
+        [
+          231.5826746747955,
+          328.2062726176116,
+          231.5826746747955,
+          334.2062726176116
+        ]
+      ],
+      "all_contours_from_verified_font_features": true,
+      "shape_statement": "눌렀다 가늘어지는 붓획이 넉넉한 글자칸에 놓인다.",
+      "personal_impression": "나는 글자의 호흡이 길어져 신중한 다짐처럼 읽는다."
+    },
+    {
+      "physical_page": 8,
+      "printed_folio": 7,
+      "font_key": "gugi",
+      "font_name": "구기",
+      "specimen": "진심입니다",
+      "specimen_size_pt": 64,
+      "specimen_baseline_pt": 182,
+      "specimen_advance_pt": 304.384,
+      "actual_feature_character": "다",
+      "local_contour_indexes": [
+        0
+      ],
+      "method": "detached_dot_and_outline_gap_measure",
+      "measurements": {
+        "actual_outline_gap_em": 0.03300000000000003,
+        "outline_gap_pt_at64": 2.112000000000002
+      },
+      "all_large_graphics_bounds": [
+        [
+          105.24,
+          249.0,
+          300.76,
+          437.0
+        ],
+        [
+          266.6988235294118,
+          310.9294117647059,
+          300.76,
+          344.9905882352941
+        ],
+        [
+          259.4,
+          327.96,
+          266.6988235294118,
+          327.96
+        ],
+        [
+          259.4,
+          324.96,
+          259.4,
+          330.96
+        ],
+        [
+          266.6988235294118,
+          324.96,
+          266.6988235294118,
+          330.96
+        ]
+      ],
+      "all_contours_from_verified_font_features": true,
+      "shape_statement": "획에서 떨어진 둥근 점과 끊긴 이음이 눈에 띈다.",
+      "personal_impression": "내겐 말이 짧고 또박또박한 기계 신호처럼 들린다."
+    },
+    {
+      "physical_page": 9,
+      "printed_folio": 8,
+      "font_key": "pixel",
+      "font_name": "둥근모꼴",
+      "specimen": "진심입니다",
+      "specimen_size_pt": 64,
+      "specimen_baseline_pt": 182,
+      "specimen_advance_pt": 320.0,
+      "actual_feature_character": "진",
+      "local_contour_indexes": [
+        0
+      ],
+      "method": "actual_sixteen_unit_glyph_lattice",
+      "measurements": {
+        "font_grid_step_em": 0.0625,
+        "display_grid_step_pt": 12.0,
+        "em_display_size_pt": 192.0,
+        "descender_grid_extension_em": 0.0625
+      },
+      "all_large_graphics_bounds": [
+        [
+          112.0,
+          257.0,
+          112.0,
+          461.0
+        ],
+        [
+          124.0,
+          257.0,
+          124.0,
+          461.0
+        ],
+        [
+          136.0,
+          257.0,
+          136.0,
+          461.0
+        ],
+        [
+          148.0,
+          257.0,
+          148.0,
+          461.0
+        ],
+        [
+          160.0,
+          257.0,
+          160.0,
+          461.0
+        ],
+        [
+          172.0,
+          257.0,
+          172.0,
+          461.0
+        ],
+        [
+          184.0,
+          257.0,
+          184.0,
+          461.0
+        ],
+        [
+          196.0,
+          257.0,
+          196.0,
+          461.0
+        ],
+        [
+          208.0,
+          257.0,
+          208.0,
+          461.0
+        ],
+        [
+          220.0,
+          257.0,
+          220.0,
+          461.0
+        ],
+        [
+          232.0,
+          257.0,
+          232.0,
+          461.0
+        ],
+        [
+          244.0,
+          257.0,
+          244.0,
+          461.0
+        ],
+        [
+          256.0,
+          257.0,
+          256.0,
+          461.0
+        ],
+        [
+          268.0,
+          257.0,
+          268.0,
+          461.0
+        ],
+        [
+          280.0,
+          257.0,
+          280.0,
+          461.0
+        ],
+        [
+          292.0,
+          257.0,
+          292.0,
+          461.0
+        ],
+        [
+          304.0,
+          257.0,
+          304.0,
+          461.0
+        ],
+        [
+          112.0,
+          257.0,
+          304.0,
+          257.0
+        ],
+        [
+          112.0,
+          269.0,
+          304.0,
+          269.0
+        ],
+        [
+          112.0,
+          281.0,
+          304.0,
+          281.0
+        ],
+        [
+          112.0,
+          293.0,
+          304.0,
+          293.0
+        ],
+        [
+          112.0,
+          305.0,
+          304.0,
+          305.0
+        ],
+        [
+          112.0,
+          317.0,
+          304.0,
+          317.0
+        ],
+        [
+          112.0,
+          329.0,
+          304.0,
+          329.0
+        ],
+        [
+          112.0,
+          341.0,
+          304.0,
+          341.0
+        ],
+        [
+          112.0,
+          353.0,
+          304.0,
+          353.0
+        ],
+        [
+          112.0,
+          365.0,
+          304.0,
+          365.0
+        ],
+        [
+          112.0,
+          377.0,
+          304.0,
+          377.0
+        ],
+        [
+          112.0,
+          389.0,
+          304.0,
+          389.0
+        ],
+        [
+          112.0,
+          401.0,
+          304.0,
+          401.0
+        ],
+        [
+          112.0,
+          413.0,
+          304.0,
+          413.0
+        ],
+        [
+          112.0,
+          425.0,
+          304.0,
+          425.0
+        ],
+        [
+          112.0,
+          437.0,
+          304.0,
+          437.0
+        ],
+        [
+          112.0,
+          449.0,
+          304.0,
+          449.0
+        ],
+        [
+          112.0,
+          461.0,
+          304.0,
+          461.0
+        ],
+        [
+          124.0,
+          305.0,
+          280.0,
+          461.0
+        ],
+        [
+          124.0,
+          305.0,
+          220.0,
+          389.0
+        ]
+      ],
+      "all_contours_from_verified_font_features": true,
+      "shape_statement": "같은 칸 안에서 윤곽이 작은 격자 단위로 꺾인다.",
+      "personal_impression": "나는 일정한 박자를 가진 옛 화면의 안내처럼 읽는다."
+    },
+    {
+      "physical_page": 10,
+      "printed_folio": 9,
+      "font_key": "jua",
+      "font_name": "주아",
+      "specimen": "진심입니다",
+      "specimen_size_pt": 64,
+      "specimen_baseline_pt": 182,
+      "specimen_advance_pt": 256.32,
+      "actual_feature_character": "진",
+      "local_contour_indexes": [
+        0
+      ],
+      "method": "actual_rounding_curve_enlargement",
+      "measurements": {
+        "actual_cubic_midpoint_em": [
+          0.33787487499999996,
+          -0.644
+        ],
+        "display_scale_pt": 365.3395784543326
+      },
+      "all_large_graphics_bounds": [
+        [
+          115.9847775175644,
+          264.0,
+          298.0152224824356,
+          420.0
+        ],
+        [
+          220.11705035128804,
+          293.2833723653396,
+          244.11705035128804,
+          317.2833723653396
+        ]
+      ],
+      "all_contours_from_verified_font_features": true,
+      "shape_statement": "도톰한 획의 모서리와 끝이 둥글게 이어진다.",
+      "personal_impression": "나는 힘 있는 말도 웃으며 건네는 말처럼 읽는다."
+    },
+    {
+      "physical_page": 11,
+      "printed_folio": 10,
+      "font_key": "singleday",
+      "font_name": "싱글데이",
+      "specimen": "진심입니다",
+      "specimen_size_pt": 64,
+      "specimen_baseline_pt": 182,
+      "specimen_advance_pt": 257.5,
+      "actual_feature_character": "다",
+      "local_contour_indexes": [
+        2
+      ],
+      "method": "literal_font_ornament_enlargement",
+      "measurements": {
+        "actual_local_contours": [
+          2
+        ],
+        "detail_scale_pt": 779.7417457760074,
+        "detail_is_actual_font_contour": true
+      },
+      "all_large_graphics_bounds": [
+        [
+          121.0,
+          288.34409392599974,
+          287.0,
+          408.6559060740004
+        ],
+        [
+          271.31248000000005,
+          155.249984,
+          271.31248000000005,
+          212
+        ],
+        [
+          204,
+          212.0,
+          271.31248000000005,
+          258
+        ]
+      ],
+      "all_contours_from_verified_font_features": true,
+      "shape_statement": "흔들리는 손글씨 획과 실제 하트 장식이 함께 놓인다.",
+      "personal_impression": "나는 단정한 문장도 가까운 사람이 적은 쪽지처럼 읽는다."
+    },
+    {
+      "physical_page": 12,
+      "printed_folio": 11,
+      "font_key": "kirang",
+      "font_name": "기랑해랑",
+      "specimen": "진심입니다",
+      "specimen_size_pt": 64,
+      "specimen_baseline_pt": 182,
+      "specimen_advance_pt": 211.84,
+      "actual_feature_character": "진",
+      "local_contour_indexes": [
+        0
+      ],
+      "method": "real_advance_axis_and_irregular_skeleton",
+      "measurements": {
+        "advance_cell_em": 0.65,
+        "advance_cell_center_display_pt": 207.17156419544023
+      },
+      "all_large_graphics_bounds": [
+        [
+          207.17156419544023,
+          247.0,
+          207.17156419544023,
+          440
+        ],
+        [
+          68.0,
+          343.0,
+          352,
+          343.0
+        ],
+        [
+          148.95849104736948,
+          250.00000000000003,
+          265.04150895263047,
+          436.0
+        ],
+        [
+          148.95849104736948,
+          272.5744356798728,
+          232.54021134035642,
+          364.0486136862754
+        ]
+      ],
+      "all_contours_from_verified_font_features": true,
+      "shape_statement": "서로 다른 기울기와 획 두께가 골격을 들썩이게 한다.",
+      "personal_impression": "나는 고정된 문장도 손으로 흔드는 팻말처럼 읽는다."
+    },
+    {
+      "physical_page": 13,
+      "printed_folio": 12,
+      "font_key": "bawpic",
+      "font_name": "흑백사진",
+      "specimen": "진심입니다",
+      "specimen_size_pt": 64,
+      "specimen_baseline_pt": 182,
+      "specimen_advance_pt": 258.56,
+      "actual_feature_character": "진",
+      "local_contour_indexes": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "method": "actual_worn_outline_positive_negative",
+      "measurements": {
+        "same_contours_in_positive_and_negative": true,
+        "display_scale_pt": 164.81069042316258
+      },
+      "all_large_graphics_bounds": [
+        [
+          64.95879732739421,
+          276.0,
+          176.0412026726058,
+          424.0
+        ],
+        [
+          247.95879732739422,
+          276.0,
+          359.0412026726058,
+          424.0
+        ]
+      ],
+      "all_contours_from_verified_font_features": true,
+      "shape_statement": "윤곽의 패임과 떨어진 조각이 획의 가장자리를 거칠게 만든다.",
+      "personal_impression": "나는 조용한 문장도 거친 숨이 섞인 외침처럼 읽는다."
+    },
+    {
+      "physical_page": 14,
+      "printed_folio": 13,
+      "font_key": "brush",
+      "font_name": "나눔손글씨 붓",
+      "specimen": "진심입니다",
+      "specimen_size_pt": 64,
+      "specimen_baseline_pt": 182,
+      "specimen_advance_pt": 187.52,
+      "actual_feature_character": "진",
+      "local_contour_indexes": [
+        1,
+        3
+      ],
+      "method": "actual_HarfBuzz_advance_width_bars",
+      "measurements": {
+        "actual_advances_pt_at64": [
+          40.96,
+          37.76,
+          35.2,
+          31.36,
+          42.24
+        ],
+        "bar_scale": 4
+      },
+      "all_large_graphics_bounds": [],
+      "all_contours_from_verified_font_features": true,
+      "shape_statement": "작은 몸집, 가늘어지는 끝, 글자마다 다른 폭이 드러난다.",
+      "personal_impression": "나는 급히 적었지만 마음을 담은 사적인 메모처럼 읽는다."
+    },
+    {
+      "physical_page": 15,
+      "printed_folio": 14,
+      "font_key": "YES24",
+      "font_name": "예스체 YES24",
+      "specimen": "진심입니다",
+      "specimen_size_pt": 64,
+      "specimen_baseline_pt": 182,
+      "specimen_advance_pt": 291.2,
+      "actual_feature_character": "다",
+      "local_contour_indexes": [
+        0
+      ],
+      "method": "actual_straight_edge_length_probe",
+      "measurements": {
+        "actual_straight_vertical_edge_length_em": 0.8140000000000001,
+        "straight_edge_pt_at64": 52.096000000000004
+      },
+      "all_large_graphics_bounds": [
+        [
+          120.27740492170022,
+          250.00000000000003,
+          288.7225950782998,
+          435.00000000000006
+        ],
+        [
+          120.27740492170022,
+          252.69015659955258,
+          221.67561521252796,
+          426.561665408485
+        ],
+        [
+          109.27740492170022,
+          254.3456375838926,
+          109.27740492170022,
+          422.7908277404922
+        ],
+        [
+          106.27740492170022,
+          422.7908277404922,
+          112.27740492170022,
+          422.7908277404922
+        ],
+        [
+          106.27740492170022,
+          254.34563758389262,
+          112.27740492170022,
+          254.34563758389262
+        ]
+      ],
+      "all_contours_from_verified_font_features": true,
+      "shape_statement": "두꺼운 세로획과 직선적인 골격에 미세하게 둥근 모서리가 있다.",
+      "personal_impression": "나는 짧은 대답도 단단히 결론을 내린 말처럼 읽는다."
+    }
+  ],
+  "source_feature_archive": "/workspace/alignment_repair_20261103/design/existing_word_features.json",
+  "no_meme_examples_in_atlas": true,
+  "old_A_files_mutated": false,
+  "native_Adobe_execution": false
+}

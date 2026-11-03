@@ -1,0 +1,55 @@
+{
+  "status": "passed",
+  "edition": "Version B",
+  "print_sha256": "8b1848dce5f84da1baa3c1a5046e9c2d4b375cc6a0b99b33087760299a0b5424",
+  "method": "Viewed actual current Version B first-sheet front/back rasters and all14-face overview. Numerical source comparison separately covers all28pages.",
+  "images": [
+    "../output/A3_Side_01.png",
+    "../output/A3_Side_02.png",
+    "../output/A3_All_14_Faces.jpg"
+  ],
+  "first_front": {
+    "pair": [
+      28,
+      1
+    ],
+    "back_cover_left_front_cover_right": true,
+    "new_font_visualization_cover_and_small_original_photo_visible": true,
+    "upright": true
+  },
+  "first_back": {
+    "pair": [
+      2,
+      27
+    ],
+    "new_contents_left_last_application_right": true,
+    "visible_folios": [
+      "01",
+      "26"
+    ],
+    "upright": true
+  },
+  "all14_face_overview": {
+    "seven_rows_front_back_pairs": true,
+    "all_faces_upright": true,
+    "current_font_atlas_and_experiments_visible": true,
+    "current_six_application_pages_visible": true,
+    "dark_divider21_on_right_of_face8": true,
+    "crop_marks_and_rulers_visible": true
+  },
+  "physical_printer_test": false,
+  "native_Adobe_verification": false,
+  "fold9_final_white_paper_knockout_probe": {
+    "dpi": [
+      72,
+      120,
+      254
+    ],
+    "minimum_RGB_at_fold": [
+      255,
+      255,
+      255
+    ],
+    "source20_right3mm_and9_left3mm_independently_verified_white_before_overlay": true
+  }
+}

@@ -1,3 +1,18 @@
+# A안 보존 / 새 B안 — 시각화 먼저, 유행어는 마지막에
+
+기존A안은 그대로 보존했습니다. 새B안은 **형태 관찰 → 인상 해석 → 유행어에 적용** 순서입니다.12폰트를 한 쪽씩 크게 시각화하고, 비교 실험 뒤 본문 마지막6쪽에서15개 유행어의 폰트 효과를 보여줍니다.
+
+- **[새 B안 PDF](submission-version-b/Meme_Font_Book_Version_B_28p_Review.pdf)**
+- **[새 B안 편집용 IDML](submission-version-b/Meme_Font_Book_Version_B_28p.idml)**
+- **[새 B안 A3 인쇄 PDF](submission-version-b/Meme_Font_Book_Version_B_A3_Duplex_28p.pdf)**
+- [B안 전체28면](submission-version-b/Version_B_All_28_Pages.png) · [큰 폰트 관찰](submission-version-b/Version_B_Atlas_12_Fonts.jpg) · [마지막 응용부](submission-version-b/Version_B_Applications_22_27.jpg)
+- [B안 기획안](submission-version-b/Version_B_Plan_KO.md) · [전체 ZIP](https://github.com/jeongseul1116/gpt/raw/refs/heads/main/Meme_Font_Book_Version_B_28p.zip)
+- [보존한 A안](submission-alignment/README_KO.md) · [A/B 목록](BOOK_VERSIONS.json) · [B안 안내·인쇄 설정·검수 범위](submission-version-b/README_KO.md)
+
+아래는A안과 이전 수정 내역입니다. 실제 Adobe 실행·실물 출력은 미검증입니다.
+
+---
+
 # 정렬 수정 — 기존 ‘진심입니다’에서 특징 시각화
 
 중복 견본 ‘가만히’를 제거했습니다. ‘진심입니다’에 실제 속공간·획 단면·격자·글자칸·잉크 경계·장식 확대를 표시합니다. 본문 하단9곳을 같은 기준선에 맞추고, 뒷표지는 좌우14mm로 정리했습니다. 승인 예문15개는 유지했습니다.

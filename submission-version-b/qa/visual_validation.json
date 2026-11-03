@@ -1,0 +1,88 @@
+{
+  "status": "passed",
+  "idml_sha256": "79a104b5b44c5397d69573d3ad140d90019615169a027535b7c2caf96e898c6f",
+  "reader_sha256": "13ebbc005ada29173661b46c832809a85a097192595fd224955c59225536272b",
+  "source_bleed_sha256": "f4f70368484af6c6e4b1cc6bda64888bade36e001b02b2231b9b74ea9ea7c5db",
+  "scope": "All28newBpagesvisualreview; firstpassall28reviewedindividuallyat120dpi; finalcorrectedphysical9and24rerenderedandrechecked. Otherdesignsceneitemsunchangedbythesetwocorrections.",
+  "reviewed_physical_pages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28
+  ],
+  "atlas": {
+    "all12large64ptlive_specimens_readable": true,
+    "all12baseline182pt": true,
+    "all12font_specific_detail_diagrams_clear": true,
+    "no_diagram_caption_overlap": true,
+    "pixel_grid_extends_through_actual_1_16em_descender_row": true,
+    "pixel_caption_moved_below_completed_grid": true
+  },
+  "experiments": {
+    "all5pages16to20_clear": true,
+    "tracking_experiment_explicitly_uses_positioned_actual_font_vectors": true,
+    "advance_and_ink_bounds_clearly_distinguished": true,
+    "perceptual_map_labelled_editors_impression_not_measurement": true
+  },
+  "applications": {
+    "all15approved_examples_visible_on6finalpages": true,
+    "all15pairs_same_text_point_size_color_and_baseline_offset": true,
+    "no_quote_or_label_clipping": true,
+    "E10_both24pt_quote_frames_height36_8": true,
+    "E10brush_actual_ink_bottom36_216_within_frame": true,
+    "all_neutral_selected_labels_visible_checked_at_enlarged_view": true
+  },
+  "cover": {
+    "original_embedded_RGBA_photo_complete": true,
+    "pixel_size": [
+      874,
+      1275
+    ],
+    "effective_ppi": 699.2,
+    "both_covers_without_visible_folios": true
+  },
+  "book_system": {
+    "contents_folio01": true,
+    "body_folios1to26": true,
+    "dark21section_opener_upright_clear": true,
+    "all28pages_A5": true,
+    "review_and_bleed_source_trim_pixels_identical": true
+  },
+  "strict_live_text_QA": {
+    "frames": 428,
+    "actualBezierInkClipFlags": 0,
+    "threshold_pt": 0.05,
+    "lineFitFlags": 0,
+    "unintendedWrapping": 0,
+    "unknownFonts": [],
+    "missingGlyphs": []
+  },
+  "A_output_paths_written": false,
+  "native_Adobe_execution": false,
+  "physical_printer_test": false,
+  "PDF_native_Adobe_export": false
+}

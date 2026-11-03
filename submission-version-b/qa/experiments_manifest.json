@@ -1,0 +1,1165 @@
+{
+  "status": "built_for_version_b",
+  "physical_pages": [
+    16,
+    17,
+    18,
+    19,
+    20
+  ],
+  "all_outlines_actual_fonts": true,
+  "all_text_left_aligned": true,
+  "no_memes_before_application_section": true,
+  "no_fake_weights_or_horizontal_scaling": true,
+  "tracking_is_labelled_editorial_experiment": true,
+  "records": [
+    {
+      "physical_page": 16,
+      "experiment": "same_point_different_ink",
+      "hero_size_pt": 48,
+      "mini_size_pt": 24,
+      "metric_definitions": {
+        "advance": "real shaped horizontal advance",
+        "ink_width": "exact cubic Bezier maximum x minus minimum x"
+      },
+      "specimens": [
+        {
+          "text": "진심",
+          "font": "sans",
+          "size_pt": 48,
+          "origin": [
+            36.0,
+            209
+          ],
+          "advance_pt": 88.32,
+          "ink_bounds_pt": [
+            38.976,
+            169.352,
+            118.128,
+            212.168
+          ],
+          "glyphs": [
+            {
+              "character": "진",
+              "x": 36.0,
+              "advance_pt": 44.16,
+              "ink_bounds_pt": [
+                38.976,
+                169.352,
+                75.312,
+                211.784
+              ]
+            },
+            {
+              "character": "심",
+              "x": 80.16,
+              "advance_pt": 44.16,
+              "ink_bounds_pt": [
+                82.896,
+                169.352,
+                118.128,
+                212.168
+              ]
+            }
+          ]
+        },
+        {
+          "text": "진심",
+          "font": "brush",
+          "size_pt": 48,
+          "origin": [
+            221.0,
+            209
+          ],
+          "advance_pt": 59.04,
+          "ink_bounds_pt": [
+            221.85714285714286,
+            183.176,
+            281.00685714285714,
+            217.976
+          ],
+          "glyphs": [
+            {
+              "character": "진",
+              "x": 221.0,
+              "advance_pt": 30.72,
+              "ink_bounds_pt": [
+                221.85714285714286,
+                184.51314285714287,
+                254.48342857142856,
+                213.5696
+              ]
+            },
+            {
+              "character": "심",
+              "x": 251.72,
+              "advance_pt": 28.32,
+              "ink_bounds_pt": [
+                253.304,
+                183.176,
+                281.00685714285714,
+                217.976
+              ]
+            }
+          ]
+        },
+        {
+          "text": "진심",
+          "font": "blackhan",
+          "size_pt": 24,
+          "origin": [
+            203,
+            321
+          ],
+          "advance_pt": 39.239999999999995,
+          "ink_bounds_pt": [
+            203.96,
+            302.76,
+            240.8,
+            321.0
+          ],
+          "glyphs": [
+            {
+              "character": "진",
+              "x": 203.0,
+              "advance_pt": 19.56,
+              "ink_bounds_pt": [
+                203.96,
+                302.76,
+                221.12,
+                321.0
+              ]
+            },
+            {
+              "character": "심",
+              "x": 222.56,
+              "advance_pt": 19.679999999999996,
+              "ink_bounds_pt": [
+                223.52,
+                302.76,
+                240.8,
+                321.0
+              ]
+            }
+          ]
+        },
+        {
+          "text": "진심",
+          "font": "sans",
+          "size_pt": 24,
+          "origin": [
+            203,
+            354
+          ],
+          "advance_pt": 44.16,
+          "ink_bounds_pt": [
+            204.488,
+            334.176,
+            244.064,
+            355.584
+          ],
+          "glyphs": [
+            {
+              "character": "진",
+              "x": 203.0,
+              "advance_pt": 22.08,
+              "ink_bounds_pt": [
+                204.488,
+                334.176,
+                222.656,
+                355.392
+              ]
+            },
+            {
+              "character": "심",
+              "x": 225.07999999999998,
+              "advance_pt": 22.08,
+              "ink_bounds_pt": [
+                226.448,
+                334.176,
+                244.064,
+                355.584
+              ]
+            }
+          ]
+        },
+        {
+          "text": "진심",
+          "font": "serif",
+          "size_pt": 24,
+          "origin": [
+            203,
+            387
+          ],
+          "advance_pt": 46.368,
+          "ink_bounds_pt": [
+            204.8086817782345,
+            366.528,
+            245.7929724405177,
+            389.472
+          ],
+          "glyphs": [
+            {
+              "character": "진",
+              "x": 203.0,
+              "advance_pt": 23.184,
+              "ink_bounds_pt": [
+                204.8086817782345,
+                366.528,
+                224.024,
+                388.68
+              ]
+            },
+            {
+              "character": "심",
+              "x": 226.184,
+              "advance_pt": 23.184,
+              "ink_bounds_pt": [
+                227.68847099602436,
+                366.528,
+                245.7929724405177,
+                389.472
+              ]
+            }
+          ]
+        },
+        {
+          "text": "진심",
+          "font": "gungseo",
+          "size_pt": 24,
+          "origin": [
+            203,
+            420
+          ],
+          "advance_pt": 48.0,
+          "ink_bounds_pt": [
+            205.472,
+            402.288,
+            245.46279646017697,
+            422.52
+          ],
+          "glyphs": [
+            {
+              "character": "진",
+              "x": 203.0,
+              "advance_pt": 24.0,
+              "ink_bounds_pt": [
+                205.472,
+                402.288,
+                221.432,
+                422.184
+              ]
+            },
+            {
+              "character": "심",
+              "x": 227.0,
+              "advance_pt": 24.0,
+              "ink_bounds_pt": [
+                229.256,
+                402.288,
+                245.46279646017697,
+                422.52
+              ]
+            }
+          ]
+        },
+        {
+          "text": "진심",
+          "font": "jua",
+          "size_pt": 24,
+          "origin": [
+            203,
+            453
+          ],
+          "advance_pt": 37.272,
+          "ink_bounds_pt": [
+            203.48,
+            434.472,
+            239.328,
+            453.72
+          ],
+          "glyphs": [
+            {
+              "character": "진",
+              "x": 203.0,
+              "advance_pt": 18.936,
+              "ink_bounds_pt": [
+                203.48,
+                434.52923076923076,
+                221.41008695652172,
+                453.72
+              ]
+            },
+            {
+              "character": "심",
+              "x": 221.936,
+              "advance_pt": 18.336,
+              "ink_bounds_pt": [
+                222.4022857142857,
+                434.472,
+                239.328,
+                453.696
+              ]
+            }
+          ]
+        },
+        {
+          "text": "진심",
+          "font": "YES24",
+          "size_pt": 24,
+          "origin": [
+            203,
+            486
+          ],
+          "advance_pt": 43.68,
+          "ink_bounds_pt": [
+            203.888,
+            466.32,
+            244.112,
+            487.656
+          ],
+          "glyphs": [
+            {
+              "character": "진",
+              "x": 203.0,
+              "advance_pt": 21.84,
+              "ink_bounds_pt": [
+                203.888,
+                466.32,
+                222.68,
+                487.656
+              ]
+            },
+            {
+              "character": "심",
+              "x": 224.84,
+              "advance_pt": 21.84,
+              "ink_bounds_pt": [
+                225.69476923076923,
+                466.32,
+                244.112,
+                487.656
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "physical_page": 17,
+      "experiment": "same_point_different_ink",
+      "hero_size_pt": 48,
+      "mini_size_pt": 24,
+      "metric_definitions": {
+        "advance": "real shaped horizontal advance",
+        "ink_width": "exact cubic Bezier maximum x minus minimum x"
+      },
+      "specimens": [
+        {
+          "text": "진심",
+          "font": "gungseo",
+          "size_pt": 48,
+          "origin": [
+            36.0,
+            209
+          ],
+          "advance_pt": 96.0,
+          "ink_bounds_pt": [
+            40.944,
+            173.576,
+            120.92559292035399,
+            214.04
+          ],
+          "glyphs": [
+            {
+              "character": "진",
+              "x": 36.0,
+              "advance_pt": 48.0,
+              "ink_bounds_pt": [
+                40.944,
+                173.576,
+                72.864,
+                213.368
+              ]
+            },
+            {
+              "character": "심",
+              "x": 84.0,
+              "advance_pt": 48.0,
+              "ink_bounds_pt": [
+                88.512,
+                173.576,
+                120.92559292035399,
+                214.04
+              ]
+            }
+          ]
+        },
+        {
+          "text": "진심",
+          "font": "singleday",
+          "size_pt": 48,
+          "origin": [
+            221.0,
+            209
+          ],
+          "advance_pt": 77.25,
+          "ink_bounds_pt": [
+            224.562,
+            175.531,
+            292.953,
+            216.828
+          ],
+          "glyphs": [
+            {
+              "character": "진",
+              "x": 221.0,
+              "advance_pt": 38.625,
+              "ink_bounds_pt": [
+                224.562,
+                175.531,
+                255.781,
+                213.312
+              ]
+            },
+            {
+              "character": "심",
+              "x": 259.625,
+              "advance_pt": 38.625,
+              "ink_bounds_pt": [
+                262.719,
+                175.531,
+                292.953,
+                216.828
+              ]
+            }
+          ]
+        },
+        {
+          "text": "진심",
+          "font": "gugi",
+          "size_pt": 24,
+          "origin": [
+            203,
+            321
+          ],
+          "advance_pt": 45.648,
+          "ink_bounds_pt": [
+            203.54514285714285,
+            301.224,
+            247.52,
+            322.416
+          ],
+          "glyphs": [
+            {
+              "character": "진",
+              "x": 203.0,
+              "advance_pt": 22.824,
+              "ink_bounds_pt": [
+                203.54514285714285,
+                301.224,
+                225.21215584415583,
+                322.176
+              ]
+            },
+            {
+              "character": "심",
+              "x": 225.824,
+              "advance_pt": 22.824,
+              "ink_bounds_pt": [
+                226.19466666666668,
+                301.224,
+                247.52,
+                322.416
+              ]
+            }
+          ]
+        },
+        {
+          "text": "진심",
+          "font": "pixel",
+          "size_pt": 24,
+          "origin": [
+            203,
+            354
+          ],
+          "advance_pt": 48.0,
+          "ink_bounds_pt": [
+            204.5,
+            336.0,
+            248.0,
+            355.5
+          ],
+          "glyphs": [
+            {
+              "character": "진",
+              "x": 203.0,
+              "advance_pt": 24.0,
+              "ink_bounds_pt": [
+                204.5,
+                336.0,
+                224.0,
+                355.5
+              ]
+            },
+            {
+              "character": "심",
+              "x": 227.0,
+              "advance_pt": 24.0,
+              "ink_bounds_pt": [
+                228.5,
+                336.0,
+                248.0,
+                355.5
+              ]
+            }
+          ]
+        },
+        {
+          "text": "진심",
+          "font": "singleday",
+          "size_pt": 24,
+          "origin": [
+            203,
+            387
+          ],
+          "advance_pt": 38.625,
+          "ink_bounds_pt": [
+            204.781,
+            370.266,
+            238.977,
+            390.914
+          ],
+          "glyphs": [
+            {
+              "character": "진",
+              "x": 203.0,
+              "advance_pt": 19.3125,
+              "ink_bounds_pt": [
+                204.781,
+                370.266,
+                220.391,
+                389.156
+              ]
+            },
+            {
+              "character": "심",
+              "x": 222.3125,
+              "advance_pt": 19.3125,
+              "ink_bounds_pt": [
+                223.859,
+                370.266,
+                238.977,
+                390.914
+              ]
+            }
+          ]
+        },
+        {
+          "text": "진심",
+          "font": "kirang",
+          "size_pt": 24,
+          "origin": [
+            203,
+            420
+          ],
+          "advance_pt": 31.2,
+          "ink_bounds_pt": [
+            204.46666666666667,
+            401.096,
+            233.384,
+            421.488
+          ],
+          "glyphs": [
+            {
+              "character": "진",
+              "x": 203.0,
+              "advance_pt": 15.6,
+              "ink_bounds_pt": [
+                204.46666666666667,
+                401.136,
+                217.096,
+                421.372
+              ]
+            },
+            {
+              "character": "심",
+              "x": 218.6,
+              "advance_pt": 15.6,
+              "ink_bounds_pt": [
+                221.432,
+                401.096,
+                233.384,
+                421.488
+              ]
+            }
+          ]
+        },
+        {
+          "text": "진심",
+          "font": "bawpic",
+          "size_pt": 24,
+          "origin": [
+            203,
+            453
+          ],
+          "advance_pt": 37.344,
+          "ink_bounds_pt": [
+            203.24,
+            435.12,
+            238.664,
+            456.912
+          ],
+          "glyphs": [
+            {
+              "character": "진",
+              "x": 203.0,
+              "advance_pt": 18.096,
+              "ink_bounds_pt": [
+                203.24,
+                435.36,
+                219.416,
+                456.912
+              ]
+            },
+            {
+              "character": "심",
+              "x": 221.096,
+              "advance_pt": 19.248,
+              "ink_bounds_pt": [
+                221.336,
+                435.12,
+                238.664,
+                455.712
+              ]
+            }
+          ]
+        },
+        {
+          "text": "진심",
+          "font": "brush",
+          "size_pt": 24,
+          "origin": [
+            203,
+            486
+          ],
+          "advance_pt": 29.52,
+          "ink_bounds_pt": [
+            203.42857142857142,
+            473.088,
+            233.00342857142857,
+            490.488
+          ],
+          "glyphs": [
+            {
+              "character": "진",
+              "x": 203.0,
+              "advance_pt": 15.36,
+              "ink_bounds_pt": [
+                203.42857142857142,
+                473.7565714285714,
+                219.7417142857143,
+                488.28479999999996
+              ]
+            },
+            {
+              "character": "심",
+              "x": 218.36,
+              "advance_pt": 14.16,
+              "ink_bounds_pt": [
+                219.152,
+                473.088,
+                233.00342857142857,
+                490.488
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "physical_page": 18,
+      "experiment": "controlled_editorial_tracking",
+      "same_font_and_size": true,
+      "kerning_claim": false,
+      "specimens": [
+        {
+          "text": "진심입니다",
+          "font": "sans",
+          "size_pt": 48,
+          "tracking_per_1000_em": 0,
+          "extra_per_gap_pt": 0.0,
+          "glyph_origins_x": [
+            36.0,
+            80.16,
+            124.32,
+            168.48,
+            212.64
+          ],
+          "advance_pt": 220.79999999999998,
+          "meaning": "explicit editorial tracking experiment, not font-designed kerning"
+        },
+        {
+          "text": "진심입니다",
+          "font": "sans",
+          "size_pt": 48,
+          "tracking_per_1000_em": 100,
+          "extra_per_gap_pt": 4.8,
+          "glyph_origins_x": [
+            36.0,
+            84.96,
+            133.92,
+            182.88,
+            231.83999999999997
+          ],
+          "advance_pt": 239.99999999999997,
+          "meaning": "explicit editorial tracking experiment, not font-designed kerning"
+        },
+        {
+          "text": "진심입니다",
+          "font": "sans",
+          "size_pt": 48,
+          "tracking_per_1000_em": -50,
+          "extra_per_gap_pt": -2.4,
+          "glyph_origins_x": [
+            36.0,
+            77.75999999999999,
+            119.52,
+            161.28,
+            203.04
+          ],
+          "advance_pt": 211.2,
+          "meaning": "explicit editorial tracking experiment, not font-designed kerning"
+        }
+      ]
+    },
+    {
+      "physical_page": 19,
+      "experiment": "ink_gap_vs_advance",
+      "chosen_common_pair_index": 2,
+      "specimens": [
+        {
+          "font": "sans",
+          "specimen": {
+            "text": "진심입니다",
+            "font": "sans",
+            "size_pt": 48,
+            "origin": [
+              36.0,
+              211
+            ],
+            "advance_pt": 220.79999999999998,
+            "ink_bounds_pt": [
+              38.976,
+              171.304,
+              255.504,
+              214.792
+            ],
+            "glyphs": [
+              {
+                "character": "진",
+                "x": 36.0,
+                "advance_pt": 44.16,
+                "ink_bounds_pt": [
+                  38.976,
+                  171.352,
+                  75.312,
+                  213.784
+                ]
+              },
+              {
+                "character": "심",
+                "x": 80.16,
+                "advance_pt": 44.16,
+                "ink_bounds_pt": [
+                  82.896,
+                  171.352,
+                  118.128,
+                  214.168
+                ]
+              },
+              {
+                "character": "입",
+                "x": 124.32,
+                "advance_pt": 44.16,
+                "ink_bounds_pt": [
+                  127.68,
+                  171.304,
+                  162.288,
+                  214.168
+                ]
+              },
+              {
+                "character": "니",
+                "x": 168.48,
+                "advance_pt": 44.16,
+                "ink_bounds_pt": [
+                  173.616,
+                  171.304,
+                  206.4,
+                  214.744
+                ]
+              },
+              {
+                "character": "다",
+                "x": 212.64,
+                "advance_pt": 44.16,
+                "ink_bounds_pt": [
+                  216.912,
+                  171.304,
+                  255.504,
+                  214.792
+                ]
+              }
+            ]
+          },
+          "all_actual_ink_bbox_gaps": [
+            {
+              "pair": "진–심",
+              "left": 39.312,
+              "right": 46.896,
+              "gap_pt": 7.584000000000003
+            },
+            {
+              "pair": "심–입",
+              "left": 82.128,
+              "right": 91.68,
+              "gap_pt": 9.552000000000007
+            },
+            {
+              "pair": "입–니",
+              "left": 126.288,
+              "right": 137.616,
+              "gap_pt": 11.328000000000017
+            },
+            {
+              "pair": "니–다",
+              "left": 170.4,
+              "right": 180.912,
+              "gap_pt": 10.512
+            }
+          ],
+          "zoomed_pair": {
+            "pair": "입–니",
+            "left": 126.288,
+            "right": 137.616,
+            "gap_pt": 11.328000000000017
+          },
+          "zoom_factor": 8
+        },
+        {
+          "font": "brush",
+          "specimen": {
+            "text": "진심입니다",
+            "font": "brush",
+            "size_pt": 48,
+            "origin": [
+              36.0,
+              402
+            ],
+            "advance_pt": 140.64,
+            "ink_bounds_pt": [
+              36.85714285714286,
+              372.912,
+              176.112,
+              414.06315789473683
+            ],
+            "glyphs": [
+              {
+                "character": "진",
+                "x": 36.0,
+                "advance_pt": 30.72,
+                "ink_bounds_pt": [
+                  36.85714285714286,
+                  377.51314285714284,
+                  69.48342857142858,
+                  406.5696
+                ]
+              },
+              {
+                "character": "심",
+                "x": 66.72,
+                "advance_pt": 28.32,
+                "ink_bounds_pt": [
+                  68.304,
+                  376.176,
+                  96.00685714285714,
+                  410.976
+                ]
+              },
+              {
+                "character": "입",
+                "x": 95.03999999999999,
+                "advance_pt": 26.4,
+                "ink_bounds_pt": [
+                  97.008,
+                  372.912,
+                  118.896,
+                  414.06315789473683
+                ]
+              },
+              {
+                "character": "니",
+                "x": 121.44,
+                "advance_pt": 23.519999999999996,
+                "ink_bounds_pt": [
+                  123.52,
+                  381.504,
+                  142.76,
+                  403.392
+                ]
+              },
+              {
+                "character": "다",
+                "x": 144.95999999999998,
+                "advance_pt": 31.679999999999993,
+                "ink_bounds_pt": [
+                  145.68,
+                  377.772,
+                  176.112,
+                  403.536
+                ]
+              }
+            ]
+          },
+          "all_actual_ink_bbox_gaps": [
+            {
+              "pair": "진–심",
+              "left": 33.483428571428576,
+              "right": 32.304,
+              "gap_pt": -1.1794285714285735
+            },
+            {
+              "pair": "심–입",
+              "left": 60.00685714285714,
+              "right": 61.008,
+              "gap_pt": 1.0011428571428596
+            },
+            {
+              "pair": "입–니",
+              "left": 82.896,
+              "right": 87.52,
+              "gap_pt": 4.623999999999995
+            },
+            {
+              "pair": "니–다",
+              "left": 106.76,
+              "right": 109.68,
+              "gap_pt": 2.9200000000000017
+            }
+          ],
+          "zoomed_pair": {
+            "pair": "입–니",
+            "left": 82.896,
+            "right": 87.52,
+            "gap_pt": 4.623999999999995
+          },
+          "zoom_factor": 8
+        }
+      ],
+      "measured_quantity": "horizontal gap between exact cubic glyph ink bounding boxes; not shortest outline distance or designed kerning"
+    },
+    {
+      "physical_page": 20,
+      "experiment": "editorial_impression_map",
+      "qualitative_only": true,
+      "measured_font_scores": false,
+      "axis_x": "정돈된 골격 → 흔들리는 골격",
+      "axis_y": "강한 발화 → 조용한 말",
+      "labels": [
+        {
+          "font": "blackhan",
+          "label": "블랙 한 산스",
+          "page_position_pt": [
+            72,
+            180
+          ],
+          "size_pt": 11.5,
+          "approximate_label_box": [
+            72,
+            180,
+            127.361,
+            197.25
+          ],
+          "observed_cause": "굵은 획·좁은 속공간"
+        },
+        {
+          "font": "YES24",
+          "label": "예스체",
+          "page_position_pt": [
+            153,
+            217
+          ],
+          "size_pt": 12.5,
+          "approximate_label_box": [
+            153,
+            217,
+            187.125,
+            235.75
+          ],
+          "observed_cause": "두꺼운 직선·반듯한 골격"
+        },
+        {
+          "font": "bawpic",
+          "label": "흑백사진",
+          "page_position_pt": [
+            288,
+            177
+          ],
+          "size_pt": 13,
+          "approximate_label_box": [
+            288,
+            177,
+            330.471,
+            196.5
+          ],
+          "observed_cause": "패인 가장자리·떨어진 조각"
+        },
+        {
+          "font": "kirang",
+          "label": "기랑해랑",
+          "page_position_pt": [
+            278,
+            246
+          ],
+          "size_pt": 13,
+          "approximate_label_box": [
+            278,
+            246,
+            314.14,
+            265.5
+          ],
+          "observed_cause": "고르지 않은 축과 두께"
+        },
+        {
+          "font": "pixel",
+          "label": "둥근모꼴",
+          "page_position_pt": [
+            72,
+            267
+          ],
+          "size_pt": 11,
+          "approximate_label_box": [
+            72,
+            267,
+            116.0,
+            283.5
+          ],
+          "observed_cause": "격자·일정한 글자칸"
+        },
+        {
+          "font": "gugi",
+          "label": "구기",
+          "page_position_pt": [
+            163,
+            286
+          ],
+          "size_pt": 13,
+          "approximate_label_box": [
+            163,
+            286,
+            185.269,
+            305.5
+          ],
+          "observed_cause": "기하학적 골격·분리된 점"
+        },
+        {
+          "font": "gungseo",
+          "label": "은궁서",
+          "page_position_pt": [
+            117,
+            329
+          ],
+          "size_pt": 12,
+          "approximate_label_box": [
+            117,
+            329,
+            153.0,
+            347.0
+          ],
+          "observed_cause": "붓획의 강약·넉넉한 칸"
+        },
+        {
+          "font": "serif",
+          "label": "Noto Serif",
+          "page_position_pt": [
+            65,
+            357
+          ],
+          "size_pt": 10.7,
+          "approximate_label_box": [
+            65,
+            357,
+            117.3123,
+            373.05
+          ],
+          "observed_cause": "획 대비·돌출된 끝"
+        },
+        {
+          "font": "jua",
+          "label": "주아",
+          "page_position_pt": [
+            179,
+            379
+          ],
+          "size_pt": 13,
+          "approximate_label_box": [
+            179,
+            379,
+            199.917,
+            398.5
+          ],
+          "observed_cause": "도톰하지만 둥근 끝"
+        },
+        {
+          "font": "sans",
+          "label": "Noto Sans",
+          "page_position_pt": [
+            65,
+            413
+          ],
+          "size_pt": 10.5,
+          "approximate_label_box": [
+            65,
+            413,
+            114.7595,
+            428.75
+          ],
+          "observed_cause": "고른 획·장식 없는 끝"
+        },
+        {
+          "font": "singleday",
+          "label": "싱글데이",
+          "page_position_pt": [
+            271,
+            374
+          ],
+          "size_pt": 13,
+          "approximate_label_box": [
+            271,
+            374,
+            312.84375,
+            393.5
+          ],
+          "observed_cause": "손길과 작은 장식"
+        },
+        {
+          "font": "brush",
+          "label": "나눔손글씨 붓",
+          "page_position_pt": [
+            264,
+            421
+          ],
+          "size_pt": 15,
+          "approximate_label_box": [
+            264,
+            421,
+            316.98,
+            443.5
+          ],
+          "observed_cause": "작은 몸집·변하는 폭"
+        }
+      ]
+    }
+  ]
+}

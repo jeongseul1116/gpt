@@ -1,0 +1,28 @@
+{
+  "active_new_work": "B",
+  "A": {
+    "status": "preserved",
+    "folder": "submission-alignment",
+    "commit": "305ca100717736b8462f3f85121d17b06c854f1d",
+    "idml": "submission-alignment/Meme_Font_Book_Alignment_28p.idml",
+    "reader": "submission-alignment/Meme_Font_Book_Alignment_28p_Review.pdf",
+    "idml_sha256": "30bf5d5ee87b66efdddc1c1521c16078a8f36b0930b45f0010e8a391121ffad4"
+  },
+  "B": {
+    "status": "new_visualization_first_edition",
+    "folder": "submission-version-b",
+    "idml": "submission-version-b/Meme_Font_Book_Version_B_28p.idml",
+    "reader": "submission-version-b/Meme_Font_Book_Version_B_28p_Review.pdf",
+    "print": "submission-version-b/Meme_Font_Book_Version_B_A3_Duplex_28p.pdf",
+    "idml_sha256": "79a104b5b44c5397d69573d3ad140d90019615169a027535b7c2caf96e898c6f",
+    "physical_pages": 28,
+    "application_pages_including_cover": [
+      22,
+      23,
+      24,
+      25,
+      26,
+      27
+    ]
+  }
+}
