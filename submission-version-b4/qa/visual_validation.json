@@ -1,0 +1,240 @@
+{
+  "status": "passed",
+  "idml_sha256": "bbd5c13762eacecc7701f15c4785179b82009255d864a39608955cf92eb3ac25",
+  "scene_sha256": "85092ce7ccb5e719dbd2a649d84986e9c6f629548c61426e1e3b236d2be92094",
+  "reader_sha256": "9e83801bda2808a07e7ca5e4879cef06f2ba4ea63a9381756ad08f19292c69e3",
+  "source_bleed_sha256": "17ffd12bac8d9f155a8d55b36b9e3aa4c44e10db32511ef5167df3e0be5cd25d",
+  "scope": "Actual rendered cover and comparison sheets reviewed at120–240dpi; all remaining pages reviewed as individual pages or complete facing pairs. Unmodified scenes additionally compared pixel-exact with B3.",
+  "reviewed_physical_pages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28
+  ],
+  "cover": {
+    "white_outer_background": true,
+    "street_ad_black_yellow_red_blue_system": true,
+    "title_both_lines_same60pt": true,
+    "no_photo_on_front": true,
+    "tearoff_font_labels_genuine_center_alignment": true,
+    "tearoff_ink_center_objects": 4,
+    "no_folio": true
+  },
+  "backcover": {
+    "photo_only_on_physical28": true,
+    "original_red_oval_complete": true,
+    "original_RGBA_pixels_preserved": true,
+    "effective_ppi": [
+      484.06153846176915,
+      484.0615384617692
+    ],
+    "no_folio": true
+  },
+  "numbering": {
+    "contents_unnumbered": true,
+    "intro_physical3_printed01": true,
+    "physical3_to27_printed01_to25": true,
+    "PDF_labels_correct": true,
+    "PDF_PageLayout": "TwoPageRight"
+  },
+  "atlas": {
+    "word_size_pt": 64,
+    "detail_size_pt": 128,
+    "main_words_keep_original_baseline182": true,
+    "detail_ink_centers_match_panel_centers": true,
+    "same_point_size_without_fit": true,
+    "pink_counter_planes_from_real_glyph_contours": true,
+    "all_shape_observations_and_personal_impressions_readable": true
+  },
+  "comparisons": {
+    "all12_words_32pt": true,
+    "all12_syllables_96pt_ink_centered": true,
+    "actual_ink_and_glyph_gap_evidence_visible": true,
+    "reference_and_selected_diagram_legends_readable": true,
+    "causal_captions_explicitly_personal_impressions": true
+  },
+  "actual_centering": {
+    "objects": 40,
+    "maximum_error_pt": 0.0005000000001018634,
+    "tolerance_pt": 0.01
+  },
+  "applications": {
+    "all15_approved_cases_preserved": true,
+    "two_case_side_by_side_and_three_case_stacked_templates_clear": true,
+    "same_quote_point_size_color_per_pair": true,
+    "no_quote_prompt_label_or_effect_overlap": true,
+    "no_face_AA_or_emoji_panels": true
+  },
+  "strict_live_text_QA": {
+    "frames": 597,
+    "live_runs": 630,
+    "actual_Bezier_ink_clip_flags": 0,
+    "line_fit_flags": 0,
+    "unintended_wraps": 0,
+    "unknown_fonts": [],
+    "missing_glyphs": []
+  },
+  "unchanged_scene_pixel_identity": [
+    {
+      "physical_page": 3,
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 21,
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 22,
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 23,
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 24,
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 25,
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 26,
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 27,
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 28,
+      "pixels_identical": true
+    }
+  ],
+  "review_notes": [
+    {
+      "pages": [
+        1,
+        28
+      ],
+      "finding": "B급 광고 간판의 검정·노랑·빨강·파랑 위계가 선명하다. 표지의 고딕·궁서·손글씨·도트 4개 라벨의 실제 글자 윤곽이 각 셀의 가로·세로 중앙에 보인다. 앞표지에 사진이나 쪽수가 없으며 완성된 빨간 타원의 사진은 뒷표지에만 있다."
+    },
+    {
+      "pages": [
+        2,
+        3
+      ],
+      "finding": "목차는 무쪽수, 들어가며는 01로 시작한다. 목차의 분석·비교·적용 흐름과 쪽수가 일치하고 같은 문장·같은 크기의 도입 비교가 분명하다."
+    },
+    {
+      "pages": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "finding": "12개 분석 지면을 전체 펼침으로 확인했다. 실제 128pt 심의 좌우·상하 여백이 각 격자 안에서 균형을 이루며 같은 포인트 크기를 유지한다. 반투명 분홍 면은 실제 닫힌 빈틈을 따르고 붉은 외곽 경계와 폰트별 기준선이 구분된다. 본문 문장 64pt 및 관찰·개인 인상이 겹치지 않는다."
+    },
+    {
+      "pages": [
+        16,
+        17
+      ],
+      "finding": "동일 32pt 진심입니다와 실제 심의 분홍 빈틈, 빨간 밑줄, 동일 0–40% 검은면 막대, 기준 회색/선택 검정의 몸집·틈 비교가 함께 읽힌다. 형태 차이에서 내가 들은 말투로 연결하는 각 행의 캡션이 있다. 하단 계산 기준은 작지만 120dpi에서도 판독 가능하고 쪽수와 겹치지 않는다."
+    },
+    {
+      "pages": [
+        18,
+        19
+      ],
+      "finding": "12개 96pt 심이 각 비교 격자의 윤곽 중심에 정렬되어 보인다. 붓 폰트와 도트 폰트의 몸집 차이는 크기를 변형하지 않은 상태로 유지된다. 6개 카드의 행·열 간격과 라벨이 정돈되어 있다."
+    },
+    {
+      "pages": [
+        20,
+        21
+      ],
+      "finding": "관찰→내 인상→쓰는 순간의 3개 짝 비교가 형태, 실제 검은면 공통축 막대, 노랑 인상 띠, 6개 상황 문구로 연결된다. 다음 페이지의 어두운 환기 면이 유행어 적용부 시작을 분명하게 구분한다."
+    },
+    {
+      "pages": [
+        22,
+        23,
+        24,
+        25,
+        26,
+        27
+      ],
+      "finding": "승인된 예문 15개를 3개 펼침 전체에서 확인했다. 두 카드 병렬과 세 카드 수직 구성에 같은 문구·같은 크기의 기준/선택 폰트가 분명하다. 대화와 예문, 인상, 쪽수 사이에 겹침이나 잘린 글자가 없다. 사용자 제공 야르·밤티·이태민 문장도 보존되었다."
+    },
+    {
+      "pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28
+      ],
+      "finding": "28쪽 전체 콘택트 시트와 각 구간의 상세 판면을 함께 확인했다. 공통 정렬 체계와 비교 조건이 유지되고 모든 변경 면에서 의도하지 않은 빈 면, 이미지 누락, 글리프 누락, 겹침, 재단 침범은 보이지 않았다."
+    }
+  ],
+  "native_Adobe_execution": false,
+  "physical_printer_test": false,
+  "PDF_native_Adobe_export": false
+}

@@ -1,0 +1,44 @@
+{
+  "status": "passed",
+  "scope": "Pages whose complete scene records are unchanged compared with B3, rendered independently at120dpi.",
+  "source_B3_reader_sha256": "4ca56bfacf39812bd091148ec814e9600911d1bd54128c10c57245f009940989",
+  "reader_sha256": "9e83801bda2808a07e7ca5e4879cef06f2ba4ea63a9381756ad08f19292c69e3",
+  "unchanged_scene_pages": [
+    {
+      "physical_page": 3,
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 21,
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 22,
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 23,
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 24,
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 25,
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 26,
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 27,
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 28,
+      "pixels_identical": true
+    }
+  ]
+}

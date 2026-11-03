@@ -1,3 +1,16 @@
+# 최신 B4 — 가운데 정렬과 형태에서 말투로
+
+표지 라벨과 확대 글자를 윤곽 기준으로 가운데에 맞췄습니다. 문장 비교에 실제 획 면적·글자 몸집과 틈을 더하고 ‘어떤 목소리로, 언제 쓸지’로 연결했습니다. 28면과 들어가며1쪽, 사진이 있는뒷표지는유지했습니다.
+
+- [B4 PDF](submission-version-b4/Meme_Font_Book_Version_B4_28p_Review.pdf)
+- [B4 편집용IDML](submission-version-b4/Meme_Font_Book_Version_B4_28p.idml)
+- [B4 A3 인쇄PDF](submission-version-b4/Meme_Font_Book_Version_B4_A3_Duplex_28p.pdf)
+- [B4 전체ZIP](Meme_Font_Book_Version_B4_28p.zip) · [측정·인쇄안내](submission-version-b4/README_KO.md)
+
+기존판본은아래에보존했습니다.
+
+---
+
 # 최신 B3 — 말투 접수 광고판
 
 앞표지는 길거리 광고처럼, ‘무섭다’ 사진은 뒷표지로 옮겼습니다. 내지에는 접수표·광고3단과 펼침 대조 제목을 적용했습니다. 목차는 무쪽수이며 **들어가며부터1쪽**입니다. 기존 A·B·B2는 보존했습니다.

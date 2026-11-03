@@ -1,0 +1,410 @@
+{
+  "status": "built",
+  "cases": [
+    {
+      "case_id": "E01",
+      "physical_page": 22,
+      "printed_page": 20,
+      "quote": "가보자고",
+      "prompt": "친구: 미친 시험 내일임ㅋ; 벼락치기 간다",
+      "font": "blackhan",
+      "neutral_font": "sans",
+      "same_color": "ink",
+      "full_source_and_approved_usage_archived": true,
+      "context_omitted_not_rewritten": true,
+      "layout": "side_by_side_claim_ticket",
+      "same_point_size": 36,
+      "quote_frame_height": 60.4,
+      "quote_origins": [
+        [
+          46.0,
+          185
+        ],
+        [
+          218.7638,
+          185
+        ]
+      ],
+      "quote_width": 154.7638
+    },
+    {
+      "case_id": "E12",
+      "physical_page": 22,
+      "printed_page": 20,
+      "quote": "난 오늘만 산다",
+      "prompt": "친구: 내일 할 과제도 있는데 오늘 놀아도 돼?",
+      "font": "gungseo",
+      "neutral_font": "sans",
+      "same_color": "ink",
+      "full_source_and_approved_usage_archived": true,
+      "context_omitted_not_rewritten": true,
+      "layout": "side_by_side_claim_ticket",
+      "same_point_size": 23.5,
+      "quote_frame_height": 39.775,
+      "quote_origins": [
+        [
+          46.0,
+          407
+        ],
+        [
+          218.7638,
+          407
+        ]
+      ],
+      "quote_width": 154.7638
+    },
+    {
+      "case_id": "E11",
+      "physical_page": 23,
+      "printed_page": 21,
+      "quote": "무조건☞출.근.가.능!☜",
+      "prompt": "친구: 내일 월요일이네.",
+      "font": "pixel",
+      "neutral_font": "sans",
+      "same_color": "ink",
+      "full_source_and_approved_usage_archived": true,
+      "context_omitted_not_rewritten": true,
+      "layout": "stacked_classified_ad",
+      "same_point_size": 24,
+      "quote_frame_height": 38.400000000000006,
+      "quote_origins": [
+        [
+          46.0,
+          147
+        ],
+        [
+          46.0,
+          197
+        ]
+      ],
+      "quote_width": 327.5276
+    },
+    {
+      "case_id": "E05",
+      "physical_page": 23,
+      "printed_page": 21,
+      "quote": "내가 모를수도",
+      "prompt": "친구: 제 가수는 왜 빼세요?",
+      "font": "gugi",
+      "neutral_font": "sans",
+      "same_color": "ink",
+      "full_source_and_approved_usage_archived": true,
+      "context_omitted_not_rewritten": true,
+      "layout": "stacked_classified_ad",
+      "same_point_size": 24,
+      "quote_frame_height": 38.400000000000006,
+      "quote_origins": [
+        [
+          46.0,
+          299
+        ],
+        [
+          46.0,
+          349
+        ]
+      ],
+      "quote_width": 327.5276
+    },
+    {
+      "case_id": "E08",
+      "physical_page": 23,
+      "printed_page": 21,
+      "quote": "모루게쒀여",
+      "prompt": "친구: 새로 산 거 보여줄게. 근데 사이즈가 좀…",
+      "font": "brush",
+      "neutral_font": "sans",
+      "same_color": "ink",
+      "full_source_and_approved_usage_archived": true,
+      "context_omitted_not_rewritten": true,
+      "layout": "stacked_classified_ad",
+      "same_point_size": 24,
+      "quote_frame_height": 38.400000000000006,
+      "quote_origins": [
+        [
+          46.0,
+          451
+        ],
+        [
+          46.0,
+          501
+        ]
+      ],
+      "quote_width": 327.5276
+    },
+    {
+      "case_id": "E02",
+      "physical_page": 24,
+      "printed_page": 22,
+      "quote": "사랑사랑 친구가 말했지",
+      "prompt": "친구: 네 커피도 사 왔어.",
+      "font": "singleday",
+      "neutral_font": "sans",
+      "same_color": "ink",
+      "full_source_and_approved_usage_archived": true,
+      "context_omitted_not_rewritten": true,
+      "layout": "stacked_classified_ad",
+      "same_point_size": 24,
+      "quote_frame_height": 38.400000000000006,
+      "quote_origins": [
+        [
+          46.0,
+          147
+        ],
+        [
+          46.0,
+          197
+        ]
+      ],
+      "quote_width": 327.5276
+    },
+    {
+      "case_id": "E10",
+      "physical_page": 24,
+      "printed_page": 22,
+      "quote": "난... 눈물ㅇ ㅣ ....좋다.....",
+      "prompt": "친구: 오늘 수고했어. 푹 쉬어.",
+      "font": "brush",
+      "neutral_font": "sans",
+      "same_color": "ink",
+      "full_source_and_approved_usage_archived": true,
+      "context_omitted_not_rewritten": true,
+      "layout": "stacked_classified_ad",
+      "same_point_size": 24,
+      "quote_frame_height": 38.400000000000006,
+      "quote_origins": [
+        [
+          46.0,
+          299
+        ],
+        [
+          46.0,
+          349
+        ]
+      ],
+      "quote_width": 327.5276
+    },
+    {
+      "case_id": "E06",
+      "physical_page": 24,
+      "printed_page": 22,
+      "quote": "당신의뮤즈가되겠습니다",
+      "prompt": "친구: 나랑 사귈래?",
+      "font": "brush",
+      "neutral_font": "sans",
+      "same_color": "ink",
+      "full_source_and_approved_usage_archived": true,
+      "context_omitted_not_rewritten": true,
+      "layout": "stacked_classified_ad",
+      "same_point_size": 24,
+      "quote_frame_height": 38.400000000000006,
+      "quote_origins": [
+        [
+          46.0,
+          451
+        ],
+        [
+          46.0,
+          501
+        ]
+      ],
+      "quote_width": 327.5276
+    },
+    {
+      "case_id": "E03",
+      "physical_page": 25,
+      "printed_page": 23,
+      "quote": "코리안탑클래스 굿나잇",
+      "prompt": "친구: 나 이제 자러감",
+      "font": "jua",
+      "neutral_font": "sans",
+      "same_color": "ink",
+      "full_source_and_approved_usage_archived": true,
+      "context_omitted_not_rewritten": true,
+      "layout": "stacked_classified_ad",
+      "same_point_size": 24,
+      "quote_frame_height": 38.400000000000006,
+      "quote_origins": [
+        [
+          46.0,
+          147
+        ],
+        [
+          46.0,
+          197
+        ]
+      ],
+      "quote_width": 327.5276
+    },
+    {
+      "case_id": "E04",
+      "physical_page": 25,
+      "printed_page": 23,
+      "quote": "남의 기쁨을 진심으로 축하해주지 못하고,",
+      "prompt": "친구: ㅁㅊ 야 이번에 티켓팅 성공함 너는?",
+      "font": "gungseo",
+      "neutral_font": "sans",
+      "same_color": "ink",
+      "full_source_and_approved_usage_archived": true,
+      "context_omitted_not_rewritten": true,
+      "layout": "stacked_classified_ad",
+      "same_point_size": 18.0,
+      "quote_frame_height": 28.8,
+      "quote_origins": [
+        [
+          46.0,
+          299
+        ],
+        [
+          46.0,
+          349
+        ]
+      ],
+      "quote_width": 327.5276
+    },
+    {
+      "case_id": "E07",
+      "physical_page": 25,
+      "printed_page": 23,
+      "quote": "선배 고단수드앙~",
+      "prompt": "친구: 사진은 그냥 골라 본 건데 배경이 좀 잘 나왔지?",
+      "font": "kirang",
+      "neutral_font": "sans",
+      "same_color": "ink",
+      "full_source_and_approved_usage_archived": true,
+      "context_omitted_not_rewritten": true,
+      "layout": "stacked_classified_ad",
+      "same_point_size": 24,
+      "quote_frame_height": 38.400000000000006,
+      "quote_origins": [
+        [
+          46.0,
+          451
+        ],
+        [
+          46.0,
+          501
+        ]
+      ],
+      "quote_width": 327.5276
+    },
+    {
+      "case_id": "E09",
+      "physical_page": 26,
+      "printed_page": 24,
+      "quote": "ㅇㅈ? ㅇㅇㅈ~~~~~",
+      "prompt": "친구: 여기 떡볶이 맛있다.",
+      "font": "bawpic",
+      "neutral_font": "sans",
+      "same_color": "ink",
+      "full_source_and_approved_usage_archived": true,
+      "context_omitted_not_rewritten": true,
+      "layout": "side_by_side_claim_ticket",
+      "same_point_size": 19.0,
+      "quote_frame_height": 32.349999999999994,
+      "quote_origins": [
+        [
+          46.0,
+          185
+        ],
+        [
+          218.7638,
+          185
+        ]
+      ],
+      "quote_width": 154.7638
+    },
+    {
+      "case_id": "E13",
+      "physical_page": 26,
+      "printed_page": 24,
+      "quote": "야르",
+      "prompt": "이 음식 완전 야르하다",
+      "font": "jua",
+      "neutral_font": "sans",
+      "same_color": "ink",
+      "full_source_and_approved_usage_archived": true,
+      "context_omitted_not_rewritten": true,
+      "layout": "side_by_side_claim_ticket",
+      "same_point_size": 36,
+      "quote_frame_height": 60.4,
+      "quote_origins": [
+        [
+          46.0,
+          407
+        ],
+        [
+          218.7638,
+          407
+        ]
+      ],
+      "quote_width": 154.7638
+    },
+    {
+      "case_id": "E14",
+      "physical_page": 27,
+      "printed_page": 25,
+      "quote": "밤티",
+      "prompt": "이 디자인 완전 밤티인데",
+      "font": "bawpic",
+      "neutral_font": "sans",
+      "same_color": "ink",
+      "full_source_and_approved_usage_archived": true,
+      "context_omitted_not_rewritten": true,
+      "layout": "side_by_side_claim_ticket",
+      "same_point_size": 36,
+      "quote_frame_height": 60.4,
+      "quote_origins": [
+        [
+          46.0,
+          185
+        ],
+        [
+          218.7638,
+          185
+        ]
+      ],
+      "quote_width": 154.7638
+    },
+    {
+      "case_id": "E15",
+      "physical_page": 27,
+      "printed_page": 25,
+      "quote": "이태민 이태민 이태민",
+      "prompt": "아 이거 꼭 당첨되어야 해 이태민 이태민 이태민",
+      "font": "singleday",
+      "neutral_font": "sans",
+      "same_color": "ink",
+      "full_source_and_approved_usage_archived": true,
+      "context_omitted_not_rewritten": true,
+      "layout": "side_by_side_claim_ticket",
+      "same_point_size": 17.5,
+      "quote_frame_height": 29.875,
+      "quote_origins": [
+        [
+          46.0,
+          407
+        ],
+        [
+          218.7638,
+          407
+        ]
+      ],
+      "quote_width": 154.7638
+    }
+  ],
+  "validation": {
+    "status": "passed",
+    "physical_pages": [
+      22,
+      23,
+      24,
+      25,
+      26,
+      27
+    ],
+    "cases": 15,
+    "text_frames": 150,
+    "failures": [],
+    "native_Adobe_execution": false
+  }
+}

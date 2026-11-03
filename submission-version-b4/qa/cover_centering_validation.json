@@ -1,0 +1,87 @@
+{
+  "status": "passed",
+  "labels": [
+    {
+      "label": "고딕",
+      "font": "blackhan",
+      "cell": [
+        24.0,
+        526.0,
+        92.8819,
+        32.0
+      ],
+      "target_center": [
+        70.44095,
+        542.0
+      ],
+      "actual_ink_center": [
+        70.441,
+        542.0
+      ],
+      "center_error_pt": 5.000000000165983e-05,
+      "native_paragraph_align": "center"
+    },
+    {
+      "label": "궁서",
+      "font": "gungseo",
+      "cell": [
+        116.8819,
+        526.0,
+        92.8819,
+        32.0
+      ],
+      "target_center": [
+        163.32285000000002,
+        542.0
+      ],
+      "actual_ink_center": [
+        163.3225,
+        542.0
+      ],
+      "center_error_pt": 0.00035000000002582965,
+      "native_paragraph_align": "center"
+    },
+    {
+      "label": "손글씨",
+      "font": "brush",
+      "cell": [
+        209.7638,
+        526.0,
+        92.8819,
+        32.0
+      ],
+      "target_center": [
+        256.20475,
+        542.0
+      ],
+      "actual_ink_center": [
+        256.2045183796273,
+        542.0
+      ],
+      "center_error_pt": 0.00023162037268775748,
+      "native_paragraph_align": "center"
+    },
+    {
+      "label": "도트",
+      "font": "pixel",
+      "cell": [
+        302.64570000000003,
+        526.0,
+        92.8819,
+        32.0
+      ],
+      "target_center": [
+        349.08665,
+        542.0
+      ],
+      "actual_ink_center": [
+        349.0865,
+        542.0005000000001
+      ],
+      "center_error_pt": 0.0005000000001018634,
+      "native_paragraph_align": "center"
+    }
+  ],
+  "max_center_error_pt": 0.0005000000001018634,
+  "failures": []
+}

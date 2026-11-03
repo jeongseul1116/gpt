@@ -1,0 +1,848 @@
+{
+  "status": "passed",
+  "source_idml_sha256": "bbd5c13762eacecc7701f15c4785179b82009255d864a39608955cf92eb3ac25",
+  "actual_native_render_ink_centers": [
+    {
+      "page": 1,
+      "item": "b2Item01_042",
+      "role": "tearoff_font_label",
+      "font": "blackhan",
+      "cell_pt": [
+        24.0,
+        526.0,
+        92.8819,
+        32.0
+      ],
+      "target_center_pt": [
+        70.44095,
+        542.0
+      ],
+      "actual_ink_center_pt": [
+        70.441,
+        542.0
+      ],
+      "max_error_pt": 5.000000000165983e-05
+    },
+    {
+      "page": 1,
+      "item": "b2Item01_043",
+      "role": "tearoff_font_label",
+      "font": "gungseo",
+      "cell_pt": [
+        116.8819,
+        526.0,
+        92.8819,
+        32.0
+      ],
+      "target_center_pt": [
+        163.32285000000002,
+        542.0
+      ],
+      "actual_ink_center_pt": [
+        163.3229,
+        542.0
+      ],
+      "max_error_pt": 4.999999998744897e-05
+    },
+    {
+      "page": 1,
+      "item": "b2Item01_044",
+      "role": "tearoff_font_label",
+      "font": "brush",
+      "cell_pt": [
+        209.7638,
+        526.0,
+        92.8819,
+        32.0
+      ],
+      "target_center_pt": [
+        256.20475,
+        542.0
+      ],
+      "actual_ink_center_pt": [
+        256.20480000045694,
+        542.0
+      ],
+      "max_error_pt": 5.0000456951693195e-05
+    },
+    {
+      "page": 1,
+      "item": "b2Item01_045",
+      "role": "tearoff_font_label",
+      "font": "pixel",
+      "cell_pt": [
+        302.64570000000003,
+        526.0,
+        92.8819,
+        32.0
+      ],
+      "target_center_pt": [
+        349.08665,
+        542.0
+      ],
+      "actual_ink_center_pt": [
+        349.08619999999996,
+        542.0005000000001
+      ],
+      "max_error_pt": 0.0005000000001018634
+    },
+    {
+      "page": 4,
+      "item": "b2Item04_034",
+      "role": "detail_reference",
+      "font": "sans",
+      "cell_pt": [
+        48,
+        297.0,
+        128.0,
+        160.0
+      ],
+      "target_center_pt": [
+        112.0,
+        377.0
+      ],
+      "actual_ink_center_pt": [
+        112.0,
+        377.0
+      ],
+      "max_error_pt": 0.0
+    },
+    {
+      "page": 4,
+      "item": "b2Item04_053",
+      "role": "detail_selected",
+      "font": "blackhan",
+      "cell_pt": [
+        228,
+        297.0,
+        128.0,
+        160.0
+      ],
+      "target_center_pt": [
+        292.0,
+        377.0
+      ],
+      "actual_ink_center_pt": [
+        292.0,
+        377.0
+      ],
+      "max_error_pt": 0.0
+    },
+    {
+      "page": 5,
+      "item": "b2Item05_034",
+      "role": "detail_reference",
+      "font": "sans",
+      "cell_pt": [
+        48,
+        297.0,
+        128.0,
+        160.0
+      ],
+      "target_center_pt": [
+        112.0,
+        377.0
+      ],
+      "actual_ink_center_pt": [
+        112.0,
+        377.0
+      ],
+      "max_error_pt": 0.0
+    },
+    {
+      "page": 5,
+      "item": "b2Item05_053",
+      "role": "detail_selected",
+      "font": "sans",
+      "cell_pt": [
+        228,
+        297.0,
+        128.0,
+        160.0
+      ],
+      "target_center_pt": [
+        292.0,
+        377.0
+      ],
+      "actual_ink_center_pt": [
+        292.0,
+        377.0
+      ],
+      "max_error_pt": 0.0
+    },
+    {
+      "page": 6,
+      "item": "b2Item06_034",
+      "role": "detail_reference",
+      "font": "sans",
+      "cell_pt": [
+        48,
+        297.0,
+        128.0,
+        160.0
+      ],
+      "target_center_pt": [
+        112.0,
+        377.0
+      ],
+      "actual_ink_center_pt": [
+        112.0,
+        377.0
+      ],
+      "max_error_pt": 0.0
+    },
+    {
+      "page": 6,
+      "item": "b2Item06_053",
+      "role": "detail_selected",
+      "font": "serif",
+      "cell_pt": [
+        228,
+        297.0,
+        128.0,
+        160.0
+      ],
+      "target_center_pt": [
+        292.0,
+        377.0
+      ],
+      "actual_ink_center_pt": [
+        291.9999999997789,
+        377.0
+      ],
+      "max_error_pt": 2.2112089936854318e-10
+    },
+    {
+      "page": 7,
+      "item": "b2Item07_034",
+      "role": "detail_reference",
+      "font": "sans",
+      "cell_pt": [
+        48,
+        297.0,
+        128.0,
+        160.0
+      ],
+      "target_center_pt": [
+        112.0,
+        377.0
+      ],
+      "actual_ink_center_pt": [
+        112.0,
+        377.0
+      ],
+      "max_error_pt": 0.0
+    },
+    {
+      "page": 7,
+      "item": "b2Item07_053",
+      "role": "detail_selected",
+      "font": "gungseo",
+      "cell_pt": [
+        228,
+        297.0,
+        128.0,
+        160.0
+      ],
+      "target_center_pt": [
+        292.0,
+        377.0
+      ],
+      "actual_ink_center_pt": [
+        291.999999999553,
+        377.0
+      ],
+      "max_error_pt": 4.4701664592139423e-10
+    },
+    {
+      "page": 8,
+      "item": "b2Item08_034",
+      "role": "detail_reference",
+      "font": "sans",
+      "cell_pt": [
+        48,
+        297.0,
+        128.0,
+        160.0
+      ],
+      "target_center_pt": [
+        112.0,
+        377.0
+      ],
+      "actual_ink_center_pt": [
+        112.0,
+        377.0
+      ],
+      "max_error_pt": 0.0
+    },
+    {
+      "page": 8,
+      "item": "b2Item08_053",
+      "role": "detail_selected",
+      "font": "gugi",
+      "cell_pt": [
+        228,
+        297.0,
+        128.0,
+        160.0
+      ],
+      "target_center_pt": [
+        292.0,
+        377.0
+      ],
+      "actual_ink_center_pt": [
+        292.0000000003998,
+        377.00000000000006
+      ],
+      "max_error_pt": 3.9977976484806277e-10
+    },
+    {
+      "page": 9,
+      "item": "b2Item09_034",
+      "role": "detail_reference",
+      "font": "sans",
+      "cell_pt": [
+        48,
+        297.0,
+        128.0,
+        160.0
+      ],
+      "target_center_pt": [
+        112.0,
+        377.0
+      ],
+      "actual_ink_center_pt": [
+        112.0,
+        377.0
+      ],
+      "max_error_pt": 0.0
+    },
+    {
+      "page": 9,
+      "item": "b2Item09_053",
+      "role": "detail_selected",
+      "font": "pixel",
+      "cell_pt": [
+        228,
+        297.0,
+        128.0,
+        160.0
+      ],
+      "target_center_pt": [
+        292.0,
+        377.0
+      ],
+      "actual_ink_center_pt": [
+        292.0,
+        377.0
+      ],
+      "max_error_pt": 0.0
+    },
+    {
+      "page": 10,
+      "item": "b2Item10_034",
+      "role": "detail_reference",
+      "font": "sans",
+      "cell_pt": [
+        48,
+        297.0,
+        128.0,
+        160.0
+      ],
+      "target_center_pt": [
+        112.0,
+        377.0
+      ],
+      "actual_ink_center_pt": [
+        112.0,
+        377.0
+      ],
+      "max_error_pt": 0.0
+    },
+    {
+      "page": 10,
+      "item": "b2Item10_053",
+      "role": "detail_selected",
+      "font": "jua",
+      "cell_pt": [
+        228,
+        297.0,
+        128.0,
+        160.0
+      ],
+      "target_center_pt": [
+        292.0,
+        377.0
+      ],
+      "actual_ink_center_pt": [
+        292.00000000042496,
+        377.0
+      ],
+      "max_error_pt": 4.249613994034007e-10
+    },
+    {
+      "page": 11,
+      "item": "b2Item11_034",
+      "role": "detail_reference",
+      "font": "sans",
+      "cell_pt": [
+        48,
+        297.0,
+        128.0,
+        160.0
+      ],
+      "target_center_pt": [
+        112.0,
+        377.0
+      ],
+      "actual_ink_center_pt": [
+        112.0,
+        377.0
+      ],
+      "max_error_pt": 0.0
+    },
+    {
+      "page": 11,
+      "item": "b2Item11_053",
+      "role": "detail_selected",
+      "font": "singleday",
+      "cell_pt": [
+        228,
+        297.0,
+        128.0,
+        160.0
+      ],
+      "target_center_pt": [
+        292.0,
+        377.0
+      ],
+      "actual_ink_center_pt": [
+        292.0,
+        377.0
+      ],
+      "max_error_pt": 0.0
+    },
+    {
+      "page": 12,
+      "item": "b2Item12_034",
+      "role": "detail_reference",
+      "font": "sans",
+      "cell_pt": [
+        48,
+        297.0,
+        128.0,
+        160.0
+      ],
+      "target_center_pt": [
+        112.0,
+        377.0
+      ],
+      "actual_ink_center_pt": [
+        112.0,
+        377.0
+      ],
+      "max_error_pt": 0.0
+    },
+    {
+      "page": 12,
+      "item": "b2Item12_053",
+      "role": "detail_selected",
+      "font": "kirang",
+      "cell_pt": [
+        228,
+        297.0,
+        128.0,
+        160.0
+      ],
+      "target_center_pt": [
+        292.0,
+        377.0
+      ],
+      "actual_ink_center_pt": [
+        292.0,
+        377.00000000033384
+      ],
+      "max_error_pt": 3.3384139896952547e-10
+    },
+    {
+      "page": 13,
+      "item": "b2Item13_034",
+      "role": "detail_reference",
+      "font": "sans",
+      "cell_pt": [
+        48,
+        297.0,
+        128.0,
+        160.0
+      ],
+      "target_center_pt": [
+        112.0,
+        377.0
+      ],
+      "actual_ink_center_pt": [
+        112.0,
+        377.0
+      ],
+      "max_error_pt": 0.0
+    },
+    {
+      "page": 13,
+      "item": "b2Item13_053",
+      "role": "detail_selected",
+      "font": "bawpic",
+      "cell_pt": [
+        228,
+        297.0,
+        128.0,
+        160.0
+      ],
+      "target_center_pt": [
+        292.0,
+        377.0
+      ],
+      "actual_ink_center_pt": [
+        292.0,
+        377.0
+      ],
+      "max_error_pt": 0.0
+    },
+    {
+      "page": 14,
+      "item": "b2Item14_034",
+      "role": "detail_reference",
+      "font": "sans",
+      "cell_pt": [
+        48,
+        297.0,
+        128.0,
+        160.0
+      ],
+      "target_center_pt": [
+        112.0,
+        377.0
+      ],
+      "actual_ink_center_pt": [
+        112.0,
+        377.0
+      ],
+      "max_error_pt": 0.0
+    },
+    {
+      "page": 14,
+      "item": "b2Item14_053",
+      "role": "detail_selected",
+      "font": "brush",
+      "cell_pt": [
+        228,
+        297.0,
+        128.0,
+        160.0
+      ],
+      "target_center_pt": [
+        292.0,
+        377.0
+      ],
+      "actual_ink_center_pt": [
+        292.00000000040734,
+        377.0
+      ],
+      "max_error_pt": 4.0733993955655023e-10
+    },
+    {
+      "page": 15,
+      "item": "b2Item15_034",
+      "role": "detail_reference",
+      "font": "sans",
+      "cell_pt": [
+        48,
+        297.0,
+        128.0,
+        160.0
+      ],
+      "target_center_pt": [
+        112.0,
+        377.0
+      ],
+      "actual_ink_center_pt": [
+        112.0,
+        377.0
+      ],
+      "max_error_pt": 0.0
+    },
+    {
+      "page": 15,
+      "item": "b2Item15_053",
+      "role": "detail_selected",
+      "font": "YES24",
+      "cell_pt": [
+        228,
+        297.0,
+        128.0,
+        160.0
+      ],
+      "target_center_pt": [
+        292.0,
+        377.0
+      ],
+      "actual_ink_center_pt": [
+        292.0000000003373,
+        377.0
+      ],
+      "max_error_pt": 3.3730884752003476e-10
+    },
+    {
+      "page": 18,
+      "item": "b2Item18_023",
+      "role": "overview_same_syllable",
+      "font": "blackhan",
+      "cell_pt": [
+        64.0,
+        136,
+        96,
+        120
+      ],
+      "target_center_pt": [
+        112.0,
+        196.0
+      ],
+      "actual_ink_center_pt": [
+        112.0,
+        196.0
+      ],
+      "max_error_pt": 0.0
+    },
+    {
+      "page": 18,
+      "item": "b2Item18_041",
+      "role": "overview_same_syllable",
+      "font": "sans",
+      "cell_pt": [
+        249.0,
+        136,
+        96,
+        120
+      ],
+      "target_center_pt": [
+        297.0,
+        196.0
+      ],
+      "actual_ink_center_pt": [
+        297.0,
+        196.0
+      ],
+      "max_error_pt": 0.0
+    },
+    {
+      "page": 18,
+      "item": "b2Item18_059",
+      "role": "overview_same_syllable",
+      "font": "serif",
+      "cell_pt": [
+        64.0,
+        275,
+        96,
+        120
+      ],
+      "target_center_pt": [
+        112.0,
+        335.0
+      ],
+      "actual_ink_center_pt": [
+        111.99988687308414,
+        335.0
+      ],
+      "max_error_pt": 0.00011312691586340407
+    },
+    {
+      "page": 18,
+      "item": "b2Item18_077",
+      "role": "overview_same_syllable",
+      "font": "gungseo",
+      "cell_pt": [
+        249.0,
+        275,
+        96,
+        120
+      ],
+      "target_center_pt": [
+        297.0,
+        335.0
+      ],
+      "actual_ink_center_pt": [
+        296.99959292035396,
+        335.0
+      ],
+      "max_error_pt": 0.0004070796460382553
+    },
+    {
+      "page": 18,
+      "item": "b2Item18_095",
+      "role": "overview_same_syllable",
+      "font": "gugi",
+      "cell_pt": [
+        64.0,
+        414,
+        96,
+        120
+      ],
+      "target_center_pt": [
+        112.0,
+        474.0
+      ],
+      "actual_ink_center_pt": [
+        112.00033333333334,
+        474.0
+      ],
+      "max_error_pt": 0.00033333333334439885
+    },
+    {
+      "page": 18,
+      "item": "b2Item18_113",
+      "role": "overview_same_syllable",
+      "font": "pixel",
+      "cell_pt": [
+        249.0,
+        414,
+        96,
+        120
+      ],
+      "target_center_pt": [
+        297.0,
+        474.0
+      ],
+      "actual_ink_center_pt": [
+        297.0,
+        474.0
+      ],
+      "max_error_pt": 0.0
+    },
+    {
+      "page": 19,
+      "item": "b2Item19_023",
+      "role": "overview_same_syllable",
+      "font": "jua",
+      "cell_pt": [
+        64.0,
+        136,
+        96,
+        120
+      ],
+      "target_center_pt": [
+        112.0,
+        196.0
+      ],
+      "actual_ink_center_pt": [
+        111.99957142857143,
+        196.0
+      ],
+      "max_error_pt": 0.0004285714285714448
+    },
+    {
+      "page": 19,
+      "item": "b2Item19_041",
+      "role": "overview_same_syllable",
+      "font": "singleday",
+      "cell_pt": [
+        249.0,
+        136,
+        96,
+        120
+      ],
+      "target_center_pt": [
+        297.0,
+        196.0
+      ],
+      "actual_ink_center_pt": [
+        296.9995,
+        196.0
+      ],
+      "max_error_pt": 0.0004999999999881766
+    },
+    {
+      "page": 19,
+      "item": "b2Item19_059",
+      "role": "overview_same_syllable",
+      "font": "kirang",
+      "cell_pt": [
+        64.0,
+        275,
+        96,
+        120
+      ],
+      "target_center_pt": [
+        112.0,
+        335.0
+      ],
+      "actual_ink_center_pt": [
+        112.0,
+        335.0
+      ],
+      "max_error_pt": 0.0
+    },
+    {
+      "page": 19,
+      "item": "b2Item19_077",
+      "role": "overview_same_syllable",
+      "font": "bawpic",
+      "cell_pt": [
+        249.0,
+        275,
+        96,
+        120
+      ],
+      "target_center_pt": [
+        297.0,
+        335.0
+      ],
+      "actual_ink_center_pt": [
+        297.0,
+        335.0
+      ],
+      "max_error_pt": 0.0
+    },
+    {
+      "page": 19,
+      "item": "b2Item19_095",
+      "role": "overview_same_syllable",
+      "font": "brush",
+      "cell_pt": [
+        64.0,
+        414,
+        96,
+        120
+      ],
+      "target_center_pt": [
+        112.0,
+        474.0
+      ],
+      "actual_ink_center_pt": [
+        111.99985714285714,
+        474.0
+      ],
+      "max_error_pt": 0.00014285714286188522
+    },
+    {
+      "page": 19,
+      "item": "b2Item19_113",
+      "role": "overview_same_syllable",
+      "font": "YES24",
+      "cell_pt": [
+        249.0,
+        414,
+        96,
+        120
+      ],
+      "target_center_pt": [
+        297.0,
+        474.0
+      ],
+      "actual_ink_center_pt": [
+        296.99953846153846,
+        474.0
+      ],
+      "max_error_pt": 0.00046153846153629274
+    }
+  ],
+  "maximum_center_error_pt": 0.0005000000001018634,
+  "threshold_pt": 0.01
+}

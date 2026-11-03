@@ -1,0 +1,1328 @@
+{
+  "status": "passed",
+  "point_size": 128,
+  "centered_glyphs": 24,
+  "max_center_error_pt": 0.0,
+  "no_individual_fit": true,
+  "records": [
+    {
+      "physical_page": 4,
+      "reference": true,
+      "source_text": "심",
+      "font": "sans",
+      "point_size": 128,
+      "x_origin_pt": 57.727999999999994,
+      "baseline_pt": 425.64,
+      "cell_left_pt": 48,
+      "raw_ink_bounds_pt": [
+        7.296,
+        -105.728,
+        101.248,
+        8.448000000000008
+      ],
+      "ink_bounds_relative_to_baseline_pt": [
+        7.296,
+        -105.728,
+        101.248,
+        8.448000000000008
+      ],
+      "ink_bounds_absolute_pt": [
+        65.024,
+        319.912,
+        158.976,
+        434.08799999999997
+      ],
+      "ink_width_pt": 93.952,
+      "inner_counter_contours": [
+        2
+      ],
+      "counter_containment_depths": [
+        0,
+        0,
+        1,
+        0
+      ],
+      "common_camera_window_pt": [
+        48,
+        297.0,
+        128.0,
+        160.0
+      ],
+      "target_ink_center_pt": [
+        112.0,
+        377.0
+      ],
+      "actual_ink_center_pt": [
+        112.0,
+        377.0
+      ],
+      "center_error_pt": 0.0,
+      "centering": "exact_ink_bounds",
+      "no_glyph_fit": true
+    },
+    {
+      "physical_page": 4,
+      "reference": false,
+      "source_text": "심",
+      "font": "blackhan",
+      "point_size": 128,
+      "x_origin_pt": 240.8,
+      "baseline_pt": 425.64,
+      "cell_left_pt": 228,
+      "raw_ink_bounds_pt": [
+        5.12,
+        -97.28,
+        97.28,
+        7.105427357601002e-15
+      ],
+      "ink_bounds_relative_to_baseline_pt": [
+        5.12,
+        -97.28,
+        97.28,
+        7.105427357601002e-15
+      ],
+      "ink_bounds_absolute_pt": [
+        245.92000000000002,
+        328.36,
+        338.08000000000004,
+        425.64
+      ],
+      "ink_width_pt": 92.16,
+      "inner_counter_contours": [
+        3
+      ],
+      "counter_containment_depths": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "common_camera_window_pt": [
+        228,
+        297.0,
+        128.0,
+        160.0
+      ],
+      "target_ink_center_pt": [
+        292.0,
+        377.0
+      ],
+      "actual_ink_center_pt": [
+        292.0,
+        377.0
+      ],
+      "center_error_pt": 0.0,
+      "centering": "exact_ink_bounds",
+      "no_glyph_fit": true
+    },
+    {
+      "physical_page": 5,
+      "reference": true,
+      "source_text": "심",
+      "font": "sans",
+      "point_size": 128,
+      "x_origin_pt": 57.727999999999994,
+      "baseline_pt": 425.64,
+      "cell_left_pt": 48,
+      "raw_ink_bounds_pt": [
+        7.296,
+        -105.728,
+        101.248,
+        8.448000000000008
+      ],
+      "ink_bounds_relative_to_baseline_pt": [
+        7.296,
+        -105.728,
+        101.248,
+        8.448000000000008
+      ],
+      "ink_bounds_absolute_pt": [
+        65.024,
+        319.912,
+        158.976,
+        434.08799999999997
+      ],
+      "ink_width_pt": 93.952,
+      "inner_counter_contours": [
+        2
+      ],
+      "counter_containment_depths": [
+        0,
+        0,
+        1,
+        0
+      ],
+      "common_camera_window_pt": [
+        48,
+        297.0,
+        128.0,
+        160.0
+      ],
+      "target_ink_center_pt": [
+        112.0,
+        377.0
+      ],
+      "actual_ink_center_pt": [
+        112.0,
+        377.0
+      ],
+      "center_error_pt": 0.0,
+      "centering": "exact_ink_bounds",
+      "no_glyph_fit": true
+    },
+    {
+      "physical_page": 5,
+      "reference": false,
+      "source_text": "심",
+      "font": "sans",
+      "point_size": 128,
+      "x_origin_pt": 237.728,
+      "baseline_pt": 425.64,
+      "cell_left_pt": 228,
+      "raw_ink_bounds_pt": [
+        7.296,
+        -105.728,
+        101.248,
+        8.448000000000008
+      ],
+      "ink_bounds_relative_to_baseline_pt": [
+        7.296,
+        -105.728,
+        101.248,
+        8.448000000000008
+      ],
+      "ink_bounds_absolute_pt": [
+        245.024,
+        319.912,
+        338.976,
+        434.08799999999997
+      ],
+      "ink_width_pt": 93.952,
+      "inner_counter_contours": [
+        2
+      ],
+      "counter_containment_depths": [
+        0,
+        0,
+        1,
+        0
+      ],
+      "common_camera_window_pt": [
+        228,
+        297.0,
+        128.0,
+        160.0
+      ],
+      "target_ink_center_pt": [
+        292.0,
+        377.0
+      ],
+      "actual_ink_center_pt": [
+        292.0,
+        377.0
+      ],
+      "center_error_pt": 0.0,
+      "centering": "exact_ink_bounds",
+      "no_glyph_fit": true
+    },
+    {
+      "physical_page": 6,
+      "reference": true,
+      "source_text": "심",
+      "font": "sans",
+      "point_size": 128,
+      "x_origin_pt": 57.727999999999994,
+      "baseline_pt": 425.64,
+      "cell_left_pt": 48,
+      "raw_ink_bounds_pt": [
+        7.296,
+        -105.728,
+        101.248,
+        8.448000000000008
+      ],
+      "ink_bounds_relative_to_baseline_pt": [
+        7.296,
+        -105.728,
+        101.248,
+        8.448000000000008
+      ],
+      "ink_bounds_absolute_pt": [
+        65.024,
+        319.912,
+        158.976,
+        434.08799999999997
+      ],
+      "ink_width_pt": 93.952,
+      "inner_counter_contours": [
+        2
+      ],
+      "counter_containment_depths": [
+        0,
+        0,
+        1,
+        0
+      ],
+      "common_camera_window_pt": [
+        48,
+        297.0,
+        128.0,
+        160.0
+      ],
+      "target_ink_center_pt": [
+        112.0,
+        377.0
+      ],
+      "actual_ink_center_pt": [
+        112.0,
+        377.0
+      ],
+      "center_error_pt": 0.0,
+      "centering": "exact_ink_bounds",
+      "no_glyph_fit": true
+    },
+    {
+      "physical_page": 6,
+      "reference": false,
+      "source_text": "심",
+      "font": "serif",
+      "point_size": 128,
+      "x_origin_pt": 235.69748416922116,
+      "baseline_pt": 425.0,
+      "cell_left_pt": 228,
+      "raw_ink_bounds_pt": [
+        8.02384531212995,
+        -109.184,
+        104.58118634942774,
+        13.184
+      ],
+      "ink_bounds_relative_to_baseline_pt": [
+        8.02384531212995,
+        -109.184,
+        104.58118634942774,
+        13.184
+      ],
+      "ink_bounds_absolute_pt": [
+        243.72132948135112,
+        315.81600000000003,
+        340.2786705186489,
+        438.184
+      ],
+      "ink_width_pt": 96.55734103729779,
+      "inner_counter_contours": [
+        2
+      ],
+      "counter_containment_depths": [
+        0,
+        0,
+        1,
+        0
+      ],
+      "common_camera_window_pt": [
+        228,
+        297.0,
+        128.0,
+        160.0
+      ],
+      "target_ink_center_pt": [
+        292.0,
+        377.0
+      ],
+      "actual_ink_center_pt": [
+        292.0,
+        377.0
+      ],
+      "center_error_pt": 0.0,
+      "centering": "exact_ink_bounds",
+      "no_glyph_fit": true
+    },
+    {
+      "physical_page": 7,
+      "reference": true,
+      "source_text": "심",
+      "font": "sans",
+      "point_size": 128,
+      "x_origin_pt": 57.727999999999994,
+      "baseline_pt": 425.64,
+      "cell_left_pt": 48,
+      "raw_ink_bounds_pt": [
+        7.296,
+        -105.728,
+        101.248,
+        8.448000000000008
+      ],
+      "ink_bounds_relative_to_baseline_pt": [
+        7.296,
+        -105.728,
+        101.248,
+        8.448000000000008
+      ],
+      "ink_bounds_absolute_pt": [
+        65.024,
+        319.912,
+        158.976,
+        434.08799999999997
+      ],
+      "ink_width_pt": 93.952,
+      "inner_counter_contours": [
+        2
+      ],
+      "counter_containment_depths": [
+        0,
+        0,
+        1,
+        0
+      ],
+      "common_camera_window_pt": [
+        48,
+        297.0,
+        128.0,
+        160.0
+      ],
+      "target_ink_center_pt": [
+        112.0,
+        377.0
+      ],
+      "actual_ink_center_pt": [
+        112.0,
+        377.0
+      ],
+      "center_error_pt": 0.0,
+      "centering": "exact_ink_bounds",
+      "no_glyph_fit": true
+    },
+    {
+      "physical_page": 7,
+      "reference": false,
+      "source_text": "심",
+      "font": "gungseo",
+      "point_size": 128,
+      "x_origin_pt": 236.749906660447,
+      "baseline_pt": 417.512,
+      "cell_left_pt": 228,
+      "raw_ink_bounds_pt": [
+        12.032,
+        -94.464,
+        98.468186679106,
+        13.44
+      ],
+      "ink_bounds_relative_to_baseline_pt": [
+        12.032,
+        -94.464,
+        98.468186679106,
+        13.44
+      ],
+      "ink_bounds_absolute_pt": [
+        248.78190666044702,
+        323.048,
+        335.218093339553,
+        430.952
+      ],
+      "ink_width_pt": 86.436186679106,
+      "inner_counter_contours": [],
+      "counter_containment_depths": [
+        0,
+        0,
+        0
+      ],
+      "common_camera_window_pt": [
+        228,
+        297.0,
+        128.0,
+        160.0
+      ],
+      "target_ink_center_pt": [
+        292.0,
+        377.0
+      ],
+      "actual_ink_center_pt": [
+        292.0,
+        377.0
+      ],
+      "center_error_pt": 0.0,
+      "centering": "exact_ink_bounds",
+      "no_glyph_fit": true
+    },
+    {
+      "physical_page": 8,
+      "reference": true,
+      "source_text": "심",
+      "font": "sans",
+      "point_size": 128,
+      "x_origin_pt": 57.727999999999994,
+      "baseline_pt": 425.64,
+      "cell_left_pt": 48,
+      "raw_ink_bounds_pt": [
+        7.296,
+        -105.728,
+        101.248,
+        8.448000000000008
+      ],
+      "ink_bounds_relative_to_baseline_pt": [
+        7.296,
+        -105.728,
+        101.248,
+        8.448000000000008
+      ],
+      "ink_bounds_absolute_pt": [
+        65.024,
+        319.912,
+        158.976,
+        434.08799999999997
+      ],
+      "ink_width_pt": 93.952,
+      "inner_counter_contours": [
+        2
+      ],
+      "counter_containment_depths": [
+        0,
+        0,
+        1,
+        0
+      ],
+      "common_camera_window_pt": [
+        48,
+        297.0,
+        128.0,
+        160.0
+      ],
+      "target_ink_center_pt": [
+        112.0,
+        377.0
+      ],
+      "actual_ink_center_pt": [
+        112.0,
+        377.0
+      ],
+      "center_error_pt": 0.0,
+      "centering": "exact_ink_bounds",
+      "no_glyph_fit": true
+    },
+    {
+      "physical_page": 8,
+      "reference": false,
+      "source_text": "심",
+      "font": "gugi",
+      "point_size": 128,
+      "x_origin_pt": 233.15550754460023,
+      "baseline_pt": 425.96,
+      "cell_left_pt": 228,
+      "raw_ink_bounds_pt": [
+        1.976984910799545,
+        -105.472,
+        115.712,
+        7.552
+      ],
+      "ink_bounds_relative_to_baseline_pt": [
+        1.976984910799545,
+        -105.472,
+        115.712,
+        7.552
+      ],
+      "ink_bounds_absolute_pt": [
+        235.13249245539978,
+        320.488,
+        348.86750754460024,
+        433.512
+      ],
+      "ink_width_pt": 113.73501508920046,
+      "inner_counter_contours": [
+        2
+      ],
+      "counter_containment_depths": [
+        0,
+        0,
+        1,
+        0
+      ],
+      "common_camera_window_pt": [
+        228,
+        297.0,
+        128.0,
+        160.0
+      ],
+      "target_ink_center_pt": [
+        292.0,
+        377.0
+      ],
+      "actual_ink_center_pt": [
+        292.0,
+        377.0
+      ],
+      "center_error_pt": 0.0,
+      "centering": "exact_ink_bounds",
+      "no_glyph_fit": true
+    },
+    {
+      "physical_page": 9,
+      "reference": true,
+      "source_text": "심",
+      "font": "sans",
+      "point_size": 128,
+      "x_origin_pt": 57.727999999999994,
+      "baseline_pt": 425.64,
+      "cell_left_pt": 48,
+      "raw_ink_bounds_pt": [
+        7.296,
+        -105.728,
+        101.248,
+        8.448000000000008
+      ],
+      "ink_bounds_relative_to_baseline_pt": [
+        7.296,
+        -105.728,
+        101.248,
+        8.448000000000008
+      ],
+      "ink_bounds_absolute_pt": [
+        65.024,
+        319.912,
+        158.976,
+        434.08799999999997
+      ],
+      "ink_width_pt": 93.952,
+      "inner_counter_contours": [
+        2
+      ],
+      "counter_containment_depths": [
+        0,
+        0,
+        1,
+        0
+      ],
+      "common_camera_window_pt": [
+        48,
+        297.0,
+        128.0,
+        160.0
+      ],
+      "target_ink_center_pt": [
+        112.0,
+        377.0
+      ],
+      "actual_ink_center_pt": [
+        112.0,
+        377.0
+      ],
+      "center_error_pt": 0.0,
+      "centering": "exact_ink_bounds",
+      "no_glyph_fit": true
+    },
+    {
+      "physical_page": 9,
+      "reference": false,
+      "source_text": "심",
+      "font": "pixel",
+      "point_size": 128,
+      "x_origin_pt": 232.0,
+      "baseline_pt": 421.0,
+      "cell_left_pt": 228,
+      "raw_ink_bounds_pt": [
+        8.0,
+        -96.0,
+        112.0,
+        8.0
+      ],
+      "ink_bounds_relative_to_baseline_pt": [
+        8.0,
+        -96.0,
+        112.0,
+        8.0
+      ],
+      "ink_bounds_absolute_pt": [
+        240.0,
+        325.0,
+        344.0,
+        429.0
+      ],
+      "ink_width_pt": 104.0,
+      "inner_counter_contours": [
+        3
+      ],
+      "counter_containment_depths": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "common_camera_window_pt": [
+        228,
+        297.0,
+        128.0,
+        160.0
+      ],
+      "target_ink_center_pt": [
+        292.0,
+        377.0
+      ],
+      "actual_ink_center_pt": [
+        292.0,
+        377.0
+      ],
+      "center_error_pt": 0.0,
+      "centering": "exact_ink_bounds",
+      "no_glyph_fit": true
+    },
+    {
+      "physical_page": 10,
+      "reference": true,
+      "source_text": "심",
+      "font": "sans",
+      "point_size": 128,
+      "x_origin_pt": 57.727999999999994,
+      "baseline_pt": 425.64,
+      "cell_left_pt": 48,
+      "raw_ink_bounds_pt": [
+        7.296,
+        -105.728,
+        101.248,
+        8.448000000000008
+      ],
+      "ink_bounds_relative_to_baseline_pt": [
+        7.296,
+        -105.728,
+        101.248,
+        8.448000000000008
+      ],
+      "ink_bounds_absolute_pt": [
+        65.024,
+        319.912,
+        158.976,
+        434.08799999999997
+      ],
+      "ink_width_pt": 93.952,
+      "inner_counter_contours": [
+        2
+      ],
+      "counter_containment_depths": [
+        0,
+        0,
+        1,
+        0
+      ],
+      "common_camera_window_pt": [
+        48,
+        297.0,
+        128.0,
+        160.0
+      ],
+      "target_ink_center_pt": [
+        112.0,
+        377.0
+      ],
+      "actual_ink_center_pt": [
+        112.0,
+        377.0
+      ],
+      "center_error_pt": 0.0,
+      "centering": "exact_ink_bounds",
+      "no_glyph_fit": true
+    },
+    {
+      "physical_page": 10,
+      "reference": false,
+      "source_text": "심",
+      "font": "jua",
+      "point_size": 128,
+      "x_origin_pt": 244.37792013757505,
+      "baseline_pt": 424.552,
+      "cell_left_pt": 228,
+      "raw_ink_bounds_pt": [
+        2.486752173517491,
+        -98.816,
+        92.75740755133243,
+        3.712
+      ],
+      "ink_bounds_relative_to_baseline_pt": [
+        2.486752173517491,
+        -98.816,
+        92.75740755133243,
+        3.712
+      ],
+      "ink_bounds_absolute_pt": [
+        246.86467231109253,
+        325.736,
+        337.13532768890747,
+        428.264
+      ],
+      "ink_width_pt": 90.27065537781495,
+      "inner_counter_contours": [
+        2
+      ],
+      "counter_containment_depths": [
+        0,
+        0,
+        1,
+        0
+      ],
+      "common_camera_window_pt": [
+        228,
+        297.0,
+        128.0,
+        160.0
+      ],
+      "target_ink_center_pt": [
+        292.0,
+        377.0
+      ],
+      "actual_ink_center_pt": [
+        292.0,
+        377.0
+      ],
+      "center_error_pt": 0.0,
+      "centering": "exact_ink_bounds",
+      "no_glyph_fit": true
+    },
+    {
+      "physical_page": 11,
+      "reference": true,
+      "source_text": "심",
+      "font": "sans",
+      "point_size": 128,
+      "x_origin_pt": 57.727999999999994,
+      "baseline_pt": 425.64,
+      "cell_left_pt": 48,
+      "raw_ink_bounds_pt": [
+        7.296,
+        -105.728,
+        101.248,
+        8.448000000000008
+      ],
+      "ink_bounds_relative_to_baseline_pt": [
+        7.296,
+        -105.728,
+        101.248,
+        8.448000000000008
+      ],
+      "ink_bounds_absolute_pt": [
+        65.024,
+        319.912,
+        158.976,
+        434.08799999999997
+      ],
+      "ink_width_pt": 93.952,
+      "inner_counter_contours": [
+        2
+      ],
+      "counter_containment_depths": [
+        0,
+        0,
+        1,
+        0
+      ],
+      "common_camera_window_pt": [
+        48,
+        297.0,
+        128.0,
+        160.0
+      ],
+      "target_ink_center_pt": [
+        112.0,
+        377.0
+      ],
+      "actual_ink_center_pt": [
+        112.0,
+        377.0
+      ],
+      "center_error_pt": 0.0,
+      "centering": "exact_ink_bounds",
+      "no_glyph_fit": true
+    },
+    {
+      "physical_page": 11,
+      "reference": false,
+      "source_text": "심",
+      "font": "singleday",
+      "point_size": 128,
+      "x_origin_pt": 243.4375,
+      "baseline_pt": 411.1875,
+      "cell_left_pt": 228,
+      "raw_ink_bounds_pt": [
+        8.25,
+        -89.25,
+        88.875,
+        20.875
+      ],
+      "ink_bounds_relative_to_baseline_pt": [
+        8.25,
+        -89.25,
+        88.875,
+        20.875
+      ],
+      "ink_bounds_absolute_pt": [
+        251.6875,
+        321.9375,
+        332.3125,
+        432.0625
+      ],
+      "ink_width_pt": 80.625,
+      "inner_counter_contours": [
+        2
+      ],
+      "counter_containment_depths": [
+        0,
+        0,
+        1,
+        0
+      ],
+      "common_camera_window_pt": [
+        228,
+        297.0,
+        128.0,
+        160.0
+      ],
+      "target_ink_center_pt": [
+        292.0,
+        377.0
+      ],
+      "actual_ink_center_pt": [
+        292.0,
+        377.0
+      ],
+      "center_error_pt": 0.0,
+      "centering": "exact_ink_bounds",
+      "no_glyph_fit": true
+    },
+    {
+      "physical_page": 12,
+      "reference": true,
+      "source_text": "심",
+      "font": "sans",
+      "point_size": 128,
+      "x_origin_pt": 57.727999999999994,
+      "baseline_pt": 425.64,
+      "cell_left_pt": 48,
+      "raw_ink_bounds_pt": [
+        7.296,
+        -105.728,
+        101.248,
+        8.448000000000008
+      ],
+      "ink_bounds_relative_to_baseline_pt": [
+        7.296,
+        -105.728,
+        101.248,
+        8.448000000000008
+      ],
+      "ink_bounds_absolute_pt": [
+        65.024,
+        319.912,
+        158.976,
+        434.08799999999997
+      ],
+      "ink_width_pt": 93.952,
+      "inner_counter_contours": [
+        2
+      ],
+      "counter_containment_depths": [
+        0,
+        0,
+        1,
+        0
+      ],
+      "common_camera_window_pt": [
+        48,
+        297.0,
+        128.0,
+        160.0
+      ],
+      "target_ink_center_pt": [
+        112.0,
+        377.0
+      ],
+      "actual_ink_center_pt": [
+        112.0,
+        377.0
+      ],
+      "center_error_pt": 0.0,
+      "centering": "exact_ink_bounds",
+      "no_glyph_fit": true
+    },
+    {
+      "physical_page": 12,
+      "reference": false,
+      "source_text": "심",
+      "font": "kirang",
+      "point_size": 128,
+      "x_origin_pt": 245.024,
+      "baseline_pt": 423.44270377566625,
+      "cell_left_pt": 228,
+      "raw_ink_bounds_pt": [
+        15.104,
+        -100.82140755133243,
+        78.848,
+        7.936
+      ],
+      "ink_bounds_relative_to_baseline_pt": [
+        15.104,
+        -100.82140755133243,
+        78.848,
+        7.936
+      ],
+      "ink_bounds_absolute_pt": [
+        260.128,
+        322.62129622433383,
+        323.872,
+        431.3787037756662
+      ],
+      "ink_width_pt": 63.744,
+      "inner_counter_contours": [
+        1
+      ],
+      "counter_containment_depths": [
+        0,
+        1,
+        0,
+        0
+      ],
+      "common_camera_window_pt": [
+        228,
+        297.0,
+        128.0,
+        160.0
+      ],
+      "target_ink_center_pt": [
+        292.0,
+        377.0
+      ],
+      "actual_ink_center_pt": [
+        292.0,
+        377.0
+      ],
+      "center_error_pt": 0.0,
+      "centering": "exact_ink_bounds",
+      "no_glyph_fit": true
+    },
+    {
+      "physical_page": 13,
+      "reference": true,
+      "source_text": "심",
+      "font": "sans",
+      "point_size": 128,
+      "x_origin_pt": 57.727999999999994,
+      "baseline_pt": 425.64,
+      "cell_left_pt": 48,
+      "raw_ink_bounds_pt": [
+        7.296,
+        -105.728,
+        101.248,
+        8.448000000000008
+      ],
+      "ink_bounds_relative_to_baseline_pt": [
+        7.296,
+        -105.728,
+        101.248,
+        8.448000000000008
+      ],
+      "ink_bounds_absolute_pt": [
+        65.024,
+        319.912,
+        158.976,
+        434.08799999999997
+      ],
+      "ink_width_pt": 93.952,
+      "inner_counter_contours": [
+        2
+      ],
+      "counter_containment_depths": [
+        0,
+        0,
+        1,
+        0
+      ],
+      "common_camera_window_pt": [
+        48,
+        297.0,
+        128.0,
+        160.0
+      ],
+      "target_ink_center_pt": [
+        112.0,
+        377.0
+      ],
+      "actual_ink_center_pt": [
+        112.0,
+        377.0
+      ],
+      "center_error_pt": 0.0,
+      "centering": "exact_ink_bounds",
+      "no_glyph_fit": true
+    },
+    {
+      "physical_page": 13,
+      "reference": false,
+      "source_text": "심",
+      "font": "bawpic",
+      "point_size": 128,
+      "x_origin_pt": 244.512,
+      "baseline_pt": 417.448,
+      "cell_left_pt": 228,
+      "raw_ink_bounds_pt": [
+        1.28,
+        -95.36,
+        93.696,
+        14.464
+      ],
+      "ink_bounds_relative_to_baseline_pt": [
+        1.28,
+        -95.36,
+        93.696,
+        14.464
+      ],
+      "ink_bounds_absolute_pt": [
+        245.792,
+        322.08799999999997,
+        338.20799999999997,
+        431.912
+      ],
+      "ink_width_pt": 92.416,
+      "inner_counter_contours": [
+        6
+      ],
+      "counter_containment_depths": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        2
+      ],
+      "common_camera_window_pt": [
+        228,
+        297.0,
+        128.0,
+        160.0
+      ],
+      "target_ink_center_pt": [
+        292.0,
+        377.0
+      ],
+      "actual_ink_center_pt": [
+        292.0,
+        377.0
+      ],
+      "center_error_pt": 0.0,
+      "centering": "exact_ink_bounds",
+      "no_glyph_fit": true
+    },
+    {
+      "physical_page": 14,
+      "reference": true,
+      "source_text": "심",
+      "font": "sans",
+      "point_size": 128,
+      "x_origin_pt": 57.727999999999994,
+      "baseline_pt": 425.64,
+      "cell_left_pt": 48,
+      "raw_ink_bounds_pt": [
+        7.296,
+        -105.728,
+        101.248,
+        8.448000000000008
+      ],
+      "ink_bounds_relative_to_baseline_pt": [
+        7.296,
+        -105.728,
+        101.248,
+        8.448000000000008
+      ],
+      "ink_bounds_absolute_pt": [
+        65.024,
+        319.912,
+        158.976,
+        434.08799999999997
+      ],
+      "ink_width_pt": 93.952,
+      "inner_counter_contours": [
+        2
+      ],
+      "counter_containment_depths": [
+        0,
+        0,
+        1,
+        0
+      ],
+      "common_camera_window_pt": [
+        48,
+        297.0,
+        128.0,
+        160.0
+      ],
+      "target_ink_center_pt": [
+        112.0,
+        377.0
+      ],
+      "actual_ink_center_pt": [
+        112.0,
+        377.0
+      ],
+      "center_error_pt": 0.0,
+      "centering": "exact_ink_bounds",
+      "no_glyph_fit": true
+    },
+    {
+      "physical_page": 14,
+      "reference": false,
+      "source_text": "심",
+      "font": "brush",
+      "point_size": 128,
+      "x_origin_pt": 250.83880463859268,
+      "baseline_pt": 399.464,
+      "cell_left_pt": 228,
+      "raw_ink_bounds_pt": [
+        4.224,
+        -68.864,
+        78.09839072281463,
+        23.936
+      ],
+      "ink_bounds_relative_to_baseline_pt": [
+        4.224,
+        -68.864,
+        78.09839072281463,
+        23.936
+      ],
+      "ink_bounds_absolute_pt": [
+        255.06280463859267,
+        330.6,
+        328.9371953614073,
+        423.4
+      ],
+      "ink_width_pt": 73.87439072281462,
+      "inner_counter_contours": [],
+      "counter_containment_depths": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "common_camera_window_pt": [
+        228,
+        297.0,
+        128.0,
+        160.0
+      ],
+      "target_ink_center_pt": [
+        292.0,
+        377.0
+      ],
+      "actual_ink_center_pt": [
+        292.0,
+        377.0
+      ],
+      "center_error_pt": 0.0,
+      "centering": "exact_ink_bounds",
+      "no_glyph_fit": true
+    },
+    {
+      "physical_page": 15,
+      "reference": true,
+      "source_text": "심",
+      "font": "sans",
+      "point_size": 128,
+      "x_origin_pt": 57.727999999999994,
+      "baseline_pt": 425.64,
+      "cell_left_pt": 48,
+      "raw_ink_bounds_pt": [
+        7.296,
+        -105.728,
+        101.248,
+        8.448000000000008
+      ],
+      "ink_bounds_relative_to_baseline_pt": [
+        7.296,
+        -105.728,
+        101.248,
+        8.448000000000008
+      ],
+      "ink_bounds_absolute_pt": [
+        65.024,
+        319.912,
+        158.976,
+        434.08799999999997
+      ],
+      "ink_width_pt": 93.952,
+      "inner_counter_contours": [
+        2
+      ],
+      "counter_containment_depths": [
+        0,
+        0,
+        1,
+        0
+      ],
+      "common_camera_window_pt": [
+        48,
+        297.0,
+        128.0,
+        160.0
+      ],
+      "target_ink_center_pt": [
+        112.0,
+        377.0
+      ],
+      "actual_ink_center_pt": [
+        112.0,
+        377.0
+      ],
+      "center_error_pt": 0.0,
+      "centering": "exact_ink_bounds",
+      "no_glyph_fit": true
+    },
+    {
+      "physical_page": 15,
+      "reference": false,
+      "source_text": "심",
+      "font": "YES24",
+      "point_size": 128,
+      "x_origin_pt": 238.32867274766267,
+      "baseline_pt": 425.06399999999996,
+      "cell_left_pt": 228,
+      "raw_ink_bounds_pt": [
+        4.558654504674639,
+        -104.96,
+        102.784,
+        8.832
+      ],
+      "ink_bounds_relative_to_baseline_pt": [
+        4.558654504674639,
+        -104.96,
+        102.784,
+        8.832
+      ],
+      "ink_bounds_absolute_pt": [
+        242.88732725233731,
+        320.104,
+        341.11267274766266,
+        433.89599999999996
+      ],
+      "ink_width_pt": 98.22534549532537,
+      "inner_counter_contours": [
+        2
+      ],
+      "counter_containment_depths": [
+        0,
+        0,
+        1,
+        0
+      ],
+      "common_camera_window_pt": [
+        228,
+        297.0,
+        128.0,
+        160.0
+      ],
+      "target_ink_center_pt": [
+        292.0,
+        377.0
+      ],
+      "actual_ink_center_pt": [
+        292.0,
+        377.0
+      ],
+      "center_error_pt": 0.0,
+      "centering": "exact_ink_bounds",
+      "no_glyph_fit": true
+    }
+  ]
+}

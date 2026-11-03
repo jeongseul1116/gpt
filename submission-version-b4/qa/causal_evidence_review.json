@@ -1,0 +1,141 @@
+{
+  "status": "passed",
+  "scope": "Independent metric math, font-path assembly, displayed graph geometry and editorial-causal interpretation review. Raster generation code statically checked; full-page rendered visual review belongs to rendering audit.",
+  "metric_json_sha256": "b7bce99237a4d974ff74317442cef1768e1caf1ef398161a623b3cb84ca632ae",
+  "experiments_source_sha256": "a0a0691dbdccc5bbfd762b92d35214932525d9f9a18ceeeb5df388a0f77ed427",
+  "checks": [
+    {
+      "check": "Twelve same-word 32pt measurements in advance-by-48pt boxes",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "Ink ratios agree with independently recomputed formula",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "Raster samples converge to far below printed precision",
+      "passed": true,
+      "evidence": {
+        "maximum_difference_percentage_points": 0.004280369572992305
+      }
+    },
+    {
+      "check": "HB glyph assembly hash and four x-span gaps agree",
+      "passed": true,
+      "evidence": {
+        "signed_zero_equivalence": "-0.0 and0.0 are identical geometric coordinates; only this serialization difference normalized",
+        "fonts": [
+          {
+            "font": "blackhan",
+            "word_hash_matches_after_signed_zero_normalization": true,
+            "gap_error_pt": 0.0
+          },
+          {
+            "font": "sans",
+            "word_hash_matches_after_signed_zero_normalization": true,
+            "gap_error_pt": 0.0
+          },
+          {
+            "font": "serif",
+            "word_hash_matches_after_signed_zero_normalization": true,
+            "gap_error_pt": 0.0
+          },
+          {
+            "font": "gungseo",
+            "word_hash_matches_after_signed_zero_normalization": true,
+            "gap_error_pt": 0.0
+          },
+          {
+            "font": "gugi",
+            "word_hash_matches_after_signed_zero_normalization": true,
+            "gap_error_pt": 0.0
+          },
+          {
+            "font": "pixel",
+            "word_hash_matches_after_signed_zero_normalization": true,
+            "gap_error_pt": 0.0
+          },
+          {
+            "font": "jua",
+            "word_hash_matches_after_signed_zero_normalization": true,
+            "gap_error_pt": 0.0
+          },
+          {
+            "font": "singleday",
+            "word_hash_matches_after_signed_zero_normalization": true,
+            "gap_error_pt": 0.0
+          },
+          {
+            "font": "kirang",
+            "word_hash_matches_after_signed_zero_normalization": true,
+            "gap_error_pt": 0.0
+          },
+          {
+            "font": "bawpic",
+            "word_hash_matches_after_signed_zero_normalization": true,
+            "gap_error_pt": 0.0
+          },
+          {
+            "font": "brush",
+            "word_hash_matches_after_signed_zero_normalization": true,
+            "gap_error_pt": 0.0
+          },
+          {
+            "font": "YES24",
+            "word_hash_matches_after_signed_zero_normalization": true,
+            "gap_error_pt": 0.0
+          }
+        ]
+      }
+    },
+    {
+      "check": "Negative brush bounding-x gap is retained",
+      "passed": true,
+      "evidence": {
+        "first_gap_pt": -0.7864900000000006
+      }
+    },
+    {
+      "check": "Every displayed ink bar uses a single explicit 0–40% scale",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "Sixty displayed selected body spans retain the actual HB x positions",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "Printed legends identify ratio denominator, approximation and editorial voice",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "Twelve visual observations lead to explicitly personal voices",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "Summary converts observations into six concrete selection situations",
+      "passed": true,
+      "evidence": [
+        "선택  크게 선언할 때",
+        "선택  차분히 안내할 때",
+        "선택  격식을 갖출 때",
+        "선택  비장하게 맹세할 때",
+        "선택  다정하게 건넬 때",
+        "선택  급히 쪽지를 쓸 때"
+      ]
+    }
+  ],
+  "interpretation_notes": [
+    "Coverage is normalized by each font actual shaped word advance and a common48pt height, so it measures ink density inside that word box, not total ink area or a standardized weight score.",
+    "Projected glyph-body spans and their gaps are horizontal outline bounds, not a font designer kerning adjustment or a claim of physical stroke collision.",
+    "Actual nonzero raster union is authoritative: simple signed areas can cancel for BlackHan because its disconnected component windings differ.",
+    "Personal voice and font-use labels are explicitly editorial interpretations supported by observed form; no objective emotional score is claimed."
+  ],
+  "rendered_visual_review": false,
+  "actual_Adobe_execution": false
+}

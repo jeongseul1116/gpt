@@ -1,0 +1,250 @@
+{
+  "status": "passed",
+  "controlled_paths_checks": [
+    {
+      "physical_page": 4,
+      "role": "specimen",
+      "paths_and_scale_preserved": true
+    },
+    {
+      "physical_page": 4,
+      "role": "detail_reference",
+      "paths_and_scale_preserved": true
+    },
+    {
+      "physical_page": 4,
+      "role": "detail_selected",
+      "paths_and_scale_preserved": true
+    },
+    {
+      "physical_page": 4,
+      "role": "actual_counter_plane",
+      "paths_and_scale_preserved": true
+    },
+    {
+      "physical_page": 5,
+      "role": "specimen",
+      "paths_and_scale_preserved": true
+    },
+    {
+      "physical_page": 5,
+      "role": "detail_reference",
+      "paths_and_scale_preserved": true
+    },
+    {
+      "physical_page": 5,
+      "role": "detail_selected",
+      "paths_and_scale_preserved": true
+    },
+    {
+      "physical_page": 5,
+      "role": "actual_counter_plane",
+      "paths_and_scale_preserved": true
+    },
+    {
+      "physical_page": 6,
+      "role": "specimen",
+      "paths_and_scale_preserved": true
+    },
+    {
+      "physical_page": 6,
+      "role": "detail_reference",
+      "paths_and_scale_preserved": true
+    },
+    {
+      "physical_page": 6,
+      "role": "detail_selected",
+      "paths_and_scale_preserved": true
+    },
+    {
+      "physical_page": 6,
+      "role": "actual_counter_plane",
+      "paths_and_scale_preserved": true
+    },
+    {
+      "physical_page": 7,
+      "role": "specimen",
+      "paths_and_scale_preserved": true
+    },
+    {
+      "physical_page": 7,
+      "role": "detail_reference",
+      "paths_and_scale_preserved": true
+    },
+    {
+      "physical_page": 7,
+      "role": "detail_selected",
+      "paths_and_scale_preserved": true
+    },
+    {
+      "physical_page": 7,
+      "role": "actual_counter_plane",
+      "paths_and_scale_preserved": true
+    },
+    {
+      "physical_page": 8,
+      "role": "specimen",
+      "paths_and_scale_preserved": true
+    },
+    {
+      "physical_page": 8,
+      "role": "detail_reference",
+      "paths_and_scale_preserved": true
+    },
+    {
+      "physical_page": 8,
+      "role": "detail_selected",
+      "paths_and_scale_preserved": true
+    },
+    {
+      "physical_page": 8,
+      "role": "actual_counter_plane",
+      "paths_and_scale_preserved": true
+    },
+    {
+      "physical_page": 9,
+      "role": "specimen",
+      "paths_and_scale_preserved": true
+    },
+    {
+      "physical_page": 9,
+      "role": "detail_reference",
+      "paths_and_scale_preserved": true
+    },
+    {
+      "physical_page": 9,
+      "role": "detail_selected",
+      "paths_and_scale_preserved": true
+    },
+    {
+      "physical_page": 9,
+      "role": "actual_counter_plane",
+      "paths_and_scale_preserved": true
+    },
+    {
+      "physical_page": 10,
+      "role": "specimen",
+      "paths_and_scale_preserved": true
+    },
+    {
+      "physical_page": 10,
+      "role": "detail_reference",
+      "paths_and_scale_preserved": true
+    },
+    {
+      "physical_page": 10,
+      "role": "detail_selected",
+      "paths_and_scale_preserved": true
+    },
+    {
+      "physical_page": 10,
+      "role": "actual_counter_plane",
+      "paths_and_scale_preserved": true
+    },
+    {
+      "physical_page": 11,
+      "role": "specimen",
+      "paths_and_scale_preserved": true
+    },
+    {
+      "physical_page": 11,
+      "role": "detail_reference",
+      "paths_and_scale_preserved": true
+    },
+    {
+      "physical_page": 11,
+      "role": "detail_selected",
+      "paths_and_scale_preserved": true
+    },
+    {
+      "physical_page": 11,
+      "role": "actual_counter_plane",
+      "paths_and_scale_preserved": true
+    },
+    {
+      "physical_page": 12,
+      "role": "specimen",
+      "paths_and_scale_preserved": true
+    },
+    {
+      "physical_page": 12,
+      "role": "detail_reference",
+      "paths_and_scale_preserved": true
+    },
+    {
+      "physical_page": 12,
+      "role": "detail_selected",
+      "paths_and_scale_preserved": true
+    },
+    {
+      "physical_page": 12,
+      "role": "actual_counter_plane",
+      "paths_and_scale_preserved": true
+    },
+    {
+      "physical_page": 13,
+      "role": "specimen",
+      "paths_and_scale_preserved": true
+    },
+    {
+      "physical_page": 13,
+      "role": "detail_reference",
+      "paths_and_scale_preserved": true
+    },
+    {
+      "physical_page": 13,
+      "role": "detail_selected",
+      "paths_and_scale_preserved": true
+    },
+    {
+      "physical_page": 13,
+      "role": "actual_counter_plane",
+      "paths_and_scale_preserved": true
+    },
+    {
+      "physical_page": 14,
+      "role": "specimen",
+      "paths_and_scale_preserved": true
+    },
+    {
+      "physical_page": 14,
+      "role": "detail_reference",
+      "paths_and_scale_preserved": true
+    },
+    {
+      "physical_page": 14,
+      "role": "detail_selected",
+      "paths_and_scale_preserved": true
+    },
+    {
+      "physical_page": 14,
+      "role": "actual_counter_plane",
+      "paths_and_scale_preserved": true
+    },
+    {
+      "physical_page": 15,
+      "role": "specimen",
+      "paths_and_scale_preserved": true
+    },
+    {
+      "physical_page": 15,
+      "role": "detail_reference",
+      "paths_and_scale_preserved": true
+    },
+    {
+      "physical_page": 15,
+      "role": "detail_selected",
+      "paths_and_scale_preserved": true
+    },
+    {
+      "physical_page": 15,
+      "role": "actual_counter_plane",
+      "paths_and_scale_preserved": true
+    }
+  ],
+  "all128point_sizes_preserved": true,
+  "centered_vector_count": 24,
+  "no_per_font_fit": true,
+  "text_frames": 192,
+  "failures": []
+}
