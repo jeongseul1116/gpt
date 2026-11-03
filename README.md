@@ -1,3 +1,17 @@
+# 최신 수정본 B2 — 한 문장, 같은 기준으로 시각화
+
+A안과 B안은 보존했습니다. B2는 **진심입니다 / 심**으로 비교 단어를 통일하고, 모든 폰트에 같은 확대율·기준선·도해 방법을 적용했습니다. 실제 획과 빈틈을 크게 비교한 뒤 마지막에15개 유행어를 적용합니다.
+
+- **[B2 전체 PDF](submission-version-b2/Meme_Font_Book_Version_B2_28p_Review.pdf)**
+- **[B2 편집용 IDML](submission-version-b2/Meme_Font_Book_Version_B2_28p.idml)**
+- **[B2 A3 인쇄 PDF](submission-version-b2/Meme_Font_Book_Version_B2_A3_Duplex_28p.pdf)**
+- [전체28면](submission-version-b2/Version_B2_All_28_Pages.png) · [B2 기획과 확인 범위](submission-version-b2/README_KO.md)
+- [전체 ZIP](Meme_Font_Book_Version_B2_28p.zip) · [판본 목록](BOOK_VERSIONS.json)
+
+아래 A안과 B안 자료는 이전 판본으로 그대로 보존했습니다.
+
+---
+
 # A안 보존 / 새 B안 — 시각화 먼저, 유행어는 마지막에
 
 기존A안은 그대로 보존했습니다. 새B안은 **형태 관찰 → 인상 해석 → 유행어에 적용** 순서입니다.12폰트를 한 쪽씩 크게 시각화하고, 비교 실험 뒤 본문 마지막6쪽에서15개 유행어의 폰트 효과를 보여줍니다.

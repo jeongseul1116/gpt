@@ -1,0 +1,2142 @@
+{
+  "status": "passed",
+  "scope": "Independent B2 scene narrative/content/frozenAandB and text-frame geometry audit; no PDF or Adobe execution.",
+  "scene": "/workspace/version_b2_20261103/design/scene.json",
+  "scene_sha256": "30a2dca12e8e92277ee8838eb24cb0d811e9fc1880c134e6d68e0157664bc175",
+  "item_count": 1211,
+  "text_frames": 475,
+  "checks": [
+    {
+      "check": "28 physical pages with A5dimensions",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "12 large live64pt atlas samples on pages4–15",
+      "passed": true,
+      "evidence": [
+        {
+          "physical_page": 4,
+          "matches": 1,
+          "items": [
+            {
+              "id": "b2Item04_005",
+              "text": "진심입니다",
+              "font": "blackhan",
+              "size": 64,
+              "kind": "text"
+            }
+          ],
+          "baseline_pt": 182.0
+        },
+        {
+          "physical_page": 5,
+          "matches": 1,
+          "items": [
+            {
+              "id": "b2Item05_005",
+              "text": "진심입니다",
+              "font": "sans",
+              "size": 64,
+              "kind": "text"
+            }
+          ],
+          "baseline_pt": 182.0
+        },
+        {
+          "physical_page": 6,
+          "matches": 1,
+          "items": [
+            {
+              "id": "b2Item06_005",
+              "text": "진심입니다",
+              "font": "serif",
+              "size": 64,
+              "kind": "text"
+            }
+          ],
+          "baseline_pt": 182.0
+        },
+        {
+          "physical_page": 7,
+          "matches": 1,
+          "items": [
+            {
+              "id": "b2Item07_005",
+              "text": "진심입니다",
+              "font": "gungseo",
+              "size": 64,
+              "kind": "text"
+            }
+          ],
+          "baseline_pt": 182.0
+        },
+        {
+          "physical_page": 8,
+          "matches": 1,
+          "items": [
+            {
+              "id": "b2Item08_005",
+              "text": "진심입니다",
+              "font": "gugi",
+              "size": 64,
+              "kind": "text"
+            }
+          ],
+          "baseline_pt": 182.0
+        },
+        {
+          "physical_page": 9,
+          "matches": 1,
+          "items": [
+            {
+              "id": "b2Item09_005",
+              "text": "진심입니다",
+              "font": "pixel",
+              "size": 64,
+              "kind": "text"
+            }
+          ],
+          "baseline_pt": 182.0
+        },
+        {
+          "physical_page": 10,
+          "matches": 1,
+          "items": [
+            {
+              "id": "b2Item10_005",
+              "text": "진심입니다",
+              "font": "jua",
+              "size": 64,
+              "kind": "text"
+            }
+          ],
+          "baseline_pt": 182.0
+        },
+        {
+          "physical_page": 11,
+          "matches": 1,
+          "items": [
+            {
+              "id": "b2Item11_005",
+              "text": "진심입니다",
+              "font": "singleday",
+              "size": 64,
+              "kind": "text"
+            }
+          ],
+          "baseline_pt": 182.0
+        },
+        {
+          "physical_page": 12,
+          "matches": 1,
+          "items": [
+            {
+              "id": "b2Item12_005",
+              "text": "진심입니다",
+              "font": "kirang",
+              "size": 64,
+              "kind": "text"
+            }
+          ],
+          "baseline_pt": 182.0
+        },
+        {
+          "physical_page": 13,
+          "matches": 1,
+          "items": [
+            {
+              "id": "b2Item13_005",
+              "text": "진심입니다",
+              "font": "bawpic",
+              "size": 64,
+              "kind": "text"
+            }
+          ],
+          "baseline_pt": 182.0
+        },
+        {
+          "physical_page": 14,
+          "matches": 1,
+          "items": [
+            {
+              "id": "b2Item14_005",
+              "text": "진심입니다",
+              "font": "brush",
+              "size": 64,
+              "kind": "text"
+            }
+          ],
+          "baseline_pt": 182.0
+        },
+        {
+          "physical_page": 15,
+          "matches": 1,
+          "items": [
+            {
+              "id": "b2Item15_005",
+              "text": "진심입니다",
+              "font": "YES24",
+              "size": 64,
+              "kind": "text"
+            }
+          ],
+          "baseline_pt": 182.0
+        }
+      ]
+    },
+    {
+      "check": "Controlled overview present onpages16–20",
+      "passed": true,
+      "evidence": {
+        "16": [
+          "controlled_advance_box",
+          "controlled_baseline",
+          "controlled_ink_bounds",
+          "folio",
+          "overview_wholeword"
+        ],
+        "17": [
+          "controlled_advance_box",
+          "controlled_baseline",
+          "controlled_ink_bounds",
+          "folio",
+          "overview_wholeword"
+        ],
+        "18": [
+          "controlled_baseline",
+          "controlled_em_grid",
+          "controlled_ink_bounds",
+          "folio",
+          "overview_same_syllable"
+        ],
+        "19": [
+          "controlled_baseline",
+          "controlled_em_grid",
+          "controlled_ink_bounds",
+          "folio",
+          "overview_same_syllable"
+        ],
+        "20": [
+          "conclusion_wholeword",
+          "controlled_baseline",
+          "controlled_ink_bounds",
+          "folio",
+          "summary_observation",
+          "summary_personal_impression"
+        ]
+      }
+    },
+    {
+      "check": "Application section opener onpage21",
+      "passed": true,
+      "evidence": "03  유행어에 입히기\n이제,\n말에\n입혀보자.\n앞에서 읽은 형태가,\n이제 유행어의 목소리가 된다.\n다음 6쪽\n같은 문구 · 같은 크기 · 다른 폰트\n20"
+    },
+    {
+      "check": "Application items occur only pages22–27",
+      "passed": true,
+      "evidence": [
+        22,
+        23,
+        24,
+        25,
+        26,
+        27
+      ]
+    },
+    {
+      "check": "All15 approved cases have exact quote twice and controlled samepointsize/color",
+      "passed": true,
+      "evidence": [
+        {
+          "case_id": "E01",
+          "physical_pages": [
+            22
+          ],
+          "quote": "가보자고",
+          "neutral_count": 1,
+          "selected_count": 1,
+          "prompt_count": 1,
+          "same_size": true,
+          "actual_size": 30,
+          "selected_font": "blackhan",
+          "prompt_exact": true,
+          "passed": true
+        },
+        {
+          "case_id": "E02",
+          "physical_pages": [
+            24
+          ],
+          "quote": "사랑사랑 친구가 말했지",
+          "neutral_count": 1,
+          "selected_count": 1,
+          "prompt_count": 1,
+          "same_size": true,
+          "actual_size": 24,
+          "selected_font": "singleday",
+          "prompt_exact": true,
+          "passed": true
+        },
+        {
+          "case_id": "E03",
+          "physical_pages": [
+            25
+          ],
+          "quote": "코리안탑클래스 굿나잇",
+          "neutral_count": 1,
+          "selected_count": 1,
+          "prompt_count": 1,
+          "same_size": true,
+          "actual_size": 24,
+          "selected_font": "jua",
+          "prompt_exact": true,
+          "passed": true
+        },
+        {
+          "case_id": "E04",
+          "physical_pages": [
+            25
+          ],
+          "quote": "남의 기쁨을 진심으로 축하해주지 못하고,",
+          "neutral_count": 1,
+          "selected_count": 1,
+          "prompt_count": 1,
+          "same_size": true,
+          "actual_size": 19.0,
+          "selected_font": "gungseo",
+          "prompt_exact": true,
+          "passed": true
+        },
+        {
+          "case_id": "E05",
+          "physical_pages": [
+            23
+          ],
+          "quote": "내가 모를수도",
+          "neutral_count": 1,
+          "selected_count": 1,
+          "prompt_count": 1,
+          "same_size": true,
+          "actual_size": 24,
+          "selected_font": "gugi",
+          "prompt_exact": true,
+          "passed": true
+        },
+        {
+          "case_id": "E06",
+          "physical_pages": [
+            24
+          ],
+          "quote": "당신의뮤즈가되겠습니다",
+          "neutral_count": 1,
+          "selected_count": 1,
+          "prompt_count": 1,
+          "same_size": true,
+          "actual_size": 24,
+          "selected_font": "brush",
+          "prompt_exact": true,
+          "passed": true
+        },
+        {
+          "case_id": "E07",
+          "physical_pages": [
+            25
+          ],
+          "quote": "선배 고단수드앙~",
+          "neutral_count": 1,
+          "selected_count": 1,
+          "prompt_count": 1,
+          "same_size": true,
+          "actual_size": 24,
+          "selected_font": "kirang",
+          "prompt_exact": true,
+          "passed": true
+        },
+        {
+          "case_id": "E08",
+          "physical_pages": [
+            23
+          ],
+          "quote": "모루게쒀여",
+          "neutral_count": 1,
+          "selected_count": 1,
+          "prompt_count": 1,
+          "same_size": true,
+          "actual_size": 24,
+          "selected_font": "brush",
+          "prompt_exact": true,
+          "passed": true
+        },
+        {
+          "case_id": "E09",
+          "physical_pages": [
+            26
+          ],
+          "quote": "ㅇㅈ? ㅇㅇㅈ~~~~~",
+          "neutral_count": 1,
+          "selected_count": 1,
+          "prompt_count": 1,
+          "same_size": true,
+          "actual_size": 30,
+          "selected_font": "bawpic",
+          "prompt_exact": true,
+          "passed": true
+        },
+        {
+          "case_id": "E10",
+          "physical_pages": [
+            24
+          ],
+          "quote": "난... 눈물ㅇ ㅣ ....좋다.....",
+          "neutral_count": 1,
+          "selected_count": 1,
+          "prompt_count": 1,
+          "same_size": true,
+          "actual_size": 24,
+          "selected_font": "brush",
+          "prompt_exact": true,
+          "passed": true
+        },
+        {
+          "case_id": "E11",
+          "physical_pages": [
+            23
+          ],
+          "quote": "무조건☞출.근.가.능!☜",
+          "neutral_count": 1,
+          "selected_count": 1,
+          "prompt_count": 1,
+          "same_size": true,
+          "actual_size": 24,
+          "selected_font": "pixel",
+          "prompt_exact": true,
+          "passed": true
+        },
+        {
+          "case_id": "E12",
+          "physical_pages": [
+            22
+          ],
+          "quote": "난 오늘만 산다",
+          "neutral_count": 1,
+          "selected_count": 1,
+          "prompt_count": 1,
+          "same_size": true,
+          "actual_size": 30,
+          "selected_font": "gungseo",
+          "prompt_exact": true,
+          "passed": true
+        },
+        {
+          "case_id": "E13",
+          "physical_pages": [
+            26
+          ],
+          "quote": "야르",
+          "neutral_count": 1,
+          "selected_count": 1,
+          "prompt_count": 1,
+          "same_size": true,
+          "actual_size": 30,
+          "selected_font": "jua",
+          "prompt_exact": true,
+          "passed": true
+        },
+        {
+          "case_id": "E14",
+          "physical_pages": [
+            27
+          ],
+          "quote": "밤티",
+          "neutral_count": 1,
+          "selected_count": 1,
+          "prompt_count": 1,
+          "same_size": true,
+          "actual_size": 30,
+          "selected_font": "bawpic",
+          "prompt_exact": true,
+          "passed": true
+        },
+        {
+          "case_id": "E15",
+          "physical_pages": [
+            27
+          ],
+          "quote": "이태민 이태민 이태민",
+          "neutral_count": 1,
+          "selected_count": 1,
+          "prompt_count": 1,
+          "same_size": true,
+          "actual_size": 30,
+          "selected_font": "singleday",
+          "prompt_exact": true,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "check": "Actual meme application quotes deferred untilpage22",
+      "passed": true,
+      "evidence": []
+    },
+    {
+      "check": "All84 frozen VersionAandBfiles remainexact",
+      "passed": true,
+      "evidence": [
+        {
+          "path": "/workspace/gpt/submission-alignment/SHA256SUMS.txt",
+          "sha256": "a823cc938d4329d960509d09cc0e0510804372c0efac3a531251b50d7b563653",
+          "expected": "a823cc938d4329d960509d09cc0e0510804372c0efac3a531251b50d7b563653",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-alignment/Alignment_Intro_02_Detail.png",
+          "sha256": "d67c7f93974db55565f5a1cd8f7f9d7a4c8bb77c31f4a02bffa16030e43e639a",
+          "expected": "d67c7f93974db55565f5a1cd8f7f9d7a4c8bb77c31f4a02bffa16030e43e639a",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-alignment/All_28_Pages.png",
+          "sha256": "3b499b426276752ab33f80b4af2ed73202679afc6a77f0d7198aee7293be9255",
+          "expected": "3b499b426276752ab33f80b4af2ed73202679afc6a77f0d7198aee7293be9255",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-alignment/Meme_Font_Book_Alignment_A3_Duplex_28p.pdf",
+          "sha256": "8576ca3a4751722d16ca0b8b5e922589a0e1df822fc547c35e0f40f10250c278",
+          "expected": "8576ca3a4751722d16ca0b8b5e922589a0e1df822fc547c35e0f40f10250c278",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-alignment/Alignment_Backcover_Preview.png",
+          "sha256": "80097e3b253ff4f7087925c1842930264c096bbe69b2fb7a1b4f1f0c74f33dfc",
+          "expected": "80097e3b253ff4f7087925c1842930264c096bbe69b2fb7a1b4f1f0c74f33dfc",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-alignment/README_KO.md",
+          "sha256": "90ca34aa8a3f3a13befc5ce0532b8146d873b0a0093e28f14a787a9b5820112b",
+          "expected": "90ca34aa8a3f3a13befc5ce0532b8146d873b0a0093e28f14a787a9b5820112b",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-alignment/Alignment_Font_Analysis_03_04.png",
+          "sha256": "e7d2102c4a68a084d8974a06462fd769537b7b0c0e7e26ef16b431f7175ee352",
+          "expected": "e7d2102c4a68a084d8974a06462fd769537b7b0c0e7e26ef16b431f7175ee352",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-alignment/Alignment_Font_Methods_03.png",
+          "sha256": "1d130b4bd86c0e650dfab456c5e9cddf426d9ff19dfb9842e06dd5f6ca5f7281",
+          "expected": "1d130b4bd86c0e650dfab456c5e9cddf426d9ff19dfb9842e06dd5f6ca5f7281",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-alignment/Alignment_Footer_Before_After.png",
+          "sha256": "edf8e3888ae28272586eac5972fd880533f4d62833f278da29e0d1955520c9b5",
+          "expected": "edf8e3888ae28272586eac5972fd880533f4d62833f278da29e0d1955520c9b5",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-alignment/Approved_Examples_15.md",
+          "sha256": "8ad01897c2d40b6cf4be7ee010aa22242abcd3f0ae2d45e5e7e2049d3188a47e",
+          "expected": "8ad01897c2d40b6cf4be7ee010aa22242abcd3f0ae2d45e5e7e2049d3188a47e",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-alignment/Meme_Font_Book_Alignment_28p_Review.pdf",
+          "sha256": "e995735b843c9a67eca527d03f270a6a4db638557b7c303ec1e0d2ddb50f9d37",
+          "expected": "e995735b843c9a67eca527d03f270a6a4db638557b7c303ec1e0d2ddb50f9d37",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-alignment/Alignment_Font_Methods_04.png",
+          "sha256": "97ec7623b06e690b0ae97f387efdfe2200ab6f67c1d8e1306b9b4a8189cafff7",
+          "expected": "97ec7623b06e690b0ae97f387efdfe2200ab6f67c1d8e1306b9b4a8189cafff7",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-alignment/Alignment_All_9_Footers.png",
+          "sha256": "2d79b4e849b9c82e7afcc1087465c066c7f676441dee6d6dc2e4fc7f8e3bd9fb",
+          "expected": "2d79b4e849b9c82e7afcc1087465c066c7f676441dee6d6dc2e4fc7f8e3bd9fb",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-alignment/A3_All_14_Faces.jpg",
+          "sha256": "e529983fea59234694c28c337f87926e6aad9c1ceae7da237aa161aff53f987b",
+          "expected": "e529983fea59234694c28c337f87926e6aad9c1ceae7da237aa161aff53f987b",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-alignment/Alignment_Backcover_Before_After.png",
+          "sha256": "5162305b604ea88585fed77f2811f60c547bdd916d3b0c701170ef7a18b2e2be",
+          "expected": "5162305b604ea88585fed77f2811f60c547bdd916d3b0c701170ef7a18b2e2be",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-alignment/Meme_Font_Book_Alignment_28p.idml",
+          "sha256": "30bf5d5ee87b66efdddc1c1521c16078a8f36b0930b45f0010e8a391121ffad4",
+          "expected": "30bf5d5ee87b66efdddc1c1521c16078a8f36b0930b45f0010e8a391121ffad4",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-alignment/qa/vector_precision_validation.json",
+          "sha256": "3f14393dac3ca4e6ce800fc1d6ea3e1934e305ea67d71159d25e7f29e0aaa6fb",
+          "expected": "3f14393dac3ca4e6ce800fc1d6ea3e1934e305ea67d71159d25e7f29e0aaa6fb",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-alignment/qa/visual_validation.json",
+          "sha256": "77f046146913c9110dc0f8fa759cdf33640f9a681ea9ed0838c4507e9ef16f19",
+          "expected": "77f046146913c9110dc0f8fa759cdf33640f9a681ea9ed0838c4507e9ef16f19",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-alignment/qa/print_validation.json",
+          "sha256": "28c95acd9d1cfa935201360cd7f158d0fdb9c7df7822836d2fce929e5de1bc40",
+          "expected": "28c95acd9d1cfa935201360cd7f158d0fdb9c7df7822836d2fce929e5de1bc40",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-alignment/qa/all28_previous_comparison.json",
+          "sha256": "fe1de147d2dcb24a8e055c9d5a831b820b841d64ae351dee2ad17b7d6d879db5",
+          "expected": "fe1de147d2dcb24a8e055c9d5a831b820b841d64ae351dee2ad17b7d6d879db5",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-alignment/qa/embedded_image_validation.json",
+          "sha256": "099fafe6f684cc8eba5b46c1254eec53c8ceb17f5f25eb0dd6160067df924e01",
+          "expected": "099fafe6f684cc8eba5b46c1254eec53c8ceb17f5f25eb0dd6160067df924e01",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-alignment/qa/change_manifest.json",
+          "sha256": "b32da2a3c7b256babe70438787f730ddb27e5ac9d44b8a0d9be873009025d622",
+          "expected": "b32da2a3c7b256babe70438787f730ddb27e5ac9d44b8a0d9be873009025d622",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-alignment/qa/table_existing_sample_validation.json",
+          "sha256": "f79c5a9b3de952a9efdd99cdde877df6b01949fb38d08cb4b68a7fb5f4ff7f03",
+          "expected": "f79c5a9b3de952a9efdd99cdde877df6b01949fb38d08cb4b68a7fb5f4ff7f03",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-alignment/qa/fixed_baseline_validation.json",
+          "sha256": "3b04f8589831b3498ecdcc5a7e99f9476ced470518036a7f09eea8bc5828be29",
+          "expected": "3b04f8589831b3498ecdcc5a7e99f9476ced470518036a7f09eea8bc5828be29",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-alignment/qa/first_sheet_visual_review.json",
+          "sha256": "86ba5b4aaf460d7cf02ec3f152b5dc6e43d82fa95fd5e24ae825b8bdbc85058f",
+          "expected": "86ba5b4aaf460d7cf02ec3f152b5dc6e43d82fa95fd5e24ae825b8bdbc85058f",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-alignment/qa/back_cover_validation.json",
+          "sha256": "c5efa5d895d30c0043dd0641360e860dbd532d13833f13ca4fd9383c34375106",
+          "expected": "c5efa5d895d30c0043dd0641360e860dbd532d13833f13ca4fd9383c34375106",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-alignment/qa/render_report.json",
+          "sha256": "876a15ebbbdaac4e3e9222f94e997b8df0f860856716bdc930bb4dfc59732bfe",
+          "expected": "876a15ebbbdaac4e3e9222f94e997b8df0f860856716bdc930bb4dfc59732bfe",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-alignment/qa/geometry_validation.json",
+          "sha256": "320bc8802162a015ff0b26c14be425eeb6bf3642ed971454966d39c3b3f31326",
+          "expected": "320bc8802162a015ff0b26c14be425eeb6bf3642ed971454966d39c3b3f31326",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-alignment/qa/intro_structure_validation.json",
+          "sha256": "e132e2fb9529443ec55b43ab57c1ce0977339a50aa15ee9fb79f934a9307bcbf",
+          "expected": "e132e2fb9529443ec55b43ab57c1ce0977339a50aa15ee9fb79f934a9307bcbf",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-alignment/qa/print_pairs.json",
+          "sha256": "2908ebb3906ec9884bf0857a1d8b6f519ba0601089d429383296a8d97fed34ef",
+          "expected": "2908ebb3906ec9884bf0857a1d8b6f519ba0601089d429383296a8d97fed34ef",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-alignment/qa/idml_alignment_validation.json",
+          "sha256": "5039d4b6677897363650e4ff745735f7f4215b9567105a324f553e12047cdf6e",
+          "expected": "5039d4b6677897363650e4ff745735f7f4215b9567105a324f553e12047cdf6e",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-alignment/qa/audit_summary.json",
+          "sha256": "9738780d8b99e7787ee4da58184291e3f7ceced5381f7083748969f250874083",
+          "expected": "9738780d8b99e7787ee4da58184291e3f7ceced5381f7083748969f250874083",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-alignment/qa/render_hashes.json",
+          "sha256": "6e40a80c65b154d858b88537af7f9e0e3956e77d604b9701565f2b0200edf4f0",
+          "expected": "6e40a80c65b154d858b88537af7f9e0e3956e77d604b9701565f2b0200edf4f0",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-alignment/qa/imposition_manifest.json",
+          "sha256": "819605e3b0bf1f6f7d57558f660c2a1421b0202891fb128c62e316e9037079de",
+          "expected": "819605e3b0bf1f6f7d57558f660c2a1421b0202891fb128c62e316e9037079de",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b/SHA256SUMS.txt",
+          "sha256": "dad7e6af82f6ea00bf5de32a0cbe73fe9dbd3ef08ce6b677925b0aa59b6f9697",
+          "expected": "dad7e6af82f6ea00bf5de32a0cbe73fe9dbd3ef08ce6b677925b0aa59b6f9697",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b/Meme_Font_Book_Version_B_28p_Review.pdf",
+          "sha256": "13ebbc005ada29173661b46c832809a85a097192595fd224955c59225536272b",
+          "expected": "13ebbc005ada29173661b46c832809a85a097192595fd224955c59225536272b",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b/Version_B_Reading_Guide.png",
+          "sha256": "109b42e71b91d6999eeb18433fc542db00db4f43e357b6b35d2a9e65cdadc525",
+          "expected": "109b42e71b91d6999eeb18433fc542db00db4f43e357b6b35d2a9e65cdadc525",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b/Version_B_Applications_22_27.jpg",
+          "sha256": "658b1dba7ca0d6dd91272e83cbb8b3066e30801a252bf9d63e02707412af636c",
+          "expected": "658b1dba7ca0d6dd91272e83cbb8b3066e30801a252bf9d63e02707412af636c",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b/Version_B_All_12_Live_Specimens.png",
+          "sha256": "6b20928729818ee03066f299ff0b732e5fd3088baa149b28a21b60a592bf1022",
+          "expected": "6b20928729818ee03066f299ff0b732e5fd3088baa149b28a21b60a592bf1022",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b/Version_B_Contents.png",
+          "sha256": "8c5c4eeaec8f965175d70a6d517f6c5ef5780253df878c5c0d8eb4b9d0f48e9d",
+          "expected": "8c5c4eeaec8f965175d70a6d517f6c5ef5780253df878c5c0d8eb4b9d0f48e9d",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b/Version_B_Atlas_12_Fonts.jpg",
+          "sha256": "1cb4e6fb9881d983556ec29f454fbf93262b3bc7dbef2398ab1a78673cc43423",
+          "expected": "1cb4e6fb9881d983556ec29f454fbf93262b3bc7dbef2398ab1a78673cc43423",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b/Version_B_Experiment_Cross.png",
+          "sha256": "334cd0c2283837941700b817f17e3afab36e33fb5aceddf5073c77e70648a366",
+          "expected": "334cd0c2283837941700b817f17e3afab36e33fb5aceddf5073c77e70648a366",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b/Version_B_Atlas_BlackHan_NotoSans.png",
+          "sha256": "937895f2673208bd59ac977a8d1fcdf3ec1a6decf5ee9130606ae07a58e69370",
+          "expected": "937895f2673208bd59ac977a8d1fcdf3ec1a6decf5ee9130606ae07a58e69370",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b/README_KO.md",
+          "sha256": "283b2b4230edb47c2b8f85b1948a85333582f7449cada5aba0546b94c73ad712",
+          "expected": "283b2b4230edb47c2b8f85b1948a85333582f7449cada5aba0546b94c73ad712",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b/Version_B_Dark_Opener.png",
+          "sha256": "be2803259f12c1d2e5c51d22df6c842870b789399053185479650deda61c96b0",
+          "expected": "be2803259f12c1d2e5c51d22df6c842870b789399053185479650deda61c96b0",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b/Version_B_Experiments_16_20.jpg",
+          "sha256": "aee4090ade8170d1ddaf18f183e8e57c9a3cb3d167b4f6272e0b9d05e6a5a5d5",
+          "expected": "aee4090ade8170d1ddaf18f183e8e57c9a3cb3d167b4f6272e0b9d05e6a5a5d5",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b/Version_B_Backcover.png",
+          "sha256": "e02b3723795c15a5c8946f712249ed2d7f087dab7e6602b5f4b9b1f9043e3f4d",
+          "expected": "e02b3723795c15a5c8946f712249ed2d7f087dab7e6602b5f4b9b1f9043e3f4d",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b/Version_B_All_28_Pages.png",
+          "sha256": "1e88d7a991861f0fe5ab26674cf77501c500670feed065d8048dc6da998862ef",
+          "expected": "1e88d7a991861f0fe5ab26674cf77501c500670feed065d8048dc6da998862ef",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b/Version_B_Plan_KO.md",
+          "sha256": "b1b2280ee29663d45bc702c183ba514868cbd927feb7ab7f161b79da0b604433",
+          "expected": "b1b2280ee29663d45bc702c183ba514868cbd927feb7ab7f161b79da0b604433",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b/Version_B_Spacing_18_19.png",
+          "sha256": "646c1768a6c5c2444f14fa5aeba1646c95ca94b9b659941ad1acb70ca874420d",
+          "expected": "646c1768a6c5c2444f14fa5aeba1646c95ca94b9b659941ad1acb70ca874420d",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b/Version_B_Cover.png",
+          "sha256": "af9cc011654201b5308a94cebd0eb45dfff242a97f3f2b0bc1e8b72105f6bced",
+          "expected": "af9cc011654201b5308a94cebd0eb45dfff242a97f3f2b0bc1e8b72105f6bced",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b/Meme_Font_Book_Version_B_28p.idml",
+          "sha256": "79a104b5b44c5397d69573d3ad140d90019615169a027535b7c2caf96e898c6f",
+          "expected": "79a104b5b44c5397d69573d3ad140d90019615169a027535b7c2caf96e898c6f",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b/Version_B_A3_All_14_Faces.jpg",
+          "sha256": "c794f399f86f3a17e7cff63fc4c4e823ca9d138259914ed89ec6b8038eab76cf",
+          "expected": "c794f399f86f3a17e7cff63fc4c4e823ca9d138259914ed89ec6b8038eab76cf",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b/Version_B_Applications_22_23.png",
+          "sha256": "380fd6d44dbb5957d6ac5ebfa404bb1f152d26b17939d62686342214c3be8b10",
+          "expected": "380fd6d44dbb5957d6ac5ebfa404bb1f152d26b17939d62686342214c3be8b10",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b/Meme_Font_Book_Version_B_A3_Duplex_28p.pdf",
+          "sha256": "8b1848dce5f84da1baa3c1a5046e9c2d4b375cc6a0b99b33087760299a0b5424",
+          "expected": "8b1848dce5f84da1baa3c1a5046e9c2d4b375cc6a0b99b33087760299a0b5424",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b/archive/Meme_Archive_Current_A.json",
+          "sha256": "3b6e7063012cf8d434ff4654be2d9f316bd26f96aece1fc22d2fa059680b2c0c",
+          "expected": "3b6e7063012cf8d434ff4654be2d9f316bd26f96aece1fc22d2fa059680b2c0c",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b/archive/Approved_Examples_15.md",
+          "sha256": "8ad01897c2d40b6cf4be7ee010aa22242abcd3f0ae2d45e5e7e2049d3188a47e",
+          "expected": "8ad01897c2d40b6cf4be7ee010aa22242abcd3f0ae2d45e5e7e2049d3188a47e",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b/archive/Approved_Application_Cases_15.json",
+          "sha256": "d25419e067821b928c40467eef41cb3e19c6c09ff8cd6b924b1b0f519b3a2b58",
+          "expected": "d25419e067821b928c40467eef41cb3e19c6c09ff8cd6b924b1b0f519b3a2b58",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b/qa/experiments_validation.json",
+          "sha256": "16efa0baeaa92308a7094a94ae9e1194408ded992357bf3c044e635fb541681b",
+          "expected": "16efa0baeaa92308a7094a94ae9e1194408ded992357bf3c044e635fb541681b",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b/qa/book_manifest.json",
+          "sha256": "39ab85418fb9945d2b62b1d325cc5fda423b1d19172a561a4efeff73e4223e6e",
+          "expected": "39ab85418fb9945d2b62b1d325cc5fda423b1d19172a561a4efeff73e4223e6e",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b/qa/vector_precision_validation.json",
+          "sha256": "1184c43bfa2c391952a5212852cf6a1f855fedef52ee20605f74e76e9761e48a",
+          "expected": "1184c43bfa2c391952a5212852cf6a1f855fedef52ee20605f74e76e9761e48a",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b/qa/native_validation.json",
+          "sha256": "753979b0dec69cd103e6502c02bf2ea0d7048c84ddfb49c668adf2e6e0839732",
+          "expected": "753979b0dec69cd103e6502c02bf2ea0d7048c84ddfb49c668adf2e6e0839732",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b/qa/experiments_manifest.json",
+          "sha256": "5c1bc693e0965f63a5f7edaac64d42e0e029db044e6b538f8fe49fc2ec4a6c29",
+          "expected": "5c1bc693e0965f63a5f7edaac64d42e0e029db044e6b538f8fe49fc2ec4a6c29",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b/qa/visual_validation.json",
+          "sha256": "7135cd28431e2ab85d566ca6d7dd3ec090ba23894ac4bbbeea02caabb94e3967",
+          "expected": "7135cd28431e2ab85d566ca6d7dd3ec090ba23894ac4bbbeea02caabb94e3967",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b/qa/content_validation.json",
+          "sha256": "98787a63e5e68c121f42eb71d4984c353229db28bdd8adace90ec05233a07cad",
+          "expected": "98787a63e5e68c121f42eb71d4984c353229db28bdd8adace90ec05233a07cad",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b/qa/print_validation.json",
+          "sha256": "83acf35f5db3226849852658bfd700c6367b5d7f99de36e25240c829b5450ffd",
+          "expected": "83acf35f5db3226849852658bfd700c6367b5d7f99de36e25240c829b5450ffd",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b/qa/version_A_preserved.json",
+          "sha256": "5696d6aa0735699861f75c8378716bde10cc5fad458a2abc0ff048d1d33325da",
+          "expected": "5696d6aa0735699861f75c8378716bde10cc5fad458a2abc0ff048d1d33325da",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b/qa/idml_build_report.json",
+          "sha256": "2574861a0baca1a3e682221d21d8b168162ee68a3fd4d573b9de15846c338983",
+          "expected": "2574861a0baca1a3e682221d21d8b168162ee68a3fd4d573b9de15846c338983",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b/qa/atlas_manifest.json",
+          "sha256": "867b71defc9e1466118d232f2c44f4286fa5e12def08b20f394d7ab173c8e18a",
+          "expected": "867b71defc9e1466118d232f2c44f4286fa5e12def08b20f394d7ab173c8e18a",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b/qa/embedded_image_validation.json",
+          "sha256": "79f2f23d3adea14ab443008922751f77b2cc36ce91a2c169735ab40c22fe14d4",
+          "expected": "79f2f23d3adea14ab443008922751f77b2cc36ce91a2c169735ab40c22fe14d4",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b/qa/text_layout_validation.json",
+          "sha256": "923cfafe47f95c4d241a74f7236342be04cbd7c67ed7beace89ba2d6d83038fc",
+          "expected": "923cfafe47f95c4d241a74f7236342be04cbd7c67ed7beace89ba2d6d83038fc",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b/qa/first_sheet_visual_review.json",
+          "sha256": "501e1c0144d0e7da9294a82adbd1a4ebd825dd1aec7a4f5cfe05738f2019a69f",
+          "expected": "501e1c0144d0e7da9294a82adbd1a4ebd825dd1aec7a4f5cfe05738f2019a69f",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b/qa/render_report.json",
+          "sha256": "065bbe135ba29ee742f8bd15a3d60ae40705819cb042c61858564b6f7891219b",
+          "expected": "065bbe135ba29ee742f8bd15a3d60ae40705819cb042c61858564b6f7891219b",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b/qa/geometry_validation.json",
+          "sha256": "b21e533a41c2b9511dd58b69aea58121e237d995483140330968050f01d0f32e",
+          "expected": "b21e533a41c2b9511dd58b69aea58121e237d995483140330968050f01d0f32e",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b/qa/print_pairs.json",
+          "sha256": "2908ebb3906ec9884bf0857a1d8b6f519ba0601089d429383296a8d97fed34ef",
+          "expected": "2908ebb3906ec9884bf0857a1d8b6f519ba0601089d429383296a8d97fed34ef",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b/qa/audit_summary.json",
+          "sha256": "e207cfb17ca80ffdfa2eca3e4ceda83b90eefea290e54489ee85883bcafd0ed1",
+          "expected": "e207cfb17ca80ffdfa2eca3e4ceda83b90eefea290e54489ee85883bcafd0ed1",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b/qa/render_hashes.json",
+          "sha256": "8111f32f451ebbf19b95be1acee93dd955fa98d3dc6c073b9c41df7e4503fb64",
+          "expected": "8111f32f451ebbf19b95be1acee93dd955fa98d3dc6c073b9c41df7e4503fb64",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/submission-version-b/qa/imposition_manifest.json",
+          "sha256": "d258e15af03ac44e2ddf4e8de8c7226ede3fe74dbd4ace06da87b078b683a63e",
+          "expected": "d258e15af03ac44e2ddf4e8de8c7226ede3fe74dbd4ace06da87b078b683a63e",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/Meme_Font_Book_Alignment_28p.zip",
+          "sha256": "37e7fa3e074f1190a3028bb2994563b1af319ebb4526f3e93ca6bd0a605830fd",
+          "expected": "37e7fa3e074f1190a3028bb2994563b1af319ebb4526f3e93ca6bd0a605830fd",
+          "passed": true
+        },
+        {
+          "path": "/workspace/gpt/Meme_Font_Book_Version_B_28p.zip",
+          "sha256": "61e23d67e20a6032d4a7409fae2b4e3cd684ea133cad48870a97dbf41a570054",
+          "expected": "61e23d67e20a6032d4a7409fae2b4e3cd684ea133cad48870a97dbf41a570054",
+          "passed": true
+        },
+        {
+          "path": "/workspace/version_b_20261103/CURRENT_B.json",
+          "sha256": "25e3a7407282f1619acf7559ed64255f0edae6d4f3dd5d08f2dea929857b2ac3",
+          "expected": "25e3a7407282f1619acf7559ed64255f0edae6d4f3dd5d08f2dea929857b2ac3",
+          "passed": true
+        },
+        {
+          "path": "/workspace/version_b_20261103/design/scene.json",
+          "sha256": "7e91dc780a3f1751acaf4898dc958f7da3fe819fb5c6027615ff53c8aff1a0ee",
+          "expected": "7e91dc780a3f1751acaf4898dc958f7da3fe819fb5c6027615ff53c8aff1a0ee",
+          "passed": true
+        },
+        {
+          "path": "/workspace/version_b_20261103/design/Meme_Font_Book_Version_B_28p.idml",
+          "sha256": "79a104b5b44c5397d69573d3ad140d90019615169a027535b7c2caf96e898c6f",
+          "expected": "79a104b5b44c5397d69573d3ad140d90019615169a027535b7c2caf96e898c6f",
+          "passed": true
+        },
+        {
+          "path": "/workspace/final28/CURRENT_EDITION.json",
+          "sha256": "68a2f39729f9ba6b28cd4c2aaa4e91a66ec676669993d6905806223e8b7448a3",
+          "expected": "68a2f39729f9ba6b28cd4c2aaa4e91a66ec676669993d6905806223e8b7448a3",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "check": "15 full currentA source/approvededition meme blocks archived exact",
+      "passed": true,
+      "evidence": [
+        {
+          "source_id": "B01",
+          "story": "Stories/Story_uce8.xml",
+          "passed": true
+        },
+        {
+          "source_id": "A04",
+          "story": "Stories/Story_u1497.xml",
+          "passed": true
+        },
+        {
+          "source_id": "B02",
+          "story": "Stories/Story_u1c30.xml",
+          "passed": true
+        },
+        {
+          "source_id": "A02",
+          "story": "Stories/Story_u23c9.xml",
+          "passed": true
+        },
+        {
+          "source_id": "A03",
+          "story": "Stories/Story_u2b4c.xml",
+          "passed": true
+        },
+        {
+          "source_id": "A10",
+          "story": "Stories/Story_u2f71.xml",
+          "passed": true
+        },
+        {
+          "source_id": "B06",
+          "story": "Stories/Story_u33b3.xml",
+          "passed": true
+        },
+        {
+          "source_id": "B05",
+          "story": "Stories/Story_u3b4c.xml",
+          "passed": true
+        },
+        {
+          "source_id": "B03",
+          "story": "Stories/Story_u42e5.xml",
+          "passed": true
+        },
+        {
+          "source_id": "A05",
+          "story": "Stories/Story_u4a50.xml",
+          "passed": true
+        },
+        {
+          "source_id": "B07",
+          "story": "Stories/Story_u51ff.xml",
+          "passed": true
+        },
+        {
+          "source_id": "A06",
+          "story": "Stories/Story_u5998.xml",
+          "passed": true
+        },
+        {
+          "source_id": "A07",
+          "story": "Stories/Story_u5dbc.xml",
+          "passed": true
+        },
+        {
+          "source_id": "A08",
+          "story": "Stories/Story_u5f75.xml",
+          "passed": true
+        },
+        {
+          "source_id": "A09",
+          "story": "Stories/Story_u612e.xml",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "check": "Exactly12 authorized font families and no fakebold/distortion",
+      "passed": true,
+      "evidence": {
+        "font_keys": [
+          "YES24",
+          "bawpic",
+          "blackhan",
+          "brush",
+          "gugi",
+          "gungseo",
+          "jua",
+          "kirang",
+          "pixel",
+          "sans",
+          "serif",
+          "singleday"
+        ],
+        "unknown": [],
+        "distorted": []
+      }
+    },
+    {
+      "check": "No removed face/emoticon texts return",
+      "passed": true,
+      "evidence": []
+    },
+    {
+      "check": "Coverfolios absent, contents01 throughbody26 correct",
+      "passed": true,
+      "evidence": [
+        {
+          "physical_page": 1,
+          "values": [],
+          "passed": true
+        },
+        {
+          "physical_page": 2,
+          "values": [
+            "01"
+          ],
+          "passed": true
+        },
+        {
+          "physical_page": 3,
+          "values": [
+            "02"
+          ],
+          "passed": true
+        },
+        {
+          "physical_page": 4,
+          "values": [
+            "03"
+          ],
+          "passed": true
+        },
+        {
+          "physical_page": 5,
+          "values": [
+            "04"
+          ],
+          "passed": true
+        },
+        {
+          "physical_page": 6,
+          "values": [
+            "05"
+          ],
+          "passed": true
+        },
+        {
+          "physical_page": 7,
+          "values": [
+            "06"
+          ],
+          "passed": true
+        },
+        {
+          "physical_page": 8,
+          "values": [
+            "07"
+          ],
+          "passed": true
+        },
+        {
+          "physical_page": 9,
+          "values": [
+            "08"
+          ],
+          "passed": true
+        },
+        {
+          "physical_page": 10,
+          "values": [
+            "09"
+          ],
+          "passed": true
+        },
+        {
+          "physical_page": 11,
+          "values": [
+            "10"
+          ],
+          "passed": true
+        },
+        {
+          "physical_page": 12,
+          "values": [
+            "11"
+          ],
+          "passed": true
+        },
+        {
+          "physical_page": 13,
+          "values": [
+            "12"
+          ],
+          "passed": true
+        },
+        {
+          "physical_page": 14,
+          "values": [
+            "13"
+          ],
+          "passed": true
+        },
+        {
+          "physical_page": 15,
+          "values": [
+            "14"
+          ],
+          "passed": true
+        },
+        {
+          "physical_page": 16,
+          "values": [
+            "15"
+          ],
+          "passed": true
+        },
+        {
+          "physical_page": 17,
+          "values": [
+            "16"
+          ],
+          "passed": true
+        },
+        {
+          "physical_page": 18,
+          "values": [
+            "17"
+          ],
+          "passed": true
+        },
+        {
+          "physical_page": 19,
+          "values": [
+            "18"
+          ],
+          "passed": true
+        },
+        {
+          "physical_page": 20,
+          "values": [
+            "19"
+          ],
+          "passed": true
+        },
+        {
+          "physical_page": 21,
+          "values": [
+            "20"
+          ],
+          "passed": true
+        },
+        {
+          "physical_page": 22,
+          "values": [
+            "21"
+          ],
+          "passed": true
+        },
+        {
+          "physical_page": 23,
+          "values": [
+            "22"
+          ],
+          "passed": true
+        },
+        {
+          "physical_page": 24,
+          "values": [
+            "23"
+          ],
+          "passed": true
+        },
+        {
+          "physical_page": 25,
+          "values": [
+            "24"
+          ],
+          "passed": true
+        },
+        {
+          "physical_page": 26,
+          "values": [
+            "25"
+          ],
+          "passed": true
+        },
+        {
+          "physical_page": 27,
+          "values": [
+            "26"
+          ],
+          "passed": true
+        },
+        {
+          "physical_page": 28,
+          "values": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "check": "No cover footer attribution or folio",
+      "passed": true,
+      "evidence": []
+    },
+    {
+      "check": "All text frames stay in36pt horizontal content margins",
+      "passed": true,
+      "evidence": []
+    },
+    {
+      "check": "No overlapping live text frames (blueframelevel)",
+      "passed": true,
+      "evidence": []
+    },
+    {
+      "check": "All12 live atlas specimens share64pt and baseline182pt",
+      "passed": true,
+      "evidence": [
+        {
+          "physical_page": 4,
+          "matches": 1,
+          "items": [
+            {
+              "id": "b2Item04_005",
+              "text": "진심입니다",
+              "font": "blackhan",
+              "size": 64,
+              "kind": "text"
+            }
+          ],
+          "baseline_pt": 182.0
+        },
+        {
+          "physical_page": 5,
+          "matches": 1,
+          "items": [
+            {
+              "id": "b2Item05_005",
+              "text": "진심입니다",
+              "font": "sans",
+              "size": 64,
+              "kind": "text"
+            }
+          ],
+          "baseline_pt": 182.0
+        },
+        {
+          "physical_page": 6,
+          "matches": 1,
+          "items": [
+            {
+              "id": "b2Item06_005",
+              "text": "진심입니다",
+              "font": "serif",
+              "size": 64,
+              "kind": "text"
+            }
+          ],
+          "baseline_pt": 182.0
+        },
+        {
+          "physical_page": 7,
+          "matches": 1,
+          "items": [
+            {
+              "id": "b2Item07_005",
+              "text": "진심입니다",
+              "font": "gungseo",
+              "size": 64,
+              "kind": "text"
+            }
+          ],
+          "baseline_pt": 182.0
+        },
+        {
+          "physical_page": 8,
+          "matches": 1,
+          "items": [
+            {
+              "id": "b2Item08_005",
+              "text": "진심입니다",
+              "font": "gugi",
+              "size": 64,
+              "kind": "text"
+            }
+          ],
+          "baseline_pt": 182.0
+        },
+        {
+          "physical_page": 9,
+          "matches": 1,
+          "items": [
+            {
+              "id": "b2Item09_005",
+              "text": "진심입니다",
+              "font": "pixel",
+              "size": 64,
+              "kind": "text"
+            }
+          ],
+          "baseline_pt": 182.0
+        },
+        {
+          "physical_page": 10,
+          "matches": 1,
+          "items": [
+            {
+              "id": "b2Item10_005",
+              "text": "진심입니다",
+              "font": "jua",
+              "size": 64,
+              "kind": "text"
+            }
+          ],
+          "baseline_pt": 182.0
+        },
+        {
+          "physical_page": 11,
+          "matches": 1,
+          "items": [
+            {
+              "id": "b2Item11_005",
+              "text": "진심입니다",
+              "font": "singleday",
+              "size": 64,
+              "kind": "text"
+            }
+          ],
+          "baseline_pt": 182.0
+        },
+        {
+          "physical_page": 12,
+          "matches": 1,
+          "items": [
+            {
+              "id": "b2Item12_005",
+              "text": "진심입니다",
+              "font": "kirang",
+              "size": 64,
+              "kind": "text"
+            }
+          ],
+          "baseline_pt": 182.0
+        },
+        {
+          "physical_page": 13,
+          "matches": 1,
+          "items": [
+            {
+              "id": "b2Item13_005",
+              "text": "진심입니다",
+              "font": "bawpic",
+              "size": 64,
+              "kind": "text"
+            }
+          ],
+          "baseline_pt": 182.0
+        },
+        {
+          "physical_page": 14,
+          "matches": 1,
+          "items": [
+            {
+              "id": "b2Item14_005",
+              "text": "진심입니다",
+              "font": "brush",
+              "size": 64,
+              "kind": "text"
+            }
+          ],
+          "baseline_pt": 182.0
+        },
+        {
+          "physical_page": 15,
+          "matches": 1,
+          "items": [
+            {
+              "id": "b2Item15_005",
+              "text": "진심입니다",
+              "font": "YES24",
+              "size": 64,
+              "kind": "text"
+            }
+          ],
+          "baseline_pt": 182.0
+        }
+      ]
+    },
+    {
+      "check": "Uses폰트 terminology instead of서체",
+      "passed": true,
+      "evidence": []
+    },
+    {
+      "check": "Fullmeme archive and15 approvedapplicationrecords copiedbyteexact",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "Overviewhasall12fontswithsamephrase32pt",
+      "passed": true,
+      "evidence": [
+        {
+          "page": 16,
+          "font": "blackhan",
+          "size": 32,
+          "source_text": "진심입니다",
+          "x": 36.0,
+          "y": 142
+        },
+        {
+          "page": 16,
+          "font": "sans",
+          "size": 32,
+          "source_text": "진심입니다",
+          "x": 36.0,
+          "y": 211
+        },
+        {
+          "page": 16,
+          "font": "serif",
+          "size": 32,
+          "source_text": "진심입니다",
+          "x": 36.0,
+          "y": 280
+        },
+        {
+          "page": 16,
+          "font": "gungseo",
+          "size": 32,
+          "source_text": "진심입니다",
+          "x": 36.0,
+          "y": 349
+        },
+        {
+          "page": 16,
+          "font": "gugi",
+          "size": 32,
+          "source_text": "진심입니다",
+          "x": 36.0,
+          "y": 418
+        },
+        {
+          "page": 16,
+          "font": "pixel",
+          "size": 32,
+          "source_text": "진심입니다",
+          "x": 36.0,
+          "y": 487
+        },
+        {
+          "page": 17,
+          "font": "jua",
+          "size": 32,
+          "source_text": "진심입니다",
+          "x": 36.0,
+          "y": 142
+        },
+        {
+          "page": 17,
+          "font": "singleday",
+          "size": 32,
+          "source_text": "진심입니다",
+          "x": 36.0,
+          "y": 211
+        },
+        {
+          "page": 17,
+          "font": "kirang",
+          "size": 32,
+          "source_text": "진심입니다",
+          "x": 36.0,
+          "y": 280
+        },
+        {
+          "page": 17,
+          "font": "bawpic",
+          "size": 32,
+          "source_text": "진심입니다",
+          "x": 36.0,
+          "y": 349
+        },
+        {
+          "page": 17,
+          "font": "brush",
+          "size": 32,
+          "source_text": "진심입니다",
+          "x": 36.0,
+          "y": 418
+        },
+        {
+          "page": 17,
+          "font": "YES24",
+          "size": 32,
+          "source_text": "진심입니다",
+          "x": 36.0,
+          "y": 487
+        }
+      ]
+    },
+    {
+      "check": "Overviewenlargesonlythesame심fromsamephraseat96pt",
+      "passed": true,
+      "evidence": [
+        {
+          "page": 18,
+          "font": "blackhan",
+          "size": 96,
+          "source_text": "심",
+          "x": 0,
+          "y": 0
+        },
+        {
+          "page": 18,
+          "font": "sans",
+          "size": 96,
+          "source_text": "심",
+          "x": 0,
+          "y": 0
+        },
+        {
+          "page": 18,
+          "font": "serif",
+          "size": 96,
+          "source_text": "심",
+          "x": 0,
+          "y": 0
+        },
+        {
+          "page": 18,
+          "font": "gungseo",
+          "size": 96,
+          "source_text": "심",
+          "x": 0,
+          "y": 0
+        },
+        {
+          "page": 18,
+          "font": "gugi",
+          "size": 96,
+          "source_text": "심",
+          "x": 0,
+          "y": 0
+        },
+        {
+          "page": 18,
+          "font": "pixel",
+          "size": 96,
+          "source_text": "심",
+          "x": 0,
+          "y": 0
+        },
+        {
+          "page": 19,
+          "font": "jua",
+          "size": 96,
+          "source_text": "심",
+          "x": 0,
+          "y": 0
+        },
+        {
+          "page": 19,
+          "font": "singleday",
+          "size": 96,
+          "source_text": "심",
+          "x": 0,
+          "y": 0
+        },
+        {
+          "page": 19,
+          "font": "kirang",
+          "size": 96,
+          "source_text": "심",
+          "x": 0,
+          "y": 0
+        },
+        {
+          "page": 19,
+          "font": "bawpic",
+          "size": 96,
+          "source_text": "심",
+          "x": 0,
+          "y": 0
+        },
+        {
+          "page": 19,
+          "font": "brush",
+          "size": 96,
+          "source_text": "심",
+          "x": 0,
+          "y": 0
+        },
+        {
+          "page": 19,
+          "font": "YES24",
+          "size": 96,
+          "source_text": "심",
+          "x": 0,
+          "y": 0
+        }
+      ]
+    },
+    {
+      "check": "Every liveframe usesleftalignment,naturaltracking,andfinitegeometry",
+      "passed": true,
+      "evidence": []
+    },
+    {
+      "check": "Eachatlaspagecomparesidentical심128ptorigins48and228baseline425withSansreference",
+      "passed": true,
+      "evidence": [
+        {
+          "physical_page": 4,
+          "reference_count": 1,
+          "selected_count": 1,
+          "selected_font": "blackhan",
+          "passed": true
+        },
+        {
+          "physical_page": 5,
+          "reference_count": 1,
+          "selected_count": 1,
+          "selected_font": "sans",
+          "passed": true
+        },
+        {
+          "physical_page": 6,
+          "reference_count": 1,
+          "selected_count": 1,
+          "selected_font": "serif",
+          "passed": true
+        },
+        {
+          "physical_page": 7,
+          "reference_count": 1,
+          "selected_count": 1,
+          "selected_font": "gungseo",
+          "passed": true
+        },
+        {
+          "physical_page": 8,
+          "reference_count": 1,
+          "selected_count": 1,
+          "selected_font": "gugi",
+          "passed": true
+        },
+        {
+          "physical_page": 9,
+          "reference_count": 1,
+          "selected_count": 1,
+          "selected_font": "pixel",
+          "passed": true
+        },
+        {
+          "physical_page": 10,
+          "reference_count": 1,
+          "selected_count": 1,
+          "selected_font": "jua",
+          "passed": true
+        },
+        {
+          "physical_page": 11,
+          "reference_count": 1,
+          "selected_count": 1,
+          "selected_font": "singleday",
+          "passed": true
+        },
+        {
+          "physical_page": 12,
+          "reference_count": 1,
+          "selected_count": 1,
+          "selected_font": "kirang",
+          "passed": true
+        },
+        {
+          "physical_page": 13,
+          "reference_count": 1,
+          "selected_count": 1,
+          "selected_font": "bawpic",
+          "passed": true
+        },
+        {
+          "physical_page": 14,
+          "reference_count": 1,
+          "selected_count": 1,
+          "selected_font": "brush",
+          "passed": true
+        },
+        {
+          "physical_page": 15,
+          "reference_count": 1,
+          "selected_count": 1,
+          "selected_font": "YES24",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "check": "All24detailcontoursareactualfontgeometryat128ptwithnoscaling",
+      "passed": true,
+      "evidence": [
+        {
+          "page": 4,
+          "role": "detail_reference",
+          "font": "sans",
+          "actual_source_contours_exact": true
+        },
+        {
+          "page": 4,
+          "role": "detail_selected",
+          "font": "blackhan",
+          "actual_source_contours_exact": true
+        },
+        {
+          "page": 5,
+          "role": "detail_reference",
+          "font": "sans",
+          "actual_source_contours_exact": true
+        },
+        {
+          "page": 5,
+          "role": "detail_selected",
+          "font": "sans",
+          "actual_source_contours_exact": true
+        },
+        {
+          "page": 6,
+          "role": "detail_reference",
+          "font": "sans",
+          "actual_source_contours_exact": true
+        },
+        {
+          "page": 6,
+          "role": "detail_selected",
+          "font": "serif",
+          "actual_source_contours_exact": true
+        },
+        {
+          "page": 7,
+          "role": "detail_reference",
+          "font": "sans",
+          "actual_source_contours_exact": true
+        },
+        {
+          "page": 7,
+          "role": "detail_selected",
+          "font": "gungseo",
+          "actual_source_contours_exact": true
+        },
+        {
+          "page": 8,
+          "role": "detail_reference",
+          "font": "sans",
+          "actual_source_contours_exact": true
+        },
+        {
+          "page": 8,
+          "role": "detail_selected",
+          "font": "gugi",
+          "actual_source_contours_exact": true
+        },
+        {
+          "page": 9,
+          "role": "detail_reference",
+          "font": "sans",
+          "actual_source_contours_exact": true
+        },
+        {
+          "page": 9,
+          "role": "detail_selected",
+          "font": "pixel",
+          "actual_source_contours_exact": true
+        },
+        {
+          "page": 10,
+          "role": "detail_reference",
+          "font": "sans",
+          "actual_source_contours_exact": true
+        },
+        {
+          "page": 10,
+          "role": "detail_selected",
+          "font": "jua",
+          "actual_source_contours_exact": true
+        },
+        {
+          "page": 11,
+          "role": "detail_reference",
+          "font": "sans",
+          "actual_source_contours_exact": true
+        },
+        {
+          "page": 11,
+          "role": "detail_selected",
+          "font": "singleday",
+          "actual_source_contours_exact": true
+        },
+        {
+          "page": 12,
+          "role": "detail_reference",
+          "font": "sans",
+          "actual_source_contours_exact": true
+        },
+        {
+          "page": 12,
+          "role": "detail_selected",
+          "font": "kirang",
+          "actual_source_contours_exact": true
+        },
+        {
+          "page": 13,
+          "role": "detail_reference",
+          "font": "sans",
+          "actual_source_contours_exact": true
+        },
+        {
+          "page": 13,
+          "role": "detail_selected",
+          "font": "bawpic",
+          "actual_source_contours_exact": true
+        },
+        {
+          "page": 14,
+          "role": "detail_reference",
+          "font": "sans",
+          "actual_source_contours_exact": true
+        },
+        {
+          "page": 14,
+          "role": "detail_selected",
+          "font": "brush",
+          "actual_source_contours_exact": true
+        },
+        {
+          "page": 15,
+          "role": "detail_reference",
+          "font": "sans",
+          "actual_source_contours_exact": true
+        },
+        {
+          "page": 15,
+          "role": "detail_selected",
+          "font": "YES24",
+          "actual_source_contours_exact": true
+        }
+      ]
+    },
+    {
+      "check": "Everypinkcounterplaneusesexactactualglyphcontours",
+      "passed": true,
+      "evidence": [
+        {
+          "page": 4,
+          "font": "sans",
+          "indexes": [
+            2
+          ],
+          "actual_contours_exact": true
+        },
+        {
+          "page": 4,
+          "font": "blackhan",
+          "indexes": [
+            3
+          ],
+          "actual_contours_exact": true
+        },
+        {
+          "page": 5,
+          "font": "sans",
+          "indexes": [
+            2
+          ],
+          "actual_contours_exact": true
+        },
+        {
+          "page": 5,
+          "font": "sans",
+          "indexes": [
+            2
+          ],
+          "actual_contours_exact": true
+        },
+        {
+          "page": 6,
+          "font": "sans",
+          "indexes": [
+            2
+          ],
+          "actual_contours_exact": true
+        },
+        {
+          "page": 6,
+          "font": "serif",
+          "indexes": [
+            2
+          ],
+          "actual_contours_exact": true
+        },
+        {
+          "page": 7,
+          "font": "sans",
+          "indexes": [
+            2
+          ],
+          "actual_contours_exact": true
+        },
+        {
+          "page": 8,
+          "font": "sans",
+          "indexes": [
+            2
+          ],
+          "actual_contours_exact": true
+        },
+        {
+          "page": 8,
+          "font": "gugi",
+          "indexes": [
+            2
+          ],
+          "actual_contours_exact": true
+        },
+        {
+          "page": 9,
+          "font": "sans",
+          "indexes": [
+            2
+          ],
+          "actual_contours_exact": true
+        },
+        {
+          "page": 9,
+          "font": "pixel",
+          "indexes": [
+            3
+          ],
+          "actual_contours_exact": true
+        },
+        {
+          "page": 10,
+          "font": "sans",
+          "indexes": [
+            2
+          ],
+          "actual_contours_exact": true
+        },
+        {
+          "page": 10,
+          "font": "jua",
+          "indexes": [
+            2
+          ],
+          "actual_contours_exact": true
+        },
+        {
+          "page": 11,
+          "font": "sans",
+          "indexes": [
+            2
+          ],
+          "actual_contours_exact": true
+        },
+        {
+          "page": 11,
+          "font": "singleday",
+          "indexes": [
+            2
+          ],
+          "actual_contours_exact": true
+        },
+        {
+          "page": 12,
+          "font": "sans",
+          "indexes": [
+            2
+          ],
+          "actual_contours_exact": true
+        },
+        {
+          "page": 12,
+          "font": "kirang",
+          "indexes": [
+            1
+          ],
+          "actual_contours_exact": true
+        },
+        {
+          "page": 13,
+          "font": "sans",
+          "indexes": [
+            2
+          ],
+          "actual_contours_exact": true
+        },
+        {
+          "page": 13,
+          "font": "bawpic",
+          "indexes": [
+            6
+          ],
+          "actual_contours_exact": true
+        },
+        {
+          "page": 14,
+          "font": "sans",
+          "indexes": [
+            2
+          ],
+          "actual_contours_exact": true
+        },
+        {
+          "page": 15,
+          "font": "sans",
+          "indexes": [
+            2
+          ],
+          "actual_contours_exact": true
+        },
+        {
+          "page": 15,
+          "font": "YES24",
+          "indexes": [
+            2
+          ],
+          "actual_contours_exact": true
+        }
+      ]
+    },
+    {
+      "check": "Every live text line actualBezierink fitsitsframe",
+      "passed": true,
+      "evidence": []
+    },
+    {
+      "check": "Scene file unchanged during audit",
+      "passed": true,
+      "evidence": null
+    }
+  ],
+  "failures": [],
+  "native_Adobe_execution": false
+}

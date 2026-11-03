@@ -1,0 +1,2146 @@
+{
+  "status": "scenes_built",
+  "atlas": {
+    "status": "built",
+    "font_count": 12,
+    "physical_pages": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15
+    ],
+    "common_live_specimen": "진심입니다",
+    "common_live_size_pt": 64,
+    "common_live_baseline_pt": 182,
+    "common_detail_character": "심",
+    "common_detail_size_pt": 128,
+    "common_detail_baseline_pt": 425,
+    "main_visual_methods": [
+      "same_word_advance_and_same_glyph_128pt_contours_counters_ink_bounds"
+    ],
+    "same_reference_font_every_page": "sans",
+    "common_reference_x": 48,
+    "common_selected_x": 228,
+    "page_records": [
+      {
+        "physical_page": 4,
+        "printed_folio": 3,
+        "font_key": "blackhan",
+        "font_name": "블랙 한 산스",
+        "specimen": "진심입니다",
+        "specimen_size_pt": 64,
+        "specimen_baseline_pt": 182,
+        "specimen_advance_pt": 263.296,
+        "specimen_frame_pt": [
+          36.0,
+          110,
+          347.5276,
+          90
+        ],
+        "specimen_ink_bounds_pt": [
+          38.56,
+          133.232,
+          299.296,
+          182.0
+        ],
+        "reference_specimen_advance_pt": 294.40000000000003,
+        "width_bar_scale": 1.0,
+        "actual_feature_character": "심",
+        "method": "same_word_advance_and_same_glyph_128pt_contours_counters_ink_bounds",
+        "reference_detail": {
+          "source_text": "심",
+          "font": "sans",
+          "point_size": 128,
+          "x_origin_pt": 48,
+          "baseline_pt": 425,
+          "ink_bounds_relative_to_baseline_pt": [
+            7.296,
+            -105.728,
+            101.248,
+            8.448000000000008
+          ],
+          "ink_width_pt": 93.952,
+          "inner_counter_contours": [
+            2
+          ],
+          "counter_containment_depths": [
+            0,
+            0,
+            1,
+            0
+          ],
+          "common_camera_window_pt": [
+            48,
+            297,
+            128,
+            160
+          ],
+          "no_glyph_fit": true
+        },
+        "selected_detail": {
+          "source_text": "심",
+          "font": "blackhan",
+          "point_size": 128,
+          "x_origin_pt": 228,
+          "baseline_pt": 425,
+          "ink_bounds_relative_to_baseline_pt": [
+            5.12,
+            -97.28,
+            97.28,
+            7.105427357601002e-15
+          ],
+          "ink_width_pt": 92.16,
+          "inner_counter_contours": [
+            3
+          ],
+          "counter_containment_depths": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "common_camera_window_pt": [
+            228,
+            297,
+            128,
+            160
+          ],
+          "no_glyph_fit": true
+        },
+        "shape_statement": "같은 ‘심’인데 획이 굵고 ㅁ 안의 분홍 틈은 좁다.\n검은 면이 커져 글자가 한 덩어리로 다가온다.",
+        "personal_impression": "내겐 작은 진심도 큰소리로 외치는 말이다.",
+        "same_conditions_as_every_other_atlas_page": true,
+        "all_contours_actual_font_data": true
+      },
+      {
+        "physical_page": 5,
+        "printed_folio": 4,
+        "font_key": "sans",
+        "font_name": "Noto Sans CJK KR",
+        "specimen": "진심입니다",
+        "specimen_size_pt": 64,
+        "specimen_baseline_pt": 182,
+        "specimen_advance_pt": 294.40000000000003,
+        "specimen_frame_pt": [
+          36.0,
+          110,
+          347.5276,
+          90
+        ],
+        "specimen_ink_bounds_pt": [
+          39.968,
+          129.072,
+          328.672,
+          187.056
+        ],
+        "reference_specimen_advance_pt": 294.40000000000003,
+        "width_bar_scale": 1.0,
+        "actual_feature_character": "심",
+        "method": "same_word_advance_and_same_glyph_128pt_contours_counters_ink_bounds",
+        "reference_detail": {
+          "source_text": "심",
+          "font": "sans",
+          "point_size": 128,
+          "x_origin_pt": 48,
+          "baseline_pt": 425,
+          "ink_bounds_relative_to_baseline_pt": [
+            7.296,
+            -105.728,
+            101.248,
+            8.448000000000008
+          ],
+          "ink_width_pt": 93.952,
+          "inner_counter_contours": [
+            2
+          ],
+          "counter_containment_depths": [
+            0,
+            0,
+            1,
+            0
+          ],
+          "common_camera_window_pt": [
+            48,
+            297,
+            128,
+            160
+          ],
+          "no_glyph_fit": true
+        },
+        "selected_detail": {
+          "source_text": "심",
+          "font": "sans",
+          "point_size": 128,
+          "x_origin_pt": 228,
+          "baseline_pt": 425,
+          "ink_bounds_relative_to_baseline_pt": [
+            7.296,
+            -105.728,
+            101.248,
+            8.448000000000008
+          ],
+          "ink_width_pt": 93.952,
+          "inner_counter_contours": [
+            2
+          ],
+          "counter_containment_depths": [
+            0,
+            0,
+            1,
+            0
+          ],
+          "common_camera_window_pt": [
+            228,
+            297,
+            128,
+            160
+          ],
+          "no_glyph_fit": true
+        },
+        "shape_statement": "기준과 같은 폰트이므로 두 ‘심’의 윤곽이 같다.\n고른 획과 열린 빈틈을 다른 폰트의 출발점으로 읽는다.",
+        "personal_impression": "내겐 감정을 보태기 전, 차분히 전하는 말이다.",
+        "same_conditions_as_every_other_atlas_page": true,
+        "all_contours_actual_font_data": true
+      },
+      {
+        "physical_page": 6,
+        "printed_folio": 5,
+        "font_key": "serif",
+        "font_name": "Noto Serif CJK KR",
+        "specimen": "진심입니다",
+        "specimen_size_pt": 64,
+        "specimen_baseline_pt": 182,
+        "specimen_advance_pt": 309.12,
+        "specimen_frame_pt": [
+          36.0,
+          110,
+          347.5276,
+          90
+        ],
+        "specimen_ink_bounds_pt": [
+          40.82315140862532,
+          127.408,
+          344.74300393438216,
+          188.912
+        ],
+        "reference_specimen_advance_pt": 294.40000000000003,
+        "width_bar_scale": 1.0,
+        "actual_feature_character": "심",
+        "method": "same_word_advance_and_same_glyph_128pt_contours_counters_ink_bounds",
+        "reference_detail": {
+          "source_text": "심",
+          "font": "sans",
+          "point_size": 128,
+          "x_origin_pt": 48,
+          "baseline_pt": 425,
+          "ink_bounds_relative_to_baseline_pt": [
+            7.296,
+            -105.728,
+            101.248,
+            8.448000000000008
+          ],
+          "ink_width_pt": 93.952,
+          "inner_counter_contours": [
+            2
+          ],
+          "counter_containment_depths": [
+            0,
+            0,
+            1,
+            0
+          ],
+          "common_camera_window_pt": [
+            48,
+            297,
+            128,
+            160
+          ],
+          "no_glyph_fit": true
+        },
+        "selected_detail": {
+          "source_text": "심",
+          "font": "serif",
+          "point_size": 128,
+          "x_origin_pt": 228,
+          "baseline_pt": 425,
+          "ink_bounds_relative_to_baseline_pt": [
+            8.02384531212995,
+            -109.184,
+            104.58118634942774,
+            13.184
+          ],
+          "ink_width_pt": 96.55734103729779,
+          "inner_counter_contours": [
+            2
+          ],
+          "counter_containment_depths": [
+            0,
+            0,
+            1,
+            0
+          ],
+          "common_camera_window_pt": [
+            228,
+            297,
+            128,
+            160
+          ],
+          "no_glyph_fit": true
+        },
+        "shape_statement": "세로획과 가로획의 굵기가 다르고 끝이 돌출된다.\n같은 크기에서도 아래로 길게 뻗는 획이 보인다.",
+        "personal_impression": "내겐 가볍게 던져도 정색하고 고백하는 말이다.",
+        "same_conditions_as_every_other_atlas_page": true,
+        "all_contours_actual_font_data": true
+      },
+      {
+        "physical_page": 7,
+        "printed_folio": 6,
+        "font_key": "gungseo",
+        "font_name": "은궁서",
+        "specimen": "진심입니다",
+        "specimen_size_pt": 64,
+        "specimen_baseline_pt": 182,
+        "specimen_advance_pt": 320.0,
+        "specimen_frame_pt": [
+          36.0,
+          110,
+          347.5276,
+          90
+        ],
+        "specimen_ink_bounds_pt": [
+          42.592,
+          134.768,
+          349.664,
+          188.848
+        ],
+        "reference_specimen_advance_pt": 294.40000000000003,
+        "width_bar_scale": 1.0,
+        "actual_feature_character": "심",
+        "method": "same_word_advance_and_same_glyph_128pt_contours_counters_ink_bounds",
+        "reference_detail": {
+          "source_text": "심",
+          "font": "sans",
+          "point_size": 128,
+          "x_origin_pt": 48,
+          "baseline_pt": 425,
+          "ink_bounds_relative_to_baseline_pt": [
+            7.296,
+            -105.728,
+            101.248,
+            8.448000000000008
+          ],
+          "ink_width_pt": 93.952,
+          "inner_counter_contours": [
+            2
+          ],
+          "counter_containment_depths": [
+            0,
+            0,
+            1,
+            0
+          ],
+          "common_camera_window_pt": [
+            48,
+            297,
+            128,
+            160
+          ],
+          "no_glyph_fit": true
+        },
+        "selected_detail": {
+          "source_text": "심",
+          "font": "gungseo",
+          "point_size": 128,
+          "x_origin_pt": 228,
+          "baseline_pt": 425,
+          "ink_bounds_relative_to_baseline_pt": [
+            12.032,
+            -94.464,
+            98.468186679106,
+            13.44
+          ],
+          "ink_width_pt": 86.436186679106,
+          "inner_counter_contours": [],
+          "counter_containment_depths": [
+            0,
+            0,
+            0
+          ],
+          "common_camera_window_pt": [
+            228,
+            297,
+            128,
+            160
+          ],
+          "no_glyph_fit": true
+        },
+        "shape_statement": "같은 ㅁ에서도 획의 시작과 끝이 가늘어졌다 굵어진다.\n반듯한 기준의 획보다 방향과 압력이 강하게 보인다.",
+        "personal_impression": "내겐 사소한 진심도 비장한 맹세처럼 들린다.",
+        "same_conditions_as_every_other_atlas_page": true,
+        "all_contours_actual_font_data": true
+      },
+      {
+        "physical_page": 8,
+        "printed_folio": 7,
+        "font_key": "gugi",
+        "font_name": "구기",
+        "specimen": "진심입니다",
+        "specimen_size_pt": 64,
+        "specimen_baseline_pt": 182,
+        "specimen_advance_pt": 304.38399999999996,
+        "specimen_frame_pt": [
+          36.0,
+          110,
+          347.5276,
+          90
+        ],
+        "specimen_ink_bounds_pt": [
+          37.45351019476568,
+          129.2,
+          339.168,
+          185.904
+        ],
+        "reference_specimen_advance_pt": 294.40000000000003,
+        "width_bar_scale": 1.0,
+        "actual_feature_character": "심",
+        "method": "same_word_advance_and_same_glyph_128pt_contours_counters_ink_bounds",
+        "reference_detail": {
+          "source_text": "심",
+          "font": "sans",
+          "point_size": 128,
+          "x_origin_pt": 48,
+          "baseline_pt": 425,
+          "ink_bounds_relative_to_baseline_pt": [
+            7.296,
+            -105.728,
+            101.248,
+            8.448000000000008
+          ],
+          "ink_width_pt": 93.952,
+          "inner_counter_contours": [
+            2
+          ],
+          "counter_containment_depths": [
+            0,
+            0,
+            1,
+            0
+          ],
+          "common_camera_window_pt": [
+            48,
+            297,
+            128,
+            160
+          ],
+          "no_glyph_fit": true
+        },
+        "selected_detail": {
+          "source_text": "심",
+          "font": "gugi",
+          "point_size": 128,
+          "x_origin_pt": 228,
+          "baseline_pt": 425,
+          "ink_bounds_relative_to_baseline_pt": [
+            1.976984910799545,
+            -105.472,
+            115.712,
+            7.552
+          ],
+          "ink_width_pt": 113.73501508920046,
+          "inner_counter_contours": [
+            2
+          ],
+          "counter_containment_depths": [
+            0,
+            0,
+            1,
+            0
+          ],
+          "common_camera_window_pt": [
+            228,
+            297,
+            128,
+            160
+          ],
+          "no_glyph_fit": true
+        },
+        "shape_statement": "‘심’의 ㅅ이 넓게 벌어지고 획 끝이 둥글다.\nㅁ의 폭도 커져 기준보다 가로로 널찍하게 보인다.",
+        "personal_impression": "내겐 힘을 주어 또박또박 전하는 알림 같다.",
+        "same_conditions_as_every_other_atlas_page": true,
+        "all_contours_actual_font_data": true
+      },
+      {
+        "physical_page": 9,
+        "printed_folio": 8,
+        "font_key": "pixel",
+        "font_name": "둥근모꼴",
+        "specimen": "진심입니다",
+        "specimen_size_pt": 64,
+        "specimen_baseline_pt": 182,
+        "specimen_advance_pt": 320.0,
+        "specimen_frame_pt": [
+          36.0,
+          110,
+          347.5276,
+          90
+        ],
+        "specimen_ink_bounds_pt": [
+          40.0,
+          134.0,
+          356.0,
+          186.0
+        ],
+        "reference_specimen_advance_pt": 294.40000000000003,
+        "width_bar_scale": 1.0,
+        "actual_feature_character": "심",
+        "method": "same_word_advance_and_same_glyph_128pt_contours_counters_ink_bounds",
+        "reference_detail": {
+          "source_text": "심",
+          "font": "sans",
+          "point_size": 128,
+          "x_origin_pt": 48,
+          "baseline_pt": 425,
+          "ink_bounds_relative_to_baseline_pt": [
+            7.296,
+            -105.728,
+            101.248,
+            8.448000000000008
+          ],
+          "ink_width_pt": 93.952,
+          "inner_counter_contours": [
+            2
+          ],
+          "counter_containment_depths": [
+            0,
+            0,
+            1,
+            0
+          ],
+          "common_camera_window_pt": [
+            48,
+            297,
+            128,
+            160
+          ],
+          "no_glyph_fit": true
+        },
+        "selected_detail": {
+          "source_text": "심",
+          "font": "pixel",
+          "point_size": 128,
+          "x_origin_pt": 228,
+          "baseline_pt": 425,
+          "ink_bounds_relative_to_baseline_pt": [
+            8.0,
+            -96.0,
+            112.0,
+            8.0
+          ],
+          "ink_width_pt": 104.0,
+          "inner_counter_contours": [
+            3
+          ],
+          "counter_containment_depths": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "common_camera_window_pt": [
+            228,
+            297,
+            128,
+            160
+          ],
+          "no_glyph_fit": true
+        },
+        "shape_statement": "곡선을 계단 모양으로 꺾어 ㅅ과 ㅁ을 만든다.\n분홍 빈틈의 경계까지 같은 크기의 각으로 움직인다.",
+        "personal_impression": "내겐 진심을 전달하는 옛 게임의 대사창 같다.",
+        "same_conditions_as_every_other_atlas_page": true,
+        "all_contours_actual_font_data": true
+      },
+      {
+        "physical_page": 10,
+        "printed_folio": 9,
+        "font_key": "jua",
+        "font_name": "주아",
+        "specimen": "진심입니다",
+        "specimen_size_pt": 64,
+        "specimen_baseline_pt": 182,
+        "specimen_advance_pt": 256.32,
+        "specimen_frame_pt": [
+          36.0,
+          110,
+          347.5276,
+          90
+        ],
+        "specimen_ink_bounds_pt": [
+          37.28,
+          132.11920026533295,
+          292.32,
+          184.432
+        ],
+        "reference_specimen_advance_pt": 294.40000000000003,
+        "width_bar_scale": 1.0,
+        "actual_feature_character": "심",
+        "method": "same_word_advance_and_same_glyph_128pt_contours_counters_ink_bounds",
+        "reference_detail": {
+          "source_text": "심",
+          "font": "sans",
+          "point_size": 128,
+          "x_origin_pt": 48,
+          "baseline_pt": 425,
+          "ink_bounds_relative_to_baseline_pt": [
+            7.296,
+            -105.728,
+            101.248,
+            8.448000000000008
+          ],
+          "ink_width_pt": 93.952,
+          "inner_counter_contours": [
+            2
+          ],
+          "counter_containment_depths": [
+            0,
+            0,
+            1,
+            0
+          ],
+          "common_camera_window_pt": [
+            48,
+            297,
+            128,
+            160
+          ],
+          "no_glyph_fit": true
+        },
+        "selected_detail": {
+          "source_text": "심",
+          "font": "jua",
+          "point_size": 128,
+          "x_origin_pt": 228,
+          "baseline_pt": 425,
+          "ink_bounds_relative_to_baseline_pt": [
+            2.486752173517491,
+            -98.816,
+            92.75740755133243,
+            3.712
+          ],
+          "ink_width_pt": 90.27065537781495,
+          "inner_counter_contours": [
+            2
+          ],
+          "counter_containment_depths": [
+            0,
+            0,
+            1,
+            0
+          ],
+          "common_camera_window_pt": [
+            228,
+            297,
+            128,
+            160
+          ],
+          "no_glyph_fit": true
+        },
+        "shape_statement": "같은 ㅁ의 모서리와 획 끝이 둥글다.\n통통한 검은 면이 각진 기준보다 부드럽게 이어진다.",
+        "personal_impression": "내겐 어깨를 툭 치며 웃는 친구의 진심이다.",
+        "same_conditions_as_every_other_atlas_page": true,
+        "all_contours_actual_font_data": true
+      },
+      {
+        "physical_page": 11,
+        "printed_folio": 10,
+        "font_key": "singleday",
+        "font_name": "싱글데이",
+        "specimen": "진심입니다",
+        "specimen_size_pt": 64,
+        "specimen_baseline_pt": 182,
+        "specimen_advance_pt": 257.5,
+        "specimen_frame_pt": [
+          36.0,
+          110,
+          347.5276,
+          90
+        ],
+        "specimen_ink_bounds_pt": [
+          40.75,
+          137.375,
+          292.812,
+          193.5
+        ],
+        "reference_specimen_advance_pt": 294.40000000000003,
+        "width_bar_scale": 1.0,
+        "actual_feature_character": "심",
+        "method": "same_word_advance_and_same_glyph_128pt_contours_counters_ink_bounds",
+        "reference_detail": {
+          "source_text": "심",
+          "font": "sans",
+          "point_size": 128,
+          "x_origin_pt": 48,
+          "baseline_pt": 425,
+          "ink_bounds_relative_to_baseline_pt": [
+            7.296,
+            -105.728,
+            101.248,
+            8.448000000000008
+          ],
+          "ink_width_pt": 93.952,
+          "inner_counter_contours": [
+            2
+          ],
+          "counter_containment_depths": [
+            0,
+            0,
+            1,
+            0
+          ],
+          "common_camera_window_pt": [
+            48,
+            297,
+            128,
+            160
+          ],
+          "no_glyph_fit": true
+        },
+        "selected_detail": {
+          "source_text": "심",
+          "font": "singleday",
+          "point_size": 128,
+          "x_origin_pt": 228,
+          "baseline_pt": 425,
+          "ink_bounds_relative_to_baseline_pt": [
+            8.25,
+            -89.25,
+            88.875,
+            20.875
+          ],
+          "ink_width_pt": 80.625,
+          "inner_counter_contours": [
+            2
+          ],
+          "counter_containment_depths": [
+            0,
+            0,
+            1,
+            0
+          ],
+          "common_camera_window_pt": [
+            228,
+            297,
+            128,
+            160
+          ],
+          "no_glyph_fit": true
+        },
+        "shape_statement": "ㅅ의 획이 둥글게 휘고 ㅁ의 아래획이 기울어진다.\n기준선 아래로 내려오는 모양도 반듯한 기준과 다르다.",
+        "personal_impression": "내겐 정리된 고백보다 손으로 쓴 다정한 편지다.",
+        "same_conditions_as_every_other_atlas_page": true,
+        "all_contours_actual_font_data": true
+      },
+      {
+        "physical_page": 12,
+        "printed_folio": 11,
+        "font_key": "kirang",
+        "font_name": "기랑해랑",
+        "specimen": "진심입니다",
+        "specimen_size_pt": 64,
+        "specimen_baseline_pt": 182,
+        "specimen_advance_pt": 211.84,
+        "specimen_frame_pt": [
+          36.0,
+          110,
+          347.5276,
+          90
+        ],
+        "specimen_ink_bounds_pt": [
+          39.91113834448488,
+          131.248,
+          244.896,
+          186.26224056603772
+        ],
+        "reference_specimen_advance_pt": 294.40000000000003,
+        "width_bar_scale": 1.0,
+        "actual_feature_character": "심",
+        "method": "same_word_advance_and_same_glyph_128pt_contours_counters_ink_bounds",
+        "reference_detail": {
+          "source_text": "심",
+          "font": "sans",
+          "point_size": 128,
+          "x_origin_pt": 48,
+          "baseline_pt": 425,
+          "ink_bounds_relative_to_baseline_pt": [
+            7.296,
+            -105.728,
+            101.248,
+            8.448000000000008
+          ],
+          "ink_width_pt": 93.952,
+          "inner_counter_contours": [
+            2
+          ],
+          "counter_containment_depths": [
+            0,
+            0,
+            1,
+            0
+          ],
+          "common_camera_window_pt": [
+            48,
+            297,
+            128,
+            160
+          ],
+          "no_glyph_fit": true
+        },
+        "selected_detail": {
+          "source_text": "심",
+          "font": "kirang",
+          "point_size": 128,
+          "x_origin_pt": 228,
+          "baseline_pt": 425,
+          "ink_bounds_relative_to_baseline_pt": [
+            15.104,
+            -100.82140755133243,
+            78.848,
+            7.936
+          ],
+          "ink_width_pt": 63.744,
+          "inner_counter_contours": [
+            1
+          ],
+          "counter_containment_depths": [
+            0,
+            1,
+            0,
+            0
+          ],
+          "common_camera_window_pt": [
+            228,
+            297,
+            128,
+            160
+          ],
+          "no_glyph_fit": true
+        },
+        "shape_statement": "동일한 128pt인데 검은 ‘심’의 몸집이 작고 좁다.\n획의 기울기와 두께가 고르지 않아 윤곽이 흔들린다.",
+        "personal_impression": "내겐 진지한 문장도 팻말을 흔드는 장난 같다.",
+        "same_conditions_as_every_other_atlas_page": true,
+        "all_contours_actual_font_data": true
+      },
+      {
+        "physical_page": 13,
+        "printed_folio": 12,
+        "font_key": "bawpic",
+        "font_name": "흑백사진",
+        "specimen": "진심입니다",
+        "specimen_size_pt": 64,
+        "specimen_baseline_pt": 182,
+        "specimen_advance_pt": 258.56,
+        "specimen_frame_pt": [
+          36.0,
+          110,
+          347.5276,
+          90
+        ],
+        "specimen_ink_bounds_pt": [
+          36.64,
+          134.32,
+          293.92,
+          192.432
+        ],
+        "reference_specimen_advance_pt": 294.40000000000003,
+        "width_bar_scale": 1.0,
+        "actual_feature_character": "심",
+        "method": "same_word_advance_and_same_glyph_128pt_contours_counters_ink_bounds",
+        "reference_detail": {
+          "source_text": "심",
+          "font": "sans",
+          "point_size": 128,
+          "x_origin_pt": 48,
+          "baseline_pt": 425,
+          "ink_bounds_relative_to_baseline_pt": [
+            7.296,
+            -105.728,
+            101.248,
+            8.448000000000008
+          ],
+          "ink_width_pt": 93.952,
+          "inner_counter_contours": [
+            2
+          ],
+          "counter_containment_depths": [
+            0,
+            0,
+            1,
+            0
+          ],
+          "common_camera_window_pt": [
+            48,
+            297,
+            128,
+            160
+          ],
+          "no_glyph_fit": true
+        },
+        "selected_detail": {
+          "source_text": "심",
+          "font": "bawpic",
+          "point_size": 128,
+          "x_origin_pt": 228,
+          "baseline_pt": 425,
+          "ink_bounds_relative_to_baseline_pt": [
+            1.28,
+            -95.36,
+            93.696,
+            14.464
+          ],
+          "ink_width_pt": 92.416,
+          "inner_counter_contours": [
+            6
+          ],
+          "counter_containment_depths": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            2
+          ],
+          "common_camera_window_pt": [
+            228,
+            297,
+            128,
+            160
+          ],
+          "no_glyph_fit": true
+        },
+        "shape_statement": "획의 가장자리에 패임과 떨어진 작은 조각이 보인다.\n반듯한 기준과 달리 검은 면의 경계가 거칠다.",
+        "personal_impression": "내겐 꾹 눌러 말하다 목소리가 갈라진 진심이다.",
+        "same_conditions_as_every_other_atlas_page": true,
+        "all_contours_actual_font_data": true
+      },
+      {
+        "physical_page": 14,
+        "printed_folio": 13,
+        "font_key": "brush",
+        "font_name": "나눔손글씨 붓",
+        "specimen": "진심입니다",
+        "specimen_size_pt": 64,
+        "specimen_baseline_pt": 182,
+        "specimen_advance_pt": 187.52,
+        "specimen_frame_pt": [
+          36.0,
+          110,
+          347.5276,
+          90
+        ],
+        "specimen_ink_bounds_pt": [
+          37.14296199440399,
+          143.216,
+          222.816,
+          198.08401666666666
+        ],
+        "reference_specimen_advance_pt": 294.40000000000003,
+        "width_bar_scale": 1.0,
+        "actual_feature_character": "심",
+        "method": "same_word_advance_and_same_glyph_128pt_contours_counters_ink_bounds",
+        "reference_detail": {
+          "source_text": "심",
+          "font": "sans",
+          "point_size": 128,
+          "x_origin_pt": 48,
+          "baseline_pt": 425,
+          "ink_bounds_relative_to_baseline_pt": [
+            7.296,
+            -105.728,
+            101.248,
+            8.448000000000008
+          ],
+          "ink_width_pt": 93.952,
+          "inner_counter_contours": [
+            2
+          ],
+          "counter_containment_depths": [
+            0,
+            0,
+            1,
+            0
+          ],
+          "common_camera_window_pt": [
+            48,
+            297,
+            128,
+            160
+          ],
+          "no_glyph_fit": true
+        },
+        "selected_detail": {
+          "source_text": "심",
+          "font": "brush",
+          "point_size": 128,
+          "x_origin_pt": 228,
+          "baseline_pt": 425,
+          "ink_bounds_relative_to_baseline_pt": [
+            4.224,
+            -68.864,
+            78.09839072281463,
+            23.936
+          ],
+          "ink_width_pt": 73.87439072281462,
+          "inner_counter_contours": [],
+          "counter_containment_depths": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "common_camera_window_pt": [
+            228,
+            297,
+            128,
+            160
+          ],
+          "no_glyph_fit": true
+        },
+        "shape_statement": "같은 128pt인데 검은 ‘심’의 몸집이 작다.\nㅁ은 틈이 열려 있고, 가늘어지는 획이 손의 속도를 남긴다.",
+        "personal_impression": "내겐 급히 적어 건넨, 조금 망설이는 진심이다.",
+        "same_conditions_as_every_other_atlas_page": true,
+        "all_contours_actual_font_data": true
+      },
+      {
+        "physical_page": 15,
+        "printed_folio": 14,
+        "font_key": "YES24",
+        "font_name": "예스체 YES24",
+        "specimen": "진심입니다",
+        "specimen_size_pt": 64,
+        "specimen_baseline_pt": 182,
+        "specimen_advance_pt": 291.2,
+        "specimen_frame_pt": [
+          36.0,
+          110,
+          347.5276,
+          90
+        ],
+        "specimen_ink_bounds_pt": [
+          38.368,
+          129.52,
+          326.752,
+          186.736
+        ],
+        "reference_specimen_advance_pt": 294.40000000000003,
+        "width_bar_scale": 1.0,
+        "actual_feature_character": "심",
+        "method": "same_word_advance_and_same_glyph_128pt_contours_counters_ink_bounds",
+        "reference_detail": {
+          "source_text": "심",
+          "font": "sans",
+          "point_size": 128,
+          "x_origin_pt": 48,
+          "baseline_pt": 425,
+          "ink_bounds_relative_to_baseline_pt": [
+            7.296,
+            -105.728,
+            101.248,
+            8.448000000000008
+          ],
+          "ink_width_pt": 93.952,
+          "inner_counter_contours": [
+            2
+          ],
+          "counter_containment_depths": [
+            0,
+            0,
+            1,
+            0
+          ],
+          "common_camera_window_pt": [
+            48,
+            297,
+            128,
+            160
+          ],
+          "no_glyph_fit": true
+        },
+        "selected_detail": {
+          "source_text": "심",
+          "font": "YES24",
+          "point_size": 128,
+          "x_origin_pt": 228,
+          "baseline_pt": 425,
+          "ink_bounds_relative_to_baseline_pt": [
+            4.558654504674639,
+            -104.96,
+            102.784,
+            8.832
+          ],
+          "ink_width_pt": 98.22534549532537,
+          "inner_counter_contours": [
+            2
+          ],
+          "counter_containment_depths": [
+            0,
+            0,
+            1,
+            0
+          ],
+          "common_camera_window_pt": [
+            228,
+            297,
+            128,
+            160
+          ],
+          "no_glyph_fit": true
+        },
+        "shape_statement": "ㅅ의 맞물림과 ㅁ 오른쪽 아래가 각지게 꺾인다.\n곧은 획과 잘린 모서리가 검은 면을 단단하게 묶는다.",
+        "personal_impression": "내겐 짧은 고백도 확신을 담은 선언처럼 들린다.",
+        "same_conditions_as_every_other_atlas_page": true,
+        "all_contours_actual_font_data": true
+      }
+    ],
+    "no_meme_examples_in_atlas": true,
+    "native_Adobe_execution": false,
+    "previous_editions_unchanged": true
+  },
+  "experiments": {
+    "status": "built",
+    "physical_pages": [
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "common_phrase": "진심입니다",
+    "common_source_syllable": "심",
+    "font_order": [
+      "blackhan",
+      "sans",
+      "serif",
+      "gungseo",
+      "gugi",
+      "pixel",
+      "jua",
+      "singleday",
+      "kirang",
+      "bawpic",
+      "brush",
+      "YES24"
+    ],
+    "font_count": 12,
+    "page_records": [
+      {
+        "physical_page": 16,
+        "group": "wholeword",
+        "word": "진심입니다",
+        "common_size_pt": 32,
+        "common_frame_x_pt": 36.0,
+        "baseline_from_row_top_pt": 56,
+        "row_tops_pt": [
+          122,
+          191,
+          260,
+          329,
+          398,
+          467
+        ],
+        "methods": [
+          "actual_advance_box",
+          "actual_ink_bounds",
+          "common_baseline"
+        ],
+        "specimens": [
+          {
+            "text": "진심입니다",
+            "font": "blackhan",
+            "size_pt": 32,
+            "origin_x_pt": 36.0,
+            "baseline_pt": 178,
+            "frame_top_pt": 142,
+            "baseline_offset_pt": 36,
+            "advance_pt": 131.648,
+            "ink_bounds_pt": [
+              37.28,
+              153.616,
+              167.648,
+              178.0
+            ]
+          },
+          {
+            "text": "진심입니다",
+            "font": "sans",
+            "size_pt": 32,
+            "origin_x_pt": 36.0,
+            "baseline_pt": 247,
+            "frame_top_pt": 211,
+            "baseline_offset_pt": 36,
+            "advance_pt": 147.20000000000002,
+            "ink_bounds_pt": [
+              37.984,
+              220.536,
+              182.336,
+              249.528
+            ]
+          },
+          {
+            "text": "진심입니다",
+            "font": "serif",
+            "size_pt": 32,
+            "origin_x_pt": 36.0,
+            "baseline_pt": 316,
+            "frame_top_pt": 280,
+            "baseline_offset_pt": 36,
+            "advance_pt": 154.56,
+            "ink_bounds_pt": [
+              38.41157570431266,
+              288.704,
+              190.37150196719108,
+              319.456
+            ]
+          },
+          {
+            "text": "진심입니다",
+            "font": "gungseo",
+            "size_pt": 32,
+            "origin_x_pt": 36.0,
+            "baseline_pt": 385,
+            "frame_top_pt": 349,
+            "baseline_offset_pt": 36,
+            "advance_pt": 160.0,
+            "ink_bounds_pt": [
+              39.296,
+              361.384,
+              192.832,
+              388.424
+            ]
+          },
+          {
+            "text": "진심입니다",
+            "font": "gugi",
+            "size_pt": 32,
+            "origin_x_pt": 36.0,
+            "baseline_pt": 454,
+            "frame_top_pt": 418,
+            "baseline_offset_pt": 36,
+            "advance_pt": 152.19199999999998,
+            "ink_bounds_pt": [
+              36.72706120584653,
+              427.6,
+              187.584,
+              455.952
+            ]
+          },
+          {
+            "text": "진심입니다",
+            "font": "pixel",
+            "size_pt": 32,
+            "origin_x_pt": 36.0,
+            "baseline_pt": 523,
+            "frame_top_pt": 487,
+            "baseline_offset_pt": 36,
+            "advance_pt": 160.0,
+            "ink_bounds_pt": [
+              38.0,
+              499.0,
+              196.0,
+              525.0
+            ]
+          }
+        ]
+      },
+      {
+        "physical_page": 17,
+        "group": "wholeword",
+        "word": "진심입니다",
+        "common_size_pt": 32,
+        "common_frame_x_pt": 36.0,
+        "baseline_from_row_top_pt": 56,
+        "row_tops_pt": [
+          122,
+          191,
+          260,
+          329,
+          398,
+          467
+        ],
+        "methods": [
+          "actual_advance_box",
+          "actual_ink_bounds",
+          "common_baseline"
+        ],
+        "specimens": [
+          {
+            "text": "진심입니다",
+            "font": "jua",
+            "size_pt": 32,
+            "origin_x_pt": 36.0,
+            "baseline_pt": 178,
+            "frame_top_pt": 142,
+            "baseline_offset_pt": 36,
+            "advance_pt": 128.16,
+            "ink_bounds_pt": [
+              36.64,
+              153.0594663743498,
+              164.16,
+              179.216
+            ]
+          },
+          {
+            "text": "진심입니다",
+            "font": "singleday",
+            "size_pt": 32,
+            "origin_x_pt": 36.0,
+            "baseline_pt": 247,
+            "frame_top_pt": 211,
+            "baseline_offset_pt": 36,
+            "advance_pt": 128.75,
+            "ink_bounds_pt": [
+              38.375,
+              224.688,
+              164.406,
+              252.75
+            ]
+          },
+          {
+            "text": "진심입니다",
+            "font": "kirang",
+            "size_pt": 32,
+            "origin_x_pt": 36.0,
+            "baseline_pt": 316,
+            "frame_top_pt": 280,
+            "baseline_offset_pt": 36,
+            "advance_pt": 105.92,
+            "ink_bounds_pt": [
+              37.95552771917914,
+              290.624,
+              140.448,
+              318.1313611111111
+            ]
+          },
+          {
+            "text": "진심입니다",
+            "font": "bawpic",
+            "size_pt": 32,
+            "origin_x_pt": 36.0,
+            "baseline_pt": 385,
+            "frame_top_pt": 349,
+            "baseline_offset_pt": 36,
+            "advance_pt": 129.28,
+            "ink_bounds_pt": [
+              36.32,
+              361.16,
+              164.96,
+              390.216
+            ]
+          },
+          {
+            "text": "진심입니다",
+            "font": "brush",
+            "size_pt": 32,
+            "origin_x_pt": 36.0,
+            "baseline_pt": 454,
+            "frame_top_pt": 418,
+            "baseline_offset_pt": 36,
+            "advance_pt": 93.76,
+            "ink_bounds_pt": [
+              36.5713234065189,
+              434.608,
+              129.408,
+              462.04229926108377
+            ]
+          },
+          {
+            "text": "진심입니다",
+            "font": "YES24",
+            "size_pt": 32,
+            "origin_x_pt": 36.0,
+            "baseline_pt": 523,
+            "frame_top_pt": 487,
+            "baseline_offset_pt": 36,
+            "advance_pt": 145.6,
+            "ink_bounds_pt": [
+              37.184,
+              496.76,
+              181.376,
+              525.368
+            ]
+          }
+        ]
+      },
+      {
+        "physical_page": 18,
+        "group": "same_syllable",
+        "word": "진심입니다",
+        "detail": "심",
+        "source_character_index": 1,
+        "common_size_pt": 96,
+        "common_origin_from_cell_pt": [
+          28,
+          110
+        ],
+        "common_em_window": [
+          0,
+          -1,
+          1,
+          0.25
+        ],
+        "common_grid_step_em": 0.25,
+        "methods": [
+          "same_em_grid",
+          "actual_ink_bounds",
+          "common_baseline"
+        ],
+        "specimens": [
+          {
+            "text": "심",
+            "source_phrase": "진심입니다",
+            "source_character_index": 1,
+            "font": "blackhan",
+            "size_pt": 96,
+            "cell_origin_pt": [
+              36.0,
+              122
+            ],
+            "origin_x_pt": 64.0,
+            "baseline_pt": 232,
+            "glyph_origin_from_cell_pt": [
+              28,
+              110
+            ],
+            "ink_bounds_pt": [
+              67.84,
+              159.04,
+              136.96,
+              232.0
+            ],
+            "em_window": [
+              0,
+              -1,
+              1,
+              0.25
+            ],
+            "advance_pt": 78.72
+          },
+          {
+            "text": "심",
+            "source_phrase": "진심입니다",
+            "source_character_index": 1,
+            "font": "sans",
+            "size_pt": 96,
+            "cell_origin_pt": [
+              221.0,
+              122
+            ],
+            "origin_x_pt": 249.0,
+            "baseline_pt": 232,
+            "glyph_origin_from_cell_pt": [
+              28,
+              110
+            ],
+            "ink_bounds_pt": [
+              254.472,
+              152.704,
+              324.936,
+              238.336
+            ],
+            "em_window": [
+              0,
+              -1,
+              1,
+              0.25
+            ],
+            "advance_pt": 88.32
+          },
+          {
+            "text": "심",
+            "source_phrase": "진심입니다",
+            "source_character_index": 1,
+            "font": "serif",
+            "size_pt": 96,
+            "cell_origin_pt": [
+              36.0,
+              261
+            ],
+            "origin_x_pt": 64.0,
+            "baseline_pt": 371,
+            "glyph_origin_from_cell_pt": [
+              28,
+              110
+            ],
+            "ink_bounds_pt": [
+              70.01788398409747,
+              289.112,
+              142.43588976207081,
+              380.888
+            ],
+            "em_window": [
+              0,
+              -1,
+              1,
+              0.25
+            ],
+            "advance_pt": 92.736
+          },
+          {
+            "text": "심",
+            "source_phrase": "진심입니다",
+            "source_character_index": 1,
+            "font": "gungseo",
+            "size_pt": 96,
+            "cell_origin_pt": [
+              221.0,
+              261
+            ],
+            "origin_x_pt": 249.0,
+            "baseline_pt": 371,
+            "glyph_origin_from_cell_pt": [
+              28,
+              110
+            ],
+            "ink_bounds_pt": [
+              258.024,
+              300.152,
+              322.85118584070796,
+              381.08
+            ],
+            "em_window": [
+              0,
+              -1,
+              1,
+              0.25
+            ],
+            "advance_pt": 96.0
+          },
+          {
+            "text": "심",
+            "source_phrase": "진심입니다",
+            "source_character_index": 1,
+            "font": "gugi",
+            "size_pt": 96,
+            "cell_origin_pt": [
+              36.0,
+              400
+            ],
+            "origin_x_pt": 64.0,
+            "baseline_pt": 510,
+            "glyph_origin_from_cell_pt": [
+              28,
+              110
+            ],
+            "ink_bounds_pt": [
+              65.48266666666666,
+              430.896,
+              150.784,
+              515.664
+            ],
+            "em_window": [
+              0,
+              -1,
+              1,
+              0.25
+            ],
+            "advance_pt": 91.296
+          },
+          {
+            "text": "심",
+            "source_phrase": "진심입니다",
+            "source_character_index": 1,
+            "font": "pixel",
+            "size_pt": 96,
+            "cell_origin_pt": [
+              221.0,
+              400
+            ],
+            "origin_x_pt": 249.0,
+            "baseline_pt": 510,
+            "glyph_origin_from_cell_pt": [
+              28,
+              110
+            ],
+            "ink_bounds_pt": [
+              255.0,
+              438.0,
+              333.0,
+              516.0
+            ],
+            "em_window": [
+              0,
+              -1,
+              1,
+              0.25
+            ],
+            "advance_pt": 96.0
+          }
+        ]
+      },
+      {
+        "physical_page": 19,
+        "group": "same_syllable",
+        "word": "진심입니다",
+        "detail": "심",
+        "source_character_index": 1,
+        "common_size_pt": 96,
+        "common_origin_from_cell_pt": [
+          28,
+          110
+        ],
+        "common_em_window": [
+          0,
+          -1,
+          1,
+          0.25
+        ],
+        "common_grid_step_em": 0.25,
+        "methods": [
+          "same_em_grid",
+          "actual_ink_bounds",
+          "common_baseline"
+        ],
+        "specimens": [
+          {
+            "text": "심",
+            "source_phrase": "진심입니다",
+            "source_character_index": 1,
+            "font": "jua",
+            "size_pt": 96,
+            "cell_origin_pt": [
+              36.0,
+              122
+            ],
+            "origin_x_pt": 64.0,
+            "baseline_pt": 232,
+            "glyph_origin_from_cell_pt": [
+              28,
+              110
+            ],
+            "ink_bounds_pt": [
+              65.86514285714286,
+              157.888,
+              133.568,
+              234.784
+            ],
+            "em_window": [
+              0,
+              -1,
+              1,
+              0.25
+            ],
+            "advance_pt": 73.344
+          },
+          {
+            "text": "심",
+            "source_phrase": "진심입니다",
+            "source_character_index": 1,
+            "font": "singleday",
+            "size_pt": 96,
+            "cell_origin_pt": [
+              221.0,
+              122
+            ],
+            "origin_x_pt": 249.0,
+            "baseline_pt": 232,
+            "glyph_origin_from_cell_pt": [
+              28,
+              110
+            ],
+            "ink_bounds_pt": [
+              255.188,
+              165.062,
+              315.656,
+              247.656
+            ],
+            "em_window": [
+              0,
+              -1,
+              1,
+              0.25
+            ],
+            "advance_pt": 77.25
+          },
+          {
+            "text": "심",
+            "source_phrase": "진심입니다",
+            "source_character_index": 1,
+            "font": "kirang",
+            "size_pt": 96,
+            "cell_origin_pt": [
+              36.0,
+              261
+            ],
+            "origin_x_pt": 64.0,
+            "baseline_pt": 371,
+            "glyph_origin_from_cell_pt": [
+              28,
+              110
+            ],
+            "ink_bounds_pt": [
+              75.328,
+              295.384,
+              123.136,
+              376.952
+            ],
+            "em_window": [
+              0,
+              -1,
+              1,
+              0.25
+            ],
+            "advance_pt": 62.4
+          },
+          {
+            "text": "심",
+            "source_phrase": "진심입니다",
+            "source_character_index": 1,
+            "font": "bawpic",
+            "size_pt": 96,
+            "cell_origin_pt": [
+              221.0,
+              261
+            ],
+            "origin_x_pt": 249.0,
+            "baseline_pt": 371,
+            "glyph_origin_from_cell_pt": [
+              28,
+              110
+            ],
+            "ink_bounds_pt": [
+              249.96,
+              299.48,
+              319.272,
+              381.848
+            ],
+            "em_window": [
+              0,
+              -1,
+              1,
+              0.25
+            ],
+            "advance_pt": 76.992
+          },
+          {
+            "text": "심",
+            "source_phrase": "진심입니다",
+            "source_character_index": 1,
+            "font": "brush",
+            "size_pt": 96,
+            "cell_origin_pt": [
+              36.0,
+              400
+            ],
+            "origin_x_pt": 64.0,
+            "baseline_pt": 510,
+            "glyph_origin_from_cell_pt": [
+              28,
+              110
+            ],
+            "ink_bounds_pt": [
+              67.168,
+              458.352,
+              122.57371428571429,
+              527.952
+            ],
+            "em_window": [
+              0,
+              -1,
+              1,
+              0.25
+            ],
+            "advance_pt": 56.64
+          },
+          {
+            "text": "심",
+            "source_phrase": "진심입니다",
+            "source_character_index": 1,
+            "font": "YES24",
+            "size_pt": 96,
+            "cell_origin_pt": [
+              221.0,
+              400
+            ],
+            "origin_x_pt": 249.0,
+            "baseline_pt": 510,
+            "glyph_origin_from_cell_pt": [
+              28,
+              110
+            ],
+            "ink_bounds_pt": [
+              252.41907692307691,
+              431.28,
+              326.088,
+              516.624
+            ],
+            "em_window": [
+              0,
+              -1,
+              1,
+              0.25
+            ],
+            "advance_pt": 87.36
+          }
+        ]
+      },
+      {
+        "physical_page": 20,
+        "group": "observation_to_impression",
+        "word": "진심입니다",
+        "common_size_pt": 20,
+        "comparison_method": "same_ink_bounds_and_baseline",
+        "specimen_count": 6,
+        "specimens": [
+          {
+            "text": "진심입니다",
+            "font": "blackhan",
+            "size_pt": 20,
+            "origin_x_pt": 36.0,
+            "baseline_pt": 189,
+            "frame_top_pt": 165,
+            "baseline_offset_pt": 24,
+            "advance_pt": 82.28,
+            "ink_bounds_pt": [
+              36.8,
+              173.76,
+              118.28,
+              189.0
+            ]
+          },
+          {
+            "text": "진심입니다",
+            "font": "sans",
+            "size_pt": 20,
+            "origin_x_pt": 221,
+            "baseline_pt": 189,
+            "frame_top_pt": 165,
+            "baseline_offset_pt": 24,
+            "advance_pt": 92.0,
+            "ink_bounds_pt": [
+              222.24,
+              172.46,
+              312.46,
+              190.58
+            ]
+          },
+          {
+            "text": "진심입니다",
+            "font": "serif",
+            "size_pt": 20,
+            "origin_x_pt": 36.0,
+            "baseline_pt": 319,
+            "frame_top_pt": 295,
+            "baseline_offset_pt": 24,
+            "advance_pt": 96.6,
+            "ink_bounds_pt": [
+              37.50723481519541,
+              301.94,
+              132.48218872949442,
+              321.16
+            ]
+          },
+          {
+            "text": "진심입니다",
+            "font": "gungseo",
+            "size_pt": 20,
+            "origin_x_pt": 221,
+            "baseline_pt": 319,
+            "frame_top_pt": 295,
+            "baseline_offset_pt": 24,
+            "advance_pt": 100.0,
+            "ink_bounds_pt": [
+              223.06,
+              304.24,
+              319.02,
+              321.14
+            ]
+          },
+          {
+            "text": "진심입니다",
+            "font": "singleday",
+            "size_pt": 20,
+            "origin_x_pt": 36.0,
+            "baseline_pt": 449,
+            "frame_top_pt": 425,
+            "baseline_offset_pt": 24,
+            "advance_pt": 80.46875,
+            "ink_bounds_pt": [
+              37.484,
+              435.055,
+              116.254,
+              452.594
+            ]
+          },
+          {
+            "text": "진심입니다",
+            "font": "brush",
+            "size_pt": 20,
+            "origin_x_pt": 221,
+            "baseline_pt": 449,
+            "frame_top_pt": 425,
+            "baseline_offset_pt": 24,
+            "advance_pt": 58.60000000000001,
+            "ink_bounds_pt": [
+              221.35703756756348,
+              436.88,
+              279.38,
+              454.0265098425197
+            ]
+          }
+        ],
+        "subjective_impressions_explicit": true,
+        "pairs": [
+          {
+            "fonts": [
+              "blackhan",
+              "sans"
+            ],
+            "observation": "좁은 속공간과 두꺼운 획 / 고른 획과 넓은 빈틈",
+            "personal_impression": "내겐 큰 외침 / 차분한 안내로 들린다."
+          },
+          {
+            "fonts": [
+              "serif",
+              "gungseo"
+            ],
+            "observation": "끝이 돌출된 곧은 획 / 눌렀다 가늘어지는 붓획",
+            "personal_impression": "내겐 격식을 갖춘 진술 / 힘을 준 다짐으로 들린다."
+          },
+          {
+            "fonts": [
+              "singleday",
+              "brush"
+            ],
+            "observation": "둥글고 부드러운 획 / 작은 몸집과 가늘어지는 획",
+            "personal_impression": "내겐 다정한 편지 / 급히 적은 사적인 쪽지로 들린다."
+          }
+        ]
+      }
+    ],
+    "no_arbitrary_test_words": true,
+    "no_per_font_fit": true,
+    "no_added_tracking": true,
+    "no_subjective_score_map": true,
+    "version_A_and_B_preserved": true
+  },
+  "applications": [
+    {
+      "case_id": "E01",
+      "physical_page": 22,
+      "printed_page": 21,
+      "quote": "가보자고",
+      "prompt": "친구: 미친 시험 내일임ㅋ; 벼락치기 간다",
+      "font": "blackhan",
+      "neutral_font": "sans",
+      "same_point_size": 30,
+      "same_color": "ink",
+      "full_source_and_approved_usage_archived": true,
+      "context_omitted_not_rewritten": true
+    },
+    {
+      "case_id": "E12",
+      "physical_page": 22,
+      "printed_page": 21,
+      "quote": "난 오늘만 산다",
+      "prompt": "친구: 내일 할 과제도 있는데 오늘 놀아도 돼?",
+      "font": "gungseo",
+      "neutral_font": "sans",
+      "same_point_size": 30,
+      "same_color": "ink",
+      "full_source_and_approved_usage_archived": true,
+      "context_omitted_not_rewritten": true
+    },
+    {
+      "case_id": "E11",
+      "physical_page": 23,
+      "printed_page": 22,
+      "quote": "무조건☞출.근.가.능!☜",
+      "prompt": "친구: 내일 월요일이네.",
+      "font": "pixel",
+      "neutral_font": "sans",
+      "same_point_size": 24,
+      "same_color": "ink",
+      "full_source_and_approved_usage_archived": true,
+      "context_omitted_not_rewritten": true
+    },
+    {
+      "case_id": "E05",
+      "physical_page": 23,
+      "printed_page": 22,
+      "quote": "내가 모를수도",
+      "prompt": "친구: 제 가수는 왜 빼세요?",
+      "font": "gugi",
+      "neutral_font": "sans",
+      "same_point_size": 24,
+      "same_color": "ink",
+      "full_source_and_approved_usage_archived": true,
+      "context_omitted_not_rewritten": true
+    },
+    {
+      "case_id": "E08",
+      "physical_page": 23,
+      "printed_page": 22,
+      "quote": "모루게쒀여",
+      "prompt": "친구: 새로 산 거 보여줄게. 근데 사이즈가 좀…",
+      "font": "brush",
+      "neutral_font": "sans",
+      "same_point_size": 24,
+      "same_color": "ink",
+      "full_source_and_approved_usage_archived": true,
+      "context_omitted_not_rewritten": true
+    },
+    {
+      "case_id": "E02",
+      "physical_page": 24,
+      "printed_page": 23,
+      "quote": "사랑사랑 친구가 말했지",
+      "prompt": "친구: 네 커피도 사 왔어.",
+      "font": "singleday",
+      "neutral_font": "sans",
+      "same_point_size": 24,
+      "same_color": "ink",
+      "full_source_and_approved_usage_archived": true,
+      "context_omitted_not_rewritten": true
+    },
+    {
+      "case_id": "E10",
+      "physical_page": 24,
+      "printed_page": 23,
+      "quote": "난... 눈물ㅇ ㅣ ....좋다.....",
+      "prompt": "친구: 오늘 수고했어. 푹 쉬어.",
+      "font": "brush",
+      "neutral_font": "sans",
+      "same_point_size": 24,
+      "same_color": "ink",
+      "full_source_and_approved_usage_archived": true,
+      "context_omitted_not_rewritten": true
+    },
+    {
+      "case_id": "E06",
+      "physical_page": 24,
+      "printed_page": 23,
+      "quote": "당신의뮤즈가되겠습니다",
+      "prompt": "친구: 나랑 사귈래?",
+      "font": "brush",
+      "neutral_font": "sans",
+      "same_point_size": 24,
+      "same_color": "ink",
+      "full_source_and_approved_usage_archived": true,
+      "context_omitted_not_rewritten": true
+    },
+    {
+      "case_id": "E03",
+      "physical_page": 25,
+      "printed_page": 24,
+      "quote": "코리안탑클래스 굿나잇",
+      "prompt": "친구: 나 이제 자러감",
+      "font": "jua",
+      "neutral_font": "sans",
+      "same_point_size": 24,
+      "same_color": "ink",
+      "full_source_and_approved_usage_archived": true,
+      "context_omitted_not_rewritten": true
+    },
+    {
+      "case_id": "E04",
+      "physical_page": 25,
+      "printed_page": 24,
+      "quote": "남의 기쁨을 진심으로 축하해주지 못하고,",
+      "prompt": "친구: ㅁㅊ 야 이번에 티켓팅 성공함 너는?",
+      "font": "gungseo",
+      "neutral_font": "sans",
+      "same_point_size": 19.0,
+      "same_color": "ink",
+      "full_source_and_approved_usage_archived": true,
+      "context_omitted_not_rewritten": true
+    },
+    {
+      "case_id": "E07",
+      "physical_page": 25,
+      "printed_page": 24,
+      "quote": "선배 고단수드앙~",
+      "prompt": "친구: 사진은 그냥 골라 본 건데 배경이 좀 잘 나왔지?",
+      "font": "kirang",
+      "neutral_font": "sans",
+      "same_point_size": 24,
+      "same_color": "ink",
+      "full_source_and_approved_usage_archived": true,
+      "context_omitted_not_rewritten": true
+    },
+    {
+      "case_id": "E09",
+      "physical_page": 26,
+      "printed_page": 25,
+      "quote": "ㅇㅈ? ㅇㅇㅈ~~~~~",
+      "prompt": "친구: 여기 떡볶이 맛있다.",
+      "font": "bawpic",
+      "neutral_font": "sans",
+      "same_point_size": 30,
+      "same_color": "ink",
+      "full_source_and_approved_usage_archived": true,
+      "context_omitted_not_rewritten": true
+    },
+    {
+      "case_id": "E13",
+      "physical_page": 26,
+      "printed_page": 25,
+      "quote": "야르",
+      "prompt": "이 음식 완전 야르하다",
+      "font": "jua",
+      "neutral_font": "sans",
+      "same_point_size": 30,
+      "same_color": "ink",
+      "full_source_and_approved_usage_archived": true,
+      "context_omitted_not_rewritten": true
+    },
+    {
+      "case_id": "E14",
+      "physical_page": 27,
+      "printed_page": 26,
+      "quote": "밤티",
+      "prompt": "이 디자인 완전 밤티인데",
+      "font": "bawpic",
+      "neutral_font": "sans",
+      "same_point_size": 30,
+      "same_color": "ink",
+      "full_source_and_approved_usage_archived": true,
+      "context_omitted_not_rewritten": true
+    },
+    {
+      "case_id": "E15",
+      "physical_page": 27,
+      "printed_page": 26,
+      "quote": "이태민 이태민 이태민",
+      "prompt": "아 이거 꼭 당첨되어야 해 이태민 이태민 이태민",
+      "font": "singleday",
+      "neutral_font": "sans",
+      "same_point_size": 30,
+      "same_color": "ink",
+      "full_source_and_approved_usage_archived": true,
+      "context_omitted_not_rewritten": true
+    }
+  ],
+  "physical_application_pages": [
+    22,
+    23,
+    24,
+    25,
+    26,
+    27
+  ],
+  "application_cases": 15,
+  "fonts": 12,
+  "same_size_and_color_within_each_application_pair": true,
+  "versions_A_and_B_preserved": true,
+  "source_archive": "/workspace/version_b2_20261103/editorial/meme_archive_current_A.json",
+  "controlled_word": "진심입니다",
+  "controlled_detail": "심"
+}

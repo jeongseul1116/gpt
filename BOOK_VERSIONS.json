@@ -1,5 +1,5 @@
 {
-  "active_new_work": "B",
+  "active_new_work": "B2",
   "A": {
     "status": "preserved",
     "folder": "submission-alignment",
@@ -9,7 +9,7 @@
     "idml_sha256": "30bf5d5ee87b66efdddc1c1521c16078a8f36b0930b45f0010e8a391121ffad4"
   },
   "B": {
-    "status": "new_visualization_first_edition",
+    "status": "preserved",
     "folder": "submission-version-b",
     "idml": "submission-version-b/Meme_Font_Book_Version_B_28p.idml",
     "reader": "submission-version-b/Meme_Font_Book_Version_B_28p_Review.pdf",
@@ -24,5 +24,16 @@
       26,
       27
     ]
+  },
+  "B2": {
+    "status": "controlled_visual_comparison",
+    "folder": "submission-version-b2",
+    "physical_pages": 28,
+    "word": "진심입니다",
+    "detail": "심",
+    "idml": "submission-version-b2/Meme_Font_Book_Version_B2_28p.idml",
+    "reader": "submission-version-b2/Meme_Font_Book_Version_B2_28p_Review.pdf",
+    "print": "submission-version-b2/Meme_Font_Book_Version_B2_A3_Duplex_28p.pdf",
+    "idml_sha256": "47477bd2c5ee8fb2bc6185bf0a811ad62bf8a7bfd63e80e493514fbcc8e54591"
   }
 }
