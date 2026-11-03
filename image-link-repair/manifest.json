@@ -1,0 +1,13 @@
+{
+  "purpose": "Restore and embed cover image in the user current document without recreating it",
+  "design_edition": "submission-contents-one",
+  "image_file": "Links/cover_cutout.png",
+  "image_sha256": "b8a68655e74748ada19123724d935f88fe9efa2b22c411a9537e8829821d7f3f",
+  "image_bytes": 922981,
+  "IDML_identical_to_previously_delivered": true,
+  "IDML_sha256": "522ca7719c55bb77963f794b873911270a5e6f2fe039438afd2e422e27375b62",
+  "included_IDML_photo_is_external_until_repaired": true,
+  "actual_Adobe_InDesign_execution": false,
+  "repair_script_sha256": "e1b50a23efd35fe6ac53babeded9b2c8754b979529f92fcaaedcdf6498d88ec8",
+  "repair_script_contains_image_payload": true
+}

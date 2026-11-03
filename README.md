@@ -18,3 +18,10 @@
 [Windows 설치용 폰트11종 ZIP](https://github.com/jeongseul1116/gpt/raw/refs/heads/main/Meme_Font_Book_Fonts_11_Windows.zip) · [설치 안내와 목록](editing-fonts/README_KO.md)
 
 ZIP을 풀고 Fonts폴더의 TTF·OTF11개를 설치한 뒤 InDesign을 다시 실행하세요. 예스체는 전에 제공하신 YES24.ttf를 별도로 설치합니다. 라이선스와 은궁서 대응 소스를 동봉했습니다. 책 디자인·쪽수·인쇄본은 변경하지 않았습니다.
+
+
+## 이미지 연결 복구
+
+[이미지 복구 ZIP](https://github.com/jeongseul1116/gpt/raw/refs/heads/main/Meme_Font_Book_Image_Repair.zip) · [표지 PNG](image-link-repair/Links/cover_cutout.png) · [사용법](image-link-repair/README_KO.md)
+
+기존 수정 문서를 연 상태에서 동봉한 Recover_Cover_Image.jsx를 InDesign 스크립트 패널에서 실행하면, 인식한 표지 이미지만 다시 연결하고 문서 안에 포함시킵니다. 문서를 새로 만들거나 자동 저장하지 않습니다. 수동으로는 링크 패널에서 PNG를 다시 연결한 뒤 ‘링크 포함’을 선택합니다. 실제 InDesign 앱 실행은 이 환경에서 검증하지 못했습니다.

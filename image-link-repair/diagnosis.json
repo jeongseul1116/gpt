@@ -1,0 +1,117 @@
+{
+  "scope": "Read-only diagnosis; no InDesign runtime available; original design and delivery unmodified by this audit.",
+  "idml": {
+    "path": "/workspace/final28/revision_contents_one/editable/Meme_Font_Book_System_28p.idml",
+    "sha256": "522ca7719c55bb77963f794b873911270a5e6f2fe039438afd2e422e27375b62",
+    "image_count": 1,
+    "link_count": 1,
+    "images": [
+      {
+        "member": "Spreads/Spread_01.xml",
+        "attributes": {
+          "Self": "m28Photo1_8Image",
+          "Space": "$ID/#Links_RGB",
+          "ActualPpi": "299.9994 299.9994",
+          "EffectivePpi": "300.24000000000007 300.24000000000007",
+          "ImageRenderingIntent": "UseColorSettings",
+          "LocalDisplaySetting": "Default",
+          "ImageTypeName": "$ID/PNG",
+          "AppliedObjectStyle": "ObjectStyle/$ID/[None]",
+          "Visible": "true",
+          "Name": "$ID/",
+          "ItemTransform": "0.9991986410871301 0 0 0.9991986410871301 0.0 2.842170943040401e-14"
+        },
+        "children": [
+          "Properties",
+          "Link",
+          "ClippingPathSettings",
+          "ImageIOPreference"
+        ]
+      }
+    ],
+    "links": [
+      {
+        "member": "Spreads/Spread_01.xml",
+        "attributes": {
+          "Self": "m28Photo1_8Link",
+          "AssetURL": "$ID/",
+          "AssetID": "$ID/",
+          "LinkResourceURI": "file:Links/cover_cutout.png",
+          "LinkResourceFormat": "$ID/PNG",
+          "StoredState": "Normal",
+          "LinkClassID": "35906",
+          "LinkClientID": "257",
+          "LinkResourceModified": "false",
+          "LinkObjectModified": "false",
+          "ShowInUI": "true",
+          "CanEmbed": "true",
+          "CanUnembed": "true",
+          "CanPackage": "true",
+          "ImportPolicy": "NoAutoImport",
+          "ExportPolicy": "NoAutoExport"
+        }
+      }
+    ],
+    "binary_image_entries": [],
+    "embedded_payload_present": false
+  },
+  "asset": {
+    "path": "/workspace/gpt/submission-contents-one/editable/Links/cover_cutout.png",
+    "size": 922981,
+    "sha256": "b8a68655e74748ada19123724d935f88fe9efa2b22c411a9537e8829821d7f3f",
+    "format": "PNG",
+    "dimensions": [
+      874,
+      1275
+    ],
+    "mode": "RGBA",
+    "dpi": [
+      299.9994,
+      299.9994
+    ],
+    "nonempty_alpha_bounds": [
+      22,
+      60,
+      860,
+      1275
+    ]
+  },
+  "old_zip": {
+    "path": "/workspace/gpt/Meme_Font_Book_Contents_Page_1_28p.zip",
+    "size": 23122508,
+    "integrity_bad_member": null,
+    "relevant_entries": [
+      {
+        "member": "Meme_Font_Book_Contents_Page_1_28p/editable/Create_System_28p.jsx",
+        "size": 586090,
+        "sha256": "c9080f4e049054e6d77e6619f3d1ecb0e3ba937f38d23c8cef435e61c3568811"
+      },
+      {
+        "member": "Meme_Font_Book_Contents_Page_1_28p/editable/Links/cover_cutout.png",
+        "size": 922981,
+        "sha256": "b8a68655e74748ada19123724d935f88fe9efa2b22c411a9537e8829821d7f3f"
+      },
+      {
+        "member": "Meme_Font_Book_Contents_Page_1_28p/editable/Meme_Font_Book_System_28p.idml",
+        "size": 943617,
+        "sha256": "522ca7719c55bb77963f794b873911270a5e6f2fe039438afd2e422e27375b62"
+      }
+    ],
+    "asset_case_matches_uri": true,
+    "asset_exact_bytes_match": true,
+    "idml_exact_bytes_match": true
+  },
+  "relative_uri_evidence": {
+    "source": "/workspace/cover_work/simpleidml-reference/tests/regressiontests/IDML/expected/article-1photo_import-xml-nested-tags.idml",
+    "member": "Spreads/Spread_ud8.xml",
+    "observed_uri": "file:../../IDML/media/bouboune.jpg",
+    "qualification": "Relative file URIs occur in existing SimpleIDML regression expected outputs. This is library evidence, not a fresh native InDesign runtime verification. Relative URI syntax alone is not evidence of the reported failure."
+  },
+  "helper_limit": {
+    "source": "/workspace/final28/revision_contents_one/editable/linked_image_helper.py",
+    "statement": "PNG $ID/PNG token is conventional; available original helper says it was not verified using a native PNG fixture."
+  },
+  "known_behavior": "IDML contains an external Image/Link node referencing file:Links/cover_cutout.png. It does not carry the PNG image bytes as an embedded image payload. CanEmbed=true and AllowAutoEmbedding=true are capability/settings flags, not proof that embedding happened.",
+  "cause": "Unproven. The old ZIP contains the correct image and IDML with exact bytes/case. Opening or moving the IDML separately, extraction/path resolution, or differences in InDesign import behavior could produce an unresolved link; no client-side reproduction establishes which occurred.",
+  "recommendation": "Preserve the current document and its user edits. Deliver original latest IDML plus adjacent Links/cover_cutout.png and one repair JSX. Repair should resolve the source relative to its own script folder, relink/place into the existing cover image/frame, embed with native Link.unlink(), verify result, and save a user-selected .indd copy. Provide manual Links-panel relink/embed as fallback. Do not hand-invent an embedded IDML schema or claim runtime success without InDesign verification."
+}

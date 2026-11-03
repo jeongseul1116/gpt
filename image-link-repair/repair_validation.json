@@ -1,0 +1,81 @@
+{
+  "script": "Recover_Cover_Image.jsx",
+  "script_bytes": 1253121,
+  "script_sha256": "e1b50a23efd35fe6ac53babeded9b2c8754b979529f92fcaaedcdf6498d88ec8",
+  "syntax_check": {
+    "command": "node --check /tmp/Recover_Cover_Image.syntax.js",
+    "preparation": "Removed the InDesign-only #target directive before Node parsing.",
+    "status": "pass",
+    "exit_code": 0,
+    "syntax_style": "ES3-compatible source; Node is a modern JavaScript parser, not a dedicated ES3 validator."
+  },
+  "payload_roundtrip": {
+    "status": "pass",
+    "expected_bytes": 922981,
+    "decoded_bytes": 922981,
+    "sha256": "b8a68655e74748ada19123724d935f88fe9efa2b22c411a9537e8829821d7f3f",
+    "exact_source_byte_equality": true,
+    "source": "/workspace/gpt/submission-contents-one/editable/Links/cover_cutout.png"
+  },
+  "mock_test_harness": "/tmp/test_cover_recovery.cjs",
+  "mock_tests": [
+    {
+      "name": "no active document: no mutations or file writes",
+      "status": "pass"
+    },
+    {
+      "name": "unknown frames and links: no mutations or file writes",
+      "status": "pass"
+    },
+    {
+      "name": "known missing link: exact PNG, only correct target, geometry, page order, text, embed verified",
+      "status": "pass"
+    },
+    {
+      "name": "empty recognized frame: place only in existing frame, fit content, embed",
+      "status": "pass"
+    },
+    {
+      "name": "healthy custom replacement in named frame is preserved",
+      "status": "pass"
+    },
+    {
+      "name": "missing differently named link in recognized frame is repairable",
+      "status": "pass"
+    },
+    {
+      "name": "ambiguous targets fail before file writes or mutation",
+      "status": "pass"
+    },
+    {
+      "name": "locked frame fails before file writes or mutation",
+      "status": "pass"
+    },
+    {
+      "name": "already embedded link makes no changes",
+      "status": "pass"
+    },
+    {
+      "name": "unlink throwing reports failure and retains recovery PNG",
+      "status": "pass"
+    },
+    {
+      "name": "unlink no-op is detected as failed embedding",
+      "status": "pass"
+    },
+    {
+      "name": "failed extraction makes no document changes",
+      "status": "pass"
+    }
+  ],
+  "mock_test_summary": {
+    "passed": 12,
+    "failed": 0,
+    "process_exit_code": 0
+  },
+  "adobe_indesign_actual_execution": {
+    "performed": false,
+    "status": "not tested",
+    "note": "Validation used an executable mock Adobe DOM. Actual Adobe InDesign runtime behavior has not been tested."
+  }
+}
