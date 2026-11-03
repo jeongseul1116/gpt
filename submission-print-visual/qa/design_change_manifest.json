@@ -1,0 +1,156 @@
+{
+  "status": "passed",
+  "source": "/workspace/interlude_revision_20261103/design/Meme_Font_Book_Interludes_28p.idml",
+  "source_sha256": "4b0b3d1fad499dc6a5f4338461200dab47d5896af8be44b18b8db38ffc610258",
+  "output": "/workspace/print_visual_revision_20261103/design/Meme_Font_Book_Early_Visuals_28p.idml",
+  "output_sha256": "a7106240b82d37965ddb7660dbec9fef90a42ae32915151b1c3aaa47520575b6",
+  "physical_page_changed": 3,
+  "printed_page_changed": 2,
+  "book_pages": 28,
+  "extra_early_diagrams": 4,
+  "prior_TF_diagrams_preserved": 21,
+  "diagrams": [
+    {
+      "font": "blackhan",
+      "glyph": "마",
+      "point_size": 76,
+      "origin": [
+        48,
+        314
+      ],
+      "highlight_contour": 2,
+      "highlight_color": "pink",
+      "actual_font_paths": true,
+      "same_size_pair": "weight",
+      "local_stem_scan_em": 0.35
+    },
+    {
+      "font": "sans",
+      "glyph": "마",
+      "point_size": 76,
+      "origin": [
+        231,
+        314
+      ],
+      "highlight_contour": 1,
+      "highlight_color": "pink",
+      "actual_font_paths": true,
+      "same_size_pair": "weight",
+      "local_stem_scan_em": 0.35
+    },
+    {
+      "font": "gugi",
+      "glyph": "가",
+      "point_size": 56,
+      "origin": [
+        48,
+        456
+      ],
+      "highlight_contour": 0,
+      "highlight_color": "red",
+      "actual_font_paths": true,
+      "same_size_pair": "terminal",
+      "local_stem_scan_em": null
+    },
+    {
+      "font": "singleday",
+      "glyph": "가",
+      "point_size": 56,
+      "origin": [
+        231,
+        456
+      ],
+      "highlight_contour": 2,
+      "highlight_color": "red",
+      "actual_font_paths": true,
+      "same_size_pair": "terminal",
+      "local_stem_scan_em": null
+    }
+  ],
+  "edited_intro_stories": [
+    {
+      "frame": "u5cf",
+      "story": "Stories/Story_u5bd.xml",
+      "before": "규칙은 같게,말투는 제멋대로.",
+      "after": "같은 글자,\n말투는 딴판.",
+      "kind": "intro_editorial_reflow"
+    },
+    {
+      "frame": "u640",
+      "story": "Stories/Story_u62e.xml",
+      "before": "작은 친절엔 장편 고백을, 월요일엔 출근 광고를. 친구에게 보내는 말은 별일에도 늘 큰일인척한다.TF 수업의 피드백을 반영해 폰트라는 용어를 쓰고 문장은 왼쪽으로 모았다. 해설은자연스럽게 띄어 쓰고 보관 원문과 지면 편집본은 구분했다.검정은 실제 글자, 빨강은 형태의 근거다. 분홍은 좁은 속공간을 짚는다. 획과 빈틈에서내가 받은 말투로 이유를 이어 읽었다.규칙은 같게, 말투는 제멋대로. 같은 밈을 폰트마다 읽으며 내가 먼저 웃는 대목을찾아본다. 친구에게 보낼 한마디를 고르는 작은 핑계가 되면 좋겠다.",
+      "after": "작은 친절엔 장편 고백을, 월요일엔 출근 광고를.\n같은 말도 폰트를 바꾸면 내겐 다르게 들린다.\n굵은 획과 좁은 빈틈, 점과 하트에서 말투를 골라 보자.",
+      "kind": "intro_editorial_reflow"
+    },
+    {
+      "frame": "u657",
+      "story": "Stories/Story_u645.xml",
+      "before": "폰트 분석 → 내 인상 → 편집 디자인",
+      "after": "TF 관찰: 글자의 모양 → 내가 들은 말투 → 밈의 효과",
+      "kind": "intro_editorial_reflow"
+    },
+    {
+      "frame": "u66d",
+      "story": "Stories/Story_u65b.xml",
+      "before": "선·면·색은 글자를 관찰하는 도구다.",
+      "after": "검정=실제 글자 · 빨강=획·특징 · 분홍=속공간",
+      "kind": "intro_editorial_reflow"
+    }
+  ],
+  "new_ids": [
+    "earlyVisualFrame_section1",
+    "earlyVisualStory_section1",
+    "earlyVisualFrame_section2",
+    "earlyVisualStory_section2",
+    "earlyVisual_blackhan_glyph",
+    "earlyVisual_blackhan_feature",
+    "earlyVisualFrame_blackhan_label",
+    "earlyVisualStory_blackhan_label",
+    "earlyVisualFrame_blackhan_caption",
+    "earlyVisualStory_blackhan_caption",
+    "earlyVisual_blackhan_baseline",
+    "earlyVisual_blackhan_stem",
+    "earlyVisual_blackhan_cap0",
+    "earlyVisual_blackhan_cap1",
+    "earlyVisual_sans_glyph",
+    "earlyVisual_sans_feature",
+    "earlyVisualFrame_sans_label",
+    "earlyVisualStory_sans_label",
+    "earlyVisualFrame_sans_caption",
+    "earlyVisualStory_sans_caption",
+    "earlyVisual_sans_baseline",
+    "earlyVisual_sans_stem",
+    "earlyVisual_sans_cap0",
+    "earlyVisual_sans_cap1",
+    "earlyVisual_gugi_glyph",
+    "earlyVisual_gugi_feature",
+    "earlyVisualFrame_gugi_label",
+    "earlyVisualStory_gugi_label",
+    "earlyVisualFrame_gugi_caption",
+    "earlyVisualStory_gugi_caption",
+    "earlyVisual_gugi_baseline",
+    "earlyVisual_singleday_glyph",
+    "earlyVisual_singleday_feature",
+    "earlyVisualFrame_singleday_label",
+    "earlyVisualStory_singleday_label",
+    "earlyVisualFrame_singleday_caption",
+    "earlyVisualStory_singleday_caption",
+    "earlyVisual_singleday_baseline"
+  ],
+  "new_story_members": [
+    "Stories/Story_earlyVisualStory_section1.xml",
+    "Stories/Story_earlyVisualStory_section2.xml",
+    "Stories/Story_earlyVisualStory_blackhan_label.xml",
+    "Stories/Story_earlyVisualStory_blackhan_caption.xml",
+    "Stories/Story_earlyVisualStory_sans_label.xml",
+    "Stories/Story_earlyVisualStory_sans_caption.xml",
+    "Stories/Story_earlyVisualStory_gugi_label.xml",
+    "Stories/Story_earlyVisualStory_gugi_caption.xml",
+    "Stories/Story_earlyVisualStory_singleday_label.xml",
+    "Stories/Story_earlyVisualStory_singleday_caption.xml"
+  ],
+  "existing_meme_and_comparison_stories_untouched": true,
+  "all_graphics_internal": true,
+  "source_cover_image_unchanged": true,
+  "actual_Adobe_execution": false
+}

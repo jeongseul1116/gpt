@@ -1,0 +1,18 @@
+{
+  "status": "passed",
+  "candidate_sha256": "a7106240b82d37965ddb7660dbec9fef90a42ae32915151b1c3aaa47520575b6",
+  "physical_pages": 28,
+  "stories": 1046,
+  "textframes": 1046,
+  "new_stories": 10,
+  "new_intro_diagrams": 4,
+  "old_diagrams_preserved": 21,
+  "only_intro4stories_and_containing_spread_and_designmap_changed": true,
+  "all_other_member_bytes_unchanged": true,
+  "all_source_meme_and126samples_preserved": true,
+  "all_ids_unique": true,
+  "source_StoryList_prefix_retained_and10new_storyrefs_valid": true,
+  "resource_refs_resolve": true,
+  "embedded_cover_unchanged": true,
+  "actual_Adobe_execution": false
+}

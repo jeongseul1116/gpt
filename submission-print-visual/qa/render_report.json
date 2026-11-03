@@ -1,0 +1,918 @@
+{
+  "source": "/workspace/print_visual_revision_20261103/design/Meme_Font_Book_Early_Visuals_28p.idml",
+  "source_sha256": "a7106240b82d37965ddb7660dbec9fef90a42ae32915151b1c3aaa47520575b6",
+  "renderer": "Direct IDML subset proof; not a native Adobe export",
+  "limitations": [
+    "First baseline AscentOffset is approximated from typographic font ascent and lowercase d outline height.",
+    "Source explicit lines are preserved. Overflowing lines use approximate fixed-frame wrapping; Adobe composition is not simulated.",
+    "All frames are clipped to their original geometry; line-fit flags are approximate, not Adobe overset results."
+  ],
+  "pages": [
+    {
+      "order": 1,
+      "name": "앞표지-1",
+      "uid": "u16b",
+      "spread_file": "Spreads/Spread_u166.xml",
+      "width_pt": 419.5276,
+      "height_pt": 595.2756,
+      "bleed_pt": 0,
+      "media_width_pt": 419.5276,
+      "media_height_pt": 595.2756
+    },
+    {
+      "order": 2,
+      "name": "1",
+      "uid": "u1f0",
+      "spread_file": "Spreads/Spread_u1eb.xml",
+      "width_pt": 419.5276,
+      "height_pt": 595.2756,
+      "bleed_pt": 0,
+      "media_width_pt": 419.5276,
+      "media_height_pt": 595.2756
+    },
+    {
+      "order": 3,
+      "name": "2",
+      "uid": "u1f1",
+      "spread_file": "Spreads/Spread_u1eb.xml",
+      "width_pt": 419.5276,
+      "height_pt": 595.2756,
+      "bleed_pt": 0,
+      "media_width_pt": 419.5276,
+      "media_height_pt": 595.2756
+    },
+    {
+      "order": 4,
+      "name": "3",
+      "uid": "u675",
+      "spread_file": "Spreads/Spread_u670.xml",
+      "width_pt": 419.5276,
+      "height_pt": 595.2756,
+      "bleed_pt": 0,
+      "media_width_pt": 419.5276,
+      "media_height_pt": 595.2756
+    },
+    {
+      "order": 5,
+      "name": "4",
+      "uid": "u676",
+      "spread_file": "Spreads/Spread_u670.xml",
+      "width_pt": 419.5276,
+      "height_pt": 595.2756,
+      "bleed_pt": 0,
+      "media_width_pt": 419.5276,
+      "media_height_pt": 595.2756
+    },
+    {
+      "order": 6,
+      "name": "5",
+      "uid": "uc2e",
+      "spread_file": "Spreads/Spread_uc29.xml",
+      "width_pt": 419.5276,
+      "height_pt": 595.2756,
+      "bleed_pt": 0,
+      "media_width_pt": 419.5276,
+      "media_height_pt": 595.2756
+    },
+    {
+      "order": 7,
+      "name": "6",
+      "uid": "uc2f",
+      "spread_file": "Spreads/Spread_uc29.xml",
+      "width_pt": 419.5276,
+      "height_pt": 595.2756,
+      "bleed_pt": 0,
+      "media_width_pt": 419.5276,
+      "media_height_pt": 595.2756
+    },
+    {
+      "order": 8,
+      "name": "7",
+      "uid": "u13dd",
+      "spread_file": "Spreads/Spread_u13d8.xml",
+      "width_pt": 419.5276,
+      "height_pt": 595.2756,
+      "bleed_pt": 0,
+      "media_width_pt": 419.5276,
+      "media_height_pt": 595.2756
+    },
+    {
+      "order": 9,
+      "name": "8",
+      "uid": "u13de",
+      "spread_file": "Spreads/Spread_u13d8.xml",
+      "width_pt": 419.5276,
+      "height_pt": 595.2756,
+      "bleed_pt": 0,
+      "media_width_pt": 419.5276,
+      "media_height_pt": 595.2756
+    },
+    {
+      "order": 10,
+      "name": "9",
+      "uid": "u1b76",
+      "spread_file": "Spreads/Spread_u1b71.xml",
+      "width_pt": 419.5276,
+      "height_pt": 595.2756,
+      "bleed_pt": 0,
+      "media_width_pt": 419.5276,
+      "media_height_pt": 595.2756
+    },
+    {
+      "order": 11,
+      "name": "10",
+      "uid": "u1b77",
+      "spread_file": "Spreads/Spread_u1b71.xml",
+      "width_pt": 419.5276,
+      "height_pt": 595.2756,
+      "bleed_pt": 0,
+      "media_width_pt": 419.5276,
+      "media_height_pt": 595.2756
+    },
+    {
+      "order": 12,
+      "name": "11",
+      "uid": "u230f",
+      "spread_file": "Spreads/Spread_u230a.xml",
+      "width_pt": 419.5276,
+      "height_pt": 595.2756,
+      "bleed_pt": 0,
+      "media_width_pt": 419.5276,
+      "media_height_pt": 595.2756
+    },
+    {
+      "order": 13,
+      "name": "12",
+      "uid": "u2310",
+      "spread_file": "Spreads/Spread_u230a.xml",
+      "width_pt": 419.5276,
+      "height_pt": 595.2756,
+      "bleed_pt": 0,
+      "media_width_pt": 419.5276,
+      "media_height_pt": 595.2756
+    },
+    {
+      "order": 14,
+      "name": "13",
+      "uid": "u2aa8",
+      "spread_file": "Spreads/Spread_u2aa3.xml",
+      "width_pt": 419.5276,
+      "height_pt": 595.2756,
+      "bleed_pt": 0,
+      "media_width_pt": 419.5276,
+      "media_height_pt": 595.2756
+    },
+    {
+      "order": 15,
+      "name": "14",
+      "uid": "u2aa9",
+      "spread_file": "Spreads/Spread_u2aa3.xml",
+      "width_pt": 419.5276,
+      "height_pt": 595.2756,
+      "bleed_pt": 0,
+      "media_width_pt": 419.5276,
+      "media_height_pt": 595.2756
+    },
+    {
+      "order": 16,
+      "name": "15",
+      "uid": "u32f9",
+      "spread_file": "Spreads/Spread_u32f4.xml",
+      "width_pt": 419.5276,
+      "height_pt": 595.2756,
+      "bleed_pt": 0,
+      "media_width_pt": 419.5276,
+      "media_height_pt": 595.2756
+    },
+    {
+      "order": 17,
+      "name": "16",
+      "uid": "u32fa",
+      "spread_file": "Spreads/Spread_u32f4.xml",
+      "width_pt": 419.5276,
+      "height_pt": 595.2756,
+      "bleed_pt": 0,
+      "media_width_pt": 419.5276,
+      "media_height_pt": 595.2756
+    },
+    {
+      "order": 18,
+      "name": "17",
+      "uid": "u3a92",
+      "spread_file": "Spreads/Spread_u3a8d.xml",
+      "width_pt": 419.5276,
+      "height_pt": 595.2756,
+      "bleed_pt": 0,
+      "media_width_pt": 419.5276,
+      "media_height_pt": 595.2756
+    },
+    {
+      "order": 19,
+      "name": "18",
+      "uid": "u3a93",
+      "spread_file": "Spreads/Spread_u3a8d.xml",
+      "width_pt": 419.5276,
+      "height_pt": 595.2756,
+      "bleed_pt": 0,
+      "media_width_pt": 419.5276,
+      "media_height_pt": 595.2756
+    },
+    {
+      "order": 20,
+      "name": "19",
+      "uid": "u422b",
+      "spread_file": "Spreads/Spread_u4226.xml",
+      "width_pt": 419.5276,
+      "height_pt": 595.2756,
+      "bleed_pt": 0,
+      "media_width_pt": 419.5276,
+      "media_height_pt": 595.2756
+    },
+    {
+      "order": 21,
+      "name": "20",
+      "uid": "u422c",
+      "spread_file": "Spreads/Spread_u4226.xml",
+      "width_pt": 419.5276,
+      "height_pt": 595.2756,
+      "bleed_pt": 0,
+      "media_width_pt": 419.5276,
+      "media_height_pt": 595.2756
+    },
+    {
+      "order": 22,
+      "name": "21",
+      "uid": "u4996",
+      "spread_file": "Spreads/Spread_u4991.xml",
+      "width_pt": 419.5276,
+      "height_pt": 595.2756,
+      "bleed_pt": 0,
+      "media_width_pt": 419.5276,
+      "media_height_pt": 595.2756
+    },
+    {
+      "order": 23,
+      "name": "22",
+      "uid": "u4997",
+      "spread_file": "Spreads/Spread_u4991.xml",
+      "width_pt": 419.5276,
+      "height_pt": 595.2756,
+      "bleed_pt": 0,
+      "media_width_pt": 419.5276,
+      "media_height_pt": 595.2756
+    },
+    {
+      "order": 24,
+      "name": "23",
+      "uid": "u512f",
+      "spread_file": "Spreads/Spread_u512a.xml",
+      "width_pt": 419.5276,
+      "height_pt": 595.2756,
+      "bleed_pt": 0,
+      "media_width_pt": 419.5276,
+      "media_height_pt": 595.2756
+    },
+    {
+      "order": 25,
+      "name": "24",
+      "uid": "u5130",
+      "spread_file": "Spreads/Spread_u512a.xml",
+      "width_pt": 419.5276,
+      "height_pt": 595.2756,
+      "bleed_pt": 0,
+      "media_width_pt": 419.5276,
+      "media_height_pt": 595.2756
+    },
+    {
+      "order": 26,
+      "name": "25",
+      "uid": "u58f4",
+      "spread_file": "Spreads/Spread_u58ef.xml",
+      "width_pt": 419.5276,
+      "height_pt": 595.2756,
+      "bleed_pt": 0,
+      "media_width_pt": 419.5276,
+      "media_height_pt": 595.2756
+    },
+    {
+      "order": 27,
+      "name": "26",
+      "uid": "u58f5",
+      "spread_file": "Spreads/Spread_u58ef.xml",
+      "width_pt": 419.5276,
+      "height_pt": 595.2756,
+      "bleed_pt": 0,
+      "media_width_pt": 419.5276,
+      "media_height_pt": 595.2756
+    },
+    {
+      "order": 28,
+      "name": "뒤표지-1",
+      "uid": "u62ea",
+      "spread_file": "Spreads/Spread_u62e5.xml",
+      "width_pt": 419.5276,
+      "height_pt": 595.2756,
+      "bleed_pt": 0,
+      "media_width_pt": 419.5276,
+      "media_height_pt": 595.2756
+    }
+  ],
+  "font_usage": {
+    "YES24": 4832,
+    "sans": 8720,
+    "blackhan": 144,
+    "gugi": 134,
+    "kirang": 187,
+    "singleday": 267,
+    "bawpic": 109,
+    "pixel": 117,
+    "gungseo": 236,
+    "jua": 218,
+    "brush": 811,
+    "serif": 108
+  },
+  "unknown_fonts": [],
+  "unsupported_items": {},
+  "line_fit_flags": [],
+  "approximate_wrapped_frames": [
+    {
+      "page": 10,
+      "frame": "u1c42",
+      "story": "u1c30",
+      "explicit_lines": 1,
+      "proof_lines": 6
+    },
+    {
+      "page": 15,
+      "frame": "u2f83",
+      "story": "u2f71",
+      "explicit_lines": 1,
+      "proof_lines": 4
+    },
+    {
+      "page": 18,
+      "frame": "u3b5e",
+      "story": "u3b4c",
+      "explicit_lines": 1,
+      "proof_lines": 10
+    },
+    {
+      "page": 20,
+      "frame": "u42f7",
+      "story": "u42e5",
+      "explicit_lines": 1,
+      "proof_lines": 32
+    },
+    {
+      "page": 22,
+      "frame": "u4a62",
+      "story": "u4a50",
+      "explicit_lines": 6,
+      "proof_lines": 7
+    },
+    {
+      "page": 26,
+      "frame": "u59aa",
+      "story": "u5998",
+      "explicit_lines": 1,
+      "proof_lines": 2
+    }
+  ],
+  "mixed_style_frames": [
+    {
+      "page": 14,
+      "frame": "u2b5e",
+      "story": "u2b4c",
+      "lines": [
+        {
+          "text": "더 있을수도 있음",
+          "point_sizes": [
+            17.0
+          ],
+          "leading": 24.0,
+          "baseline": 14.586
+        },
+        {
+          "text": "내가 모를수도",
+          "point_sizes": [
+            15.0
+          ],
+          "leading": 22.0,
+          "baseline": 36.586
+        },
+        {
+          "text": "떠올리지 못했을수도",
+          "point_sizes": [
+            13.0
+          ],
+          "leading": 20.0,
+          "baseline": 56.586
+        },
+        {
+          "text": "내가 무지했을수도",
+          "point_sizes": [
+            11.0
+          ],
+          "leading": 18.0,
+          "baseline": 74.586
+        },
+        {
+          "text": "내가 감히",
+          "point_sizes": [
+            9.0
+          ],
+          "leading": 16.0,
+          "baseline": 90.586
+        },
+        {
+          "text": "내가 또 잘못을",
+          "point_sizes": [
+            7.5
+          ],
+          "leading": 14.0,
+          "baseline": 104.586
+        }
+      ]
+    }
+  ],
+  "early_visual_runs": [
+    {
+      "frame": "u5b9",
+      "story": "u5a7",
+      "text": "들어가며",
+      "point_sizes": [
+        7.0
+      ],
+      "font_keys": [
+        "YES24"
+      ],
+      "baseline": 5.614,
+      "frame_bounds": [
+        0.0,
+        0.0,
+        64.0,
+        12.0
+      ]
+    },
+    {
+      "frame": "u5cf",
+      "story": "u5bd",
+      "text": "같은 글자,",
+      "point_sizes": [
+        23.0
+      ],
+      "font_keys": [
+        "YES24"
+      ],
+      "baseline": 18.446,
+      "frame_bounds": [
+        0.0,
+        0.0,
+        351.496,
+        66.0
+      ]
+    },
+    {
+      "frame": "u5cf",
+      "story": "u5bd",
+      "text": "말투는 딴판.",
+      "point_sizes": [
+        23.0
+      ],
+      "font_keys": [
+        "YES24"
+      ],
+      "baseline": 49.446,
+      "frame_bounds": [
+        0.0,
+        0.0,
+        351.496,
+        66.0
+      ]
+    },
+    {
+      "frame": "u5e6",
+      "story": "u5d4",
+      "text": "안",
+      "point_sizes": [
+        6.5
+      ],
+      "font_keys": [
+        "YES24"
+      ],
+      "baseline": 5.213,
+      "frame_bounds": [
+        0.0,
+        0.0,
+        7.0,
+        45.0
+      ]
+    },
+    {
+      "frame": "u5e6",
+      "story": "u5d4",
+      "text": "내",
+      "point_sizes": [
+        6.5
+      ],
+      "font_keys": [
+        "YES24"
+      ],
+      "baseline": 15.213,
+      "frame_bounds": [
+        0.0,
+        0.0,
+        7.0,
+        45.0
+      ]
+    },
+    {
+      "frame": "u5fe",
+      "story": "u5ec",
+      "text": "02",
+      "point_sizes": [
+        8.5
+      ],
+      "font_keys": [
+        "YES24"
+      ],
+      "baseline": 6.817,
+      "frame_bounds": [
+        0.0,
+        0.0,
+        16.0,
+        13.0
+      ]
+    },
+    {
+      "frame": "u640",
+      "story": "u62e",
+      "text": "작은 친절엔 장편 고백을, 월요일엔 출근 광고를.",
+      "point_sizes": [
+        9.2
+      ],
+      "font_keys": [
+        "sans"
+      ],
+      "baseline": 8.096,
+      "frame_bounds": [
+        0.0,
+        0.0,
+        351.496,
+        48.0
+      ]
+    },
+    {
+      "frame": "u640",
+      "story": "u62e",
+      "text": "같은 말도 폰트를 바꾸면 내겐 다르게 들린다.",
+      "point_sizes": [
+        9.2
+      ],
+      "font_keys": [
+        "sans"
+      ],
+      "baseline": 22.096,
+      "frame_bounds": [
+        0.0,
+        0.0,
+        351.496,
+        48.0
+      ]
+    },
+    {
+      "frame": "u640",
+      "story": "u62e",
+      "text": "굵은 획과 좁은 빈틈, 점과 하트에서 말투를 골라 보자.",
+      "point_sizes": [
+        9.2
+      ],
+      "font_keys": [
+        "sans"
+      ],
+      "baseline": 36.096,
+      "frame_bounds": [
+        0.0,
+        0.0,
+        351.496,
+        48.0
+      ]
+    },
+    {
+      "frame": "u657",
+      "story": "u645",
+      "text": "TF 관찰: 글자의 모양 → 내가 들은 말투 → 밈의 효과",
+      "point_sizes": [
+        7.5
+      ],
+      "font_keys": [
+        "sans"
+      ],
+      "baseline": 6.6,
+      "frame_bounds": [
+        0.0,
+        0.0,
+        341.496,
+        13.0
+      ]
+    },
+    {
+      "frame": "u66d",
+      "story": "u65b",
+      "text": "검정=실제 글자 · 빨강=획·특징 · 분홍=속공간",
+      "point_sizes": [
+        6.8
+      ],
+      "font_keys": [
+        "sans"
+      ],
+      "baseline": 5.984,
+      "frame_bounds": [
+        0.0,
+        0.0,
+        351.496,
+        15.0
+      ]
+    },
+    {
+      "frame": "earlyVisualFrame_section1",
+      "story": "earlyVisualStory_section1",
+      "text": "01  같은 크기, 다른 목소리",
+      "point_sizes": [
+        8.0
+      ],
+      "font_keys": [
+        "sans"
+      ],
+      "baseline": 7.04,
+      "frame_bounds": [
+        0.0,
+        0.0,
+        340.0,
+        13.0
+      ]
+    },
+    {
+      "frame": "earlyVisualFrame_section2",
+      "story": "earlyVisualStory_section2",
+      "text": "02  끝의 모양이 말투를 만든다",
+      "point_sizes": [
+        8.0
+      ],
+      "font_keys": [
+        "sans"
+      ],
+      "baseline": 7.04,
+      "frame_bounds": [
+        0.0,
+        0.0,
+        340.0,
+        13.0
+      ]
+    },
+    {
+      "frame": "earlyVisualFrame_blackhan_label",
+      "story": "earlyVisualStory_blackhan_label",
+      "text": "블랙 한 산스 / 76pt",
+      "point_sizes": [
+        7.3
+      ],
+      "font_keys": [
+        "sans"
+      ],
+      "baseline": 6.424,
+      "frame_bounds": [
+        0.0,
+        0.0,
+        166.0,
+        13.0
+      ]
+    },
+    {
+      "frame": "earlyVisualFrame_blackhan_caption",
+      "story": "earlyVisualStory_blackhan_caption",
+      "text": "굵은 획, 좁은 속공간.",
+      "point_sizes": [
+        7.8
+      ],
+      "font_keys": [
+        "sans"
+      ],
+      "baseline": 6.864,
+      "frame_bounds": [
+        0.0,
+        0.0,
+        166.0,
+        29.0
+      ]
+    },
+    {
+      "frame": "earlyVisualFrame_blackhan_caption",
+      "story": "earlyVisualStory_blackhan_caption",
+      "text": "내겐 큰 외침.",
+      "point_sizes": [
+        7.8
+      ],
+      "font_keys": [
+        "sans"
+      ],
+      "baseline": 17.364,
+      "frame_bounds": [
+        0.0,
+        0.0,
+        166.0,
+        29.0
+      ]
+    },
+    {
+      "frame": "earlyVisualFrame_sans_label",
+      "story": "earlyVisualStory_sans_label",
+      "text": "Noto Sans CJK KR / 76pt",
+      "point_sizes": [
+        7.3
+      ],
+      "font_keys": [
+        "sans"
+      ],
+      "baseline": 6.424,
+      "frame_bounds": [
+        0.0,
+        0.0,
+        166.0,
+        13.0
+      ]
+    },
+    {
+      "frame": "earlyVisualFrame_sans_caption",
+      "story": "earlyVisualStory_sans_caption",
+      "text": "고른 획, 넓은 속공간.",
+      "point_sizes": [
+        7.8
+      ],
+      "font_keys": [
+        "sans"
+      ],
+      "baseline": 6.864,
+      "frame_bounds": [
+        0.0,
+        0.0,
+        166.0,
+        29.0
+      ]
+    },
+    {
+      "frame": "earlyVisualFrame_sans_caption",
+      "story": "earlyVisualStory_sans_caption",
+      "text": "내겐 차분한 말.",
+      "point_sizes": [
+        7.8
+      ],
+      "font_keys": [
+        "sans"
+      ],
+      "baseline": 17.364,
+      "frame_bounds": [
+        0.0,
+        0.0,
+        166.0,
+        29.0
+      ]
+    },
+    {
+      "frame": "earlyVisualFrame_gugi_label",
+      "story": "earlyVisualStory_gugi_label",
+      "text": "구기 / 56pt",
+      "point_sizes": [
+        7.3
+      ],
+      "font_keys": [
+        "sans"
+      ],
+      "baseline": 6.424,
+      "frame_bounds": [
+        0.0,
+        0.0,
+        166.0,
+        13.0
+      ]
+    },
+    {
+      "frame": "earlyVisualFrame_gugi_caption",
+      "story": "earlyVisualStory_gugi_caption",
+      "text": "떨어진 점과 끊긴 이음.",
+      "point_sizes": [
+        7.8
+      ],
+      "font_keys": [
+        "sans"
+      ],
+      "baseline": 6.864,
+      "frame_bounds": [
+        0.0,
+        0.0,
+        166.0,
+        29.0
+      ]
+    },
+    {
+      "frame": "earlyVisualFrame_gugi_caption",
+      "story": "earlyVisualStory_gugi_caption",
+      "text": "내겐 기계 알림.",
+      "point_sizes": [
+        7.8
+      ],
+      "font_keys": [
+        "sans"
+      ],
+      "baseline": 17.364,
+      "frame_bounds": [
+        0.0,
+        0.0,
+        166.0,
+        29.0
+      ]
+    },
+    {
+      "frame": "earlyVisualFrame_singleday_label",
+      "story": "earlyVisualStory_singleday_label",
+      "text": "싱글데이 / 56pt",
+      "point_sizes": [
+        7.3
+      ],
+      "font_keys": [
+        "sans"
+      ],
+      "baseline": 6.424,
+      "frame_bounds": [
+        0.0,
+        0.0,
+        166.0,
+        13.0
+      ]
+    },
+    {
+      "frame": "earlyVisualFrame_singleday_caption",
+      "story": "earlyVisualStory_singleday_caption",
+      "text": "둥근 획과 작은 하트.",
+      "point_sizes": [
+        7.8
+      ],
+      "font_keys": [
+        "sans"
+      ],
+      "baseline": 6.864,
+      "frame_bounds": [
+        0.0,
+        0.0,
+        166.0,
+        29.0
+      ]
+    },
+    {
+      "frame": "earlyVisualFrame_singleday_caption",
+      "story": "earlyVisualStory_singleday_caption",
+      "text": "내겐 친구의 편지.",
+      "point_sizes": [
+        7.8
+      ],
+      "font_keys": [
+        "sans"
+      ],
+      "baseline": 17.364,
+      "frame_bounds": [
+        0.0,
+        0.0,
+        166.0,
+        29.0
+      ]
+    }
+  ],
+  "embedded_images": 1,
+  "embedded_image_assets": [
+    {
+      "item": "u1e3",
+      "source_payload_sha256": "b8a68655e74748ada19123724d935f88fe9efa2b22c411a9537e8829821d7f3f",
+      "format": "PNG",
+      "mode": "RGBA",
+      "pixel_size": [
+        874,
+        1275
+      ],
+      "has_alpha": true,
+      "effective_ppi": [
+        300.24000000000007,
+        300.24000000000007
+      ],
+      "drawn_size_pt": [
+        209.5923261390887,
+        305.7553956834532
+      ]
+    }
+  ],
+  "missing_glyphs": [],
+  "fonts_resolved": true,
+  "output_pdf": "/workspace/print_visual_revision_20261103/rendering/Meme_Font_Book_Early_Visuals_28p_Review.pdf",
+  "output_sha256": "ba82667275c582a2ac99c400f8f4cde30ae5482e72a02d47c83a6d16c269ab13",
+  "bleed_mm": 0,
+  "review_extraction": "Vector source clipped at its actual TrimBox; MediaBox retains the trim coordinate origin and Page.rect is A5."
+}

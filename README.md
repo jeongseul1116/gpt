@@ -1,3 +1,23 @@
+# A3 양면 인쇄 순서 + 도입 시각화 수정판
+
+표지 포함28면을 A3용지7장에 **앞면28｜1, 뒷면2｜27** 순서로 배치했습니다. 재단선과3mm도련을 포함합니다. 본문의 쪽수는 기존대로 목차01부터 시작합니다.
+
+- **[A3 양면 인쇄 PDF](submission-print-visual/Meme_Font_Book_A3_Duplex_28p.pdf)**
+- [새 도입부 보기](submission-print-visual/Early_Visuals_02_Preview.png)
+- [첫 장 앞면](submission-print-visual/A3_Sheet_01_Front.png) · [뒷면](submission-print-visual/A3_Sheet_01_Back.png) · [인쇄14면 전체](submission-print-visual/A3_All_14_Faces.jpg)
+- [전체28면 검토 PDF](submission-print-visual/Meme_Font_Book_Early_Visuals_28p_Review.pdf)
+- [이미지 내장 편집용 IDML](submission-print-visual/Meme_Font_Book_Early_Visuals_28p.idml)
+- [PDF·IDML·미리보기 ZIP](https://github.com/jeongseul1116/gpt/raw/refs/heads/main/Meme_Font_Book_Print_Visual_28p.zip)
+- [인쇄 설정·파일 안내·검수 범위](submission-print-visual/README_KO.md)
+
+인쇄는 **A3가로 / 양면 / 짧은 쪽 넘김 / 실제 크기100%**입니다. **소책자·모아찍기·용지맞춤은 해제**합니다. PDF가 이미 인쇄 순서로 배치돼 있습니다.
+
+들어가며02쪽에 같은 크기의 글자4개를 확대해 획·속공간·점·하트와 말투의 관계를 보였습니다. 기존 환기 페이지와126개 비교 견본, 나머지27면을 유지했습니다. 표지사진과 도해는 IDML 안에 들어 있습니다.
+
+PDF는 IDML 직접 렌더로 제작했으며 Adobe 프리셋 출력과 실물 인쇄는 미검증입니다. 최신 파일은 **submission-print-visual**입니다. 아래는 이전 수정 내역입니다.
+
+---
+
 # 반복 사이에 세 번의 숨 고르기
 
 총28면 안에서07쪽은 분홍 고백 포스터,13쪽은 작아지는 정정문과 열린 비교 목록,21쪽은 여백이 많은 새벽 혼잣말로 바꿨습니다. 목차도 반영했습니다. 원문·126견본·21TF도해·내부 표지사진을 유지했습니다.
@@ -46,7 +66,7 @@
 - [전체 미리보기](submission-contents-one/preview_28p.jpg)
 - [인쇄와 편집 안내](submission-contents-one/README_KO.md)
 
-표지 포함28면·A3용지7장·PDF14면·3mm도련·재단선을 유지했습니다. 출력은 A3가로·양면·짧은 쪽 넘김·100%, 소책자·모아찍기·용지 맞춤 해제입니다. 실제 InDesign 실행과 실물 출력은 미검증입니다. 현재판은 submission-contents-one 폴더입니다.
+표지 포함28면·A3용지7장·PDF14면·3mm도련·재단선을 유지했습니다. 출력은 A3가로·양면·짧은 쪽 넘김·100%, 소책자·모아찍기·용지 맞춤 해제입니다. 실제 InDesign 실행과 실물 출력은 미검증입니다. 이전 목차 수정판은 submission-contents-one 폴더입니다.
 
 
 ## 편집용 폰트 다운로드

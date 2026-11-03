@@ -1,0 +1,29 @@
+{
+  "status": "passed",
+  "method": "Viewed actual final A3 raster images of the first physical sheet, front and back. No PDF or design edited.",
+  "source_print_sha256": "5f2c78ec9a11feca2c021e4c3fb09870b1911c5a1f1fb00c6e010ef0fb596dfc",
+  "images": [
+    "first_sheet_front.png",
+    "first_sheet_back.png"
+  ],
+  "front_face": {
+    "physical_left": 28,
+    "physical_right": 1,
+    "back_cover_left_front_cover_right": true,
+    "cover_photo_present": true,
+    "pages_upright": true,
+    "outer_crop_marks_visible": true
+  },
+  "back_face": {
+    "physical_left": 2,
+    "physical_right": 27,
+    "left_visible_folio": "01",
+    "right_visible_folio": "26",
+    "contents_left_last_inside_page_right": true,
+    "pages_upright": true,
+    "navigation_tabs_reach_outer_trim": true
+  },
+  "all28_fold_edge_pixel_preservation": "See independent numeric source comparisons in print_validation.json",
+  "physical_printer_test": false,
+  "Adobe_application_verification": false
+}

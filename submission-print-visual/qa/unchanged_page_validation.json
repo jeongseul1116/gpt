@@ -1,0 +1,118 @@
+{
+  "comparison": "Independent trim0 render compared at120dpi to prior28page proof before sourcebleed-derived review finalization",
+  "pages": [
+    {
+      "page": 1,
+      "same": true
+    },
+    {
+      "page": 2,
+      "same": true
+    },
+    {
+      "page": 3,
+      "same": false
+    },
+    {
+      "page": 4,
+      "same": true
+    },
+    {
+      "page": 5,
+      "same": true
+    },
+    {
+      "page": 6,
+      "same": true
+    },
+    {
+      "page": 7,
+      "same": true
+    },
+    {
+      "page": 8,
+      "same": true
+    },
+    {
+      "page": 9,
+      "same": true
+    },
+    {
+      "page": 10,
+      "same": true
+    },
+    {
+      "page": 11,
+      "same": true
+    },
+    {
+      "page": 12,
+      "same": true
+    },
+    {
+      "page": 13,
+      "same": true
+    },
+    {
+      "page": 14,
+      "same": true
+    },
+    {
+      "page": 15,
+      "same": true
+    },
+    {
+      "page": 16,
+      "same": true
+    },
+    {
+      "page": 17,
+      "same": true
+    },
+    {
+      "page": 18,
+      "same": true
+    },
+    {
+      "page": 19,
+      "same": true
+    },
+    {
+      "page": 20,
+      "same": true
+    },
+    {
+      "page": 21,
+      "same": true
+    },
+    {
+      "page": 22,
+      "same": true
+    },
+    {
+      "page": 23,
+      "same": true
+    },
+    {
+      "page": 24,
+      "same": true
+    },
+    {
+      "page": 25,
+      "same": true
+    },
+    {
+      "page": 26,
+      "same": true
+    },
+    {
+      "page": 27,
+      "same": true
+    },
+    {
+      "page": 28,
+      "same": true
+    }
+  ],
+  "all_other_27_identical": true
+}

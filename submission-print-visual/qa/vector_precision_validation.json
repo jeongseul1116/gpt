@@ -1,0 +1,461 @@
+{
+  "status": "passed",
+  "method": "Unrounded actual source and print vector/type-outline path comparison after reversing actual PDF translation matrices. Each target path consumed once.",
+  "all_28_placement_matrices_translation_only_at_100_percent": true,
+  "placement_linear_identity_tolerance": 1e-10,
+  "vector_match_tolerance_pt": 0.004,
+  "all_source_paths": 3225,
+  "all_matched_paths": 3225,
+  "maximum_unrounded_numeric_deviation_pt": 0.00010503320311272546,
+  "page_checks": [
+    {
+      "physical_page": 28,
+      "face": 1,
+      "vector_paths": 22,
+      "matched_paths": 22,
+      "maximum_unrounded_numeric_deviation_pt": 4.093164062624055e-05,
+      "placement_matrix": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        167.244061,
+        114.803111
+      ],
+      "linear_identity_tolerance": 1e-10
+    },
+    {
+      "physical_page": 1,
+      "face": 1,
+      "vector_paths": 9,
+      "matched_paths": 9,
+      "maximum_unrounded_numeric_deviation_pt": 9.358911131585046e-05,
+      "placement_matrix": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        586.771654,
+        114.803111
+      ],
+      "linear_identity_tolerance": 1e-10
+    },
+    {
+      "physical_page": 2,
+      "face": 2,
+      "vector_paths": 107,
+      "matched_paths": 107,
+      "maximum_unrounded_numeric_deviation_pt": 4.910742188712902e-05,
+      "placement_matrix": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        167.244061,
+        114.803111
+      ],
+      "linear_identity_tolerance": 1e-10
+    },
+    {
+      "physical_page": 27,
+      "face": 2,
+      "vector_paths": 119,
+      "matched_paths": 119,
+      "maximum_unrounded_numeric_deviation_pt": 0.00010503320311272546,
+      "placement_matrix": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        586.771654,
+        114.803111
+      ],
+      "linear_identity_tolerance": 1e-10
+    },
+    {
+      "physical_page": 26,
+      "face": 3,
+      "vector_paths": 140,
+      "matched_paths": 140,
+      "maximum_unrounded_numeric_deviation_pt": 7.296289061287098e-05,
+      "placement_matrix": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        167.244061,
+        114.803111
+      ],
+      "linear_identity_tolerance": 1e-10
+    },
+    {
+      "physical_page": 3,
+      "face": 3,
+      "vector_paths": 93,
+      "matched_paths": 93,
+      "maximum_unrounded_numeric_deviation_pt": 9.358911131585046e-05,
+      "placement_matrix": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        586.771654,
+        114.803111
+      ],
+      "linear_identity_tolerance": 1e-10
+    },
+    {
+      "physical_page": 4,
+      "face": 4,
+      "vector_paths": 110,
+      "matched_paths": 110,
+      "maximum_unrounded_numeric_deviation_pt": 4.910742188712902e-05,
+      "placement_matrix": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        167.244061,
+        114.803111
+      ],
+      "linear_identity_tolerance": 1e-10
+    },
+    {
+      "physical_page": 25,
+      "face": 4,
+      "vector_paths": 193,
+      "matched_paths": 193,
+      "maximum_unrounded_numeric_deviation_pt": 9.358911131585046e-05,
+      "placement_matrix": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        586.771654,
+        114.803111
+      ],
+      "linear_identity_tolerance": 1e-10
+    },
+    {
+      "physical_page": 24,
+      "face": 5,
+      "vector_paths": 75,
+      "matched_paths": 75,
+      "maximum_unrounded_numeric_deviation_pt": 7.144921875124055e-05,
+      "placement_matrix": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        167.244061,
+        114.803111
+      ],
+      "linear_identity_tolerance": 1e-10
+    },
+    {
+      "physical_page": 5,
+      "face": 5,
+      "vector_paths": 109,
+      "matched_paths": 109,
+      "maximum_unrounded_numeric_deviation_pt": 0.00010503320311272546,
+      "placement_matrix": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        586.771654,
+        114.803111
+      ],
+      "linear_identity_tolerance": 1e-10
+    },
+    {
+      "physical_page": 6,
+      "face": 6,
+      "vector_paths": 68,
+      "matched_paths": 68,
+      "maximum_unrounded_numeric_deviation_pt": 4.244531248787098e-05,
+      "placement_matrix": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        167.244061,
+        114.803111
+      ],
+      "linear_identity_tolerance": 1e-10
+    },
+    {
+      "physical_page": 23,
+      "face": 6,
+      "vector_paths": 193,
+      "matched_paths": 193,
+      "maximum_unrounded_numeric_deviation_pt": 9.358911131585046e-05,
+      "placement_matrix": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        586.771654,
+        114.803111
+      ],
+      "linear_identity_tolerance": 1e-10
+    },
+    {
+      "physical_page": 22,
+      "face": 7,
+      "vector_paths": 22,
+      "matched_paths": 22,
+      "maximum_unrounded_numeric_deviation_pt": 4.244531248787098e-05,
+      "placement_matrix": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        167.244061,
+        114.803111
+      ],
+      "linear_identity_tolerance": 1e-10
+    },
+    {
+      "physical_page": 7,
+      "face": 7,
+      "vector_paths": 194,
+      "matched_paths": 194,
+      "maximum_unrounded_numeric_deviation_pt": 9.358911131585046e-05,
+      "placement_matrix": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        586.771654,
+        114.803111
+      ],
+      "linear_identity_tolerance": 1e-10
+    },
+    {
+      "physical_page": 8,
+      "face": 8,
+      "vector_paths": 26,
+      "matched_paths": 26,
+      "maximum_unrounded_numeric_deviation_pt": 7.144921875124055e-05,
+      "placement_matrix": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        167.244061,
+        114.803111
+      ],
+      "linear_identity_tolerance": 1e-10
+    },
+    {
+      "physical_page": 21,
+      "face": 8,
+      "vector_paths": 193,
+      "matched_paths": 193,
+      "maximum_unrounded_numeric_deviation_pt": 9.358911131585046e-05,
+      "placement_matrix": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        586.771654,
+        114.803111
+      ],
+      "linear_identity_tolerance": 1e-10
+    },
+    {
+      "physical_page": 20,
+      "face": 9,
+      "vector_paths": 93,
+      "matched_paths": 93,
+      "maximum_unrounded_numeric_deviation_pt": 7.144921875124055e-05,
+      "placement_matrix": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        167.244061,
+        114.803111
+      ],
+      "linear_identity_tolerance": 1e-10
+    },
+    {
+      "physical_page": 9,
+      "face": 9,
+      "vector_paths": 194,
+      "matched_paths": 194,
+      "maximum_unrounded_numeric_deviation_pt": 9.358911131585046e-05,
+      "placement_matrix": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        586.771654,
+        114.803111
+      ],
+      "linear_identity_tolerance": 1e-10
+    },
+    {
+      "physical_page": 10,
+      "face": 10,
+      "vector_paths": 71,
+      "matched_paths": 71,
+      "maximum_unrounded_numeric_deviation_pt": 4.244531248787098e-05,
+      "placement_matrix": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        167.244061,
+        114.803111
+      ],
+      "linear_identity_tolerance": 1e-10
+    },
+    {
+      "physical_page": 19,
+      "face": 10,
+      "vector_paths": 193,
+      "matched_paths": 193,
+      "maximum_unrounded_numeric_deviation_pt": 9.358911131585046e-05,
+      "placement_matrix": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        586.771654,
+        114.803111
+      ],
+      "linear_identity_tolerance": 1e-10
+    },
+    {
+      "physical_page": 18,
+      "face": 11,
+      "vector_paths": 75,
+      "matched_paths": 75,
+      "maximum_unrounded_numeric_deviation_pt": 7.144921875124055e-05,
+      "placement_matrix": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        167.244061,
+        114.803111
+      ],
+      "linear_identity_tolerance": 1e-10
+    },
+    {
+      "physical_page": 11,
+      "face": 11,
+      "vector_paths": 193,
+      "matched_paths": 193,
+      "maximum_unrounded_numeric_deviation_pt": 9.358911131585046e-05,
+      "placement_matrix": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        586.771654,
+        114.803111
+      ],
+      "linear_identity_tolerance": 1e-10
+    },
+    {
+      "physical_page": 12,
+      "face": 12,
+      "vector_paths": 74,
+      "matched_paths": 74,
+      "maximum_unrounded_numeric_deviation_pt": 7.144921875124055e-05,
+      "placement_matrix": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        167.244061,
+        114.803111
+      ],
+      "linear_identity_tolerance": 1e-10
+    },
+    {
+      "physical_page": 17,
+      "face": 12,
+      "vector_paths": 193,
+      "matched_paths": 193,
+      "maximum_unrounded_numeric_deviation_pt": 9.358911131585046e-05,
+      "placement_matrix": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        586.771654,
+        114.803111
+      ],
+      "linear_identity_tolerance": 1e-10
+    },
+    {
+      "physical_page": 16,
+      "face": 13,
+      "vector_paths": 73,
+      "matched_paths": 73,
+      "maximum_unrounded_numeric_deviation_pt": 7.144921875124055e-05,
+      "placement_matrix": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        167.244061,
+        114.803111
+      ],
+      "linear_identity_tolerance": 1e-10
+    },
+    {
+      "physical_page": 13,
+      "face": 13,
+      "vector_paths": 193,
+      "matched_paths": 193,
+      "maximum_unrounded_numeric_deviation_pt": 9.358911131585046e-05,
+      "placement_matrix": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        586.771654,
+        114.803111
+      ],
+      "linear_identity_tolerance": 1e-10
+    },
+    {
+      "physical_page": 14,
+      "face": 14,
+      "vector_paths": 58,
+      "matched_paths": 58,
+      "maximum_unrounded_numeric_deviation_pt": 7.144921875124055e-05,
+      "placement_matrix": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        167.244061,
+        114.803111
+      ],
+      "linear_identity_tolerance": 1e-10
+    },
+    {
+      "physical_page": 15,
+      "face": 14,
+      "vector_paths": 142,
+      "matched_paths": 142,
+      "maximum_unrounded_numeric_deviation_pt": 0.00010503320311272546,
+      "placement_matrix": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        586.771654,
+        114.803111
+      ],
+      "linear_identity_tolerance": 1e-10
+    }
+  ],
+  "maximum_unrounded_numeric_deviation_mm": 3.705337998698926e-05
+}
