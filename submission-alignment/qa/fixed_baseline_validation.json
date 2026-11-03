@@ -1,0 +1,139 @@
+{
+  "status": "passed",
+  "native_preference": "FirstBaselineOffset=FixedHeight / MinimumFirstBaselineOffset=18",
+  "method": "FinalPDFtextlayoutreport uses actualnative18ptoffset; itempagepositionsputall12baselinesat170+67r.",
+  "frames": [
+    {
+      "page": 4,
+      "frame": "u740",
+      "story": "u72e",
+      "FirstBaselineOffset": "FixedHeight",
+      "MinimumFirstBaselineOffset": 18.0,
+      "frame_local_baseline": 18.0,
+      "page_local_baseline_pt": 170.0,
+      "expected_pt": 170,
+      "matches_native_sample_baseline": true
+    },
+    {
+      "page": 4,
+      "frame": "u79f",
+      "story": "u78d",
+      "FirstBaselineOffset": "FixedHeight",
+      "MinimumFirstBaselineOffset": 18.0,
+      "frame_local_baseline": 18.0,
+      "page_local_baseline_pt": 237.0,
+      "expected_pt": 237,
+      "matches_native_sample_baseline": true
+    },
+    {
+      "page": 4,
+      "frame": "u7fe",
+      "story": "u7ec",
+      "FirstBaselineOffset": "FixedHeight",
+      "MinimumFirstBaselineOffset": 18.0,
+      "frame_local_baseline": 18.0,
+      "page_local_baseline_pt": 304.0,
+      "expected_pt": 304,
+      "matches_native_sample_baseline": true
+    },
+    {
+      "page": 4,
+      "frame": "u85d",
+      "story": "u84b",
+      "FirstBaselineOffset": "FixedHeight",
+      "MinimumFirstBaselineOffset": 18.0,
+      "frame_local_baseline": 18.0,
+      "page_local_baseline_pt": 371.0,
+      "expected_pt": 371,
+      "matches_native_sample_baseline": true
+    },
+    {
+      "page": 4,
+      "frame": "u8bc",
+      "story": "u8aa",
+      "FirstBaselineOffset": "FixedHeight",
+      "MinimumFirstBaselineOffset": 18.0,
+      "frame_local_baseline": 18.0,
+      "page_local_baseline_pt": 438.0,
+      "expected_pt": 438,
+      "matches_native_sample_baseline": true
+    },
+    {
+      "page": 4,
+      "frame": "u91b",
+      "story": "u909",
+      "FirstBaselineOffset": "FixedHeight",
+      "MinimumFirstBaselineOffset": 18.0,
+      "frame_local_baseline": 18.0,
+      "page_local_baseline_pt": 505.0,
+      "expected_pt": 505,
+      "matches_native_sample_baseline": true
+    },
+    {
+      "page": 5,
+      "frame": "ua19",
+      "story": "ua07",
+      "FirstBaselineOffset": "FixedHeight",
+      "MinimumFirstBaselineOffset": 18.0,
+      "frame_local_baseline": 18.0,
+      "page_local_baseline_pt": 170.0,
+      "expected_pt": 170,
+      "matches_native_sample_baseline": true
+    },
+    {
+      "page": 5,
+      "frame": "ua78",
+      "story": "ua66",
+      "FirstBaselineOffset": "FixedHeight",
+      "MinimumFirstBaselineOffset": 18.0,
+      "frame_local_baseline": 18.0,
+      "page_local_baseline_pt": 237.0,
+      "expected_pt": 237,
+      "matches_native_sample_baseline": true
+    },
+    {
+      "page": 5,
+      "frame": "uad7",
+      "story": "uac5",
+      "FirstBaselineOffset": "FixedHeight",
+      "MinimumFirstBaselineOffset": 18.0,
+      "frame_local_baseline": 18.0,
+      "page_local_baseline_pt": 304.0,
+      "expected_pt": 304,
+      "matches_native_sample_baseline": true
+    },
+    {
+      "page": 5,
+      "frame": "ub36",
+      "story": "ub24",
+      "FirstBaselineOffset": "FixedHeight",
+      "MinimumFirstBaselineOffset": 18.0,
+      "frame_local_baseline": 18.0,
+      "page_local_baseline_pt": 371.0,
+      "expected_pt": 371,
+      "matches_native_sample_baseline": true
+    },
+    {
+      "page": 5,
+      "frame": "ub95",
+      "story": "ub83",
+      "FirstBaselineOffset": "FixedHeight",
+      "MinimumFirstBaselineOffset": 18.0,
+      "frame_local_baseline": 18.0,
+      "page_local_baseline_pt": 438.0,
+      "expected_pt": 438,
+      "matches_native_sample_baseline": true
+    },
+    {
+      "page": 5,
+      "frame": "ubf4",
+      "story": "ube2",
+      "FirstBaselineOffset": "FixedHeight",
+      "MinimumFirstBaselineOffset": 18.0,
+      "frame_local_baseline": 18.0,
+      "page_local_baseline_pt": 505.0,
+      "expected_pt": 505,
+      "matches_native_sample_baseline": true
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "status": "passed",
+  "edition": "Alignment",
+  "print_sha256": "8576ca3a4751722d16ca0b8b5e922589a0e1df822fc547c35e0f40f10250c278",
+  "method": "Viewed actual current Alignment first-sheet front/back rasters and all14-face contact sheet. Contact sheet checks orientation, placement and current-edition anchors; everypage content is separately compared to fresh source numerically.",
+  "images": [
+    "../output/A3_Side_01.png",
+    "../output/A3_Side_02.png",
+    "../output/A3_All_14_Faces.jpg"
+  ],
+  "first_front": {
+    "pair": [
+      28,
+      1
+    ],
+    "back_cover_left_front_cover_right": true,
+    "current_back_cover_narrower_symmetric_content_block_visible": true,
+    "cover_photo_present": true,
+    "upright": true
+  },
+  "first_back": {
+    "pair": [
+      2,
+      27
+    ],
+    "contents_left_last_inside_page_right": true,
+    "visible_folios": [
+      "01",
+      "26"
+    ],
+    "upright": true
+  },
+  "all14_face_overview": {
+    "seven_rows_front_back_pairs": true,
+    "all_faces_upright": true,
+    "current_four_jinsim_intro_diagrams_visible": true,
+    "pink_page8_stops_at_fold": true,
+    "crop_marks_and_rulers_visible": true
+  },
+  "physical_printer_test": false,
+  "native_Adobe_verification": false
+}

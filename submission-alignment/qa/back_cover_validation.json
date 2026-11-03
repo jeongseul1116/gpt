@@ -1,0 +1,268 @@
+{
+  "status": "applied",
+  "changed_member": "Spreads/Spread_u62e5.xml",
+  "physical_page": 28,
+  "reference": "explicit symmetric14mm back-cover margins, independent of page side",
+  "target_grid_page_pt": [
+    39.68503937,
+    379.84256063
+  ],
+  "grid_width_pt": 340.15752125999995,
+  "symmetric_margin_pt": 39.68503937,
+  "margin_preferences_before": {
+    "ColumnCount": "1",
+    "ColumnGutter": "12",
+    "Top": "28.34645669",
+    "Bottom": "28.34645669",
+    "Left": "28.34645669",
+    "Right": "39.68503937",
+    "ColumnDirection": "Horizontal",
+    "ColumnsPositions": "0 351.49610394"
+  },
+  "margin_preferences_after": {
+    "ColumnCount": "1",
+    "ColumnGutter": "12",
+    "Top": "28.34645669",
+    "Bottom": "28.34645669",
+    "Left": "39.68503937",
+    "Right": "39.68503937",
+    "ColumnDirection": "Horizontal",
+    "ColumnsPositions": "0 340.15752126"
+  },
+  "horizontal_translation_pt": 11.338582669999965,
+  "horizontal_translation_mm": 3.9999999974722096,
+  "page_items": 12,
+  "changes": [
+    {
+      "self": "u62ec",
+      "tag": "Rectangle",
+      "before_page_bounds_pt": [
+        28.346456700000033,
+        36.0,
+        379.8425197,
+        36.69999999999999
+      ],
+      "after_page_bounds_pt": [
+        39.68503937000003,
+        36.0,
+        379.84256063000004,
+        36.69999999999999
+      ],
+      "resized_for_symmetric_grid": true,
+      "right_bound_pt": 379.84256063000004
+    },
+    {
+      "self": "u62ed",
+      "tag": "Rectangle",
+      "before_page_bounds_pt": [
+        28.346456700000033,
+        49.00000000000003,
+        102.34645670000003,
+        65.00000000000003
+      ],
+      "after_page_bounds_pt": [
+        39.68503937000003,
+        49.00000000000003,
+        113.68503937000003,
+        65.00000000000003
+      ],
+      "resized_for_symmetric_grid": false,
+      "right_bound_pt": 113.68503937000003
+    },
+    {
+      "self": "u6301",
+      "tag": "TextFrame",
+      "before_page_bounds_pt": [
+        33.34645670000003,
+        51.00000000000003,
+        97.34645670000003,
+        63.00000000000003
+      ],
+      "after_page_bounds_pt": [
+        44.68503937000003,
+        51.00000000000003,
+        108.68503937000003,
+        63.00000000000003
+      ],
+      "resized_for_symmetric_grid": false,
+      "right_bound_pt": 108.68503937000003
+    },
+    {
+      "self": "u6317",
+      "tag": "TextFrame",
+      "before_page_bounds_pt": [
+        28.346456700000033,
+        76.00000000000003,
+        379.8425197,
+        110.00000000000003
+      ],
+      "after_page_bounds_pt": [
+        39.68503937000003,
+        76.00000000000003,
+        379.84256063000004,
+        110.00000000000003
+      ],
+      "resized_for_symmetric_grid": true,
+      "right_bound_pt": 379.84256063000004
+    },
+    {
+      "self": "u632d",
+      "tag": "TextFrame",
+      "before_page_bounds_pt": [
+        28.346456700000033,
+        116.00000000000003,
+        379.8425197,
+        146.00000000000003
+      ],
+      "after_page_bounds_pt": [
+        39.68503937000003,
+        116.00000000000003,
+        379.84256063000004,
+        146.00000000000003
+      ],
+      "resized_for_symmetric_grid": true,
+      "right_bound_pt": 379.84256063000004
+    },
+    {
+      "self": "u6330",
+      "tag": "Rectangle",
+      "before_page_bounds_pt": [
+        28.346456700000033,
+        173.00000000000003,
+        379.8425197,
+        249.00000000000003
+      ],
+      "after_page_bounds_pt": [
+        39.68503937000003,
+        173.00000000000003,
+        379.84256063000004,
+        249.00000000000003
+      ],
+      "resized_for_symmetric_grid": true,
+      "right_bound_pt": 379.84256063000004
+    },
+    {
+      "self": "u6344",
+      "tag": "TextFrame",
+      "before_page_bounds_pt": [
+        40.34645670000003,
+        185.00000000000003,
+        367.8425197,
+        243.00000000000003
+      ],
+      "after_page_bounds_pt": [
+        51.68503937000003,
+        185.00000000000003,
+        367.84256063000004,
+        243.00000000000003
+      ],
+      "resized_for_symmetric_grid": true,
+      "right_bound_pt": 367.84256063000004
+    },
+    {
+      "self": "u6347",
+      "tag": "Rectangle",
+      "before_page_bounds_pt": [
+        28.346456700000033,
+        272.0,
+        172.34645670000003,
+        288.0
+      ],
+      "after_page_bounds_pt": [
+        39.68503937000003,
+        272.0,
+        183.68503937000003,
+        288.0
+      ],
+      "resized_for_symmetric_grid": false,
+      "right_bound_pt": 183.68503937000003
+    },
+    {
+      "self": "u635b",
+      "tag": "TextFrame",
+      "before_page_bounds_pt": [
+        33.34645670000003,
+        274.0,
+        167.34645670000003,
+        286.0
+      ],
+      "after_page_bounds_pt": [
+        44.68503937000003,
+        274.0,
+        178.68503937000003,
+        286.0
+      ],
+      "resized_for_symmetric_grid": false,
+      "right_bound_pt": 178.68503937000003
+    },
+    {
+      "self": "u6371",
+      "tag": "TextFrame",
+      "before_page_bounds_pt": [
+        28.346456700000033,
+        315.0,
+        379.8425197,
+        333.0
+      ],
+      "after_page_bounds_pt": [
+        39.68503937000003,
+        315.0,
+        379.84256063000004,
+        333.0
+      ],
+      "resized_for_symmetric_grid": true,
+      "right_bound_pt": 379.84256063000004
+    },
+    {
+      "self": "u6387",
+      "tag": "TextFrame",
+      "before_page_bounds_pt": [
+        28.346456700000033,
+        348.0,
+        379.8425197,
+        513.0
+      ],
+      "after_page_bounds_pt": [
+        39.68503937000003,
+        348.0,
+        379.84256063000004,
+        513.0
+      ],
+      "resized_for_symmetric_grid": true,
+      "right_bound_pt": 379.84256063000004
+    },
+    {
+      "self": "u639d",
+      "tag": "TextFrame",
+      "before_page_bounds_pt": [
+        28.346456700000033,
+        532.0,
+        379.8425197,
+        553.0
+      ],
+      "after_page_bounds_pt": [
+        39.68503937000003,
+        532.0,
+        379.84256063000004,
+        553.0
+      ],
+      "resized_for_symmetric_grid": true,
+      "right_bound_pt": 379.84256063000004
+    }
+  ],
+  "stories_and_font_properties_unchanged": true,
+  "vertical_positions_unchanged": true,
+  "full_width_elements_resized": 8,
+  "narrow_badge_and_red_tag_widths_unchanged": true,
+  "panel_inner_padding_retained_pt": {
+    "badge": 5,
+    "yellow_panel": 12
+  },
+  "page_margins_explicitly_symmetric_14mm": true,
+  "no_cover_folio_added": true,
+  "native_Adobe_execution": false,
+  "source_sha256": "f8560813028317dc90844c011f98aa1f6c623e3eee9121120fedb41600bd59f6",
+  "only_back_cover_spread_changed": true,
+  "idempotent_translation": true,
+  "source_IDML_written": false
+}

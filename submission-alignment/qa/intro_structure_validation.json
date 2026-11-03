@@ -1,0 +1,421 @@
+{
+  "status": "passed",
+  "physical_page": 3,
+  "printed_page": 2,
+  "controlled_word": "진심",
+  "diagram_count": 4,
+  "diagrams": [
+    {
+      "font_key": "blackhan",
+      "word": "진심",
+      "size_pt": 56,
+      "origin_page_pt": [
+        48,
+        314
+      ],
+      "word_bounds_local_pt": [
+        2.24,
+        -42.56000000000002,
+        88.2,
+        1.7763568394002505e-15
+      ],
+      "actual_shaped_font_paths": true,
+      "methods": [
+        "counter_area",
+        "actual_stem_cross_section",
+        "common_baseline"
+      ],
+      "selected_character": "심",
+      "outer_contour": 5,
+      "counter_contour": 6,
+      "counter_bounds_pt": [
+        60.648,
+        -9.968,
+        77.672,
+        -7.56
+      ],
+      "stem_scan_pt": [
+        50.12,
+        -8.764,
+        60.648,
+        -8.764
+      ],
+      "measured_stem_thickness_pt": 10.528000000000006
+    },
+    {
+      "font_key": "sans",
+      "word": "진심",
+      "size_pt": 56,
+      "origin_page_pt": [
+        231,
+        314
+      ],
+      "word_bounds_local_pt": [
+        3.472,
+        -46.256,
+        95.816,
+        3.696000000000005
+      ],
+      "actual_shaped_font_paths": true,
+      "methods": [
+        "counter_area",
+        "actual_stem_cross_section",
+        "common_baseline"
+      ],
+      "selected_character": "심",
+      "outer_contour": 4,
+      "counter_contour": 5,
+      "counter_bounds_pt": [
+        67.648,
+        -10.864,
+        91.28,
+        -0.112
+      ],
+      "stem_scan_pt": [
+        63.112,
+        -5.488,
+        67.648,
+        -5.488
+      ],
+      "measured_stem_thickness_pt": 4.535999999999994
+    },
+    {
+      "font_key": "gugi",
+      "word": "진심",
+      "size_pt": 48,
+      "origin_page_pt": [
+        48,
+        456
+      ],
+      "word_bounds_local_pt": [
+        1.090285714285714,
+        -39.552,
+        89.04,
+        2.832
+      ],
+      "actual_shaped_font_paths": true,
+      "methods": [
+        "actual_advance_cells",
+        "actual_jamo_component_bounds",
+        "interglyph_space_plane",
+        "common_baseline"
+      ],
+      "advance_boundaries_pt": [
+        0,
+        45.648,
+        91.296
+      ],
+      "advance_reference_vertical_extent_pt": [
+        -41.552,
+        9.828
+      ],
+      "glyph_ink_bounds_pt": [
+        [
+          1.090285714285714,
+          -39.552,
+          44.42431168831169,
+          2.352
+        ],
+        [
+          46.38933333333333,
+          -39.552,
+          89.04,
+          2.832
+        ]
+      ],
+      "jamo_components": [
+        {
+          "label": "진 초성",
+          "contour_indexes": [
+            0
+          ],
+          "bounds_pt": [
+            1.090285714285714,
+            -38.496,
+            28.974987341772152,
+            -5.384661654135338
+          ]
+        },
+        {
+          "label": "진 중성",
+          "contour_indexes": [
+            2
+          ],
+          "bounds_pt": [
+            34.224,
+            -39.552,
+            39.936,
+            -10.08
+          ]
+        },
+        {
+          "label": "진 받침",
+          "contour_indexes": [
+            1
+          ],
+          "bounds_pt": [
+            14.88,
+            -14.688,
+            44.42431168831169,
+            2.352
+          ]
+        },
+        {
+          "label": "심 초성",
+          "contour_indexes": [
+            4
+          ],
+          "bounds_pt": [
+            46.38933333333333,
+            -38.59490909090909,
+            72.41066666666666,
+            -5.3494153846153845
+          ]
+        },
+        {
+          "label": "심 중성",
+          "contour_indexes": [
+            6
+          ],
+          "bounds_pt": [
+            79.92,
+            -39.552,
+            85.632,
+            -15.744
+          ]
+        },
+        {
+          "label": "심 받침",
+          "contour_indexes": [
+            3,
+            5
+          ],
+          "bounds_pt": [
+            60.528,
+            -14.688,
+            89.04,
+            2.832
+          ]
+        }
+      ],
+      "measured_interglyph_ink_gap_pt": 1.9650216450216433,
+      "advance_box_height_is_reference_extent_not_claimed_em": true
+    },
+    {
+      "font_key": "singleday",
+      "word": "진심",
+      "size_pt": 48,
+      "origin_page_pt": [
+        231,
+        456
+      ],
+      "word_bounds_local_pt": [
+        3.562,
+        -33.469,
+        71.953,
+        7.828
+      ],
+      "actual_shaped_font_paths": true,
+      "methods": [
+        "actual_advance_cells",
+        "actual_jamo_component_bounds",
+        "interglyph_space_plane",
+        "common_baseline"
+      ],
+      "advance_boundaries_pt": [
+        0,
+        38.625,
+        77.25
+      ],
+      "advance_reference_vertical_extent_pt": [
+        -41.552,
+        9.828
+      ],
+      "glyph_ink_bounds_pt": [
+        [
+          3.562,
+          -33.469,
+          34.781,
+          4.312
+        ],
+        [
+          41.719,
+          -33.469,
+          71.953,
+          7.828
+        ]
+      ],
+      "jamo_components": [
+        {
+          "label": "진 초성",
+          "contour_indexes": [
+            0
+          ],
+          "bounds_pt": [
+            3.562,
+            -28.922,
+            20.016,
+            -10.641
+          ]
+        },
+        {
+          "label": "진 중성",
+          "contour_indexes": [
+            1
+          ],
+          "bounds_pt": [
+            28.734,
+            -33.469,
+            33.141,
+            -9.562
+          ]
+        },
+        {
+          "label": "진 받침",
+          "contour_indexes": [
+            2
+          ],
+          "bounds_pt": [
+            12.609,
+            -8.156,
+            34.781,
+            4.312
+          ]
+        },
+        {
+          "label": "심 초성",
+          "contour_indexes": [
+            3
+          ],
+          "bounds_pt": [
+            41.719,
+            -30.234,
+            59.203,
+            -11.109
+          ]
+        },
+        {
+          "label": "심 중성",
+          "contour_indexes": [
+            4
+          ],
+          "bounds_pt": [
+            67.359,
+            -33.469,
+            71.766,
+            -9.562
+          ]
+        },
+        {
+          "label": "심 받침",
+          "contour_indexes": [
+            5,
+            6
+          ],
+          "bounds_pt": [
+            49.734,
+            -7.359,
+            71.953,
+            7.828
+          ]
+        }
+      ],
+      "measured_interglyph_ink_gap_pt": 6.938000000000002,
+      "advance_box_height_is_reference_extent_not_claimed_em": true
+    }
+  ],
+  "story_changes": [
+    {
+      "member": "Stories/Story_earlyVisualStory_section1.xml",
+      "before": "01  같은 단어, 다른 목소리\n",
+      "after": "01  획 두께와 속공간을 함께 읽기\n"
+    },
+    {
+      "member": "Stories/Story_earlyVisualStory_section2.xml",
+      "before": "02  끝의 모양이 말투를 만든다\n",
+      "after": "02  글자칸과 몸집이 바꾸는 말투\n"
+    },
+    {
+      "member": "Stories/Story_earlyVisualStory_blackhan_caption.xml",
+      "before": "굵은 획, 좁은 속공간.\n내겐 큰 외침.\n",
+      "after": "ㅁ 세로획 10.53pt, 좁은 속공간.\n내겐 큰소리로 외치는 진심.\n"
+    },
+    {
+      "member": "Stories/Story_earlyVisualStory_sans_caption.xml",
+      "before": "고른 획, 넓은 속공간.\n내겐 차분한 말.\n",
+      "after": "ㅁ 세로획 4.54pt, 넓은 속공간.\n내겐 차분히 건네는 진심.\n"
+    },
+    {
+      "member": "Stories/Story_earlyVisualStory_gugi_caption.xml",
+      "before": "떨어진 점과 끊긴 이음.\n내겐 기계 알림.\n",
+      "after": "칸마다 정돈된 초성·중성·받침.\n내겐 또박또박한 기계 알림.\n"
+    },
+    {
+      "member": "Stories/Story_earlyVisualStory_singleday_caption.xml",
+      "before": "둥근 획과 작은 하트.\n내겐 친구의 편지.\n",
+      "after": "칸 안에서 흔들리는 자소의 몸집.\n내겐 손으로 적은 친구의 메모.\n"
+    },
+    {
+      "member": "Stories/Story_u65b.xml",
+      "before": "검정=실제 글자 · 빨강=획·특징 · 분홍=속공간\n",
+      "after": "빨강=측정·자소 경계 / 분홍=속공간·빈틈 / 회색=글자칸\n"
+    }
+  ],
+  "removed_graphics": [
+    "earlyVisual_blackhan_feature",
+    "earlyVisual_blackhan_baseline",
+    "earlyVisual_blackhan_stem",
+    "earlyVisual_blackhan_cap0",
+    "earlyVisual_blackhan_cap1",
+    "earlyVisual_sans_feature",
+    "earlyVisual_sans_baseline",
+    "earlyVisual_sans_stem",
+    "earlyVisual_sans_cap0",
+    "earlyVisual_sans_cap1",
+    "earlyVisual_gugi_feature",
+    "earlyVisual_gugi_baseline",
+    "earlyVisual_singleday_feature",
+    "earlyVisual_singleday_baseline"
+  ],
+  "added_graphics": [
+    "earlyVisual_blackhan_baseline",
+    "earlyVisual_blackhan_feature",
+    "earlyVisual_blackhan_stem",
+    "earlyVisual_sans_baseline",
+    "earlyVisual_sans_feature",
+    "earlyVisual_sans_stem",
+    "earlyVisual_gugi_advance_cells",
+    "earlyVisual_gugi_interglyph_space",
+    "earlyVisual_gugi_baseline",
+    "earlyVisual_gugi_ink_boxes",
+    "earlyVisual_singleday_advance_cells",
+    "earlyVisual_singleday_interglyph_space",
+    "earlyVisual_singleday_baseline",
+    "earlyVisual_singleday_ink_boxes"
+  ],
+  "methods": [
+    "counter_area",
+    "stroke_thickness_gauge",
+    "advance_cell_grid",
+    "jamo_component_bounding_boxes",
+    "interglyph_space_plane",
+    "baseline"
+  ],
+  "no_kerning_adjustment_values_invented": true,
+  "all_shapes_internal_editable_vectors": true,
+  "preserved_incoming_intro_body": true,
+  "actual_Adobe_execution": false,
+  "validation_source": "Exact previouslyHarfBuzz-shaped font paths and measured advances from intro_contour_inventory.json; delivery module calls original real font engine.",
+  "changed_members": [
+    "Spreads/Spread_u1eb.xml",
+    "Stories/Story_u65b.xml",
+    "Stories/Story_earlyVisualStory_section1.xml",
+    "Stories/Story_earlyVisualStory_section2.xml",
+    "Stories/Story_earlyVisualStory_blackhan_caption.xml",
+    "Stories/Story_earlyVisualStory_sans_caption.xml",
+    "Stories/Story_earlyVisualStory_gugi_caption.xml",
+    "Stories/Story_earlyVisualStory_singleday_caption.xml"
+  ],
+  "all_ids_unique": true,
+  "designmap_byte_identical": true
+}

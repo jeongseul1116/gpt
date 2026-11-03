@@ -1,0 +1,587 @@
+{
+  "status": "passed",
+  "sample_word": "진심입니다",
+  "sample_texts_fonts_sizes_unchanged": true,
+  "editable_text_frames": 12,
+  "redundant_right_samples_removed": 12,
+  "removed_ids": [
+    "u770",
+    "u771",
+    "tfV20261103_u770_feature",
+    "tfV20261103_u770_leader",
+    "tfV20261103_u770_stem",
+    "u7cf",
+    "u7d0",
+    "tfV20261103_u7cf_feature",
+    "tfV20261103_u7cf_leader",
+    "u82e",
+    "u82f",
+    "tfV20261103_u82e_feature",
+    "tfV20261103_u82e_leader",
+    "u88d",
+    "u88e",
+    "tfV20261103_u88d_feature",
+    "tfV20261103_u88d_leader",
+    "u8ec",
+    "u8ed",
+    "tfV20261103_u8ec_feature",
+    "tfV20261103_u8ec_leader",
+    "u94b",
+    "u94c",
+    "tfV20261103_u94b_feature",
+    "tfV20261103_u94b_leader",
+    "ua49",
+    "ua4a",
+    "tfV20261103_ua49_feature",
+    "tfV20261103_ua49_leader",
+    "uaa8",
+    "uaa9",
+    "tfV20261103_uaa8_feature",
+    "tfV20261103_uaa8_leader",
+    "ub07",
+    "ub08",
+    "tfV20261103_ub07_feature",
+    "tfV20261103_ub07_leader",
+    "ub66",
+    "ub67",
+    "tfV20261103_ub66_feature",
+    "tfV20261103_ub66_leader",
+    "ubc5",
+    "ubc6",
+    "tfV20261103_ubc5_feature",
+    "tfV20261103_ubc5_leader",
+    "uc24",
+    "uc25",
+    "tfV20261103_uc24_feature",
+    "tfV20261103_uc24_leader"
+  ],
+  "added_ids": [
+    "existingSample20261103_u740_actual_feature",
+    "existingSample20261103_u740_stem_measure",
+    "existingSample20261103_u79f_actual_feature",
+    "existingSample20261103_u79f_actual_gap",
+    "existingSample20261103_u7fe_actual_feature",
+    "existingSample20261103_u7fe_advance_center",
+    "existingSample20261103_u85d_actual_feature",
+    "existingSample20261103_u85d_heart_detail",
+    "existingSample20261103_u85d_heart_detail_leader",
+    "existingSample20261103_u8bc_actual_feature",
+    "existingSample20261103_u91b_actual_feature",
+    "existingSample20261103_u91b_actual_pixel_grid",
+    "existingSample20261103_ua19_actual_feature",
+    "existingSample20261103_ua19_advance_plane",
+    "existingSample20261103_ua19_advance_boundaries",
+    "existingSample20261103_ua78_actual_feature",
+    "existingSample20261103_ua78_actual_curve_ring",
+    "existingSample20261103_uad7_actual_feature",
+    "existingSample20261103_uad7_actual_ink_boxes",
+    "existingSample20261103_uad7_baseline",
+    "existingSample20261103_ub36_actual_feature",
+    "existingSample20261103_ub36_actual_straight_edge",
+    "existingSample20261103_ub95_actual_feature",
+    "existingSample20261103_ub95_actual_stroke_probes",
+    "existingSample20261103_ubf4_actual_feature",
+    "existingSample20261103_ubf4_actual_stroke_probes"
+  ],
+  "caption_change": {
+    "story": "Stories/Story_u744.xml",
+    "before": "형태: 두꺼운 세로획과 '만'의 좁은 ㅁ 속공간",
+    "after": "형태: 두꺼운 세로획과 '심'의 좁은 ㅁ 속공간"
+  },
+  "sample_baseline_exact_in_native_IDML": true,
+  "fixed_baseline_spec": "085_textframe_preference_properties_as_attributes.md: FirstBaselineOffset=FixedHeight; MinimumFirstBaselineOffset=18",
+  "records": [
+    {
+      "font_key": "blackhan",
+      "sample_frame": "u740",
+      "sample_story": "Stories/Story_u72e.xml",
+      "word": "진심입니다",
+      "point_size": 18,
+      "sample_page_x": 36.34645670000003,
+      "sample_top_y": 152,
+      "frame_width_pt": 335.496063,
+      "frame_height_pt": 24,
+      "fixed_first_baseline_offset_pt": 18,
+      "baseline_page_y": 170,
+      "methods": [
+        {
+          "method": "actual_contour_highlight",
+          "contours": [
+            6
+          ],
+          "color": "pink",
+          "feature": "'심'의 ㅁ 안쪽 실제 속공간"
+        },
+        {
+          "method": "actual_stroke_cross_section",
+          "horizontal_scan_y": -2.817,
+          "width_pt": 3.3840000000000003,
+          "interval": [
+            16.11,
+            19.494
+          ]
+        }
+      ],
+      "annotation_bounds_relative_to_baseline": [
+        16.11,
+        -3.5170000000000003,
+        24.966,
+        -2.117
+      ],
+      "native_baseline_property": "MinimumFirstBaselineOffset"
+    },
+    {
+      "font_key": "gugi",
+      "sample_frame": "u79f",
+      "sample_story": "Stories/Story_u78d.xml",
+      "word": "진심입니다",
+      "point_size": 18,
+      "sample_page_x": 36.34645670000003,
+      "sample_top_y": 219,
+      "frame_width_pt": 335.496063,
+      "frame_height_pt": 24,
+      "fixed_first_baseline_offset_pt": 18,
+      "baseline_page_y": 237,
+      "methods": [
+        {
+          "method": "actual_contour_highlight",
+          "contours": [
+            12
+          ],
+          "color": "red",
+          "feature": "'다'의 ㅏ에서 떨어진 실제 둥근 점"
+        },
+        {
+          "method": "actual_ink_gap_measure",
+          "gap_pt": 0.5939999999999941,
+          "scan_y": -8.405999999999999
+        }
+      ],
+      "annotation_bounds_relative_to_baseline": [
+        81.9,
+        -9.792,
+        85.266,
+        -7.02
+      ],
+      "native_baseline_property": "MinimumFirstBaselineOffset"
+    },
+    {
+      "font_key": "kirang",
+      "sample_frame": "u7fe",
+      "sample_story": "Stories/Story_u7ec.xml",
+      "word": "진심입니다",
+      "point_size": 18,
+      "sample_page_x": 36.34645670000003,
+      "sample_top_y": 286,
+      "frame_width_pt": 335.496063,
+      "frame_height_pt": 24,
+      "fixed_first_baseline_offset_pt": 18,
+      "baseline_page_y": 304,
+      "methods": [
+        {
+          "method": "actual_contour_highlight",
+          "contours": [
+            0
+          ],
+          "color": "red",
+          "feature": "'진'의 기울고 고르지 않은 ㅈ"
+        },
+        {
+          "method": "advance_cell_center_reference",
+          "advance_pt": 11.7,
+          "reference_x": 5.85
+        }
+      ],
+      "annotation_bounds_relative_to_baseline": [
+        1.1,
+        -14.948,
+        7.92,
+        1.829
+      ],
+      "native_baseline_property": "MinimumFirstBaselineOffset"
+    },
+    {
+      "font_key": "singleday",
+      "sample_frame": "u85d",
+      "sample_story": "Stories/Story_u84b.xml",
+      "word": "진심입니다",
+      "point_size": 18,
+      "sample_page_x": 36.34645670000003,
+      "sample_top_y": 353,
+      "frame_width_pt": 335.496063,
+      "frame_height_pt": 24,
+      "fixed_first_baseline_offset_pt": 18,
+      "baseline_page_y": 371,
+      "methods": [
+        {
+          "method": "actual_contour_highlight",
+          "contours": [
+            17
+          ],
+          "color": "red",
+          "feature": "'다'의 ㅏ 위 실제 하트 모양 장식"
+        },
+        {
+          "method": "actual_feature_enlargement",
+          "magnification": 3.0,
+          "source_contours": [
+            17
+          ],
+          "detail_center": [
+            132,
+            -8
+          ]
+        }
+      ],
+      "annotation_bounds_relative_to_baseline": [
+        64.266,
+        -12.166999999999998,
+        137.748,
+        -3.833000000000002
+      ],
+      "native_baseline_property": "MinimumFirstBaselineOffset"
+    },
+    {
+      "font_key": "bawpic",
+      "sample_frame": "u8bc",
+      "sample_story": "Stories/Story_u8aa.xml",
+      "word": "진심입니다",
+      "point_size": 18,
+      "sample_page_x": 36.34645670000003,
+      "sample_top_y": 420,
+      "frame_width_pt": 335.496063,
+      "frame_height_pt": 24,
+      "fixed_first_baseline_offset_pt": 18,
+      "baseline_page_y": 438,
+      "methods": [
+        {
+          "method": "actual_contour_highlight",
+          "contours": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "color": "red",
+          "feature": "'진'의 패인 윤곽과 떨어진 조각"
+        }
+      ],
+      "annotation_bounds_relative_to_baseline": [
+        0.18,
+        -13.23,
+        12.312,
+        2.934
+      ],
+      "native_baseline_property": "MinimumFirstBaselineOffset"
+    },
+    {
+      "font_key": "pixel",
+      "sample_frame": "u91b",
+      "sample_story": "Stories/Story_u909.xml",
+      "word": "진심입니다",
+      "point_size": 18,
+      "sample_page_x": 36.34645670000003,
+      "sample_top_y": 487,
+      "frame_width_pt": 335.496063,
+      "frame_height_pt": 24,
+      "fixed_first_baseline_offset_pt": 18,
+      "baseline_page_y": 505,
+      "methods": [
+        {
+          "method": "actual_contour_highlight",
+          "contours": [
+            0
+          ],
+          "color": "red",
+          "feature": "'진'의 ㅈ에서10폰트단위로 계단처럼 꺾이는 윤곽"
+        },
+        {
+          "method": "font_unit_lattice",
+          "step_pt": 1.125,
+          "step_em": 0.0625,
+          "glyph": "진"
+        }
+      ],
+      "annotation_bounds_relative_to_baseline": [
+        1.125,
+        -13.5,
+        15.75,
+        1.125
+      ],
+      "native_baseline_property": "MinimumFirstBaselineOffset"
+    },
+    {
+      "font_key": "gungseo",
+      "sample_frame": "ua19",
+      "sample_story": "Stories/Story_ua07.xml",
+      "word": "진심입니다",
+      "point_size": 18,
+      "sample_page_x": 47.68503937,
+      "sample_top_y": 152,
+      "frame_width_pt": 335.496063,
+      "frame_height_pt": 24,
+      "fixed_first_baseline_offset_pt": 18,
+      "baseline_page_y": 170,
+      "methods": [
+        {
+          "method": "actual_contour_highlight",
+          "contours": [
+            0
+          ],
+          "color": "red",
+          "feature": "'진'의 눌렀다 가늘어지는 ㅈ 붓획"
+        },
+        {
+          "method": "actual_advance_cell_plane",
+          "first_character_advance_pt": 18.0,
+          "second_prefix_advance_pt": 36.0
+        }
+      ],
+      "annotation_bounds_relative_to_baseline": [
+        0.0,
+        -14.284,
+        36.0,
+        2.638
+      ],
+      "native_baseline_property": "MinimumFirstBaselineOffset"
+    },
+    {
+      "font_key": "jua",
+      "sample_frame": "ua78",
+      "sample_story": "Stories/Story_ua66.xml",
+      "word": "진심입니다",
+      "point_size": 18,
+      "sample_page_x": 47.68503937,
+      "sample_top_y": 219,
+      "frame_width_pt": 335.496063,
+      "frame_height_pt": 24,
+      "fixed_first_baseline_offset_pt": 18,
+      "baseline_page_y": 237,
+      "methods": [
+        {
+          "method": "actual_contour_highlight",
+          "contours": [
+            0
+          ],
+          "color": "red",
+          "feature": "'진'의 둥근 모서리와 둥근 끝을 가진 ㅈ"
+        },
+        {
+          "method": "actual_cubic_rounding_ring",
+          "curve_midpoint": [
+            6.08175,
+            -11.592000000000002
+          ],
+          "ring_radius_pt": 1.6
+        }
+      ],
+      "annotation_bounds_relative_to_baseline": [
+        0.36,
+        -13.626,
+        9.3285,
+        -5.94
+      ],
+      "native_baseline_property": "MinimumFirstBaselineOffset"
+    },
+    {
+      "font_key": "brush",
+      "sample_frame": "uad7",
+      "sample_story": "Stories/Story_uac5.xml",
+      "word": "진심입니다",
+      "point_size": 18,
+      "sample_page_x": 47.68503937,
+      "sample_top_y": 286,
+      "frame_width_pt": 335.496063,
+      "frame_height_pt": 24,
+      "fixed_first_baseline_offset_pt": 18,
+      "baseline_page_y": 304,
+      "methods": [
+        {
+          "method": "actual_contour_highlight",
+          "contours": [
+            1,
+            3
+          ],
+          "color": "red",
+          "feature": "'진'의 가늘어지는 두 붓획"
+        },
+        {
+          "method": "true_ink_boxes_and_baseline",
+          "per_glyph_bounds": [
+            [
+              0.32142857142857145,
+              -9.182571428571428,
+              12.556285714285714,
+              1.7136
+            ],
+            [
+              12.114,
+              -9.684,
+              22.50257142857143,
+              3.366
+            ],
+            [
+              22.878,
+              -10.908,
+              31.086,
+              4.523684210526316
+            ],
+            [
+              32.82,
+              -7.686,
+              40.035,
+              0.522
+            ],
+            [
+              41.13,
+              -9.0855,
+              52.542,
+              0.576
+            ]
+          ]
+        }
+      ],
+      "annotation_bounds_relative_to_baseline": [
+        0.0,
+        -10.908,
+        52.74,
+        4.523684210526316
+      ],
+      "native_baseline_property": "MinimumFirstBaselineOffset"
+    },
+    {
+      "font_key": "YES24",
+      "sample_frame": "ub36",
+      "sample_story": "Stories/Story_ub24.xml",
+      "word": "진심입니다",
+      "point_size": 18,
+      "sample_page_x": 47.68503937,
+      "sample_top_y": 353,
+      "frame_width_pt": 335.496063,
+      "frame_height_pt": 24,
+      "fixed_first_baseline_offset_pt": 18,
+      "baseline_page_y": 371,
+      "methods": [
+        {
+          "method": "actual_contour_highlight",
+          "contours": [
+            14
+          ],
+          "color": "red",
+          "feature": "'다'의 직각과 두꺼운 ㄷ 세로획"
+        },
+        {
+          "method": "actual_straight_edge_probe",
+          "edge_start": [
+            63.612,
+            -14.598
+          ],
+          "edge_end": [
+            63.612,
+            1.17
+          ],
+          "edge_length_pt": 15.768,
+          "right_angle_marker_intentionally_absent": true,
+          "reason": "Actual font corners are subtly rounded; no fabricated90-degree marker."
+        }
+      ],
+      "annotation_bounds_relative_to_baseline": [
+        62.812000000000005,
+        -14.598,
+        75.942,
+        1.17
+      ],
+      "native_baseline_property": "MinimumFirstBaselineOffset"
+    },
+    {
+      "font_key": "sans",
+      "sample_frame": "ub95",
+      "sample_story": "Stories/Story_ub83.xml",
+      "word": "진심입니다",
+      "point_size": 18,
+      "sample_page_x": 47.68503937,
+      "sample_top_y": 420,
+      "frame_width_pt": 335.496063,
+      "frame_height_pt": 24,
+      "fixed_first_baseline_offset_pt": 18,
+      "baseline_page_y": 438,
+      "methods": [
+        {
+          "method": "actual_contour_highlight",
+          "contours": [
+            14
+          ],
+          "color": "red",
+          "feature": "'다'의 고른 굵기와 장식 없는 ㅏ 끝"
+        },
+        {
+          "method": "vertical_horizontal_stroke_cross_sections",
+          "character": "니",
+          "vertical_stroke_pt": 1.475999999999999,
+          "horizontal_stroke_pt": 1.2982188685032332,
+          "vertical_to_horizontal_ratio": 1.1369423413955897
+        }
+      ],
+      "annotation_bounds_relative_to_baseline": [
+        55.618,
+        -14.886,
+        82.314,
+        1.422
+      ],
+      "native_baseline_property": "MinimumFirstBaselineOffset"
+    },
+    {
+      "font_key": "serif",
+      "sample_frame": "ubf4",
+      "sample_story": "Stories/Story_ube2.xml",
+      "word": "진심입니다",
+      "point_size": 18,
+      "sample_page_x": 47.68503937,
+      "sample_top_y": 487,
+      "frame_width_pt": 335.496063,
+      "frame_height_pt": 24,
+      "fixed_first_baseline_offset_pt": 18,
+      "baseline_page_y": 505,
+      "methods": [
+        {
+          "method": "actual_contour_highlight",
+          "contours": [
+            0
+          ],
+          "color": "red",
+          "feature": "'진'의 굵은 ㅣ 세로획과 끝의 돌출"
+        },
+        {
+          "method": "vertical_horizontal_stroke_cross_sections",
+          "character": "니",
+          "vertical_stroke_pt": 1.2779999999999916,
+          "horizontal_stroke_pt": 0.9749128087675403,
+          "vertical_to_horizontal_ratio": 1.3108864592881966
+        }
+      ],
+      "annotation_bounds_relative_to_baseline": [
+        11.718,
+        -15.354,
+        66.69,
+        -2.574
+      ],
+      "native_baseline_property": "MinimumFirstBaselineOffset"
+    }
+  ],
+  "actual_Adobe_execution": false,
+  "additional_caption_changes": [
+    {
+      "story": "Stories/Story_ub3a.xml",
+      "after": "형태: 직선적인 골격과 두꺼운 세로획"
+    },
+    {
+      "story": "Stories/Story_ub50.xml",
+      "after": "두꺼운 직선과 반듯한 골격이 답장을 단단히 묶어, 나는 짧은 말도 선언처럼 읽는다."
+    }
+  ],
+  "caption_update_note": "Geometry validation passed before two literal caption updates; integrated module will include these exact replacements."
+}

@@ -1,0 +1,1725 @@
+{
+  "status": "passed",
+  "source": "/workspace/round1_revision_20261103/design/Meme_Font_Book_Round1_28p.idml",
+  "source_sha256": "f8560813028317dc90844c011f98aa1f6c623e3eee9121120fedb41600bd59f6",
+  "candidate": "/workspace/alignment_repair_20261103/design/Meme_Font_Book_Alignment_28p.idml",
+  "candidate_sha256": "30bf5d5ee87b66efdddc1c1521c16078a8f36b0930b45f0010e8a391121ffad4",
+  "checks": [
+    {
+      "check": "Package membership retained",
+      "passed": true,
+      "evidence": {
+        "members": 1071
+      }
+    },
+    {
+      "check": "Manifest hash matches actual candidate",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "Changed archive members declared",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "Native designmap and identification PI byte-identical",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "Story reference order valid",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "All object/resource references resolve",
+      "passed": true,
+      "evidence": {
+        "references": 12328,
+        "missing": []
+      }
+    },
+    {
+      "check": "StoryList resolves",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "Font/style/color/preference resources byte-identical",
+      "passed": true,
+      "evidence": [
+        "Resources/Fonts.xml",
+        "Resources/Graphic.xml",
+        "Resources/Preferences.xml",
+        "Resources/Styles.xml"
+      ]
+    },
+    {
+      "check": "28 pages and1046 frames/stories retained",
+      "passed": true,
+      "evidence": {
+        "pages": 28,
+        "frames": 1046
+      }
+    },
+    {
+      "check": "Page structure unchanged except intended back-cover margins",
+      "passed": true,
+      "evidence": []
+    },
+    {
+      "check": "Embedded cover image and placement preserved",
+      "passed": true,
+      "evidence": [
+        {
+          "id": "u1e3",
+          "payload_identical": true,
+          "bytes": 922981,
+          "sha256": "b8a68655e74748ada19123724d935f88fe9efa2b22c411a9537e8829821d7f3f",
+          "all_attributes_identical": true
+        }
+      ]
+    },
+    {
+      "check": "No external image assets introduced",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "All23 user-reviewed usage blocks byte-identical to approvedRound1",
+      "passed": true,
+      "evidence": {
+        "entries": 15,
+        "blocks": 23
+      }
+    },
+    {
+      "check": "Redundant 가만히 removed from all content and item names",
+      "passed": true,
+      "evidence": []
+    },
+    {
+      "check": "All21 old words and associated markers removed",
+      "passed": true,
+      "evidence": {
+        "main_words": 21,
+        "existing_removed_objects": 86
+      }
+    },
+    {
+      "check": "All36 footer analysis frames align to actual right-page grid",
+      "passed": true,
+      "evidence": [
+        {
+          "member": "Spreads/Spread_u13d8.xml",
+          "rows": [
+            {
+              "frame": "u1b2c",
+              "bounds_page_pt": [
+                39.68503937,
+                499.0,
+                391.18110236999996,
+                510.0
+              ],
+              "expected": [
+                39.68503937,
+                499.0,
+                391.18110237,
+                510.0
+              ],
+              "column_width": "351.496063",
+              "passed": true
+            },
+            {
+              "frame": "u1b42",
+              "bounds_page_pt": [
+                39.68503937,
+                511.0,
+                391.18110236999996,
+                523.0
+              ],
+              "expected": [
+                39.68503937,
+                511.0,
+                391.18110237,
+                523.0
+              ],
+              "column_width": "351.496063",
+              "passed": true
+            },
+            {
+              "frame": "u1b58",
+              "bounds_page_pt": [
+                39.68503937,
+                524.0,
+                391.18110236999996,
+                548.0
+              ],
+              "expected": [
+                39.68503937,
+                524.0,
+                391.18110237,
+                548.0
+              ],
+              "column_width": "351.496063",
+              "passed": true
+            },
+            {
+              "frame": "u1b6e",
+              "bounds_page_pt": [
+                39.68503937,
+                549.0,
+                391.18110236999996,
+                561.0
+              ],
+              "expected": [
+                39.68503937,
+                549.0,
+                391.18110237,
+                561.0
+              ],
+              "column_width": "351.496063",
+              "passed": true
+            }
+          ],
+          "passed": true,
+          "old_y_positions": [
+            499.0,
+            511.0,
+            524.0,
+            549.0
+          ]
+        },
+        {
+          "member": "Spreads/Spread_u1b71.xml",
+          "rows": [
+            {
+              "frame": "u22c5",
+              "bounds_page_pt": [
+                39.68503937,
+                499.0,
+                391.18110236999996,
+                510.0
+              ],
+              "expected": [
+                39.68503937,
+                499.0,
+                391.18110237,
+                510.0
+              ],
+              "column_width": "351.496063",
+              "passed": true
+            },
+            {
+              "frame": "u22db",
+              "bounds_page_pt": [
+                39.68503937,
+                511.0,
+                391.18110236999996,
+                523.0
+              ],
+              "expected": [
+                39.68503937,
+                511.0,
+                391.18110237,
+                523.0
+              ],
+              "column_width": "351.496063",
+              "passed": true
+            },
+            {
+              "frame": "u22f1",
+              "bounds_page_pt": [
+                39.68503937,
+                524.0,
+                391.18110236999996,
+                548.0
+              ],
+              "expected": [
+                39.68503937,
+                524.0,
+                391.18110237,
+                548.0
+              ],
+              "column_width": "351.496063",
+              "passed": true
+            },
+            {
+              "frame": "u2307",
+              "bounds_page_pt": [
+                39.68503937,
+                549.0,
+                391.18110236999996,
+                561.0
+              ],
+              "expected": [
+                39.68503937,
+                549.0,
+                391.18110237,
+                561.0
+              ],
+              "column_width": "351.496063",
+              "passed": true
+            }
+          ],
+          "passed": true,
+          "old_y_positions": [
+            499.0,
+            511.0,
+            524.0,
+            549.0
+          ]
+        },
+        {
+          "member": "Spreads/Spread_u230a.xml",
+          "rows": [
+            {
+              "frame": "u2a5e",
+              "bounds_page_pt": [
+                39.68503937,
+                499.0,
+                391.18110236999996,
+                510.0
+              ],
+              "expected": [
+                39.68503937,
+                499.0,
+                391.18110237,
+                510.0
+              ],
+              "column_width": "351.496063",
+              "passed": true
+            },
+            {
+              "frame": "u2a74",
+              "bounds_page_pt": [
+                39.68503937,
+                511.0,
+                391.18110236999996,
+                523.0
+              ],
+              "expected": [
+                39.68503937,
+                511.0,
+                391.18110237,
+                523.0
+              ],
+              "column_width": "351.496063",
+              "passed": true
+            },
+            {
+              "frame": "u2a8a",
+              "bounds_page_pt": [
+                39.68503937,
+                524.0,
+                391.18110236999996,
+                548.0
+              ],
+              "expected": [
+                39.68503937,
+                524.0,
+                391.18110237,
+                548.0
+              ],
+              "column_width": "351.496063",
+              "passed": true
+            },
+            {
+              "frame": "u2aa0",
+              "bounds_page_pt": [
+                39.68503937,
+                549.0,
+                391.18110236999996,
+                561.0
+              ],
+              "expected": [
+                39.68503937,
+                549.0,
+                391.18110237,
+                561.0
+              ],
+              "column_width": "351.496063",
+              "passed": true
+            }
+          ],
+          "passed": true,
+          "old_y_positions": [
+            499.0,
+            511.0,
+            524.0,
+            549.0
+          ]
+        },
+        {
+          "member": "Spreads/Spread_u32f4.xml",
+          "rows": [
+            {
+              "frame": "u3a48",
+              "bounds_page_pt": [
+                39.68503937,
+                499.0,
+                391.18110236999996,
+                510.0
+              ],
+              "expected": [
+                39.68503937,
+                499.0,
+                391.18110237,
+                510.0
+              ],
+              "column_width": "351.496063",
+              "passed": true
+            },
+            {
+              "frame": "u3a5e",
+              "bounds_page_pt": [
+                39.68503937,
+                511.0,
+                391.18110236999996,
+                523.0
+              ],
+              "expected": [
+                39.68503937,
+                511.0,
+                391.18110237,
+                523.0
+              ],
+              "column_width": "351.496063",
+              "passed": true
+            },
+            {
+              "frame": "u3a74",
+              "bounds_page_pt": [
+                39.68503937,
+                524.0,
+                391.18110236999996,
+                548.0
+              ],
+              "expected": [
+                39.68503937,
+                524.0,
+                391.18110237,
+                548.0
+              ],
+              "column_width": "351.496063",
+              "passed": true
+            },
+            {
+              "frame": "u3a8a",
+              "bounds_page_pt": [
+                39.68503937,
+                549.0,
+                391.18110236999996,
+                561.0
+              ],
+              "expected": [
+                39.68503937,
+                549.0,
+                391.18110237,
+                561.0
+              ],
+              "column_width": "351.496063",
+              "passed": true
+            }
+          ],
+          "passed": true,
+          "old_y_positions": [
+            499.0,
+            511.0,
+            524.0,
+            549.0
+          ]
+        },
+        {
+          "member": "Spreads/Spread_u3a8d.xml",
+          "rows": [
+            {
+              "frame": "u41e1",
+              "bounds_page_pt": [
+                39.68503937,
+                499.0,
+                391.18110236999996,
+                510.0
+              ],
+              "expected": [
+                39.68503937,
+                499.0,
+                391.18110237,
+                510.0
+              ],
+              "column_width": "351.496063",
+              "passed": true
+            },
+            {
+              "frame": "u41f7",
+              "bounds_page_pt": [
+                39.68503937,
+                511.0,
+                391.18110236999996,
+                523.0
+              ],
+              "expected": [
+                39.68503937,
+                511.0,
+                391.18110237,
+                523.0
+              ],
+              "column_width": "351.496063",
+              "passed": true
+            },
+            {
+              "frame": "u420d",
+              "bounds_page_pt": [
+                39.68503937,
+                524.0,
+                391.18110236999996,
+                548.0
+              ],
+              "expected": [
+                39.68503937,
+                524.0,
+                391.18110237,
+                548.0
+              ],
+              "column_width": "351.496063",
+              "passed": true
+            },
+            {
+              "frame": "u4223",
+              "bounds_page_pt": [
+                39.68503937,
+                549.0,
+                391.18110236999996,
+                561.0
+              ],
+              "expected": [
+                39.68503937,
+                549.0,
+                391.18110237,
+                561.0
+              ],
+              "column_width": "351.496063",
+              "passed": true
+            }
+          ],
+          "passed": true,
+          "old_y_positions": [
+            499.0,
+            511.0,
+            524.0,
+            549.0
+          ]
+        },
+        {
+          "member": "Spreads/Spread_u4226.xml",
+          "rows": [
+            {
+              "frame": "u494c",
+              "bounds_page_pt": [
+                39.68503937,
+                499.0,
+                391.18110236999996,
+                510.0
+              ],
+              "expected": [
+                39.68503937,
+                499.0,
+                391.18110237,
+                510.0
+              ],
+              "column_width": "351.496063",
+              "passed": true
+            },
+            {
+              "frame": "u4962",
+              "bounds_page_pt": [
+                39.68503937,
+                511.0,
+                391.18110236999996,
+                523.0
+              ],
+              "expected": [
+                39.68503937,
+                511.0,
+                391.18110237,
+                523.0
+              ],
+              "column_width": "351.496063",
+              "passed": true
+            },
+            {
+              "frame": "u4978",
+              "bounds_page_pt": [
+                39.68503937,
+                524.0,
+                391.18110236999996,
+                548.0
+              ],
+              "expected": [
+                39.68503937,
+                524.0,
+                391.18110237,
+                548.0
+              ],
+              "column_width": "351.496063",
+              "passed": true
+            },
+            {
+              "frame": "u498e",
+              "bounds_page_pt": [
+                39.68503937,
+                549.0,
+                391.18110236999996,
+                561.0
+              ],
+              "expected": [
+                39.68503937,
+                549.0,
+                391.18110237,
+                561.0
+              ],
+              "column_width": "351.496063",
+              "passed": true
+            }
+          ],
+          "passed": true,
+          "old_y_positions": [
+            499.0,
+            511.0,
+            524.0,
+            549.0
+          ]
+        },
+        {
+          "member": "Spreads/Spread_u4991.xml",
+          "rows": [
+            {
+              "frame": "u50e5",
+              "bounds_page_pt": [
+                39.68503937,
+                499.0,
+                391.18110236999996,
+                510.0
+              ],
+              "expected": [
+                39.68503937,
+                499.0,
+                391.18110237,
+                510.0
+              ],
+              "column_width": "351.496063",
+              "passed": true
+            },
+            {
+              "frame": "u50fb",
+              "bounds_page_pt": [
+                39.68503937,
+                511.0,
+                391.18110236999996,
+                523.0
+              ],
+              "expected": [
+                39.68503937,
+                511.0,
+                391.18110237,
+                523.0
+              ],
+              "column_width": "351.496063",
+              "passed": true
+            },
+            {
+              "frame": "u5111",
+              "bounds_page_pt": [
+                39.68503937,
+                524.0,
+                391.18110236999996,
+                548.0
+              ],
+              "expected": [
+                39.68503937,
+                524.0,
+                391.18110237,
+                548.0
+              ],
+              "column_width": "351.496063",
+              "passed": true
+            },
+            {
+              "frame": "u5127",
+              "bounds_page_pt": [
+                39.68503937,
+                549.0,
+                391.18110236999996,
+                561.0
+              ],
+              "expected": [
+                39.68503937,
+                549.0,
+                391.18110237,
+                561.0
+              ],
+              "column_width": "351.496063",
+              "passed": true
+            }
+          ],
+          "passed": true,
+          "old_y_positions": [
+            499.0,
+            511.0,
+            524.0,
+            549.0
+          ]
+        },
+        {
+          "member": "Spreads/Spread_u512a.xml",
+          "rows": [
+            {
+              "frame": "u58aa",
+              "bounds_page_pt": [
+                39.68503937,
+                499.0,
+                391.18110236999996,
+                510.0
+              ],
+              "expected": [
+                39.68503937,
+                499.0,
+                391.18110237,
+                510.0
+              ],
+              "column_width": "351.496063",
+              "passed": true
+            },
+            {
+              "frame": "u58c0",
+              "bounds_page_pt": [
+                39.68503937,
+                511.0,
+                391.18110236999996,
+                523.0
+              ],
+              "expected": [
+                39.68503937,
+                511.0,
+                391.18110237,
+                523.0
+              ],
+              "column_width": "351.496063",
+              "passed": true
+            },
+            {
+              "frame": "u58d6",
+              "bounds_page_pt": [
+                39.68503937,
+                524.0,
+                391.18110236999996,
+                548.0
+              ],
+              "expected": [
+                39.68503937,
+                524.0,
+                391.18110237,
+                548.0
+              ],
+              "column_width": "351.496063",
+              "passed": true
+            },
+            {
+              "frame": "u58ec",
+              "bounds_page_pt": [
+                39.68503937,
+                549.0,
+                391.18110236999996,
+                561.0
+              ],
+              "expected": [
+                39.68503937,
+                549.0,
+                391.18110237,
+                561.0
+              ],
+              "column_width": "351.496063",
+              "passed": true
+            }
+          ],
+          "passed": true,
+          "old_y_positions": [
+            499.0,
+            511.0,
+            524.0,
+            549.0
+          ]
+        },
+        {
+          "member": "Spreads/Spread_uc29.xml",
+          "rows": [
+            {
+              "frame": "u1393",
+              "bounds_page_pt": [
+                39.68503937,
+                499.0,
+                391.18110236999996,
+                510.0
+              ],
+              "expected": [
+                39.68503937,
+                499.0,
+                391.18110237,
+                510.0
+              ],
+              "column_width": "351.496063",
+              "passed": true
+            },
+            {
+              "frame": "u13a9",
+              "bounds_page_pt": [
+                39.68503937,
+                511.0,
+                391.18110236999996,
+                523.0
+              ],
+              "expected": [
+                39.68503937,
+                511.0,
+                391.18110237,
+                523.0
+              ],
+              "column_width": "351.496063",
+              "passed": true
+            },
+            {
+              "frame": "u13bf",
+              "bounds_page_pt": [
+                39.68503937,
+                524.0,
+                391.18110236999996,
+                548.0
+              ],
+              "expected": [
+                39.68503937,
+                524.0,
+                391.18110237,
+                548.0
+              ],
+              "column_width": "351.496063",
+              "passed": true
+            },
+            {
+              "frame": "u13d5",
+              "bounds_page_pt": [
+                39.68503937,
+                549.0,
+                391.18110236999996,
+                561.0
+              ],
+              "expected": [
+                39.68503937,
+                549.0,
+                391.18110237,
+                561.0
+              ],
+              "column_width": "351.496063",
+              "passed": true
+            }
+          ],
+          "passed": true,
+          "old_y_positions": [
+            499.0,
+            511.0,
+            524.0,
+            549.0
+          ]
+        }
+      ]
+    },
+    {
+      "check": "All126 body-comparison sample stories unchanged",
+      "passed": true,
+      "evidence": {
+        "count": 126,
+        "failures": []
+      }
+    },
+    {
+      "check": "All126 body-comparison sample frame geometries unchanged",
+      "passed": true,
+      "evidence": {
+        "count": 126,
+        "failures": []
+      }
+    },
+    {
+      "check": "Additional12 initial-table live sample text and font/style stories unchanged",
+      "passed": true,
+      "evidence": [
+        {
+          "frame": "u740",
+          "story": "Stories/Story_u72e.xml",
+          "text": "진심입니다\n",
+          "story_byte_identical": true
+        },
+        {
+          "frame": "u79f",
+          "story": "Stories/Story_u78d.xml",
+          "text": "진심입니다\n",
+          "story_byte_identical": true
+        },
+        {
+          "frame": "u7fe",
+          "story": "Stories/Story_u7ec.xml",
+          "text": "진심입니다\n",
+          "story_byte_identical": true
+        },
+        {
+          "frame": "u85d",
+          "story": "Stories/Story_u84b.xml",
+          "text": "진심입니다\n",
+          "story_byte_identical": true
+        },
+        {
+          "frame": "u8bc",
+          "story": "Stories/Story_u8aa.xml",
+          "text": "진심입니다\n",
+          "story_byte_identical": true
+        },
+        {
+          "frame": "u91b",
+          "story": "Stories/Story_u909.xml",
+          "text": "진심입니다\n",
+          "story_byte_identical": true
+        },
+        {
+          "frame": "ua19",
+          "story": "Stories/Story_ua07.xml",
+          "text": "진심입니다\n",
+          "story_byte_identical": true
+        },
+        {
+          "frame": "ua78",
+          "story": "Stories/Story_ua66.xml",
+          "text": "진심입니다\n",
+          "story_byte_identical": true
+        },
+        {
+          "frame": "uad7",
+          "story": "Stories/Story_uac5.xml",
+          "text": "진심입니다\n",
+          "story_byte_identical": true
+        },
+        {
+          "frame": "ub36",
+          "story": "Stories/Story_ub24.xml",
+          "text": "진심입니다\n",
+          "story_byte_identical": true
+        },
+        {
+          "frame": "ub95",
+          "story": "Stories/Story_ub83.xml",
+          "text": "진심입니다\n",
+          "story_byte_identical": true
+        },
+        {
+          "frame": "ubf4",
+          "story": "Stories/Story_ube2.xml",
+          "text": "진심입니다\n",
+          "story_byte_identical": true
+        }
+      ]
+    },
+    {
+      "check": "Native fixed-baseline properties and enum exist in published schema",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "All12 live18pt samples use actual native fixed baseline and bounded annotations",
+      "passed": true,
+      "evidence": [
+        {
+          "sample": "u740",
+          "font": "blackhan",
+          "actual_bounds": [
+            36.34645670000003,
+            152.0,
+            371.8425197,
+            176.0
+          ],
+          "native_preferences": {
+            "TextColumnCount": "1",
+            "TextColumnFixedWidth": "335.496063",
+            "TextColumnMaxWidth": "0",
+            "IgnoreWrap": "true",
+            "FirstBaselineOffset": "FixedHeight",
+            "MinimumFirstBaselineOffset": "18",
+            "VerticalJustification": "TopAlign"
+          },
+          "annotation_count": 2,
+          "annotation_bounds_page_pt": [
+            52.45645670000005,
+            166.483,
+            61.31245670000004,
+            167.883
+          ],
+          "within_page_content_and_sample_band": true,
+          "passed": true
+        },
+        {
+          "sample": "u79f",
+          "font": "gugi",
+          "actual_bounds": [
+            36.34645670000003,
+            219.0,
+            371.8425197,
+            243.0
+          ],
+          "native_preferences": {
+            "TextColumnCount": "1",
+            "TextColumnFixedWidth": "335.496063",
+            "TextColumnMaxWidth": "0",
+            "IgnoreWrap": "true",
+            "FirstBaselineOffset": "FixedHeight",
+            "MinimumFirstBaselineOffset": "18",
+            "VerticalJustification": "TopAlign"
+          },
+          "annotation_count": 2,
+          "annotation_bounds_page_pt": [
+            118.24645670000007,
+            227.208,
+            121.61245670000005,
+            229.98000000000002
+          ],
+          "within_page_content_and_sample_band": true,
+          "passed": true
+        },
+        {
+          "sample": "u7fe",
+          "font": "kirang",
+          "actual_bounds": [
+            36.34645670000003,
+            286.0,
+            371.8425197,
+            310.0
+          ],
+          "native_preferences": {
+            "TextColumnCount": "1",
+            "TextColumnFixedWidth": "335.496063",
+            "TextColumnMaxWidth": "0",
+            "IgnoreWrap": "true",
+            "FirstBaselineOffset": "FixedHeight",
+            "MinimumFirstBaselineOffset": "18",
+            "VerticalJustification": "TopAlign"
+          },
+          "annotation_count": 2,
+          "annotation_bounds_page_pt": [
+            37.43845670000002,
+            289.052,
+            44.26645670000005,
+            305.829
+          ],
+          "within_page_content_and_sample_band": true,
+          "passed": true
+        },
+        {
+          "sample": "u85d",
+          "font": "singleday",
+          "actual_bounds": [
+            36.34645670000003,
+            353.0,
+            371.8425197,
+            377.0
+          ],
+          "native_preferences": {
+            "TextColumnCount": "1",
+            "TextColumnFixedWidth": "335.496063",
+            "TextColumnMaxWidth": "0",
+            "IgnoreWrap": "true",
+            "FirstBaselineOffset": "FixedHeight",
+            "MinimumFirstBaselineOffset": "18",
+            "VerticalJustification": "TopAlign"
+          },
+          "annotation_count": 3,
+          "annotation_bounds_page_pt": [
+            100.61245670000005,
+            358.83299999999997,
+            174.09445670000002,
+            367.16700000000003
+          ],
+          "within_page_content_and_sample_band": true,
+          "passed": true
+        },
+        {
+          "sample": "u8bc",
+          "font": "bawpic",
+          "actual_bounds": [
+            36.34645670000003,
+            420.0,
+            371.8425197,
+            444.0
+          ],
+          "native_preferences": {
+            "TextColumnCount": "1",
+            "TextColumnFixedWidth": "335.496063",
+            "TextColumnMaxWidth": "0",
+            "IgnoreWrap": "true",
+            "FirstBaselineOffset": "FixedHeight",
+            "MinimumFirstBaselineOffset": "18",
+            "VerticalJustification": "TopAlign"
+          },
+          "annotation_count": 1,
+          "annotation_bounds_page_pt": [
+            36.52645670000004,
+            424.77,
+            48.658456700000045,
+            440.93399999999997
+          ],
+          "within_page_content_and_sample_band": true,
+          "passed": true
+        },
+        {
+          "sample": "u91b",
+          "font": "pixel",
+          "actual_bounds": [
+            36.34645670000003,
+            487.0,
+            371.8425197,
+            511.0
+          ],
+          "native_preferences": {
+            "TextColumnCount": "1",
+            "TextColumnFixedWidth": "335.496063",
+            "TextColumnMaxWidth": "0",
+            "IgnoreWrap": "true",
+            "FirstBaselineOffset": "FixedHeight",
+            "MinimumFirstBaselineOffset": "18",
+            "VerticalJustification": "TopAlign"
+          },
+          "annotation_count": 2,
+          "annotation_bounds_page_pt": [
+            37.47145670000003,
+            491.5,
+            52.09645670000003,
+            506.125
+          ],
+          "within_page_content_and_sample_band": true,
+          "passed": true
+        },
+        {
+          "sample": "ua19",
+          "font": "gungseo",
+          "actual_bounds": [
+            47.68503937,
+            152.0,
+            383.18110236999996,
+            176.0
+          ],
+          "native_preferences": {
+            "TextColumnCount": "1",
+            "TextColumnFixedWidth": "335.496063",
+            "TextColumnMaxWidth": "0",
+            "IgnoreWrap": "true",
+            "FirstBaselineOffset": "FixedHeight",
+            "MinimumFirstBaselineOffset": "18",
+            "VerticalJustification": "TopAlign"
+          },
+          "annotation_count": 3,
+          "annotation_bounds_page_pt": [
+            47.68503937,
+            155.716,
+            83.68503937,
+            172.638
+          ],
+          "within_page_content_and_sample_band": true,
+          "passed": true
+        },
+        {
+          "sample": "ua78",
+          "font": "jua",
+          "actual_bounds": [
+            47.68503937,
+            219.0,
+            383.18110236999996,
+            243.0
+          ],
+          "native_preferences": {
+            "TextColumnCount": "1",
+            "TextColumnFixedWidth": "335.496063",
+            "TextColumnMaxWidth": "0",
+            "IgnoreWrap": "true",
+            "FirstBaselineOffset": "FixedHeight",
+            "MinimumFirstBaselineOffset": "18",
+            "VerticalJustification": "TopAlign"
+          },
+          "annotation_count": 2,
+          "annotation_bounds_page_pt": [
+            48.03603937,
+            223.374,
+            57.01803937,
+            231.06
+          ],
+          "within_page_content_and_sample_band": true,
+          "passed": true
+        },
+        {
+          "sample": "uad7",
+          "font": "brush",
+          "actual_bounds": [
+            47.68503937,
+            286.0,
+            383.18110236999996,
+            310.0
+          ],
+          "native_preferences": {
+            "TextColumnCount": "1",
+            "TextColumnFixedWidth": "335.496063",
+            "TextColumnMaxWidth": "0",
+            "IgnoreWrap": "true",
+            "FirstBaselineOffset": "FixedHeight",
+            "MinimumFirstBaselineOffset": "18",
+            "VerticalJustification": "TopAlign"
+          },
+          "annotation_count": 3,
+          "annotation_bounds_page_pt": [
+            47.68503937,
+            293.092,
+            100.42503937000001,
+            308.5236842105263
+          ],
+          "within_page_content_and_sample_band": true,
+          "passed": true
+        },
+        {
+          "sample": "ub36",
+          "font": "YES24",
+          "actual_bounds": [
+            47.68503937,
+            353.0,
+            383.18110236999996,
+            377.0
+          ],
+          "native_preferences": {
+            "TextColumnCount": "1",
+            "TextColumnFixedWidth": "335.496063",
+            "TextColumnMaxWidth": "0",
+            "IgnoreWrap": "true",
+            "FirstBaselineOffset": "FixedHeight",
+            "MinimumFirstBaselineOffset": "18",
+            "VerticalJustification": "TopAlign"
+          },
+          "annotation_count": 2,
+          "annotation_bounds_page_pt": [
+            110.49703937000001,
+            356.402,
+            123.62703936999999,
+            372.17
+          ],
+          "within_page_content_and_sample_band": true,
+          "passed": true
+        },
+        {
+          "sample": "ub95",
+          "font": "sans",
+          "actual_bounds": [
+            47.68503937,
+            420.0,
+            383.18110236999996,
+            444.0
+          ],
+          "native_preferences": {
+            "TextColumnCount": "1",
+            "TextColumnFixedWidth": "335.496063",
+            "TextColumnMaxWidth": "0",
+            "IgnoreWrap": "true",
+            "FirstBaselineOffset": "FixedHeight",
+            "MinimumFirstBaselineOffset": "18",
+            "VerticalJustification": "TopAlign"
+          },
+          "annotation_count": 2,
+          "annotation_bounds_page_pt": [
+            103.30303937,
+            423.11400000000003,
+            129.99903937,
+            439.422
+          ],
+          "within_page_content_and_sample_band": true,
+          "passed": true
+        },
+        {
+          "sample": "ubf4",
+          "font": "serif",
+          "actual_bounds": [
+            47.68503937,
+            487.0,
+            383.18110236999996,
+            511.0
+          ],
+          "native_preferences": {
+            "TextColumnCount": "1",
+            "TextColumnFixedWidth": "335.496063",
+            "TextColumnMaxWidth": "0",
+            "IgnoreWrap": "true",
+            "FirstBaselineOffset": "FixedHeight",
+            "MinimumFirstBaselineOffset": "18",
+            "VerticalJustification": "TopAlign"
+          },
+          "annotation_count": 2,
+          "annotation_bounds_page_pt": [
+            59.40303937,
+            489.646,
+            114.37503937,
+            502.426
+          ],
+          "within_page_content_and_sample_band": true,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "check": "All12 feature highlights are actual contours of existing sample word",
+      "passed": true,
+      "evidence": [
+        {
+          "frame": "u740",
+          "font": "blackhan",
+          "feature_contours": [
+            6
+          ],
+          "maximum_path_deviation_pt": 0.0,
+          "passed": true
+        },
+        {
+          "frame": "u79f",
+          "font": "gugi",
+          "feature_contours": [
+            12
+          ],
+          "maximum_path_deviation_pt": 0.0,
+          "passed": true
+        },
+        {
+          "frame": "u7fe",
+          "font": "kirang",
+          "feature_contours": [
+            0
+          ],
+          "maximum_path_deviation_pt": 0.0,
+          "passed": true
+        },
+        {
+          "frame": "u85d",
+          "font": "singleday",
+          "feature_contours": [
+            17
+          ],
+          "maximum_path_deviation_pt": 0.0,
+          "passed": true
+        },
+        {
+          "frame": "u8bc",
+          "font": "bawpic",
+          "feature_contours": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "maximum_path_deviation_pt": 0.0,
+          "passed": true
+        },
+        {
+          "frame": "u91b",
+          "font": "pixel",
+          "feature_contours": [
+            0
+          ],
+          "maximum_path_deviation_pt": 0.0,
+          "passed": true
+        },
+        {
+          "frame": "ua19",
+          "font": "gungseo",
+          "feature_contours": [
+            0
+          ],
+          "maximum_path_deviation_pt": 0.0,
+          "passed": true
+        },
+        {
+          "frame": "ua78",
+          "font": "jua",
+          "feature_contours": [
+            0
+          ],
+          "maximum_path_deviation_pt": 0.0,
+          "passed": true
+        },
+        {
+          "frame": "uad7",
+          "font": "brush",
+          "feature_contours": [
+            1,
+            3
+          ],
+          "maximum_path_deviation_pt": 0.0,
+          "passed": true
+        },
+        {
+          "frame": "ub36",
+          "font": "YES24",
+          "feature_contours": [
+            14
+          ],
+          "maximum_path_deviation_pt": 0.0,
+          "passed": true
+        },
+        {
+          "frame": "ub95",
+          "font": "sans",
+          "feature_contours": [
+            14
+          ],
+          "maximum_path_deviation_pt": 0.0,
+          "passed": true
+        },
+        {
+          "frame": "ubf4",
+          "font": "serif",
+          "feature_contours": [
+            0
+          ],
+          "maximum_path_deviation_pt": 0.0,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "check": "Back-cover explicit symmetric14mm margins",
+      "passed": true,
+      "evidence": {
+        "ColumnCount": "1",
+        "ColumnGutter": "12",
+        "Top": "28.34645669",
+        "Bottom": "28.34645669",
+        "Left": "39.68503937",
+        "Right": "39.68503937",
+        "ColumnDirection": "Horizontal",
+        "ColumnsPositions": "0 340.15752126"
+      }
+    },
+    {
+      "check": "All12 back-cover items fit explicit symmetric grid with original vertical layout",
+      "passed": true,
+      "evidence": [
+        {
+          "id": "u62ec",
+          "bounds": [
+            39.68503937000003,
+            36.0,
+            379.84256063000004,
+            36.69999999999999
+          ],
+          "inside_grid": true,
+          "y_and_height_unchanged": true,
+          "expected_width": true,
+          "story_exact": true,
+          "passed": true
+        },
+        {
+          "id": "u62ed",
+          "bounds": [
+            39.68503937000003,
+            49.00000000000003,
+            113.68503937000003,
+            65.00000000000003
+          ],
+          "inside_grid": true,
+          "y_and_height_unchanged": true,
+          "expected_width": true,
+          "story_exact": true,
+          "passed": true
+        },
+        {
+          "id": "u6301",
+          "bounds": [
+            44.68503937000003,
+            51.00000000000003,
+            108.68503937000003,
+            63.00000000000003
+          ],
+          "inside_grid": true,
+          "y_and_height_unchanged": true,
+          "expected_width": true,
+          "story_exact": true,
+          "passed": true
+        },
+        {
+          "id": "u6317",
+          "bounds": [
+            39.68503937000003,
+            76.00000000000003,
+            379.84256063000004,
+            110.00000000000003
+          ],
+          "inside_grid": true,
+          "y_and_height_unchanged": true,
+          "expected_width": true,
+          "story_exact": true,
+          "passed": true
+        },
+        {
+          "id": "u632d",
+          "bounds": [
+            39.68503937000003,
+            116.00000000000003,
+            379.84256063000004,
+            146.00000000000003
+          ],
+          "inside_grid": true,
+          "y_and_height_unchanged": true,
+          "expected_width": true,
+          "story_exact": true,
+          "passed": true
+        },
+        {
+          "id": "u6330",
+          "bounds": [
+            39.68503937000003,
+            173.00000000000003,
+            379.84256063000004,
+            249.00000000000003
+          ],
+          "inside_grid": true,
+          "y_and_height_unchanged": true,
+          "expected_width": true,
+          "story_exact": true,
+          "passed": true
+        },
+        {
+          "id": "u6344",
+          "bounds": [
+            51.68503937000003,
+            185.00000000000003,
+            367.84256063000004,
+            243.00000000000003
+          ],
+          "inside_grid": true,
+          "y_and_height_unchanged": true,
+          "expected_width": true,
+          "story_exact": true,
+          "passed": true
+        },
+        {
+          "id": "u6347",
+          "bounds": [
+            39.68503937000003,
+            272.0,
+            183.68503937000003,
+            288.0
+          ],
+          "inside_grid": true,
+          "y_and_height_unchanged": true,
+          "expected_width": true,
+          "story_exact": true,
+          "passed": true
+        },
+        {
+          "id": "u635b",
+          "bounds": [
+            44.68503937000003,
+            274.0,
+            178.68503937000003,
+            286.0
+          ],
+          "inside_grid": true,
+          "y_and_height_unchanged": true,
+          "expected_width": true,
+          "story_exact": true,
+          "passed": true
+        },
+        {
+          "id": "u6371",
+          "bounds": [
+            39.68503937000003,
+            315.0,
+            379.84256063000004,
+            333.0
+          ],
+          "inside_grid": true,
+          "y_and_height_unchanged": true,
+          "expected_width": true,
+          "story_exact": true,
+          "passed": true
+        },
+        {
+          "id": "u6387",
+          "bounds": [
+            39.68503937000003,
+            348.0,
+            379.84256063000004,
+            513.0
+          ],
+          "inside_grid": true,
+          "y_and_height_unchanged": true,
+          "expected_width": true,
+          "story_exact": true,
+          "passed": true
+        },
+        {
+          "id": "u639d",
+          "bounds": [
+            39.68503937000003,
+            532.0,
+            379.84256063000004,
+            553.0
+          ],
+          "inside_grid": true,
+          "y_and_height_unchanged": true,
+          "expected_width": true,
+          "story_exact": true,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "check": "All4 intro 진심 words and structure evidence match actual fonts and columns",
+      "passed": true,
+      "evidence": [
+        {
+          "font": "blackhan",
+          "word": "진심",
+          "size": 56,
+          "path_deviation_pt": 0.0,
+          "matrix_explicitly_page_translated": true,
+          "all_annotation_bounds_page_pt": [
+            44.0,
+            271.44,
+            158.0,
+            314.0
+          ],
+          "column_bounds_pt": [
+            39.68503937,
+            210
+          ],
+          "inside_column_and_above_caption": true,
+          "feature_evidence": {
+            "counter_path_deviation_pt": 0.0,
+            "true_stem_width_pt": 10.528000000000006,
+            "caption_matches_measurement": true
+          },
+          "passed": true
+        },
+        {
+          "font": "sans",
+          "word": "진심",
+          "size": 56,
+          "path_deviation_pt": 0.0,
+          "matrix_explicitly_page_translated": true,
+          "all_annotation_bounds_page_pt": [
+            227.0,
+            267.744,
+            341.0,
+            317.696
+          ],
+          "column_bounds_pt": [
+            222,
+            391.18110237
+          ],
+          "inside_column_and_above_caption": true,
+          "feature_evidence": {
+            "counter_path_deviation_pt": 0.0,
+            "true_stem_width_pt": 4.535999999999994,
+            "caption_matches_measurement": true
+          },
+          "passed": true
+        },
+        {
+          "font": "gugi",
+          "word": "진심",
+          "size": 48,
+          "path_deviation_pt": 0.0,
+          "matrix_explicitly_page_translated": true,
+          "all_annotation_bounds_page_pt": [
+            44.0,
+            414.448,
+            158.0,
+            465.828
+          ],
+          "column_bounds_pt": [
+            39.68503937,
+            210
+          ],
+          "inside_column_and_above_caption": true,
+          "feature_evidence": {
+            "true_advances_pt": [
+              0,
+              45.648,
+              91.296
+            ],
+            "all_jamo_boxes_equal_actual_selected_contour_extrema": true
+          },
+          "passed": true
+        },
+        {
+          "font": "singleday",
+          "word": "진심",
+          "size": 48,
+          "path_deviation_pt": 0.0,
+          "matrix_explicitly_page_translated": true,
+          "all_annotation_bounds_page_pt": [
+            227.0,
+            414.448,
+            341.0,
+            465.828
+          ],
+          "column_bounds_pt": [
+            222,
+            391.18110237
+          ],
+          "inside_column_and_above_caption": true,
+          "feature_evidence": {
+            "true_advances_pt": [
+              0,
+              38.625,
+              77.25
+            ],
+            "all_jamo_boxes_equal_actual_selected_contour_extrema": true
+          },
+          "passed": true
+        }
+      ]
+    },
+    {
+      "check": "Intro text no longer describes a heart from an unrelated word",
+      "passed": true,
+      "evidence": {
+        "Stories/Story_earlyVisualStory_section1.xml": "01  획 두께와 속공간을 함께 읽기\n",
+        "Stories/Story_earlyVisualStory_section2.xml": "02  글자칸과 몸집이 바꾸는 말투\n",
+        "Stories/Story_earlyVisualStory_blackhan_label.xml": "블랙 한 산스 / 56pt\n",
+        "Stories/Story_earlyVisualStory_blackhan_caption.xml": "ㅁ 세로획 10.53pt, 좁은 속공간.\n내겐 큰소리로 외치는 진심.\n",
+        "Stories/Story_earlyVisualStory_sans_label.xml": "Noto Sans CJK KR / 56pt\n",
+        "Stories/Story_earlyVisualStory_sans_caption.xml": "ㅁ 세로획 4.54pt, 넓은 속공간.\n내겐 차분히 건네는 진심.\n",
+        "Stories/Story_earlyVisualStory_gugi_label.xml": "구기 / 48pt\n",
+        "Stories/Story_earlyVisualStory_gugi_caption.xml": "칸마다 정돈된 초성·중성·받침.\n내겐 또박또박한 기계 알림.\n",
+        "Stories/Story_earlyVisualStory_singleday_label.xml": "싱글데이 / 48pt\n",
+        "Stories/Story_earlyVisualStory_singleday_caption.xml": "칸 안에서 흔들리는 자소의 몸집.\n내겐 손으로 적은 친구의 메모.\n"
+      }
+    },
+    {
+      "check": "Only spread/story members modified",
+      "passed": true,
+      "evidence": []
+    }
+  ],
+  "failures": [],
+  "limits": {
+    "actual_Adobe_execution": false,
+    "native_Adobe_text_composition_or_overset_test": false,
+    "physical_printer_test": false,
+    "PDF_marker_run": false,
+    "scope": "Native IDML structure, explicit native baseline properties, source content preservation, font-contour identities and page-local geometric grids. No custom-raster inference is used to establish geometry."
+  }
+}

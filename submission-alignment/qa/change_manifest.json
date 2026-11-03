@@ -1,0 +1,1637 @@
+{
+  "status": "built_for_alignment_review",
+  "source": "/workspace/round1_revision_20261103/design/Meme_Font_Book_Round1_28p.idml",
+  "source_sha256": "f8560813028317dc90844c011f98aa1f6c623e3eee9121120fedb41600bd59f6",
+  "output": "/workspace/alignment_repair_20261103/design/Meme_Font_Book_Alignment_28p.idml",
+  "output_sha256": "30bf5d5ee87b66efdddc1c1521c16078a8f36b0930b45f0010e8a391121ffad4",
+  "physical_pages": 28,
+  "footer_sections": [
+    {
+      "member": "Spreads/Spread_u13d8.xml",
+      "removed_diagram_ids": [
+        "u1b14",
+        "u1b15",
+        "tfV20261103_u1b14_feature",
+        "tfV20261103_u1b14_leader"
+      ],
+      "text_frames_aligned": [
+        {
+          "id": "u1b2c",
+          "old_transform": "1 0 -0 1 88.68503937 201.3622",
+          "new_transform": "1.0 0.0 -0.0 1.0 39.68503937 201.3622",
+          "width_pt": 351.496063
+        },
+        {
+          "id": "u1b42",
+          "old_transform": "1 0 -0 1 88.68503937 213.3622",
+          "new_transform": "1.0 0.0 -0.0 1.0 39.68503937 213.3622",
+          "width_pt": 351.496063
+        },
+        {
+          "id": "u1b58",
+          "old_transform": "1 0 -0 1 88.68503937 226.3622",
+          "new_transform": "1.0 0.0 -0.0 1.0 39.68503937 226.3622",
+          "width_pt": 351.496063
+        },
+        {
+          "id": "u1b6e",
+          "old_transform": "1 0 -0 1 88.68503937 251.3622",
+          "new_transform": "1.0 0.0 -0.0 1.0 39.68503937 251.3622",
+          "width_pt": 351.496063
+        }
+      ],
+      "content_left_pt": 39.68503937,
+      "content_right_pt": 391.18110237
+    },
+    {
+      "member": "Spreads/Spread_u1b71.xml",
+      "removed_diagram_ids": [
+        "u22ad",
+        "u22ae",
+        "tfV20261103_u22ad_feature",
+        "tfV20261103_u22ad_leader"
+      ],
+      "text_frames_aligned": [
+        {
+          "id": "u22c5",
+          "old_transform": "1 0 -0 1 88.68503937 201.3622",
+          "new_transform": "1.0 0.0 -0.0 1.0 39.68503937 201.3622",
+          "width_pt": 351.496063
+        },
+        {
+          "id": "u22db",
+          "old_transform": "1 0 -0 1 88.68503937 213.3622",
+          "new_transform": "1.0 0.0 -0.0 1.0 39.68503937 213.3622",
+          "width_pt": 351.496063
+        },
+        {
+          "id": "u22f1",
+          "old_transform": "1 0 -0 1 88.68503937 226.3622",
+          "new_transform": "1.0 0.0 -0.0 1.0 39.68503937 226.3622",
+          "width_pt": 351.496063
+        },
+        {
+          "id": "u2307",
+          "old_transform": "1 0 -0 1 88.68503937 251.3622",
+          "new_transform": "1.0 0.0 -0.0 1.0 39.68503937 251.3622",
+          "width_pt": 351.496063
+        }
+      ],
+      "content_left_pt": 39.68503937,
+      "content_right_pt": 391.18110237
+    },
+    {
+      "member": "Spreads/Spread_u230a.xml",
+      "removed_diagram_ids": [
+        "u2a46",
+        "u2a47",
+        "tfV20261103_u2a46_feature",
+        "tfV20261103_u2a46_leader"
+      ],
+      "text_frames_aligned": [
+        {
+          "id": "u2a5e",
+          "old_transform": "1 0 -0 1 88.68503937 201.3622",
+          "new_transform": "1.0 0.0 -0.0 1.0 39.68503937 201.3622",
+          "width_pt": 351.496063
+        },
+        {
+          "id": "u2a74",
+          "old_transform": "1 0 -0 1 88.68503937 213.3622",
+          "new_transform": "1.0 0.0 -0.0 1.0 39.68503937 213.3622",
+          "width_pt": 351.496063
+        },
+        {
+          "id": "u2a8a",
+          "old_transform": "1 0 -0 1 88.68503937 226.3622",
+          "new_transform": "1.0 0.0 -0.0 1.0 39.68503937 226.3622",
+          "width_pt": 351.496063
+        },
+        {
+          "id": "u2aa0",
+          "old_transform": "1 0 -0 1 88.68503937 251.3622",
+          "new_transform": "1.0 0.0 -0.0 1.0 39.68503937 251.3622",
+          "width_pt": 351.496063
+        }
+      ],
+      "content_left_pt": 39.68503937,
+      "content_right_pt": 391.18110237
+    },
+    {
+      "member": "Spreads/Spread_u32f4.xml",
+      "removed_diagram_ids": [
+        "u3a30",
+        "u3a31",
+        "tfV20261103_u3a30_feature",
+        "tfV20261103_u3a30_leader"
+      ],
+      "text_frames_aligned": [
+        {
+          "id": "u3a48",
+          "old_transform": "1 0 -0 1 88.68503937 201.3622",
+          "new_transform": "1.0 0.0 -0.0 1.0 39.68503937 201.3622",
+          "width_pt": 351.496063
+        },
+        {
+          "id": "u3a5e",
+          "old_transform": "1 0 -0 1 88.68503937 213.3622",
+          "new_transform": "1.0 0.0 -0.0 1.0 39.68503937 213.3622",
+          "width_pt": 351.496063
+        },
+        {
+          "id": "u3a74",
+          "old_transform": "1 0 -0 1 88.68503937 226.3622",
+          "new_transform": "1.0 0.0 -0.0 1.0 39.68503937 226.3622",
+          "width_pt": 351.496063
+        },
+        {
+          "id": "u3a8a",
+          "old_transform": "1 0 -0 1 88.68503937 251.3622",
+          "new_transform": "1.0 0.0 -0.0 1.0 39.68503937 251.3622",
+          "width_pt": 351.496063
+        }
+      ],
+      "content_left_pt": 39.68503937,
+      "content_right_pt": 391.18110237
+    },
+    {
+      "member": "Spreads/Spread_u3a8d.xml",
+      "removed_diagram_ids": [
+        "u41c9",
+        "u41ca",
+        "tfV20261103_u41c9_feature",
+        "tfV20261103_u41c9_leader"
+      ],
+      "text_frames_aligned": [
+        {
+          "id": "u41e1",
+          "old_transform": "1 0 -0 1 88.68503937 201.3622",
+          "new_transform": "1.0 0.0 -0.0 1.0 39.68503937 201.3622",
+          "width_pt": 351.496063
+        },
+        {
+          "id": "u41f7",
+          "old_transform": "1 0 -0 1 88.68503937 213.3622",
+          "new_transform": "1.0 0.0 -0.0 1.0 39.68503937 213.3622",
+          "width_pt": 351.496063
+        },
+        {
+          "id": "u420d",
+          "old_transform": "1 0 -0 1 88.68503937 226.3622",
+          "new_transform": "1.0 0.0 -0.0 1.0 39.68503937 226.3622",
+          "width_pt": 351.496063
+        },
+        {
+          "id": "u4223",
+          "old_transform": "1 0 -0 1 88.68503937 251.3622",
+          "new_transform": "1.0 0.0 -0.0 1.0 39.68503937 251.3622",
+          "width_pt": 351.496063
+        }
+      ],
+      "content_left_pt": 39.68503937,
+      "content_right_pt": 391.18110237
+    },
+    {
+      "member": "Spreads/Spread_u4226.xml",
+      "removed_diagram_ids": [
+        "u4934",
+        "u4935",
+        "tfV20261103_u4934_feature",
+        "tfV20261103_u4934_leader"
+      ],
+      "text_frames_aligned": [
+        {
+          "id": "u494c",
+          "old_transform": "1 0 -0 1 88.68503937 201.3622",
+          "new_transform": "1.0 0.0 -0.0 1.0 39.68503937 201.3622",
+          "width_pt": 351.496063
+        },
+        {
+          "id": "u4962",
+          "old_transform": "1 0 -0 1 88.68503937 213.3622",
+          "new_transform": "1.0 0.0 -0.0 1.0 39.68503937 213.3622",
+          "width_pt": 351.496063
+        },
+        {
+          "id": "u4978",
+          "old_transform": "1 0 -0 1 88.68503937 226.3622",
+          "new_transform": "1.0 0.0 -0.0 1.0 39.68503937 226.3622",
+          "width_pt": 351.496063
+        },
+        {
+          "id": "u498e",
+          "old_transform": "1 0 -0 1 88.68503937 251.3622",
+          "new_transform": "1.0 0.0 -0.0 1.0 39.68503937 251.3622",
+          "width_pt": 351.496063
+        }
+      ],
+      "content_left_pt": 39.68503937,
+      "content_right_pt": 391.18110237
+    },
+    {
+      "member": "Spreads/Spread_u4991.xml",
+      "removed_diagram_ids": [
+        "u50cd",
+        "u50ce",
+        "tfV20261103_u50cd_feature",
+        "tfV20261103_u50cd_leader"
+      ],
+      "text_frames_aligned": [
+        {
+          "id": "u50e5",
+          "old_transform": "1 0 -0 1 88.68503937 201.3622",
+          "new_transform": "1.0 0.0 -0.0 1.0 39.68503937 201.3622",
+          "width_pt": 351.496063
+        },
+        {
+          "id": "u50fb",
+          "old_transform": "1 0 -0 1 88.68503937 213.3622",
+          "new_transform": "1.0 0.0 -0.0 1.0 39.68503937 213.3622",
+          "width_pt": 351.496063
+        },
+        {
+          "id": "u5111",
+          "old_transform": "1 0 -0 1 88.68503937 226.3622",
+          "new_transform": "1.0 0.0 -0.0 1.0 39.68503937 226.3622",
+          "width_pt": 351.496063
+        },
+        {
+          "id": "u5127",
+          "old_transform": "1 0 -0 1 88.68503937 251.3622",
+          "new_transform": "1.0 0.0 -0.0 1.0 39.68503937 251.3622",
+          "width_pt": 351.496063
+        }
+      ],
+      "content_left_pt": 39.68503937,
+      "content_right_pt": 391.18110237
+    },
+    {
+      "member": "Spreads/Spread_u512a.xml",
+      "removed_diagram_ids": [
+        "u5892",
+        "u5893",
+        "tfV20261103_u5892_feature",
+        "tfV20261103_u5892_leader"
+      ],
+      "text_frames_aligned": [
+        {
+          "id": "u58aa",
+          "old_transform": "1 0 -0 1 88.68503937 201.3622",
+          "new_transform": "1.0 0.0 -0.0 1.0 39.68503937 201.3622",
+          "width_pt": 351.496063
+        },
+        {
+          "id": "u58c0",
+          "old_transform": "1 0 -0 1 88.68503937 213.3622",
+          "new_transform": "1.0 0.0 -0.0 1.0 39.68503937 213.3622",
+          "width_pt": 351.496063
+        },
+        {
+          "id": "u58d6",
+          "old_transform": "1 0 -0 1 88.68503937 226.3622",
+          "new_transform": "1.0 0.0 -0.0 1.0 39.68503937 226.3622",
+          "width_pt": 351.496063
+        },
+        {
+          "id": "u58ec",
+          "old_transform": "1 0 -0 1 88.68503937 251.3622",
+          "new_transform": "1.0 0.0 -0.0 1.0 39.68503937 251.3622",
+          "width_pt": 351.496063
+        }
+      ],
+      "content_left_pt": 39.68503937,
+      "content_right_pt": 391.18110237
+    },
+    {
+      "member": "Spreads/Spread_uc29.xml",
+      "removed_diagram_ids": [
+        "u137b",
+        "u137c",
+        "tfV20261103_u137b_feature",
+        "tfV20261103_u137b_leader",
+        "tfV20261103_u137b_stem"
+      ],
+      "text_frames_aligned": [
+        {
+          "id": "u1393",
+          "old_transform": "1 0 -0 1 88.68503937 201.3622",
+          "new_transform": "1.0 0.0 -0.0 1.0 39.68503937 201.3622",
+          "width_pt": 351.496063
+        },
+        {
+          "id": "u13a9",
+          "old_transform": "1 0 -0 1 88.68503937 213.3622",
+          "new_transform": "1.0 0.0 -0.0 1.0 39.68503937 213.3622",
+          "width_pt": 351.496063
+        },
+        {
+          "id": "u13bf",
+          "old_transform": "1 0 -0 1 88.68503937 226.3622",
+          "new_transform": "1.0 0.0 -0.0 1.0 39.68503937 226.3622",
+          "width_pt": 351.496063
+        },
+        {
+          "id": "u13d5",
+          "old_transform": "1 0 -0 1 88.68503937 251.3622",
+          "new_transform": "1.0 0.0 -0.0 1.0 39.68503937 251.3622",
+          "width_pt": 351.496063
+        }
+      ],
+      "content_left_pt": 39.68503937,
+      "content_right_pt": 391.18110237
+    }
+  ],
+  "table": {
+    "status": "passed",
+    "sample_word": "진심입니다",
+    "sample_texts_fonts_sizes_unchanged": true,
+    "editable_text_frames": 12,
+    "redundant_right_samples_removed": 12,
+    "removed_ids": [
+      "u770",
+      "u771",
+      "tfV20261103_u770_feature",
+      "tfV20261103_u770_leader",
+      "tfV20261103_u770_stem",
+      "u7cf",
+      "u7d0",
+      "tfV20261103_u7cf_feature",
+      "tfV20261103_u7cf_leader",
+      "u82e",
+      "u82f",
+      "tfV20261103_u82e_feature",
+      "tfV20261103_u82e_leader",
+      "u88d",
+      "u88e",
+      "tfV20261103_u88d_feature",
+      "tfV20261103_u88d_leader",
+      "u8ec",
+      "u8ed",
+      "tfV20261103_u8ec_feature",
+      "tfV20261103_u8ec_leader",
+      "u94b",
+      "u94c",
+      "tfV20261103_u94b_feature",
+      "tfV20261103_u94b_leader",
+      "ua49",
+      "ua4a",
+      "tfV20261103_ua49_feature",
+      "tfV20261103_ua49_leader",
+      "uaa8",
+      "uaa9",
+      "tfV20261103_uaa8_feature",
+      "tfV20261103_uaa8_leader",
+      "ub07",
+      "ub08",
+      "tfV20261103_ub07_feature",
+      "tfV20261103_ub07_leader",
+      "ub66",
+      "ub67",
+      "tfV20261103_ub66_feature",
+      "tfV20261103_ub66_leader",
+      "ubc5",
+      "ubc6",
+      "tfV20261103_ubc5_feature",
+      "tfV20261103_ubc5_leader",
+      "uc24",
+      "uc25",
+      "tfV20261103_uc24_feature",
+      "tfV20261103_uc24_leader"
+    ],
+    "added_ids": [
+      "existingSample20261103_u740_actual_feature",
+      "existingSample20261103_u740_stem_measure",
+      "existingSample20261103_u79f_actual_feature",
+      "existingSample20261103_u79f_actual_gap",
+      "existingSample20261103_u7fe_actual_feature",
+      "existingSample20261103_u7fe_advance_center",
+      "existingSample20261103_u85d_actual_feature",
+      "existingSample20261103_u85d_heart_detail",
+      "existingSample20261103_u85d_heart_detail_leader",
+      "existingSample20261103_u8bc_actual_feature",
+      "existingSample20261103_u91b_actual_feature",
+      "existingSample20261103_u91b_actual_pixel_grid",
+      "existingSample20261103_ua19_actual_feature",
+      "existingSample20261103_ua19_advance_plane",
+      "existingSample20261103_ua19_advance_boundaries",
+      "existingSample20261103_ua78_actual_feature",
+      "existingSample20261103_ua78_actual_curve_ring",
+      "existingSample20261103_uad7_actual_feature",
+      "existingSample20261103_uad7_actual_ink_boxes",
+      "existingSample20261103_uad7_baseline",
+      "existingSample20261103_ub36_actual_feature",
+      "existingSample20261103_ub36_actual_straight_edge",
+      "existingSample20261103_ub95_actual_feature",
+      "existingSample20261103_ub95_actual_stroke_probes",
+      "existingSample20261103_ubf4_actual_feature",
+      "existingSample20261103_ubf4_actual_stroke_probes"
+    ],
+    "caption_change": {
+      "story": "Stories/Story_u744.xml",
+      "before": "형태: 두꺼운 세로획과 '만'의 좁은 ㅁ 속공간",
+      "after": "형태: 두꺼운 세로획과 '심'의 좁은 ㅁ 속공간"
+    },
+    "additional_caption_changes": [
+      {
+        "story": "Stories/Story_ub3a.xml",
+        "before": "형태: 직선으로 끊긴 획 끝과 두꺼운 세로획",
+        "after": "형태: 직선적인 골격과 두꺼운 세로획",
+        "reason": "Actual YES24 outlines have subtly rounded corners; describe their straight structural strokes without inventing a90-degree corner."
+      },
+      {
+        "story": "Stories/Story_ub50.xml",
+        "before": "두꺼운 직선과 반듯한 직각이 답장을 단단히 묶어, 나는 짧은 말도 선언처럼 읽는다.",
+        "after": "두꺼운 직선과 반듯한 골격이 답장을 단단히 묶어, 나는 짧은 말도 선언처럼 읽는다.",
+        "reason": "Actual YES24 outlines have subtly rounded corners; describe their straight structural strokes without inventing a90-degree corner."
+      }
+    ],
+    "sample_baseline_exact_in_native_IDML": true,
+    "fixed_baseline_spec": "085_textframe_preference_properties_as_attributes.md: FirstBaselineOffset=FixedHeight; MinimumFirstBaselineOffset=18",
+    "records": [
+      {
+        "font_key": "blackhan",
+        "sample_frame": "u740",
+        "sample_story": "Stories/Story_u72e.xml",
+        "word": "진심입니다",
+        "point_size": 18,
+        "sample_page_x": 36.34645670000003,
+        "sample_top_y": 152,
+        "frame_width_pt": 335.496063,
+        "frame_height_pt": 24,
+        "fixed_first_baseline_offset_pt": 18,
+        "baseline_page_y": 170,
+        "methods": [
+          {
+            "method": "actual_contour_highlight",
+            "contours": [
+              6
+            ],
+            "color": "pink",
+            "feature": "'심'의 ㅁ 안쪽 실제 속공간"
+          },
+          {
+            "method": "actual_stroke_cross_section",
+            "horizontal_scan_y": -2.817,
+            "width_pt": 3.3840000000000003,
+            "interval": [
+              16.11,
+              19.494
+            ]
+          }
+        ],
+        "annotation_bounds_relative_to_baseline": [
+          16.11,
+          -3.5170000000000003,
+          24.966,
+          -2.117
+        ],
+        "native_baseline_property": "MinimumFirstBaselineOffset"
+      },
+      {
+        "font_key": "gugi",
+        "sample_frame": "u79f",
+        "sample_story": "Stories/Story_u78d.xml",
+        "word": "진심입니다",
+        "point_size": 18,
+        "sample_page_x": 36.34645670000003,
+        "sample_top_y": 219,
+        "frame_width_pt": 335.496063,
+        "frame_height_pt": 24,
+        "fixed_first_baseline_offset_pt": 18,
+        "baseline_page_y": 237,
+        "methods": [
+          {
+            "method": "actual_contour_highlight",
+            "contours": [
+              12
+            ],
+            "color": "red",
+            "feature": "'다'의 ㅏ에서 떨어진 실제 둥근 점"
+          },
+          {
+            "method": "actual_ink_gap_measure",
+            "gap_pt": 0.5939999999999941,
+            "scan_y": -8.405999999999999
+          }
+        ],
+        "annotation_bounds_relative_to_baseline": [
+          81.9,
+          -9.792,
+          85.266,
+          -7.02
+        ],
+        "native_baseline_property": "MinimumFirstBaselineOffset"
+      },
+      {
+        "font_key": "kirang",
+        "sample_frame": "u7fe",
+        "sample_story": "Stories/Story_u7ec.xml",
+        "word": "진심입니다",
+        "point_size": 18,
+        "sample_page_x": 36.34645670000003,
+        "sample_top_y": 286,
+        "frame_width_pt": 335.496063,
+        "frame_height_pt": 24,
+        "fixed_first_baseline_offset_pt": 18,
+        "baseline_page_y": 304,
+        "methods": [
+          {
+            "method": "actual_contour_highlight",
+            "contours": [
+              0
+            ],
+            "color": "red",
+            "feature": "'진'의 기울고 고르지 않은 ㅈ"
+          },
+          {
+            "method": "advance_cell_center_reference",
+            "advance_pt": 11.7,
+            "reference_x": 5.85
+          }
+        ],
+        "annotation_bounds_relative_to_baseline": [
+          1.1,
+          -14.948,
+          7.92,
+          1.829
+        ],
+        "native_baseline_property": "MinimumFirstBaselineOffset"
+      },
+      {
+        "font_key": "singleday",
+        "sample_frame": "u85d",
+        "sample_story": "Stories/Story_u84b.xml",
+        "word": "진심입니다",
+        "point_size": 18,
+        "sample_page_x": 36.34645670000003,
+        "sample_top_y": 353,
+        "frame_width_pt": 335.496063,
+        "frame_height_pt": 24,
+        "fixed_first_baseline_offset_pt": 18,
+        "baseline_page_y": 371,
+        "methods": [
+          {
+            "method": "actual_contour_highlight",
+            "contours": [
+              17
+            ],
+            "color": "red",
+            "feature": "'다'의 ㅏ 위 실제 하트 모양 장식"
+          },
+          {
+            "method": "actual_feature_enlargement",
+            "magnification": 3.0,
+            "source_contours": [
+              17
+            ],
+            "detail_center": [
+              132,
+              -8
+            ]
+          }
+        ],
+        "annotation_bounds_relative_to_baseline": [
+          64.266,
+          -12.166999999999998,
+          137.748,
+          -3.833000000000002
+        ],
+        "native_baseline_property": "MinimumFirstBaselineOffset"
+      },
+      {
+        "font_key": "bawpic",
+        "sample_frame": "u8bc",
+        "sample_story": "Stories/Story_u8aa.xml",
+        "word": "진심입니다",
+        "point_size": 18,
+        "sample_page_x": 36.34645670000003,
+        "sample_top_y": 420,
+        "frame_width_pt": 335.496063,
+        "frame_height_pt": 24,
+        "fixed_first_baseline_offset_pt": 18,
+        "baseline_page_y": 438,
+        "methods": [
+          {
+            "method": "actual_contour_highlight",
+            "contours": [
+              0,
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7
+            ],
+            "color": "red",
+            "feature": "'진'의 패인 윤곽과 떨어진 조각"
+          }
+        ],
+        "annotation_bounds_relative_to_baseline": [
+          0.18,
+          -13.23,
+          12.312,
+          2.934
+        ],
+        "native_baseline_property": "MinimumFirstBaselineOffset"
+      },
+      {
+        "font_key": "pixel",
+        "sample_frame": "u91b",
+        "sample_story": "Stories/Story_u909.xml",
+        "word": "진심입니다",
+        "point_size": 18,
+        "sample_page_x": 36.34645670000003,
+        "sample_top_y": 487,
+        "frame_width_pt": 335.496063,
+        "frame_height_pt": 24,
+        "fixed_first_baseline_offset_pt": 18,
+        "baseline_page_y": 505,
+        "methods": [
+          {
+            "method": "actual_contour_highlight",
+            "contours": [
+              0
+            ],
+            "color": "red",
+            "feature": "'진'의 ㅈ에서10폰트단위로 계단처럼 꺾이는 윤곽"
+          },
+          {
+            "method": "font_unit_lattice",
+            "step_pt": 1.125,
+            "step_em": 0.0625,
+            "glyph": "진"
+          }
+        ],
+        "annotation_bounds_relative_to_baseline": [
+          1.125,
+          -13.5,
+          15.75,
+          1.125
+        ],
+        "native_baseline_property": "MinimumFirstBaselineOffset"
+      },
+      {
+        "font_key": "gungseo",
+        "sample_frame": "ua19",
+        "sample_story": "Stories/Story_ua07.xml",
+        "word": "진심입니다",
+        "point_size": 18,
+        "sample_page_x": 47.68503937,
+        "sample_top_y": 152,
+        "frame_width_pt": 335.496063,
+        "frame_height_pt": 24,
+        "fixed_first_baseline_offset_pt": 18,
+        "baseline_page_y": 170,
+        "methods": [
+          {
+            "method": "actual_contour_highlight",
+            "contours": [
+              0
+            ],
+            "color": "red",
+            "feature": "'진'의 눌렀다 가늘어지는 ㅈ 붓획"
+          },
+          {
+            "method": "actual_advance_cell_plane",
+            "first_character_advance_pt": 18.0,
+            "second_prefix_advance_pt": 36.0
+          }
+        ],
+        "annotation_bounds_relative_to_baseline": [
+          0.0,
+          -14.284,
+          36.0,
+          2.638
+        ],
+        "native_baseline_property": "MinimumFirstBaselineOffset"
+      },
+      {
+        "font_key": "jua",
+        "sample_frame": "ua78",
+        "sample_story": "Stories/Story_ua66.xml",
+        "word": "진심입니다",
+        "point_size": 18,
+        "sample_page_x": 47.68503937,
+        "sample_top_y": 219,
+        "frame_width_pt": 335.496063,
+        "frame_height_pt": 24,
+        "fixed_first_baseline_offset_pt": 18,
+        "baseline_page_y": 237,
+        "methods": [
+          {
+            "method": "actual_contour_highlight",
+            "contours": [
+              0
+            ],
+            "color": "red",
+            "feature": "'진'의 둥근 모서리와 둥근 끝을 가진 ㅈ"
+          },
+          {
+            "method": "actual_cubic_rounding_ring",
+            "curve_midpoint": [
+              6.08175,
+              -11.592000000000002
+            ],
+            "ring_radius_pt": 1.6
+          }
+        ],
+        "annotation_bounds_relative_to_baseline": [
+          0.36,
+          -13.626,
+          9.3285,
+          -5.94
+        ],
+        "native_baseline_property": "MinimumFirstBaselineOffset"
+      },
+      {
+        "font_key": "brush",
+        "sample_frame": "uad7",
+        "sample_story": "Stories/Story_uac5.xml",
+        "word": "진심입니다",
+        "point_size": 18,
+        "sample_page_x": 47.68503937,
+        "sample_top_y": 286,
+        "frame_width_pt": 335.496063,
+        "frame_height_pt": 24,
+        "fixed_first_baseline_offset_pt": 18,
+        "baseline_page_y": 304,
+        "methods": [
+          {
+            "method": "actual_contour_highlight",
+            "contours": [
+              1,
+              3
+            ],
+            "color": "red",
+            "feature": "'진'의 가늘어지는 두 붓획"
+          },
+          {
+            "method": "true_ink_boxes_and_baseline",
+            "per_glyph_bounds": [
+              [
+                0.32142857142857145,
+                -9.182571428571428,
+                12.556285714285714,
+                1.7136
+              ],
+              [
+                12.114,
+                -9.684,
+                22.50257142857143,
+                3.366
+              ],
+              [
+                22.878,
+                -10.908,
+                31.086,
+                4.523684210526316
+              ],
+              [
+                32.82,
+                -7.686,
+                40.035,
+                0.522
+              ],
+              [
+                41.13,
+                -9.0855,
+                52.542,
+                0.576
+              ]
+            ]
+          }
+        ],
+        "annotation_bounds_relative_to_baseline": [
+          0.0,
+          -10.908,
+          52.74,
+          4.523684210526316
+        ],
+        "native_baseline_property": "MinimumFirstBaselineOffset"
+      },
+      {
+        "font_key": "YES24",
+        "sample_frame": "ub36",
+        "sample_story": "Stories/Story_ub24.xml",
+        "word": "진심입니다",
+        "point_size": 18,
+        "sample_page_x": 47.68503937,
+        "sample_top_y": 353,
+        "frame_width_pt": 335.496063,
+        "frame_height_pt": 24,
+        "fixed_first_baseline_offset_pt": 18,
+        "baseline_page_y": 371,
+        "methods": [
+          {
+            "method": "actual_contour_highlight",
+            "contours": [
+              14
+            ],
+            "color": "red",
+            "feature": "'다'의 직각과 두꺼운 ㄷ 세로획"
+          },
+          {
+            "method": "actual_straight_edge_probe",
+            "edge_start": [
+              63.612,
+              -14.598
+            ],
+            "edge_end": [
+              63.612,
+              1.17
+            ],
+            "edge_length_pt": 15.768,
+            "right_angle_marker_intentionally_absent": true,
+            "reason": "Actual font corners are subtly rounded; no fabricated90-degree marker."
+          }
+        ],
+        "annotation_bounds_relative_to_baseline": [
+          62.812000000000005,
+          -14.598,
+          75.942,
+          1.17
+        ],
+        "native_baseline_property": "MinimumFirstBaselineOffset"
+      },
+      {
+        "font_key": "sans",
+        "sample_frame": "ub95",
+        "sample_story": "Stories/Story_ub83.xml",
+        "word": "진심입니다",
+        "point_size": 18,
+        "sample_page_x": 47.68503937,
+        "sample_top_y": 420,
+        "frame_width_pt": 335.496063,
+        "frame_height_pt": 24,
+        "fixed_first_baseline_offset_pt": 18,
+        "baseline_page_y": 438,
+        "methods": [
+          {
+            "method": "actual_contour_highlight",
+            "contours": [
+              14
+            ],
+            "color": "red",
+            "feature": "'다'의 고른 굵기와 장식 없는 ㅏ 끝"
+          },
+          {
+            "method": "vertical_horizontal_stroke_cross_sections",
+            "character": "니",
+            "vertical_stroke_pt": 1.475999999999999,
+            "horizontal_stroke_pt": 1.2982188685032332,
+            "vertical_to_horizontal_ratio": 1.1369423413955897
+          }
+        ],
+        "annotation_bounds_relative_to_baseline": [
+          55.618,
+          -14.886,
+          82.314,
+          1.422
+        ],
+        "native_baseline_property": "MinimumFirstBaselineOffset"
+      },
+      {
+        "font_key": "serif",
+        "sample_frame": "ubf4",
+        "sample_story": "Stories/Story_ube2.xml",
+        "word": "진심입니다",
+        "point_size": 18,
+        "sample_page_x": 47.68503937,
+        "sample_top_y": 487,
+        "frame_width_pt": 335.496063,
+        "frame_height_pt": 24,
+        "fixed_first_baseline_offset_pt": 18,
+        "baseline_page_y": 505,
+        "methods": [
+          {
+            "method": "actual_contour_highlight",
+            "contours": [
+              0
+            ],
+            "color": "red",
+            "feature": "'진'의 굵은 ㅣ 세로획과 끝의 돌출"
+          },
+          {
+            "method": "vertical_horizontal_stroke_cross_sections",
+            "character": "니",
+            "vertical_stroke_pt": 1.2779999999999916,
+            "horizontal_stroke_pt": 0.9749128087675403,
+            "vertical_to_horizontal_ratio": 1.3108864592881966
+          }
+        ],
+        "annotation_bounds_relative_to_baseline": [
+          11.718,
+          -15.354,
+          66.69,
+          -2.574
+        ],
+        "native_baseline_property": "MinimumFirstBaselineOffset"
+      }
+    ],
+    "actual_Adobe_execution": false
+  },
+  "intro": {
+    "status": "passed",
+    "physical_page": 3,
+    "printed_page": 2,
+    "controlled_word": "진심",
+    "diagram_count": 4,
+    "diagrams": [
+      {
+        "font_key": "blackhan",
+        "word": "진심",
+        "size_pt": 56,
+        "origin_page_pt": [
+          48,
+          314
+        ],
+        "word_bounds_local_pt": [
+          2.24,
+          -42.56000000000002,
+          88.2,
+          1.7763568394002505e-15
+        ],
+        "actual_shaped_font_paths": true,
+        "methods": [
+          "counter_area",
+          "actual_stem_cross_section",
+          "common_baseline"
+        ],
+        "selected_character": "심",
+        "outer_contour": 5,
+        "counter_contour": 6,
+        "counter_bounds_pt": [
+          60.648,
+          -9.968,
+          77.672,
+          -7.56
+        ],
+        "stem_scan_pt": [
+          50.12,
+          -8.764,
+          60.648,
+          -8.764
+        ],
+        "measured_stem_thickness_pt": 10.528000000000006
+      },
+      {
+        "font_key": "sans",
+        "word": "진심",
+        "size_pt": 56,
+        "origin_page_pt": [
+          231,
+          314
+        ],
+        "word_bounds_local_pt": [
+          3.472,
+          -46.256,
+          95.816,
+          3.696000000000005
+        ],
+        "actual_shaped_font_paths": true,
+        "methods": [
+          "counter_area",
+          "actual_stem_cross_section",
+          "common_baseline"
+        ],
+        "selected_character": "심",
+        "outer_contour": 4,
+        "counter_contour": 5,
+        "counter_bounds_pt": [
+          67.648,
+          -10.864,
+          91.28,
+          -0.112
+        ],
+        "stem_scan_pt": [
+          63.112,
+          -5.488,
+          67.648,
+          -5.488
+        ],
+        "measured_stem_thickness_pt": 4.535999999999994
+      },
+      {
+        "font_key": "gugi",
+        "word": "진심",
+        "size_pt": 48,
+        "origin_page_pt": [
+          48,
+          456
+        ],
+        "word_bounds_local_pt": [
+          1.090285714285714,
+          -39.552,
+          89.04,
+          2.832
+        ],
+        "actual_shaped_font_paths": true,
+        "methods": [
+          "actual_advance_cells",
+          "actual_jamo_component_bounds",
+          "interglyph_space_plane",
+          "common_baseline"
+        ],
+        "advance_boundaries_pt": [
+          0,
+          45.648,
+          91.296
+        ],
+        "advance_reference_vertical_extent_pt": [
+          -41.552,
+          9.828
+        ],
+        "glyph_ink_bounds_pt": [
+          [
+            1.090285714285714,
+            -39.552,
+            44.42431168831169,
+            2.352
+          ],
+          [
+            46.38933333333333,
+            -39.552,
+            89.04,
+            2.832
+          ]
+        ],
+        "jamo_components": [
+          {
+            "label": "진 초성",
+            "contour_indexes": [
+              0
+            ],
+            "bounds_pt": [
+              1.090285714285714,
+              -38.496,
+              28.974987341772152,
+              -5.384661654135338
+            ]
+          },
+          {
+            "label": "진 중성",
+            "contour_indexes": [
+              2
+            ],
+            "bounds_pt": [
+              34.224,
+              -39.552,
+              39.936,
+              -10.08
+            ]
+          },
+          {
+            "label": "진 받침",
+            "contour_indexes": [
+              1
+            ],
+            "bounds_pt": [
+              14.88,
+              -14.688,
+              44.42431168831169,
+              2.352
+            ]
+          },
+          {
+            "label": "심 초성",
+            "contour_indexes": [
+              4
+            ],
+            "bounds_pt": [
+              46.38933333333333,
+              -38.59490909090909,
+              72.41066666666666,
+              -5.3494153846153845
+            ]
+          },
+          {
+            "label": "심 중성",
+            "contour_indexes": [
+              6
+            ],
+            "bounds_pt": [
+              79.92,
+              -39.552,
+              85.632,
+              -15.744
+            ]
+          },
+          {
+            "label": "심 받침",
+            "contour_indexes": [
+              3,
+              5
+            ],
+            "bounds_pt": [
+              60.528,
+              -14.688,
+              89.04,
+              2.832
+            ]
+          }
+        ],
+        "measured_interglyph_ink_gap_pt": 1.9650216450216433,
+        "advance_box_height_is_reference_extent_not_claimed_em": true
+      },
+      {
+        "font_key": "singleday",
+        "word": "진심",
+        "size_pt": 48,
+        "origin_page_pt": [
+          231,
+          456
+        ],
+        "word_bounds_local_pt": [
+          3.562,
+          -33.469,
+          71.953,
+          7.828
+        ],
+        "actual_shaped_font_paths": true,
+        "methods": [
+          "actual_advance_cells",
+          "actual_jamo_component_bounds",
+          "interglyph_space_plane",
+          "common_baseline"
+        ],
+        "advance_boundaries_pt": [
+          0,
+          38.625,
+          77.25
+        ],
+        "advance_reference_vertical_extent_pt": [
+          -41.552,
+          9.828
+        ],
+        "glyph_ink_bounds_pt": [
+          [
+            3.562,
+            -33.469,
+            34.781,
+            4.312
+          ],
+          [
+            41.719,
+            -33.469,
+            71.953,
+            7.828
+          ]
+        ],
+        "jamo_components": [
+          {
+            "label": "진 초성",
+            "contour_indexes": [
+              0
+            ],
+            "bounds_pt": [
+              3.562,
+              -28.922,
+              20.016,
+              -10.641
+            ]
+          },
+          {
+            "label": "진 중성",
+            "contour_indexes": [
+              1
+            ],
+            "bounds_pt": [
+              28.734,
+              -33.469,
+              33.141,
+              -9.562
+            ]
+          },
+          {
+            "label": "진 받침",
+            "contour_indexes": [
+              2
+            ],
+            "bounds_pt": [
+              12.609,
+              -8.156,
+              34.781,
+              4.312
+            ]
+          },
+          {
+            "label": "심 초성",
+            "contour_indexes": [
+              3
+            ],
+            "bounds_pt": [
+              41.719,
+              -30.234,
+              59.203,
+              -11.109
+            ]
+          },
+          {
+            "label": "심 중성",
+            "contour_indexes": [
+              4
+            ],
+            "bounds_pt": [
+              67.359,
+              -33.469,
+              71.766,
+              -9.562
+            ]
+          },
+          {
+            "label": "심 받침",
+            "contour_indexes": [
+              5,
+              6
+            ],
+            "bounds_pt": [
+              49.734,
+              -7.359,
+              71.953,
+              7.828
+            ]
+          }
+        ],
+        "measured_interglyph_ink_gap_pt": 6.938000000000002,
+        "advance_box_height_is_reference_extent_not_claimed_em": true
+      }
+    ],
+    "story_changes": [
+      {
+        "member": "Stories/Story_earlyVisualStory_section1.xml",
+        "before": "01  같은 단어, 다른 목소리\n",
+        "after": "01  획 두께와 속공간을 함께 읽기\n"
+      },
+      {
+        "member": "Stories/Story_earlyVisualStory_section2.xml",
+        "before": "02  끝의 모양이 말투를 만든다\n",
+        "after": "02  글자칸과 몸집이 바꾸는 말투\n"
+      },
+      {
+        "member": "Stories/Story_earlyVisualStory_blackhan_caption.xml",
+        "before": "굵은 획, 좁은 속공간.\n내겐 큰 외침.\n",
+        "after": "ㅁ 세로획 10.53pt, 좁은 속공간.\n내겐 큰소리로 외치는 진심.\n"
+      },
+      {
+        "member": "Stories/Story_earlyVisualStory_sans_caption.xml",
+        "before": "고른 획, 넓은 속공간.\n내겐 차분한 말.\n",
+        "after": "ㅁ 세로획 4.54pt, 넓은 속공간.\n내겐 차분히 건네는 진심.\n"
+      },
+      {
+        "member": "Stories/Story_earlyVisualStory_gugi_caption.xml",
+        "before": "떨어진 점과 끊긴 이음.\n내겐 기계 알림.\n",
+        "after": "칸마다 정돈된 초성·중성·받침.\n내겐 또박또박한 기계 알림.\n"
+      },
+      {
+        "member": "Stories/Story_earlyVisualStory_singleday_caption.xml",
+        "before": "둥근 획과 작은 하트.\n내겐 친구의 편지.\n",
+        "after": "칸 안에서 흔들리는 자소의 몸집.\n내겐 손으로 적은 친구의 메모.\n"
+      },
+      {
+        "member": "Stories/Story_u65b.xml",
+        "before": "검정=실제 글자 · 빨강=획·특징 · 분홍=속공간\n",
+        "after": "빨강=측정·자소 경계 / 분홍=속공간·빈틈 / 회색=글자칸\n"
+      }
+    ],
+    "removed_graphics": [
+      "earlyVisual_blackhan_feature",
+      "earlyVisual_blackhan_baseline",
+      "earlyVisual_blackhan_stem",
+      "earlyVisual_blackhan_cap0",
+      "earlyVisual_blackhan_cap1",
+      "earlyVisual_sans_feature",
+      "earlyVisual_sans_baseline",
+      "earlyVisual_sans_stem",
+      "earlyVisual_sans_cap0",
+      "earlyVisual_sans_cap1",
+      "earlyVisual_gugi_feature",
+      "earlyVisual_gugi_baseline",
+      "earlyVisual_singleday_feature",
+      "earlyVisual_singleday_baseline"
+    ],
+    "added_graphics": [
+      "earlyVisual_blackhan_baseline",
+      "earlyVisual_blackhan_feature",
+      "earlyVisual_blackhan_stem",
+      "earlyVisual_sans_baseline",
+      "earlyVisual_sans_feature",
+      "earlyVisual_sans_stem",
+      "earlyVisual_gugi_advance_cells",
+      "earlyVisual_gugi_interglyph_space",
+      "earlyVisual_gugi_baseline",
+      "earlyVisual_gugi_ink_boxes",
+      "earlyVisual_singleday_advance_cells",
+      "earlyVisual_singleday_interglyph_space",
+      "earlyVisual_singleday_baseline",
+      "earlyVisual_singleday_ink_boxes"
+    ],
+    "methods": [
+      "counter_area",
+      "stroke_thickness_gauge",
+      "advance_cell_grid",
+      "jamo_component_bounding_boxes",
+      "interglyph_space_plane",
+      "baseline"
+    ],
+    "no_kerning_adjustment_values_invented": true,
+    "all_shapes_internal_editable_vectors": true,
+    "preserved_incoming_intro_body": true,
+    "actual_Adobe_execution": false
+  },
+  "back_cover": {
+    "status": "applied",
+    "changed_member": "Spreads/Spread_u62e5.xml",
+    "physical_page": 28,
+    "reference": "explicit symmetric14mm back-cover margins, independent of page side",
+    "target_grid_page_pt": [
+      39.68503937,
+      379.84256063
+    ],
+    "grid_width_pt": 340.15752125999995,
+    "symmetric_margin_pt": 39.68503937,
+    "margin_preferences_before": {
+      "ColumnCount": "1",
+      "ColumnGutter": "12",
+      "Top": "28.34645669",
+      "Bottom": "28.34645669",
+      "Left": "28.34645669",
+      "Right": "39.68503937",
+      "ColumnDirection": "Horizontal",
+      "ColumnsPositions": "0 351.49610394"
+    },
+    "margin_preferences_after": {
+      "ColumnCount": "1",
+      "ColumnGutter": "12",
+      "Top": "28.34645669",
+      "Bottom": "28.34645669",
+      "Left": "39.68503937",
+      "Right": "39.68503937",
+      "ColumnDirection": "Horizontal",
+      "ColumnsPositions": "0 340.15752126"
+    },
+    "horizontal_translation_pt": 11.338582669999965,
+    "horizontal_translation_mm": 3.9999999974722096,
+    "page_items": 12,
+    "changes": [
+      {
+        "self": "u62ec",
+        "tag": "Rectangle",
+        "before_page_bounds_pt": [
+          28.346456700000033,
+          36.0,
+          379.8425197,
+          36.69999999999999
+        ],
+        "after_page_bounds_pt": [
+          39.68503937000003,
+          36.0,
+          379.84256063000004,
+          36.69999999999999
+        ],
+        "resized_for_symmetric_grid": true,
+        "right_bound_pt": 379.84256063000004
+      },
+      {
+        "self": "u62ed",
+        "tag": "Rectangle",
+        "before_page_bounds_pt": [
+          28.346456700000033,
+          49.00000000000003,
+          102.34645670000003,
+          65.00000000000003
+        ],
+        "after_page_bounds_pt": [
+          39.68503937000003,
+          49.00000000000003,
+          113.68503937000003,
+          65.00000000000003
+        ],
+        "resized_for_symmetric_grid": false,
+        "right_bound_pt": 113.68503937000003
+      },
+      {
+        "self": "u6301",
+        "tag": "TextFrame",
+        "before_page_bounds_pt": [
+          33.34645670000003,
+          51.00000000000003,
+          97.34645670000003,
+          63.00000000000003
+        ],
+        "after_page_bounds_pt": [
+          44.68503937000003,
+          51.00000000000003,
+          108.68503937000003,
+          63.00000000000003
+        ],
+        "resized_for_symmetric_grid": false,
+        "right_bound_pt": 108.68503937000003
+      },
+      {
+        "self": "u6317",
+        "tag": "TextFrame",
+        "before_page_bounds_pt": [
+          28.346456700000033,
+          76.00000000000003,
+          379.8425197,
+          110.00000000000003
+        ],
+        "after_page_bounds_pt": [
+          39.68503937000003,
+          76.00000000000003,
+          379.84256063000004,
+          110.00000000000003
+        ],
+        "resized_for_symmetric_grid": true,
+        "right_bound_pt": 379.84256063000004
+      },
+      {
+        "self": "u632d",
+        "tag": "TextFrame",
+        "before_page_bounds_pt": [
+          28.346456700000033,
+          116.00000000000003,
+          379.8425197,
+          146.00000000000003
+        ],
+        "after_page_bounds_pt": [
+          39.68503937000003,
+          116.00000000000003,
+          379.84256063000004,
+          146.00000000000003
+        ],
+        "resized_for_symmetric_grid": true,
+        "right_bound_pt": 379.84256063000004
+      },
+      {
+        "self": "u6330",
+        "tag": "Rectangle",
+        "before_page_bounds_pt": [
+          28.346456700000033,
+          173.00000000000003,
+          379.8425197,
+          249.00000000000003
+        ],
+        "after_page_bounds_pt": [
+          39.68503937000003,
+          173.00000000000003,
+          379.84256063000004,
+          249.00000000000003
+        ],
+        "resized_for_symmetric_grid": true,
+        "right_bound_pt": 379.84256063000004
+      },
+      {
+        "self": "u6344",
+        "tag": "TextFrame",
+        "before_page_bounds_pt": [
+          40.34645670000003,
+          185.00000000000003,
+          367.8425197,
+          243.00000000000003
+        ],
+        "after_page_bounds_pt": [
+          51.68503937000003,
+          185.00000000000003,
+          367.84256063000004,
+          243.00000000000003
+        ],
+        "resized_for_symmetric_grid": true,
+        "right_bound_pt": 367.84256063000004
+      },
+      {
+        "self": "u6347",
+        "tag": "Rectangle",
+        "before_page_bounds_pt": [
+          28.346456700000033,
+          272.0,
+          172.34645670000003,
+          288.0
+        ],
+        "after_page_bounds_pt": [
+          39.68503937000003,
+          272.0,
+          183.68503937000003,
+          288.0
+        ],
+        "resized_for_symmetric_grid": false,
+        "right_bound_pt": 183.68503937000003
+      },
+      {
+        "self": "u635b",
+        "tag": "TextFrame",
+        "before_page_bounds_pt": [
+          33.34645670000003,
+          274.0,
+          167.34645670000003,
+          286.0
+        ],
+        "after_page_bounds_pt": [
+          44.68503937000003,
+          274.0,
+          178.68503937000003,
+          286.0
+        ],
+        "resized_for_symmetric_grid": false,
+        "right_bound_pt": 178.68503937000003
+      },
+      {
+        "self": "u6371",
+        "tag": "TextFrame",
+        "before_page_bounds_pt": [
+          28.346456700000033,
+          315.0,
+          379.8425197,
+          333.0
+        ],
+        "after_page_bounds_pt": [
+          39.68503937000003,
+          315.0,
+          379.84256063000004,
+          333.0
+        ],
+        "resized_for_symmetric_grid": true,
+        "right_bound_pt": 379.84256063000004
+      },
+      {
+        "self": "u6387",
+        "tag": "TextFrame",
+        "before_page_bounds_pt": [
+          28.346456700000033,
+          348.0,
+          379.8425197,
+          513.0
+        ],
+        "after_page_bounds_pt": [
+          39.68503937000003,
+          348.0,
+          379.84256063000004,
+          513.0
+        ],
+        "resized_for_symmetric_grid": true,
+        "right_bound_pt": 379.84256063000004
+      },
+      {
+        "self": "u639d",
+        "tag": "TextFrame",
+        "before_page_bounds_pt": [
+          28.346456700000033,
+          532.0,
+          379.8425197,
+          553.0
+        ],
+        "after_page_bounds_pt": [
+          39.68503937000003,
+          532.0,
+          379.84256063000004,
+          553.0
+        ],
+        "resized_for_symmetric_grid": true,
+        "right_bound_pt": 379.84256063000004
+      }
+    ],
+    "stories_and_font_properties_unchanged": true,
+    "vertical_positions_unchanged": true,
+    "full_width_elements_resized": 8,
+    "narrow_badge_and_red_tag_widths_unchanged": true,
+    "panel_inner_padding_retained_pt": {
+      "badge": 5,
+      "yellow_panel": 12
+    },
+    "page_margins_explicitly_symmetric_14mm": true,
+    "no_cover_folio_added": true,
+    "native_Adobe_execution": false
+  },
+  "changed_members": [
+    "Spreads/Spread_u13d8.xml",
+    "Spreads/Spread_u1b71.xml",
+    "Spreads/Spread_u1eb.xml",
+    "Spreads/Spread_u230a.xml",
+    "Spreads/Spread_u32f4.xml",
+    "Spreads/Spread_u3a8d.xml",
+    "Spreads/Spread_u4226.xml",
+    "Spreads/Spread_u4991.xml",
+    "Spreads/Spread_u512a.xml",
+    "Spreads/Spread_u62e5.xml",
+    "Spreads/Spread_u670.xml",
+    "Spreads/Spread_uc29.xml",
+    "Stories/Story_u13ad.xml",
+    "Stories/Story_u62e.xml",
+    "Stories/Story_u65b.xml",
+    "Stories/Story_u744.xml",
+    "Stories/Story_ub3a.xml",
+    "Stories/Story_ub50.xml",
+    "Stories/Story_earlyVisualStory_section1.xml",
+    "Stories/Story_earlyVisualStory_section2.xml",
+    "Stories/Story_earlyVisualStory_blackhan_caption.xml",
+    "Stories/Story_earlyVisualStory_sans_caption.xml",
+    "Stories/Story_earlyVisualStory_gugi_caption.xml",
+    "Stories/Story_earlyVisualStory_singleday_caption.xml"
+  ],
+  "all_23_user_approved_example_stories_unchanged": true,
+  "approved_example_entries": 15,
+  "designmap_including_identification_header_byte_identical": true,
+  "redundant_word_removed_everywhere": true,
+  "native_Adobe_execution": false
+}

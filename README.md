@@ -1,3 +1,18 @@
+# 정렬 수정 — 기존 ‘진심입니다’에서 특징 시각화
+
+중복 견본 ‘가만히’를 제거했습니다. ‘진심입니다’에 실제 속공간·획 단면·격자·글자칸·잉크 경계·장식 확대를 표시합니다. 본문 하단9곳을 같은 기준선에 맞추고, 뒷표지는 좌우14mm로 정리했습니다. 승인 예문15개는 유지했습니다.
+
+- **[검토 PDF](submission-alignment/Meme_Font_Book_Alignment_28p_Review.pdf)**
+- **[편집용 IDML](submission-alignment/Meme_Font_Book_Alignment_28p.idml)**
+- **[A3 양면 인쇄 PDF](submission-alignment/Meme_Font_Book_Alignment_A3_Duplex_28p.pdf)**
+- [시각화03–04쪽](submission-alignment/Alignment_Font_Analysis_03_04.png) · [새 인트로](submission-alignment/Alignment_Intro_02_Detail.png)
+- [하단 수정 전·후](submission-alignment/Alignment_Footer_Before_After.png) · [뒷표지 수정 전·후](submission-alignment/Alignment_Backcover_Before_After.png)
+- [전체 ZIP](https://github.com/jeongseul1116/gpt/raw/refs/heads/main/Meme_Font_Book_Alignment_28p.zip) · [파일·인쇄·검수 안내](submission-alignment/README_KO.md)
+
+최신 파일은 **submission-alignment**입니다. 실제 Adobe 실행·실물 출력은 미검증입니다. 아래는 이전 수정 내역입니다.
+
+---
+
 # 1차 수정 — 표지·목차·인트로·단어 비교·확정 예문
 
 표지 제목을 키우고 부제를 위로 옮겼습니다. 목차26쪽에 숏밈을 직접 넣고, 인트로를 다시 썼습니다. 한 글자 도해25곳을 단어 비교로 바꿨고, 사용자가 검토한 예문15개를 확정 반영했습니다.
