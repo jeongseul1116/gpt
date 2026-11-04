@@ -1,5 +1,5 @@
 {
-  "active_new_work": "TOC28",
+  "active_new_work": "FinalPDF28",
   "A": {
     "status": "preserved",
     "folder": "submission-alignment",
@@ -337,6 +337,30 @@
     "idml_sha256": "8b67005b48e16b9c47240afe445b29b82dcb16d925b82281330077e5dc181844",
     "reader_sha256": "940cd78c560ae40d6ffa60134c3fe485d5fda7ff1793f5f5d3bd46b4a50e2e24",
     "print_sha256": "4fc6a4479efffeeba50e78623e550693644df59955fc09bb5c6b4fa267e290ea",
-    "html_sha256": "6dac2d64350c3b956a99ee32c135d7e68a562aee2d37b7a98ca98ec95067a1d4"
+    "html_sha256": "6dac2d64350c3b956a99ee32c135d7e68a562aee2d37b7a98ca98ec95067a1d4",
+    "status": "preserved"
+  },
+  "FinalPDF28": {
+    "status": "final_pdf_only",
+    "folder": "submission-final-pdf",
+    "physical_pages": 28,
+    "reader": "submission-final-pdf/Maltu_Book_Final_28p.pdf",
+    "print": "submission-final-pdf/Maltu_Book_Final_A4_Saddle.pdf",
+    "reader_sha256": "244bee79a5a4cfcdc527c9014e7ab14225170f707c295463ee58147abc4a70f3",
+    "print_sha256": "1c376bfe79621ef46b0346aa06c0d24915c37c6369baeec996d64f5eb1cb306a",
+    "changed_printed_pages": [
+      8,
+      12,
+      20,
+      24
+    ],
+    "other24_pages_preserved": true,
+    "whole_words_at_line_breaks": true,
+    "paper": "A4 landscape",
+    "duplex_sheets": 7,
+    "print_faces": 14,
+    "center_fold_guide_only": true,
+    "bleed_mm": 0,
+    "crop_marks": false
   }
 }

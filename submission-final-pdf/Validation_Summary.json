@@ -1,0 +1,281 @@
+{
+  "status": "passed",
+  "physical_pages": 28,
+  "print_faces": 14,
+  "duplex_sheets": 7,
+  "paper_mm": [
+    297,
+    210
+  ],
+  "duplex": "short_edge",
+  "scale_percent": 100,
+  "bleed_mm": 0,
+  "crop_marks": false,
+  "center_fold_guide_only": true,
+  "changed_physical_pages": [
+    9,
+    13,
+    21,
+    25
+  ],
+  "other24_pages_preserved": true,
+  "word_wrap_validation": {
+    "status": "passed",
+    "physical_pages": [
+      9,
+      13,
+      21,
+      25
+    ],
+    "records": [
+      {
+        "physical": 9,
+        "printed": 8,
+        "width_pt": 323,
+        "font": "sans",
+        "size": 12,
+        "leading": 16,
+        "rows": [
+          {
+            "text": "북쪽에 계신 아름다운 메리메리 리얼 카인드니스 여러분 북쪽에 ",
+            "start": 0,
+            "end": 34,
+            "newline_index": null
+          },
+          {
+            "text": "계신 아름다운 메리메리 리얼 카인드니스 여러분",
+            "start": 34,
+            "end": 59,
+            "newline_index": null
+          }
+        ],
+        "all_words_intact": true
+      },
+      {
+        "physical": 9,
+        "printed": 8,
+        "width_pt": 228,
+        "font": "sans",
+        "size": 12,
+        "leading": 16,
+        "rows": [
+          {
+            "text": "북쪽에 계신 아름다운 메리메리 리얼 ",
+            "start": 0,
+            "end": 20,
+            "newline_index": null
+          },
+          {
+            "text": "카인드니스 여러분 북쪽에 계신 아름다운 ",
+            "start": 20,
+            "end": 42,
+            "newline_index": null
+          },
+          {
+            "text": "메리메리 리얼 카인드니스 여러분",
+            "start": 42,
+            "end": 59,
+            "newline_index": null
+          }
+        ],
+        "all_words_intact": true
+      },
+      {
+        "physical": 9,
+        "printed": 8,
+        "width_pt": 145,
+        "font": "sans",
+        "size": 12,
+        "leading": 16,
+        "rows": [
+          {
+            "text": "북쪽에 계신 아름다운 ",
+            "start": 0,
+            "end": 12,
+            "newline_index": null
+          },
+          {
+            "text": "메리메리 리얼 카인드니스 ",
+            "start": 12,
+            "end": 26,
+            "newline_index": null
+          },
+          {
+            "text": "여러분 북쪽에 계신 아름다운 ",
+            "start": 26,
+            "end": 42,
+            "newline_index": null
+          },
+          {
+            "text": "메리메리 리얼 카인드니스 ",
+            "start": 42,
+            "end": 56,
+            "newline_index": null
+          },
+          {
+            "text": "여러분",
+            "start": 56,
+            "end": 59,
+            "newline_index": null
+          }
+        ],
+        "all_words_intact": true
+      },
+      {
+        "physical": 21,
+        "printed": 20,
+        "case_id": "E04",
+        "rows": [
+          {
+            "text": "남의 기쁨을 진심으로 축하해주지 ",
+            "start": 0,
+            "end": 18,
+            "newline_index": null
+          },
+          {
+            "text": "못하고,",
+            "start": 18,
+            "end": 22,
+            "newline_index": 22
+          },
+          {
+            "text": "시샘하고,",
+            "start": 23,
+            "end": 28,
+            "newline_index": 28
+          },
+          {
+            "text": "시기하고,",
+            "start": 29,
+            "end": 34,
+            "newline_index": 34
+          },
+          {
+            "text": "질투하고,",
+            "start": 35,
+            "end": 40,
+            "newline_index": 40
+          },
+          {
+            "text": "미워하고,",
+            "start": 41,
+            "end": 46,
+            "newline_index": 46
+          },
+          {
+            "text": "분노하고,",
+            "start": 47,
+            "end": 52,
+            "newline_index": 52
+          },
+          {
+            "text": "분개하고,",
+            "start": 53,
+            "end": 58,
+            "newline_index": 58
+          },
+          {
+            "text": "절망하고,",
+            "start": 59,
+            "end": 64,
+            "newline_index": 64
+          },
+          {
+            "text": "아파하고,  ",
+            "start": 65,
+            "end": 72,
+            "newline_index": 72
+          }
+        ],
+        "source_exact": true,
+        "all_words_intact": true,
+        "font_size_preserved": 18
+      },
+      {
+        "physical": 25,
+        "printed": 24,
+        "case_id": "E10",
+        "rows": [
+          {
+            "text": "난... ㄱ ㅏ끔... 눈물을 흘린 ㄷ ㅏ ....",
+            "start": 0,
+            "end": 28,
+            "newline_index": 28
+          },
+          {
+            "text": "ㄱ ㅏ끔은 눈물을 참을 수 없는 내가 별루ㄷ ㅏ...",
+            "start": 29,
+            "end": 58,
+            "newline_index": 58
+          },
+          {
+            "text": "맘이 ㅇ ㅏ ㅍ ㅏ 서.... 소ㄹ ㅣ치며... 울 수 있 ",
+            "start": 59,
+            "end": 92,
+            "newline_index": null
+          },
+          {
+            "text": "ㄷㅏ는건.... 좋은ㄱ ㅓ ㅇ ㅑ.....",
+            "start": 92,
+            "end": 115,
+            "newline_index": 115
+          },
+          {
+            "text": "ㅁ ㅓ... 꼭 슬 ㅍ ㅓ ㅇ ㅑ만 우는 건 ㅇ ㅏ니잖 ㅇ ",
+            "start": 116,
+            "end": 149,
+            "newline_index": null
+          },
+          {
+            "text": "ㅏ...",
+            "start": 149,
+            "end": 153,
+            "newline_index": 153
+          },
+          {
+            "text": "난... 눈물ㅇ ㅣ ....좋다.....",
+            "start": 154,
+            "end": 176,
+            "newline_index": 176
+          },
+          {
+            "text": "ㅇ ㅏ니... 머 리가 ㅇ ㅏ닌..... 맘으로.....우는 ㄴ ㅐㄱ ",
+            "start": 177,
+            "end": 216,
+            "newline_index": null
+          },
+          {
+            "text": "ㅏ 좋ㄷ ㅏ.....",
+            "start": 216,
+            "end": 227,
+            "newline_index": 227
+          }
+        ],
+        "source_exact": true,
+        "all_words_intact": true,
+        "font_size_preserved": 18
+      },
+      {
+        "physical": 13,
+        "printed": 12,
+        "word": "메리메리",
+        "unbroken": true,
+        "size_pt": 96,
+        "same_signboard_geometry": true
+      }
+    ]
+  },
+  "all10_full_meme_sources_preserved": true,
+  "files": {
+    "reader": {
+      "filename": "Maltu_Book_Final_28p.pdf",
+      "sha256": "244bee79a5a4cfcdc527c9014e7ab14225170f707c295463ee58147abc4a70f3",
+      "bytes": 5709129
+    },
+    "print": {
+      "filename": "Maltu_Book_Final_A4_Saddle.pdf",
+      "sha256": "1c376bfe79621ef46b0346aa06c0d24915c37c6369baeec996d64f5eb1cb306a",
+      "bytes": 4948642
+    }
+  }
+}

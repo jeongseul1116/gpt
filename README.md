@@ -1,3 +1,11 @@
+# 최종 PDF · 단어 단위 줄바꿈 반영
+
+[중철 인쇄용 A4 PDF](submission-final-pdf/Maltu_Book_Final_A4_Saddle.pdf?raw=true) · [읽기용 28쪽 PDF](submission-final-pdf/Maltu_Book_Final_28p.pdf?raw=true)
+
+A4 가로 · 실제 크기 100% · 짧은 쪽 양면 · 7장. 소책자·모아찍기는 끄세요. 단어가 줄 중간에서 끊어지지 않도록 수정했습니다. [인쇄 안내](submission-final-pdf/README_KO.md)
+
+---
+
 # 목차와 제목 위계 수정판
 
 [목차·본문 펼침면](https://htmlpreview.github.io/?https://raw.githubusercontent.com/jeongseul1116/gpt/main/flipbook-toc/index.html#p=2&view=spread) · [3쪽 제목](https://htmlpreview.github.io/?https://raw.githubusercontent.com/jeongseul1116/gpt/main/flipbook-toc/index.html#p=4&view=spread) · [IDML·PDF 묶음](submission-toc/Maltu_Book_TOC_IDML_PDF.zip?raw=true)
