@@ -273,6 +273,9 @@
     "all_art_and_text_unchanged": true,
     "bleed_mm": 0,
     "crop_marks": false,
-    "center_fold_guide_only": true
+    "center_fold_guide_only": true,
+    "flipbook": "flipbook/index.html",
+    "flipbook_preview": "https://htmlpreview.github.io/?https://raw.githubusercontent.com/jeongseul1116/gpt/main/flipbook/index.html",
+    "flipbook_sha256": "d8b343346418ec108ef0e18b6698418de898b507ebb2c3d8253e5e880f78011c"
   }
 }

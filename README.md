@@ -1,3 +1,9 @@
+# 책처럼 넘겨보는 미리보기
+
+[28쪽 미리보기 열기](https://htmlpreview.github.io/?https://raw.githubusercontent.com/jeongseul1116/gpt/main/flipbook/index.html) · [동작과 사용 안내](flipbook/README_KO.md)
+
+---
+
 # 중철제본 최종본 — 28쪽·A4 양면 7장
 
 [중철 인쇄 PDF](submission-saddle-final/Maltu_Book_Saddle_A4_Duplex.pdf?raw=true) · [인디자인 IDML](submission-saddle-final/Maltu_Book_Saddle_28p.idml?raw=true) · [전체 패키지](submission-saddle-final/Maltu_Book_Saddle_Package.zip?raw=true)
