@@ -1,3 +1,9 @@
+# 최종 인디자인 — 한 쪽에 한 주제, 총 28쪽
+
+[편집용 IDML](submission-final-indesign/Maltu_Book_Final_28p.idml?raw=true) · [폰트·이미지 패키지](submission-final-indesign/Maltu_Book_Final_Package.zip?raw=true) · [확인용 PDF](submission-final-indesign/Maltu_Book_Final_28p.pdf?raw=true)
+
+---
+
 # 다운로드 없이 책 보기
 
 [말투수집실 전체 28쪽 웹 미리보기](book-preview/README.md) — 좌우 펼침면 비교, 페이지별 확대.

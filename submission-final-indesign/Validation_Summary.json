@@ -1,0 +1,17 @@
+{
+  "status": "passed",
+  "physical_pages": 28,
+  "contents_printed_page": 1,
+  "visual_pages": 11,
+  "mixed_pages": 4,
+  "single_meme_pages": 10,
+  "used_fonts": 12,
+  "embedded_images": 13,
+  "ordinary_text_editable": true,
+  "native_vectors_editable": true,
+  "idml_sha256": "5e20f0537feec7b65d6453f0c7cf92e69689188701dbcb180fa7a8010682791d",
+  "pdf_sha256": "556fa22894957bd60944b9341c767c23a5c675aa6e9c74bdda85d1de98ba355b",
+  "all_pages_without_clipping_or_missing_glyphs": true,
+  "native_Adobe_execution": false,
+  "personal_YES24_font_must_be_installed": true
+}
