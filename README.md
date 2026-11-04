@@ -1,3 +1,9 @@
+# 최신 B12 — 표지 포함 28쪽·양쪽 모두 섞어짜기
+
+12폰트·5색 공간 범례·두 펼침면의 혼합 조합 비교·밈 전문 15개. A4 양면 7장. [전체 28쪽 PDF](submission-version-b12/Meme_Font_Book_B12_28p.pdf) · [A4 인쇄 PDF](submission-version-b12/Meme_Font_Book_B12_A4_Duplex.pdf) · [세 기준 검토](submission-version-b12/Review_KO.md)
+
+---
+
 # 최신 B11 — 목차 1쪽·펼침면 섞어짜기·밈 전문
 
 공간 범례 5색, 간격 비교 3폰트×3조건, B급 심상 문구, 12폰트 복원, 두 펼침면 비교, 밈 전문 15개. 전체 36쪽·A4 양면 9장. [전체 PDF](submission-version-b11/Meme_Font_Book_B11_36p.pdf) · [A4 인쇄 PDF](submission-version-b11/Meme_Font_Book_B11_A4_Duplex.pdf)

@@ -1,0 +1,33 @@
+{
+  "status": "passed",
+  "edition": "B12",
+  "physical_pages_including_covers": 28,
+  "contents_printed_page": 1,
+  "body_page_labels": "1–26",
+  "main_Hangul_font_count": 12,
+  "number_fallback_font": "Noto Sans Mono",
+  "semantic_space_colors": 5,
+  "spacing_controls": "3 fonts × 3 conditions",
+  "mixed_comparison_spreads_printed": [
+    [
+      11,
+      12
+    ],
+    [
+      13,
+      14
+    ]
+  ],
+  "both_pages_of_each_comparison_are_mixed": true,
+  "full_meme_cases": 15,
+  "long_E09_characters": 1652,
+  "A4_duplex_sheets": 7,
+  "print_faces": 14,
+  "bleed_mm": 0,
+  "crop_marks": false,
+  "center_fold_guide_only": true,
+  "reader_sha256": "33cd7b6c23ef383dc1d0b4b9d1fc6784c1f4d1b8828559148b34c7a115f9936a",
+  "print_sha256": "b335d1363e72cdb94d66cd23f4599c5ed52bc4683a82c84ee46bfbe3d1bbefdc",
+  "native_Adobe_execution": false,
+  "physical_printer_test": false
+}
