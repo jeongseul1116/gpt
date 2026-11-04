@@ -1,5 +1,5 @@
 {
-  "active_new_work": "B9r2",
+  "active_new_work": "B9r3",
   "A": {
     "status": "preserved",
     "folder": "submission-alignment",
@@ -152,13 +152,27 @@
     "native_file_prepared_locally": true
   },
   "B9r2": {
-    "status": "front_cover_tearoff_four_complete_cell_alignment",
+    "status": "preserved",
     "folder": "submission-version-b9r2",
     "physical_pages": 28,
     "reader": "submission-version-b9r2/Meme_Font_Book_B9r2_28p.pdf",
     "print": "submission-version-b9r2/Meme_Font_Book_B9r2_A3_Duplex.pdf",
     "reader_sha256": "a7b58f1297620f8663dfe716c0b45e8eaa525548cf38456f5aed0928a78764d2",
     "print_sha256": "ddce2f3a9cb9e1e0eeab8145185ef28006906e6d4700cfb123ab758fdf610893",
+    "native_file_prepared_locally": true
+  },
+  "B9r3": {
+    "status": "take_home_font_tickets_A4_duplex_fold_guide_only",
+    "folder": "submission-version-b9r3",
+    "physical_pages": 28,
+    "reader": "submission-version-b9r3/Meme_Font_Book_B9r3_28p.pdf",
+    "print": "submission-version-b9r3/Meme_Font_Book_B9r3_A4_Duplex.pdf",
+    "print_paper": "A4 landscape",
+    "print_bleed_mm": 0,
+    "crop_marks": false,
+    "center_fold_guide": true,
+    "reader_sha256": "912bc123f033a2e5ac399acabe9f43fb6ea0264ae6282c3514b48ee17609ae89",
+    "print_sha256": "11fce79e528ca2a3da305267560b3a9f65defddb92e4853e8fc96161de65dcbb",
     "native_file_prepared_locally": true
   }
 }

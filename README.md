@@ -1,3 +1,9 @@
+# 최신 B9r3 — A4 양면·접는 선만
+
+표지 하단을 같은 문장의 네 폰트 표본으로 정리했습니다. A4 가로·100%·짧은 쪽 양면 7장. 도련·재단선을 빼고 가운데 접는 선만 넣었습니다. [전체 PDF](submission-version-b9r3/Meme_Font_Book_B9r3_28p.pdf) · [A4 인쇄 PDF](submission-version-b9r3/Meme_Font_Book_B9r3_A4_Duplex.pdf) · [표지 하단](submission-version-b9r3/Cover_Tickets_B9r3.png)
+
+---
+
 # 최신 B9r2 — 표지 하단 네 칸 정렬 수정
 
 고딕·궁서·손글씨·도트를 각 칸의 가로·세로 정중앙에 맞췄습니다. [전체 PDF](submission-version-b9r2/Meme_Font_Book_B9r2_28p.pdf) · [A3 양면 인쇄 PDF](submission-version-b9r2/Meme_Font_Book_B9r2_A3_Duplex.pdf) · [하단 확대](submission-version-b9r2/Cover_Tearoff_B9r2.png)

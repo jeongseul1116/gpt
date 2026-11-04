@@ -1,0 +1,22 @@
+{
+  "status": "passed",
+  "revision": "B9r3",
+  "change": "Four controlled take-home font tickets; A4 duplex with centered folding guide only",
+  "reader_pages": 28,
+  "print_faces": 14,
+  "duplex_a4_sheets": 7,
+  "paper_mm": [
+    297,
+    210
+  ],
+  "crop_marks": false,
+  "bleed_mm": 0,
+  "fold_guide_at_paper_center": true,
+  "same_size_full_phrase_cover_samples_pt": 14,
+  "source_content_preserved_except_front_cover_and_offpage_bleed_cleanup": true,
+  "reader_sha256": "912bc123f033a2e5ac399acabe9f43fb6ea0264ae6282c3514b48ee17609ae89",
+  "print_sha256": "11fce79e528ca2a3da305267560b3a9f65defddb92e4853e8fc96161de65dcbb",
+  "base_revision_preserved": true,
+  "native_Adobe_execution": false,
+  "physical_printer_test": false
+}
