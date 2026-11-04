@@ -1,0 +1,60 @@
+{
+  "status": "passed",
+  "physical_pages": 28,
+  "changed_printed_pages": [
+    1,
+    3
+  ],
+  "changed_physical_pages": [
+    2,
+    4
+  ],
+  "other26_source_pages_identical": true,
+  "TOC_starts_printed_page": 1,
+  "TOC_page_ranges": [
+    [
+      "02",
+      "03"
+    ],
+    [
+      "04",
+      "06"
+    ],
+    [
+      "07",
+      "12"
+    ],
+    [
+      "13",
+      "16"
+    ],
+    [
+      "17",
+      "26"
+    ]
+  ],
+  "heading_pair": [
+    "같은 말, 폰트 여섯 가지.",
+    "같은 말, 폰트 여섯 가지 더."
+  ],
+  "specimen_12_lines_and_16pt_preserved": true,
+  "meme_sources_preserved": 10,
+  "A4_sheets": 7,
+  "print_faces": 14,
+  "idml_sha256": "8b67005b48e16b9c47240afe445b29b82dcb16d925b82281330077e5dc181844",
+  "reader_sha256": "940cd78c560ae40d6ffa60134c3fe485d5fda7ff1793f5f5d3bd46b4a50e2e24",
+  "print_sha256": "4fc6a4479efffeeba50e78623e550693644df59955fc09bb5c6b4fa267e290ea",
+  "html_sha256": "6dac2d64350c3b956a99ee32c135d7e68a562aee2d37b7a98ca98ec95067a1d4",
+  "previous_version": {
+    "tag": "archive-refined-before-toc-20261104",
+    "commit": "8494ca243dcc3b2d5092d3aa3839079e16587ed2",
+    "files": {
+      "flipbook-refined/index.html": "4dddb2dcfea596521ea145dea2d07bdc87c62c1c14984145ff1de461279c14d9",
+      "submission-refined/Maltu_Book_Refined_28p.idml": "045cb0fb53064413b801fa5b8437e9a9eb41598920e4009642ebe5eda98d21a5",
+      "submission-refined/Maltu_Book_Refined_28p.pdf": "e0be8e6ffc58b7c934f78829253058866ab9f242932c23c419d73c6f904daf50",
+      "submission-refined/Maltu_Book_Refined_A4_Duplex.pdf": "cb93e6bd99f470956ab05ccaf3a47f0dfb43bb0a19fb6e0ff1ef6fab70fb48a1"
+    }
+  },
+  "native_Adobe_execution": false,
+  "physical_printer_test": false
+}

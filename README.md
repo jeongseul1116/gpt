@@ -1,3 +1,9 @@
+# 목차와 제목 위계 수정판
+
+[목차·본문 펼침면](https://htmlpreview.github.io/?https://raw.githubusercontent.com/jeongseul1116/gpt/main/flipbook-toc/index.html#p=2&view=spread) · [3쪽 제목](https://htmlpreview.github.io/?https://raw.githubusercontent.com/jeongseul1116/gpt/main/flipbook-toc/index.html#p=4&view=spread) · [IDML·PDF 묶음](submission-toc/Maltu_Book_TOC_IDML_PDF.zip?raw=true)
+
+---
+
 # 두 쪽을 다듬은 최신판
 
 [12쪽 포스터](https://htmlpreview.github.io/?https://raw.githubusercontent.com/jeongseul1116/gpt/main/flipbook-refined/index.html#p=13&view=single) · [3쪽 모양과 말투](https://htmlpreview.github.io/?https://raw.githubusercontent.com/jeongseul1116/gpt/main/flipbook-refined/index.html#p=4&view=single) · [IDML·PDF 묶음](submission-refined/Maltu_Book_Refined_IDML_PDF.zip?raw=true)
