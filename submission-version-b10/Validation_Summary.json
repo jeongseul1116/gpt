@@ -1,0 +1,19 @@
+{
+  "status": "passed",
+  "edition": "B10",
+  "physical_pages": 28,
+  "replaced_printed_pages": "1–18",
+  "reference_visualization_pages": 14,
+  "mixed_type_chat_pages": 4,
+  "phrase": "북쪽에 계신 아름다운 메리메리 리얼 카인드니스 여러분",
+  "chat_exit_correction": "과대 김■연님이 퇴장했습니다.",
+  "A4_duplex_sheets": 7,
+  "print_faces": 14,
+  "bleed_mm": 0,
+  "crop_marks": false,
+  "center_fold_guide_only": true,
+  "reader_sha256": "6963f36bb6fceb9a391d3ea920734355c71373dfdbd95dfaeae8f498eb077581",
+  "print_sha256": "1a57a32e1cd047a35642db95b8ee05a1f194a5d6d4e47b9f1d18d81cce7d5613",
+  "native_Adobe_execution": false,
+  "physical_printer_test": false
+}

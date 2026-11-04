@@ -1,3 +1,9 @@
+# 최신 B10 — TF 시각화와 카톡 섞어짜기
+
+본문 1–18쪽 교체: 자료 기반 시각화 14쪽 + 같은 대화의 카톡 섞어짜기 4쪽. [전체 PDF](submission-version-b10/Meme_Font_Book_B10_28p.pdf) · [A4 양면 PDF](submission-version-b10/Meme_Font_Book_B10_A4_Duplex.pdf)
+
+---
+
 # 최신 B9r3 — A4 양면·접는 선만
 
 표지 하단을 같은 문장의 네 폰트 표본으로 정리했습니다. A4 가로·100%·짧은 쪽 양면 7장. 도련·재단선을 빼고 가운데 접는 선만 넣었습니다. [전체 PDF](submission-version-b9r3/Meme_Font_Book_B9r3_28p.pdf) · [A4 인쇄 PDF](submission-version-b9r3/Meme_Font_Book_B9r3_A4_Duplex.pdf) · [표지 하단](submission-version-b9r3/Cover_Tickets_B9r3.png)
