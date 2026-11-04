@@ -1,3 +1,9 @@
+# 두 쪽을 다듬은 최신판
+
+[12쪽 포스터](https://htmlpreview.github.io/?https://raw.githubusercontent.com/jeongseul1116/gpt/main/flipbook-refined/index.html#p=13&view=single) · [3쪽 모양과 말투](https://htmlpreview.github.io/?https://raw.githubusercontent.com/jeongseul1116/gpt/main/flipbook-refined/index.html#p=4&view=single) · [IDML·PDF 묶음](submission-refined/Maltu_Book_Refined_IDML_PDF.zip?raw=true)
+
+---
+
 # 환기와 리듬을 더한 새 버전 · 기존판 보존
 
 [새 버전 넘겨보기](https://htmlpreview.github.io/?https://raw.githubusercontent.com/jeongseul1116/gpt/main/flipbook-rhythm/index.html#p=13&view=single) · [IDML·PDF 묶음](submission-rhythm/Maltu_Book_Rhythm_IDML_PDF.zip?raw=true) · [기존 보존본](https://htmlpreview.github.io/?https://raw.githubusercontent.com/jeongseul1116/gpt/archive-saddle-approved-20261104/flipbook/index.html)

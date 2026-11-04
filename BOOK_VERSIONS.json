@@ -1,5 +1,5 @@
 {
-  "active_new_work": "Rhythm28",
+  "active_new_work": "Refined28",
   "A": {
     "status": "preserved",
     "folder": "submission-alignment",
@@ -297,6 +297,26 @@
     "reader_sha256": "6920abd929d1f306577cdfa5082a0321a9403f0640b0b245adde57bf2791e804",
     "idml_sha256": "87dc3f2b20933ef5a3ea8ece3f80845081cf959abfda57dd550170edeb0c6835",
     "print_sha256": "a2f8d136b427a985ac5323f4650be420e1277468347160ba3389df0a58ca83b3",
-    "html_sha256": "82e278e4a3ea0668d29ca73f605f78be21ea2b03f98165ce8a1948b5e73f025e"
+    "html_sha256": "82e278e4a3ea0668d29ca73f605f78be21ea2b03f98165ce8a1948b5e73f025e",
+    "status": "preserved",
+    "archive_tag": "archive-rhythm-before-two-page-fix-20261104",
+    "archive_commit": "f7ec185245398f8bd547cb416cb896fbbc2a59e7"
+  },
+  "Refined28": {
+    "folder": "submission-refined",
+    "physical_pages": 28,
+    "changed_printed_pages": [
+      3,
+      12
+    ],
+    "other26_pages_preserved": true,
+    "preview": "https://htmlpreview.github.io/?https://raw.githubusercontent.com/jeongseul1116/gpt/main/flipbook-refined/index.html",
+    "idml": "submission-refined/Maltu_Book_Refined_28p.idml",
+    "reader": "submission-refined/Maltu_Book_Refined_28p.pdf",
+    "print": "submission-refined/Maltu_Book_Refined_A4_Duplex.pdf",
+    "idml_sha256": "045cb0fb53064413b801fa5b8437e9a9eb41598920e4009642ebe5eda98d21a5",
+    "reader_sha256": "e0be8e6ffc58b7c934f78829253058866ab9f242932c23c419d73c6f904daf50",
+    "print_sha256": "cb93e6bd99f470956ab05ccaf3a47f0dfb43bb0a19fb6e0ff1ef6fab70fb48a1",
+    "html_sha256": "4dddb2dcfea596521ea145dea2d07bdc87c62c1c14984145ff1de461279c14d9"
   }
 }
