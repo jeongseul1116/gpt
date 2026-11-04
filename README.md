@@ -1,3 +1,9 @@
+# 중철제본 최종본 — 28쪽·A4 양면 7장
+
+[중철 인쇄 PDF](submission-saddle-final/Maltu_Book_Saddle_A4_Duplex.pdf?raw=true) · [인디자인 IDML](submission-saddle-final/Maltu_Book_Saddle_28p.idml?raw=true) · [전체 패키지](submission-saddle-final/Maltu_Book_Saddle_Package.zip?raw=true)
+
+---
+
 # 최종 인디자인 — 한 쪽에 한 주제, 총 28쪽
 
 [편집용 IDML](submission-final-indesign/Maltu_Book_Final_28p.idml?raw=true) · [폰트·이미지 패키지](submission-final-indesign/Maltu_Book_Final_Package.zip?raw=true) · [확인용 PDF](submission-final-indesign/Maltu_Book_Final_28p.pdf?raw=true)

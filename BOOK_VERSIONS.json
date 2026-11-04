@@ -1,5 +1,5 @@
 {
-  "active_new_work": "FinalSimple28",
+  "active_new_work": "SaddleFinal28",
   "A": {
     "status": "preserved",
     "folder": "submission-alignment",
@@ -258,5 +258,21 @@
       ]
     ],
     "selected_complete_memes": 10
+  },
+  "SaddleFinal28": {
+    "folder": "submission-saddle-final",
+    "physical_pages": 28,
+    "idml": "submission-saddle-final/Maltu_Book_Saddle_28p.idml",
+    "print_pdf": "submission-saddle-final/Maltu_Book_Saddle_A4_Duplex.pdf",
+    "package": "submission-saddle-final/Maltu_Book_Saddle_Package.zip",
+    "idml_sha256": "16c7f4e77927ba109b50798fd58f8a8309842f218e1da9f86c116addca41ad7b",
+    "print_sha256": "97f306397aa075ed7a93770db5d3a27b70af4783d1c3e0678c2e4105e0bdc0ab",
+    "paper": "A4 landscape",
+    "duplex_sheets": 7,
+    "print_faces": 14,
+    "all_art_and_text_unchanged": true,
+    "bleed_mm": 0,
+    "crop_marks": false,
+    "center_fold_guide_only": true
   }
 }

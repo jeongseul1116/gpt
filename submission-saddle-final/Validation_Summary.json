@@ -1,0 +1,24 @@
+{
+  "status": "passed",
+  "physical_pages": 28,
+  "A4_sheets": 7,
+  "print_faces": 14,
+  "print_paper_mm": [
+    297,
+    210
+  ],
+  "print_scale_percent": 100,
+  "duplex": "short edge",
+  "bleed_mm": 0,
+  "crop_marks": false,
+  "fold_guide_only": true,
+  "fold_x_mm": 148.5,
+  "idml_reading_order_preserved": true,
+  "all_art_and_stories_unchanged": true,
+  "inner_body_text_min_mm": 12.8164,
+  "idml_sha256": "16c7f4e77927ba109b50798fd58f8a8309842f218e1da9f86c116addca41ad7b",
+  "print_pdf_sha256": "97f306397aa075ed7a93770db5d3a27b70af4783d1c3e0678c2e4105e0bdc0ab",
+  "reader_sha256": "556fa22894957bd60944b9341c767c23a5c675aa6e9c74bdda85d1de98ba355b",
+  "native_Adobe_execution": false,
+  "physical_printer_test": false
+}
