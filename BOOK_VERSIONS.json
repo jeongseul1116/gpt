@@ -1,5 +1,5 @@
 {
-  "active_new_work": "B9r1",
+  "active_new_work": "B9r2",
   "A": {
     "status": "preserved",
     "folder": "submission-alignment",
@@ -142,13 +142,23 @@
     "native_file_prepared_locally": true
   },
   "B9r1": {
-    "status": "backcover_photo_attached_to_credits_band",
+    "status": "preserved",
     "folder": "submission-version-b9r1",
     "physical_pages": 28,
     "reader": "submission-version-b9r1/Meme_Font_Book_B9r1_28p.pdf",
     "print": "submission-version-b9r1/Meme_Font_Book_B9r1_A3_Duplex.pdf",
     "reader_sha256": "a05d6dbdff16165f812fceed10154a76b9da730ad41acd6bf7536bd5bf010aed",
     "print_sha256": "9cfe32e62e2df2ed9b4bbd6378dbc9b33c60ee085c55c69afdebbd236bbbf75e",
+    "native_file_prepared_locally": true
+  },
+  "B9r2": {
+    "status": "front_cover_tearoff_four_complete_cell_alignment",
+    "folder": "submission-version-b9r2",
+    "physical_pages": 28,
+    "reader": "submission-version-b9r2/Meme_Font_Book_B9r2_28p.pdf",
+    "print": "submission-version-b9r2/Meme_Font_Book_B9r2_A3_Duplex.pdf",
+    "reader_sha256": "a7b58f1297620f8663dfe716c0b45e8eaa525548cf38456f5aed0928a78764d2",
+    "print_sha256": "ddce2f3a9cb9e1e0eeab8145185ef28006906e6d4700cfb123ab758fdf610893",
     "native_file_prepared_locally": true
   }
 }

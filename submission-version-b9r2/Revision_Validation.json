@@ -1,0 +1,33 @@
+{
+  "status": "passed",
+  "revision": "B9r2",
+  "change": "Four tearoff labels centered in complete bordered cells; instruction moved above strip",
+  "label_centers_pt": [
+    [
+      70.44095,
+      533.5
+    ],
+    [
+      163.32285000000002,
+      533.5
+    ],
+    [
+      256.20475,
+      533.5
+    ],
+    [
+      349.08665,
+      533.5
+    ]
+  ],
+  "reader_pages": 28,
+  "print_faces": 14,
+  "duplex_a3_sheets": 7,
+  "other_reader_pages_pixel_identical": 27,
+  "other_print_faces_pixel_identical": 13,
+  "reader_sha256": "a7b58f1297620f8663dfe716c0b45e8eaa525548cf38456f5aed0928a78764d2",
+  "print_sha256": "ddce2f3a9cb9e1e0eeab8145185ef28006906e6d4700cfb123ab758fdf610893",
+  "base_revision_preserved": true,
+  "native_Adobe_execution": false,
+  "physical_printer_test": false
+}
