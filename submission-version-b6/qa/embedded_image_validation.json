@@ -1,0 +1,23 @@
+{
+  "source": "/workspace/version_b6_20261104/design/Meme_Font_Book_Version_B6_28p.idml",
+  "pdf": "/workspace/version_b6_20261104/rendering/Meme_Font_Book_Version_B6_28p_Review.pdf",
+  "assets": [
+    {
+      "item": "b2Item28_008_image",
+      "source_payload_sha256": "b8a68655e74748ada19123724d935f88fe9efa2b22c411a9537e8829821d7f3f",
+      "pixel_size": [
+        874,
+        1275
+      ],
+      "mode": "RGBA",
+      "decoded_pixels_identical": true,
+      "matching_pdf_images": [
+        {
+          "xref": 30,
+          "smask": 31
+        }
+      ]
+    }
+  ],
+  "all_decoded_pixels_identical": true
+}

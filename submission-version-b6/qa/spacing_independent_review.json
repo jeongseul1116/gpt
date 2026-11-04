@@ -1,0 +1,914 @@
+{
+  "word": "북쪽에계신메리메리",
+  "checks": [
+    {
+      "check": "The manual spacing study uses the exact full nine-syllable phrase",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "Fresh whole-sentence glyph geometry matches stored source sans",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "Only declared per-pair x translation changes glyphs sans",
+      "passed": true,
+      "evidence": {
+        "font": "sans",
+        "actual_pair_delta_pt": {
+          "3": -2.5,
+          "5": -3.0,
+          "6": -3.0
+        },
+        "glyph_translations_pt": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          -2.5,
+          -2.5,
+          -5.5,
+          -8.5,
+          -8.5
+        ],
+        "unchanged_shapes": true
+      }
+    },
+    {
+      "check": "Full sentence natural32pt and true-ink centered sans/before",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "Full sentence natural32pt and true-ink centered sans/after",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "Gap changes equal the labelled editorial deltas sans",
+      "passed": true,
+      "evidence": {
+        "before": [
+          3.2959999999999994,
+          3.584000000000003,
+          4.800000000000011,
+          5.152000000000001,
+          5.856000000000023,
+          6.432000000000016,
+          6.7520000000000095,
+          6.431999999999988
+        ],
+        "after": [
+          3.2959999999999994,
+          3.584000000000003,
+          4.800000000000011,
+          2.652000000000001,
+          5.856000000000023,
+          3.4320000000000164,
+          3.7520000000000095,
+          6.431999999999988
+        ]
+      }
+    },
+    {
+      "check": "Fresh whole-sentence glyph geometry matches stored source gungseo",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "Only declared per-pair x translation changes glyphs gungseo",
+      "passed": true,
+      "evidence": {
+        "font": "gungseo",
+        "actual_pair_delta_pt": {
+          "1": -4.0,
+          "3": -5.0,
+          "5": -6.0
+        },
+        "glyph_translations_pt": [
+          0.0,
+          0.0,
+          -4.0,
+          -4.0,
+          -9.0,
+          -9.0,
+          -15.0,
+          -15.0,
+          -15.0
+        ],
+        "unchanged_shapes": true
+      }
+    },
+    {
+      "check": "Full sentence natural32pt and true-ink centered gungseo/before",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "Full sentence natural32pt and true-ink centered gungseo/after",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "Gap changes equal the labelled editorial deltas gungseo",
+      "passed": true,
+      "evidence": {
+        "before": [
+          7.327999999999999,
+          7.744,
+          10.239999999999995,
+          10.271999999999991,
+          9.664000000000016,
+          12.319999999999993,
+          9.695999999999998,
+          12.320000000000022
+        ],
+        "after": [
+          7.327999999999999,
+          3.7439999999999998,
+          10.239999999999995,
+          5.271999999999991,
+          9.664000000000016,
+          6.319999999999993,
+          9.695999999999998,
+          12.320000000000022
+        ]
+      }
+    },
+    {
+      "check": "Fresh whole-sentence glyph geometry matches stored source blackhan",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "Only declared per-pair x translation changes glyphs blackhan",
+      "passed": true,
+      "evidence": {
+        "font": "blackhan",
+        "actual_pair_delta_pt": {
+          "1": 3.0,
+          "3": 3.0,
+          "5": 3.0
+        },
+        "glyph_translations_pt": [
+          0.0,
+          0.0,
+          3.0,
+          3.0,
+          6.0,
+          6.0,
+          9.0,
+          9.0,
+          9.0
+        ],
+        "unchanged_shapes": true
+      }
+    },
+    {
+      "check": "Full sentence natural32pt and true-ink centered blackhan/before",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "Full sentence natural32pt and true-ink centered blackhan/after",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "Gap changes equal the labelled editorial deltas blackhan",
+      "passed": true,
+      "evidence": {
+        "before": [
+          3.84,
+          3.8400000000000034,
+          3.519999999999996,
+          3.1999999999999886,
+          3.8400000000000034,
+          2.5600000000000023,
+          3.8400000000000034,
+          2.5600000000000023
+        ],
+        "after": [
+          3.84,
+          6.840000000000003,
+          3.519999999999996,
+          6.199999999999989,
+          3.8400000000000034,
+          5.560000000000002,
+          3.8400000000000034,
+          2.5600000000000023
+        ]
+      }
+    },
+    {
+      "check": "Fresh whole-sentence glyph geometry matches stored source singleday",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "Only declared per-pair x translation changes glyphs singleday",
+      "passed": true,
+      "evidence": {
+        "font": "singleday",
+        "actual_pair_delta_pt": {
+          "1": 2.0,
+          "3": 2.0,
+          "5": 2.0
+        },
+        "glyph_translations_pt": [
+          0.0,
+          0.0,
+          2.0,
+          2.0,
+          4.0,
+          4.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "unchanged_shapes": true
+      }
+    },
+    {
+      "check": "Full sentence natural32pt and true-ink centered singleday/before",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "Full sentence natural32pt and true-ink centered singleday/after",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "Gap changes equal the labelled editorial deltas singleday",
+      "passed": true,
+      "evidence": {
+        "before": [
+          2.8439999999999976,
+          2.530999999999999,
+          1.906000000000006,
+          2.7180000000000035,
+          3.999999999999986,
+          2.9680000000000177,
+          4.906999999999982,
+          2.9680000000000177
+        ],
+        "after": [
+          2.8439999999999976,
+          4.530999999999999,
+          1.906000000000006,
+          4.7180000000000035,
+          4.0,
+          4.968000000000018,
+          4.906999999999982,
+          2.9680000000000177
+        ]
+      }
+    },
+    {
+      "check": "Sampled spacing-study colored planes stay between exact cubic ink edges",
+      "passed": true,
+      "evidence": {
+        "plane_count": 24,
+        "sample_count": 2122,
+        "max_intrusion_pt": 0.0035065102677833693
+      }
+    },
+    {
+      "check": "Context-first plates use exact whole phrase20pt and same contextual pair64pt",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "Same in-sentence neighbor pairs compared in sans",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "Contextual pair exact64pt glyph shapes, no per-font fit sans/쪽에",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "Contextual pair real ink centered sans/쪽에",
+      "passed": true,
+      "evidence": 0.0
+    },
+    {
+      "check": "Extracted profile is same-scale translation with declared conservative inset sans/쪽에",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "Contextual pair exact64pt glyph shapes, no per-font fit sans/계신",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "Contextual pair real ink centered sans/계신",
+      "passed": true,
+      "evidence": 0.0
+    },
+    {
+      "check": "Extracted profile is same-scale translation with declared conservative inset sans/계신",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "Contextual pair exact64pt glyph shapes, no per-font fit sans/메리",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "Contextual pair real ink centered sans/메리",
+      "passed": true,
+      "evidence": 5.684341886080802e-14
+    },
+    {
+      "check": "Extracted profile is same-scale translation with declared conservative inset sans/메리",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "Same in-sentence neighbor pairs compared in gungseo",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "Contextual pair exact64pt glyph shapes, no per-font fit gungseo/쪽에",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "Contextual pair real ink centered gungseo/쪽에",
+      "passed": true,
+      "evidence": 0.0
+    },
+    {
+      "check": "Extracted profile is same-scale translation with declared conservative inset gungseo/쪽에",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "Contextual pair exact64pt glyph shapes, no per-font fit gungseo/계신",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "Contextual pair real ink centered gungseo/계신",
+      "passed": true,
+      "evidence": 0.0
+    },
+    {
+      "check": "Extracted profile is same-scale translation with declared conservative inset gungseo/계신",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "Contextual pair exact64pt glyph shapes, no per-font fit gungseo/메리",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "Contextual pair real ink centered gungseo/메리",
+      "passed": true,
+      "evidence": 0.0
+    },
+    {
+      "check": "Extracted profile is same-scale translation with declared conservative inset gungseo/메리",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "Gap plates colored voids remain between exact cubic facing edges",
+      "passed": true,
+      "evidence": {
+        "sample_count": 994,
+        "max_intrusion_pt": 0
+      }
+    },
+    {
+      "check": "Editorial manual values are explicitly distinguished from font-internal kerning",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "All6 intact context sentences real-ink centered and literal-exact in final scene",
+      "passed": true,
+      "evidence": [
+        {
+          "page": 18,
+          "font": "sans",
+          "phrase": "북쪽에계신메리메리",
+          "center_error_pt": 0.0002000000000066393
+        },
+        {
+          "page": 18,
+          "font": "sans",
+          "phrase": "북쪽에계신메리메리",
+          "center_error_pt": 0.0002000000000066393
+        },
+        {
+          "page": 18,
+          "font": "sans",
+          "phrase": "북쪽에계신메리메리",
+          "center_error_pt": 0.0002000000000066393
+        },
+        {
+          "page": 19,
+          "font": "gungseo",
+          "phrase": "북쪽에계신메리메리",
+          "center_error_pt": 0.0002000000000066393
+        },
+        {
+          "page": 19,
+          "font": "gungseo",
+          "phrase": "북쪽에계신메리메리",
+          "center_error_pt": 0.0002000000000066393
+        },
+        {
+          "page": 19,
+          "font": "gungseo",
+          "phrase": "북쪽에계신메리메리",
+          "center_error_pt": 0.0002000000000066393
+        }
+      ]
+    },
+    {
+      "check": "All6 extracted gap profiles actual-ink centered in final100pt logical cells",
+      "passed": true,
+      "evidence": [
+        {
+          "page": 18,
+          "font": "sans",
+          "cell": [
+            201,
+            189,
+            100,
+            62
+          ],
+          "center_error_pt": 0.0
+        },
+        {
+          "page": 18,
+          "font": "sans",
+          "cell": [
+            201,
+            326,
+            100,
+            62
+          ],
+          "center_error_pt": 0.0
+        },
+        {
+          "page": 18,
+          "font": "sans",
+          "cell": [
+            201,
+            463,
+            100,
+            62
+          ],
+          "center_error_pt": 0.0
+        },
+        {
+          "page": 19,
+          "font": "gungseo",
+          "cell": [
+            201,
+            189,
+            100,
+            62
+          ],
+          "center_error_pt": 0.0
+        },
+        {
+          "page": 19,
+          "font": "gungseo",
+          "cell": [
+            201,
+            326,
+            100,
+            62
+          ],
+          "center_error_pt": 0.0
+        },
+        {
+          "page": 19,
+          "font": "gungseo",
+          "cell": [
+            201,
+            463,
+            100,
+            62
+          ],
+          "center_error_pt": 2.842170943040401e-14
+        }
+      ]
+    }
+  ],
+  "spacing_geometry": [
+    {
+      "font": "sans",
+      "actual_pair_delta_pt": {
+        "3": -2.5,
+        "5": -3.0,
+        "6": -3.0
+      },
+      "glyph_translations_pt": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        -2.5,
+        -2.5,
+        -5.5,
+        -8.5,
+        -8.5
+      ],
+      "unchanged_shapes": true
+    },
+    {
+      "font": "gungseo",
+      "actual_pair_delta_pt": {
+        "1": -4.0,
+        "3": -5.0,
+        "5": -6.0
+      },
+      "glyph_translations_pt": [
+        0.0,
+        0.0,
+        -4.0,
+        -4.0,
+        -9.0,
+        -9.0,
+        -15.0,
+        -15.0,
+        -15.0
+      ],
+      "unchanged_shapes": true
+    },
+    {
+      "font": "blackhan",
+      "actual_pair_delta_pt": {
+        "1": 3.0,
+        "3": 3.0,
+        "5": 3.0
+      },
+      "glyph_translations_pt": [
+        0.0,
+        0.0,
+        3.0,
+        3.0,
+        6.0,
+        6.0,
+        9.0,
+        9.0,
+        9.0
+      ],
+      "unchanged_shapes": true
+    },
+    {
+      "font": "singleday",
+      "actual_pair_delta_pt": {
+        "1": 2.0,
+        "3": 2.0,
+        "5": 2.0
+      },
+      "glyph_translations_pt": [
+        0.0,
+        0.0,
+        2.0,
+        2.0,
+        4.0,
+        4.0,
+        6.0,
+        6.0,
+        6.0
+      ],
+      "unchanged_shapes": true
+    }
+  ],
+  "spacing_centering": [
+    {
+      "font": "sans",
+      "phase": "before",
+      "center_error_pt": 0.0
+    },
+    {
+      "font": "sans",
+      "phase": "after",
+      "center_error_pt": 0.0
+    },
+    {
+      "font": "gungseo",
+      "phase": "before",
+      "center_error_pt": 0.0
+    },
+    {
+      "font": "gungseo",
+      "phase": "after",
+      "center_error_pt": 0.0
+    },
+    {
+      "font": "blackhan",
+      "phase": "before",
+      "center_error_pt": 0.0
+    },
+    {
+      "font": "blackhan",
+      "phase": "after",
+      "center_error_pt": 0.0
+    },
+    {
+      "font": "singleday",
+      "phase": "before",
+      "center_error_pt": 0.0
+    },
+    {
+      "font": "singleday",
+      "phase": "after",
+      "center_error_pt": 0.0
+    }
+  ],
+  "spacing_gap_planes": [
+    {
+      "font": "sans",
+      "phase": "before",
+      "pair": "계신",
+      "samples": 102,
+      "maximum_intrusion_pt": 2.842170943040401e-14,
+      "tolerance_pt": 0.06,
+      "violations": []
+    },
+    {
+      "font": "sans",
+      "phase": "before",
+      "pair": "메리",
+      "samples": 104,
+      "maximum_intrusion_pt": 5.684341886080802e-14,
+      "tolerance_pt": 0.06,
+      "violations": []
+    },
+    {
+      "font": "sans",
+      "phase": "before",
+      "pair": "리메",
+      "samples": 104,
+      "maximum_intrusion_pt": 5.684341886080802e-14,
+      "tolerance_pt": 0.06,
+      "violations": []
+    },
+    {
+      "font": "sans",
+      "phase": "after",
+      "pair": "계신",
+      "samples": 102,
+      "maximum_intrusion_pt": 5.684341886080802e-14,
+      "tolerance_pt": 0.06,
+      "violations": []
+    },
+    {
+      "font": "sans",
+      "phase": "after",
+      "pair": "메리",
+      "samples": 104,
+      "maximum_intrusion_pt": 5.684341886080802e-14,
+      "tolerance_pt": 0.06,
+      "violations": []
+    },
+    {
+      "font": "sans",
+      "phase": "after",
+      "pair": "리메",
+      "samples": 104,
+      "maximum_intrusion_pt": 8.526512829121202e-14,
+      "tolerance_pt": 0.06,
+      "violations": []
+    },
+    {
+      "font": "gungseo",
+      "phase": "before",
+      "pair": "쪽에",
+      "samples": 89,
+      "maximum_intrusion_pt": 0.002644370148104258,
+      "tolerance_pt": 0.06,
+      "violations": []
+    },
+    {
+      "font": "gungseo",
+      "phase": "before",
+      "pair": "계신",
+      "samples": 93,
+      "maximum_intrusion_pt": 0.0014335899073216751,
+      "tolerance_pt": 0.06,
+      "violations": []
+    },
+    {
+      "font": "gungseo",
+      "phase": "before",
+      "pair": "메리",
+      "samples": 95,
+      "maximum_intrusion_pt": 0.0012945039187002294,
+      "tolerance_pt": 0.06,
+      "violations": []
+    },
+    {
+      "font": "gungseo",
+      "phase": "after",
+      "pair": "쪽에",
+      "samples": 89,
+      "maximum_intrusion_pt": 0.002644370148104258,
+      "tolerance_pt": 0.06,
+      "violations": []
+    },
+    {
+      "font": "gungseo",
+      "phase": "after",
+      "pair": "계신",
+      "samples": 93,
+      "maximum_intrusion_pt": 0.0014335899073216751,
+      "tolerance_pt": 0.06,
+      "violations": []
+    },
+    {
+      "font": "gungseo",
+      "phase": "after",
+      "pair": "메리",
+      "samples": 95,
+      "maximum_intrusion_pt": 0.0012945039187002294,
+      "tolerance_pt": 0.06,
+      "violations": []
+    },
+    {
+      "font": "blackhan",
+      "phase": "before",
+      "pair": "쪽에",
+      "samples": 81,
+      "maximum_intrusion_pt": 0.0008868124336913752,
+      "tolerance_pt": 0.06,
+      "violations": []
+    },
+    {
+      "font": "blackhan",
+      "phase": "before",
+      "pair": "계신",
+      "samples": 87,
+      "maximum_intrusion_pt": 2.842170943040401e-14,
+      "tolerance_pt": 0.06,
+      "violations": []
+    },
+    {
+      "font": "blackhan",
+      "phase": "before",
+      "pair": "메리",
+      "samples": 87,
+      "maximum_intrusion_pt": 5.684341886080802e-14,
+      "tolerance_pt": 0.06,
+      "violations": []
+    },
+    {
+      "font": "blackhan",
+      "phase": "after",
+      "pair": "쪽에",
+      "samples": 81,
+      "maximum_intrusion_pt": 0.0008868124336913752,
+      "tolerance_pt": 0.06,
+      "violations": []
+    },
+    {
+      "font": "blackhan",
+      "phase": "after",
+      "pair": "계신",
+      "samples": 87,
+      "maximum_intrusion_pt": 2.842170943040401e-14,
+      "tolerance_pt": 0.06,
+      "violations": []
+    },
+    {
+      "font": "blackhan",
+      "phase": "after",
+      "pair": "메리",
+      "samples": 87,
+      "maximum_intrusion_pt": 5.684341886080802e-14,
+      "tolerance_pt": 0.06,
+      "violations": []
+    },
+    {
+      "font": "singleday",
+      "phase": "before",
+      "pair": "쪽에",
+      "samples": 68,
+      "maximum_intrusion_pt": 0.0035065102677833693,
+      "tolerance_pt": 0.06,
+      "violations": []
+    },
+    {
+      "font": "singleday",
+      "phase": "before",
+      "pair": "계신",
+      "samples": 74,
+      "maximum_intrusion_pt": 0.0005253632485135995,
+      "tolerance_pt": 0.06,
+      "violations": []
+    },
+    {
+      "font": "singleday",
+      "phase": "before",
+      "pair": "메리",
+      "samples": 77,
+      "maximum_intrusion_pt": 0.0013780358191581854,
+      "tolerance_pt": 0.06,
+      "violations": []
+    },
+    {
+      "font": "singleday",
+      "phase": "after",
+      "pair": "쪽에",
+      "samples": 68,
+      "maximum_intrusion_pt": 0.0035065102677833693,
+      "tolerance_pt": 0.06,
+      "violations": []
+    },
+    {
+      "font": "singleday",
+      "phase": "after",
+      "pair": "계신",
+      "samples": 74,
+      "maximum_intrusion_pt": 0.0005253632484993886,
+      "tolerance_pt": 0.06,
+      "violations": []
+    },
+    {
+      "font": "singleday",
+      "phase": "after",
+      "pair": "메리",
+      "samples": 77,
+      "maximum_intrusion_pt": 0.0013780358191581854,
+      "tolerance_pt": 0.06,
+      "violations": []
+    }
+  ],
+  "gap_profiles": [
+    {
+      "font": "sans",
+      "pair": "쪽에",
+      "samples": 155,
+      "maximum_intrusion_pt": 0,
+      "tolerance_pt": 0.06,
+      "violations": []
+    },
+    {
+      "font": "sans",
+      "pair": "계신",
+      "samples": 176,
+      "maximum_intrusion_pt": 0,
+      "tolerance_pt": 0.06,
+      "violations": []
+    },
+    {
+      "font": "sans",
+      "pair": "메리",
+      "samples": 180,
+      "maximum_intrusion_pt": 0,
+      "tolerance_pt": 0.06,
+      "violations": []
+    },
+    {
+      "font": "gungseo",
+      "pair": "쪽에",
+      "samples": 157,
+      "maximum_intrusion_pt": 0,
+      "tolerance_pt": 0.06,
+      "violations": []
+    },
+    {
+      "font": "gungseo",
+      "pair": "계신",
+      "samples": 162,
+      "maximum_intrusion_pt": 0,
+      "tolerance_pt": 0.06,
+      "violations": []
+    },
+    {
+      "font": "gungseo",
+      "pair": "메리",
+      "samples": 164,
+      "maximum_intrusion_pt": 0,
+      "tolerance_pt": 0.06,
+      "violations": []
+    }
+  ],
+  "gap_centering_max_error_pt": 5.684341886080802e-14,
+  "contextual_detail_is_located_inside_same_complete_sentence": true,
+  "scene_sha256": "7d53714ec1604ef4a0bc78ddc493561f2b93b8e87abdac40e9c1804a45e3a724",
+  "status": "passed",
+  "scope": "Independent source and exact-cubic geometry review; final PDF visual review performed separately.",
+  "source_hashes": {
+    "spacing_studies.py": "b0ff06d726a09007f39bb9152e628e49ff285b2b125cf4379f1965669145e9b2",
+    "gap_shapes.py": "068eadee4759cab350a30200f0e81e44816fd240754ae07736481cacc8e4e49a",
+    "spacing_studies_manifest.json": "b3e68044a3468360b9928e4be08a762703762d21f8290139183a162da13191d6",
+    "gap_shapes_manifest.json": "01e9cb0e31a6fd97b9bfddb07df565c1074be248cb2f1437b554a0dfb29696ce"
+  }
+}

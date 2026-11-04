@@ -1,0 +1,13 @@
+{
+  "status": "passed",
+  "pages": [
+    18,
+    19
+  ],
+  "complete_sentences": 6,
+  "contextual_pair_callouts": 6,
+  "same_pair_size_pt": 64,
+  "all_full_phrases_exact": true,
+  "max_pair_center_error_pt": 5.684341886080802e-14,
+  "failures": []
+}

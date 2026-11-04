@@ -1,0 +1,2164 @@
+{
+  "status": "passed",
+  "source_idml_sha256": "8ac04bf65c6fbd72860465c677eb19ee864af64de8705e52c6a105d3abda91e6",
+  "actual_native_render_ink_centers": [
+    {
+      "page": 1,
+      "item": "b2Item01_002",
+      "role": "cover_subtitle",
+      "font": "YES24",
+      "text": "마참내! 폰트도 웃길 수 있다",
+      "cell_pt": [
+        24,
+        24,
+        371.5276,
+        27
+      ],
+      "target_center_pt": [
+        209.7638,
+        37.5
+      ],
+      "actual_ink_center_pt": [
+        209.764,
+        37.49950000000001
+      ],
+      "max_error_pt": 0.0004999999999881766
+    },
+    {
+      "page": 1,
+      "item": "b2Item01_003",
+      "role": "cover_tagline",
+      "font": "sans",
+      "text": "한 문장으로 12종 폰트의 말투를 접수합니다.",
+      "cell_pt": [
+        24,
+        51,
+        371.5276,
+        19
+      ],
+      "target_center_pt": [
+        209.7638,
+        60.5
+      ],
+      "actual_ink_center_pt": [
+        209.7637,
+        60.5
+      ],
+      "max_error_pt": 0.00010000000000331966
+    },
+    {
+      "page": 1,
+      "item": "b2Item01_005",
+      "role": "poster_red_emphasis",
+      "font": null,
+      "text": null,
+      "cell_pt": [
+        71.17399999999999,
+        175.76,
+        64,
+        64
+      ],
+      "target_center_pt": [
+        103.17399999999999,
+        207.76
+      ],
+      "actual_ink_center_pt": [
+        103.174,
+        207.76
+      ],
+      "max_error_pt": 1.4210854715202004e-14
+    },
+    {
+      "page": 1,
+      "item": "b2Item01_006",
+      "role": "cover_title",
+      "font": "YES24",
+      "text": "밈 폰트 도감",
+      "cell_pt": [
+        24,
+        82,
+        371.5276,
+        84
+      ],
+      "target_center_pt": [
+        209.7638,
+        124.0
+      ],
+      "actual_ink_center_pt": [
+        209.764,
+        124.0
+      ],
+      "max_error_pt": 0.0002000000000066393
+    },
+    {
+      "page": 1,
+      "item": "b2Item01_007",
+      "role": "cover_title",
+      "font": "YES24",
+      "text": "말투수집실",
+      "cell_pt": [
+        24,
+        166,
+        371.5276,
+        84
+      ],
+      "target_center_pt": [
+        209.7638,
+        208.0
+      ],
+      "actual_ink_center_pt": [
+        209.764,
+        207.99999999999997
+      ],
+      "max_error_pt": 0.0002000000000066393
+    },
+    {
+      "page": 1,
+      "item": "b2Item01_009",
+      "role": "cover_services",
+      "font": "YES24",
+      "text": "폰트 분석 · 말투 복구 · 감정 과다",
+      "cell_pt": [
+        24,
+        266,
+        371.5276,
+        24
+      ],
+      "target_center_pt": [
+        209.7638,
+        278.0
+      ],
+      "actual_ink_center_pt": [
+        209.764,
+        278.0
+      ],
+      "max_error_pt": 0.0002000000000066393
+    },
+    {
+      "page": 1,
+      "item": "b2Item01_010",
+      "role": "cover_font_range",
+      "font": "sans",
+      "text": "고딕·궁서·손글씨·도트 | 12종 상시 접수",
+      "cell_pt": [
+        24,
+        291,
+        371.5276,
+        18
+      ],
+      "target_center_pt": [
+        209.7638,
+        300.0
+      ],
+      "actual_ink_center_pt": [
+        209.7635,
+        299.9995
+      ],
+      "max_error_pt": 0.0004999999999881766
+    },
+    {
+      "page": 1,
+      "item": "b2Item01_011",
+      "role": "cover_comparison_phrase",
+      "font": "sans",
+      "text": "같은 ‘북쪽에계신메리메리’로 모양부터 비교합니다.",
+      "cell_pt": [
+        24,
+        311,
+        371.5276,
+        16
+      ],
+      "target_center_pt": [
+        209.7638,
+        319.0
+      ],
+      "actual_ink_center_pt": [
+        209.7642,
+        319.0
+      ],
+      "max_error_pt": 0.0003999999999848569
+    },
+    {
+      "page": 1,
+      "item": "b2Item01_013",
+      "role": "cover_statistics",
+      "font": "YES24",
+      "text": "12종 / 15밈 / 28쪽",
+      "cell_pt": [
+        24,
+        331,
+        371.5276,
+        60
+      ],
+      "target_center_pt": [
+        209.7638,
+        361.0
+      ],
+      "actual_ink_center_pt": [
+        209.764,
+        360.9995
+      ],
+      "max_error_pt": 0.0004999999999881766
+    },
+    {
+      "page": 1,
+      "item": "b2Item01_014",
+      "role": "cover_hook",
+      "font": "blackhan",
+      "text": "떼인 말투",
+      "cell_pt": [
+        24,
+        410,
+        264,
+        35
+      ],
+      "target_center_pt": [
+        156.0,
+        427.5
+      ],
+      "actual_ink_center_pt": [
+        156.0,
+        427.50000000000006
+      ],
+      "max_error_pt": 5.684341886080802e-14
+    },
+    {
+      "page": 1,
+      "item": "b2Item01_015",
+      "role": "cover_hook",
+      "font": "blackhan",
+      "text": "찾아드립니다",
+      "cell_pt": [
+        24,
+        445,
+        264,
+        35
+      ],
+      "target_center_pt": [
+        156.0,
+        462.5
+      ],
+      "actual_ink_center_pt": [
+        156.0,
+        462.50000000000006
+      ],
+      "max_error_pt": 5.684341886080802e-14
+    },
+    {
+      "page": 1,
+      "item": "b2Item01_016",
+      "role": "poster_burst",
+      "font": null,
+      "text": null,
+      "cell_pt": [
+        288,
+        405,
+        107.5276,
+        80
+      ],
+      "target_center_pt": [
+        341.7638,
+        445.0
+      ],
+      "actual_ink_center_pt": [
+        341.7638,
+        445.0
+      ],
+      "max_error_pt": 0.0
+    },
+    {
+      "page": 1,
+      "item": "b2Item01_017",
+      "role": "cover_burst_copy",
+      "font": "YES24",
+      "text": "진심",
+      "cell_pt": [
+        317.7638,
+        427.0,
+        48,
+        18
+      ],
+      "target_center_pt": [
+        341.7638,
+        436.0
+      ],
+      "actual_ink_center_pt": [
+        341.76380000000006,
+        436.00000000000006
+      ],
+      "max_error_pt": 5.684341886080802e-14
+    },
+    {
+      "page": 1,
+      "item": "b2Item01_018",
+      "role": "cover_burst_copy",
+      "font": "YES24",
+      "text": "상담",
+      "cell_pt": [
+        317.7638,
+        445.0,
+        48,
+        18
+      ],
+      "target_center_pt": [
+        341.7638,
+        454.0
+      ],
+      "actual_ink_center_pt": [
+        341.7637999996923,
+        454.00000000000006
+      ],
+      "max_error_pt": 3.076934262935538e-10
+    },
+    {
+      "page": 1,
+      "item": "b2Item01_020",
+      "role": "cover_tearoff_instruction",
+      "font": "sans",
+      "text": "말투 한 장씩 챙겨가세요",
+      "cell_pt": [
+        24,
+        506,
+        371.5276,
+        18
+      ],
+      "target_center_pt": [
+        209.7638,
+        515.0
+      ],
+      "actual_ink_center_pt": [
+        209.7635,
+        515.0
+      ],
+      "max_error_pt": 0.00030000000000995897
+    },
+    {
+      "page": 1,
+      "item": "b2Item01_045",
+      "role": "tearoff_font_label",
+      "font": "blackhan",
+      "text": "고딕",
+      "cell_pt": [
+        24.0,
+        526,
+        92.8819,
+        32
+      ],
+      "target_center_pt": [
+        70.44095,
+        542.0
+      ],
+      "actual_ink_center_pt": [
+        70.441,
+        542.0
+      ],
+      "max_error_pt": 5.000000000165983e-05
+    },
+    {
+      "page": 1,
+      "item": "b2Item01_046",
+      "role": "tearoff_font_label",
+      "font": "gungseo",
+      "text": "궁서",
+      "cell_pt": [
+        116.8819,
+        526,
+        92.8819,
+        32
+      ],
+      "target_center_pt": [
+        163.32285000000002,
+        542.0
+      ],
+      "actual_ink_center_pt": [
+        163.3229,
+        542.0
+      ],
+      "max_error_pt": 4.999999998744897e-05
+    },
+    {
+      "page": 1,
+      "item": "b2Item01_047",
+      "role": "tearoff_font_label",
+      "font": "brush",
+      "text": "손글씨",
+      "cell_pt": [
+        209.7638,
+        526,
+        92.8819,
+        32
+      ],
+      "target_center_pt": [
+        256.20475,
+        542.0
+      ],
+      "actual_ink_center_pt": [
+        256.20480000045694,
+        542.0
+      ],
+      "max_error_pt": 5.0000456951693195e-05
+    },
+    {
+      "page": 1,
+      "item": "b2Item01_048",
+      "role": "tearoff_font_label",
+      "font": "pixel",
+      "text": "도트",
+      "cell_pt": [
+        302.64570000000003,
+        526,
+        92.8819,
+        32
+      ],
+      "target_center_pt": [
+        349.08665,
+        542.0
+      ],
+      "actual_ink_center_pt": [
+        349.08619999999996,
+        542.0005000000001
+      ],
+      "max_error_pt": 0.0005000000001018634
+    },
+    {
+      "page": 3,
+      "item": "b2Item03_006",
+      "role": "intro_control_word",
+      "font": "sans",
+      "text": "북쪽에계신메리메리",
+      "cell_pt": [
+        36.0,
+        236,
+        347.5276,
+        76
+      ],
+      "target_center_pt": [
+        209.7638,
+        274.0
+      ],
+      "actual_ink_center_pt": [
+        209.764,
+        274.0
+      ],
+      "max_error_pt": 0.0002000000000066393
+    },
+    {
+      "page": 3,
+      "item": "b2Item03_011",
+      "role": "intro_control_word",
+      "font": "blackhan",
+      "text": "북쪽에계신메리메리",
+      "cell_pt": [
+        36.0,
+        356,
+        347.5276,
+        76
+      ],
+      "target_center_pt": [
+        209.7638,
+        394.0
+      ],
+      "actual_ink_center_pt": [
+        209.764,
+        394.0
+      ],
+      "max_error_pt": 0.0002000000000066393
+    },
+    {
+      "page": 4,
+      "item": "b2Item04_008",
+      "role": "specimen",
+      "font": "blackhan",
+      "text": "북쪽에계신메리메리",
+      "cell_pt": [
+        36.0,
+        108,
+        347.5276,
+        68
+      ],
+      "target_center_pt": [
+        209.7638,
+        142.0
+      ],
+      "actual_ink_center_pt": [
+        209.764,
+        142.0
+      ],
+      "max_error_pt": 0.0002000000000066393
+    },
+    {
+      "page": 4,
+      "item": "b2Item04_034",
+      "role": "detail_reference",
+      "font": "sans",
+      "text": "북쪽에계신메리메리",
+      "cell_pt": [
+        36.0,
+        273,
+        347.5276,
+        66.0
+      ],
+      "target_center_pt": [
+        209.7638,
+        306.0
+      ],
+      "actual_ink_center_pt": [
+        209.7638,
+        306.0
+      ],
+      "max_error_pt": 0.0
+    },
+    {
+      "page": 4,
+      "item": "b2Item04_053",
+      "role": "detail_selected",
+      "font": "blackhan",
+      "text": "북쪽에계신메리메리",
+      "cell_pt": [
+        36.0,
+        367,
+        347.5276,
+        66.0
+      ],
+      "target_center_pt": [
+        209.7638,
+        400.0
+      ],
+      "actual_ink_center_pt": [
+        209.7638,
+        400.0
+      ],
+      "max_error_pt": 0.0
+    },
+    {
+      "page": 5,
+      "item": "b2Item05_008",
+      "role": "specimen",
+      "font": "sans",
+      "text": "북쪽에계신메리메리",
+      "cell_pt": [
+        36.0,
+        108,
+        347.5276,
+        68
+      ],
+      "target_center_pt": [
+        209.7638,
+        142.0
+      ],
+      "actual_ink_center_pt": [
+        209.764,
+        142.0
+      ],
+      "max_error_pt": 0.0002000000000066393
+    },
+    {
+      "page": 5,
+      "item": "b2Item05_034",
+      "role": "detail_reference",
+      "font": "sans",
+      "text": "북쪽에계신메리메리",
+      "cell_pt": [
+        36.0,
+        273,
+        347.5276,
+        66.0
+      ],
+      "target_center_pt": [
+        209.7638,
+        306.0
+      ],
+      "actual_ink_center_pt": [
+        209.7638,
+        306.0
+      ],
+      "max_error_pt": 0.0
+    },
+    {
+      "page": 5,
+      "item": "b2Item05_053",
+      "role": "detail_selected",
+      "font": "sans",
+      "text": "북쪽에계신메리메리",
+      "cell_pt": [
+        36.0,
+        367,
+        347.5276,
+        66.0
+      ],
+      "target_center_pt": [
+        209.7638,
+        400.0
+      ],
+      "actual_ink_center_pt": [
+        209.7638,
+        400.0
+      ],
+      "max_error_pt": 0.0
+    },
+    {
+      "page": 6,
+      "item": "b2Item06_008",
+      "role": "specimen",
+      "font": "serif",
+      "text": "북쪽에계신메리메리",
+      "cell_pt": [
+        36.0,
+        108,
+        347.5276,
+        68
+      ],
+      "target_center_pt": [
+        209.7638,
+        142.0
+      ],
+      "actual_ink_center_pt": [
+        209.764,
+        142.0
+      ],
+      "max_error_pt": 0.0002000000000066393
+    },
+    {
+      "page": 6,
+      "item": "b2Item06_034",
+      "role": "detail_reference",
+      "font": "sans",
+      "text": "북쪽에계신메리메리",
+      "cell_pt": [
+        36.0,
+        273,
+        347.5276,
+        66.0
+      ],
+      "target_center_pt": [
+        209.7638,
+        306.0
+      ],
+      "actual_ink_center_pt": [
+        209.7638,
+        306.0
+      ],
+      "max_error_pt": 0.0
+    },
+    {
+      "page": 6,
+      "item": "b2Item06_053",
+      "role": "detail_selected",
+      "font": "serif",
+      "text": "북쪽에계신메리메리",
+      "cell_pt": [
+        36.0,
+        367,
+        347.5276,
+        66.0
+      ],
+      "target_center_pt": [
+        209.7638,
+        400.0
+      ],
+      "actual_ink_center_pt": [
+        209.76380000000003,
+        400.00000000000006
+      ],
+      "max_error_pt": 5.684341886080802e-14
+    },
+    {
+      "page": 7,
+      "item": "b2Item07_008",
+      "role": "specimen",
+      "font": "gungseo",
+      "text": "북쪽에계신메리메리",
+      "cell_pt": [
+        36.0,
+        108,
+        347.5276,
+        68
+      ],
+      "target_center_pt": [
+        209.7638,
+        142.0
+      ],
+      "actual_ink_center_pt": [
+        209.764,
+        142.0
+      ],
+      "max_error_pt": 0.0002000000000066393
+    },
+    {
+      "page": 7,
+      "item": "b2Item07_034",
+      "role": "detail_reference",
+      "font": "sans",
+      "text": "북쪽에계신메리메리",
+      "cell_pt": [
+        36.0,
+        273,
+        347.5276,
+        66.0
+      ],
+      "target_center_pt": [
+        209.7638,
+        306.0
+      ],
+      "actual_ink_center_pt": [
+        209.7638,
+        306.0
+      ],
+      "max_error_pt": 0.0
+    },
+    {
+      "page": 7,
+      "item": "b2Item07_053",
+      "role": "detail_selected",
+      "font": "gungseo",
+      "text": "북쪽에계신메리메리",
+      "cell_pt": [
+        36.0,
+        367,
+        347.5276,
+        66.0
+      ],
+      "target_center_pt": [
+        209.7638,
+        400.0
+      ],
+      "actual_ink_center_pt": [
+        209.7638,
+        400.0
+      ],
+      "max_error_pt": 0.0
+    },
+    {
+      "page": 8,
+      "item": "b2Item08_008",
+      "role": "specimen",
+      "font": "gugi",
+      "text": "북쪽에계신메리메리",
+      "cell_pt": [
+        36.0,
+        108,
+        347.5276,
+        68
+      ],
+      "target_center_pt": [
+        209.7638,
+        142.0
+      ],
+      "actual_ink_center_pt": [
+        209.7639999995402,
+        142.0
+      ],
+      "max_error_pt": 0.00019999954020022415
+    },
+    {
+      "page": 8,
+      "item": "b2Item08_034",
+      "role": "detail_reference",
+      "font": "sans",
+      "text": "북쪽에계신메리메리",
+      "cell_pt": [
+        36.0,
+        273,
+        347.5276,
+        66.0
+      ],
+      "target_center_pt": [
+        209.7638,
+        306.0
+      ],
+      "actual_ink_center_pt": [
+        209.7638,
+        306.0
+      ],
+      "max_error_pt": 0.0
+    },
+    {
+      "page": 8,
+      "item": "b2Item08_053",
+      "role": "detail_selected",
+      "font": "gugi",
+      "text": "북쪽에계신메리메리",
+      "cell_pt": [
+        36.0,
+        367,
+        347.5276,
+        66.0
+      ],
+      "target_center_pt": [
+        209.7638,
+        400.0
+      ],
+      "actual_ink_center_pt": [
+        209.7637999995402,
+        400.0
+      ],
+      "max_error_pt": 4.5980641516507603e-10
+    },
+    {
+      "page": 9,
+      "item": "b2Item09_008",
+      "role": "specimen",
+      "font": "pixel",
+      "text": "북쪽에계신메리메리",
+      "cell_pt": [
+        36.0,
+        108,
+        347.5276,
+        68
+      ],
+      "target_center_pt": [
+        209.7638,
+        142.0
+      ],
+      "actual_ink_center_pt": [
+        209.764,
+        142.0
+      ],
+      "max_error_pt": 0.0002000000000066393
+    },
+    {
+      "page": 9,
+      "item": "b2Item09_034",
+      "role": "detail_reference",
+      "font": "sans",
+      "text": "북쪽에계신메리메리",
+      "cell_pt": [
+        36.0,
+        273,
+        347.5276,
+        66.0
+      ],
+      "target_center_pt": [
+        209.7638,
+        306.0
+      ],
+      "actual_ink_center_pt": [
+        209.7638,
+        306.0
+      ],
+      "max_error_pt": 0.0
+    },
+    {
+      "page": 9,
+      "item": "b2Item09_053",
+      "role": "detail_selected",
+      "font": "pixel",
+      "text": "북쪽에계신메리메리",
+      "cell_pt": [
+        36.0,
+        367,
+        347.5276,
+        66.0
+      ],
+      "target_center_pt": [
+        209.7638,
+        400.0
+      ],
+      "actual_ink_center_pt": [
+        209.7638,
+        400.0
+      ],
+      "max_error_pt": 0.0
+    },
+    {
+      "page": 10,
+      "item": "b2Item10_008",
+      "role": "specimen",
+      "font": "jua",
+      "text": "북쪽에계신메리메리",
+      "cell_pt": [
+        36.0,
+        108,
+        347.5276,
+        68
+      ],
+      "target_center_pt": [
+        209.7638,
+        142.0
+      ],
+      "actual_ink_center_pt": [
+        209.7638893279589,
+        142.0
+      ],
+      "max_error_pt": 8.932795890359557e-05
+    },
+    {
+      "page": 10,
+      "item": "b2Item10_034",
+      "role": "detail_reference",
+      "font": "sans",
+      "text": "북쪽에계신메리메리",
+      "cell_pt": [
+        36.0,
+        273,
+        347.5276,
+        66.0
+      ],
+      "target_center_pt": [
+        209.7638,
+        306.0
+      ],
+      "actual_ink_center_pt": [
+        209.7638,
+        306.0
+      ],
+      "max_error_pt": 0.0
+    },
+    {
+      "page": 10,
+      "item": "b2Item10_053",
+      "role": "detail_selected",
+      "font": "jua",
+      "text": "북쪽에계신메리메리",
+      "cell_pt": [
+        36.0,
+        367,
+        347.5276,
+        66.0
+      ],
+      "target_center_pt": [
+        209.7638,
+        400.0
+      ],
+      "actual_ink_center_pt": [
+        209.76380000048974,
+        400.00000000000006
+      ],
+      "max_error_pt": 4.897344751952915e-10
+    },
+    {
+      "page": 11,
+      "item": "b2Item11_008",
+      "role": "specimen",
+      "font": "singleday",
+      "text": "북쪽에계신메리메리",
+      "cell_pt": [
+        36.0,
+        108,
+        347.5276,
+        68
+      ],
+      "target_center_pt": [
+        209.7638,
+        142.0
+      ],
+      "actual_ink_center_pt": [
+        209.76350000000002,
+        141.99949999999998
+      ],
+      "max_error_pt": 0.0005000000000165983
+    },
+    {
+      "page": 11,
+      "item": "b2Item11_034",
+      "role": "detail_reference",
+      "font": "sans",
+      "text": "북쪽에계신메리메리",
+      "cell_pt": [
+        36.0,
+        273,
+        347.5276,
+        66.0
+      ],
+      "target_center_pt": [
+        209.7638,
+        306.0
+      ],
+      "actual_ink_center_pt": [
+        209.7638,
+        306.0
+      ],
+      "max_error_pt": 0.0
+    },
+    {
+      "page": 11,
+      "item": "b2Item11_053",
+      "role": "detail_selected",
+      "font": "singleday",
+      "text": "북쪽에계신메리메리",
+      "cell_pt": [
+        36.0,
+        367,
+        347.5276,
+        66.0
+      ],
+      "target_center_pt": [
+        209.7638,
+        400.0
+      ],
+      "actual_ink_center_pt": [
+        209.7638,
+        400.0
+      ],
+      "max_error_pt": 0.0
+    },
+    {
+      "page": 12,
+      "item": "b2Item12_008",
+      "role": "specimen",
+      "font": "kirang",
+      "text": "북쪽에계신메리메리",
+      "cell_pt": [
+        36.0,
+        108,
+        347.5276,
+        68
+      ],
+      "target_center_pt": [
+        209.7638,
+        142.0
+      ],
+      "actual_ink_center_pt": [
+        209.76387499999998,
+        142.00012500000003
+      ],
+      "max_error_pt": 0.00012500000002546585
+    },
+    {
+      "page": 12,
+      "item": "b2Item12_034",
+      "role": "detail_reference",
+      "font": "sans",
+      "text": "북쪽에계신메리메리",
+      "cell_pt": [
+        36.0,
+        273,
+        347.5276,
+        66.0
+      ],
+      "target_center_pt": [
+        209.7638,
+        306.0
+      ],
+      "actual_ink_center_pt": [
+        209.7638,
+        306.0
+      ],
+      "max_error_pt": 0.0
+    },
+    {
+      "page": 12,
+      "item": "b2Item12_053",
+      "role": "detail_selected",
+      "font": "kirang",
+      "text": "북쪽에계신메리메리",
+      "cell_pt": [
+        36.0,
+        367,
+        347.5276,
+        66.0
+      ],
+      "target_center_pt": [
+        209.7638,
+        400.0
+      ],
+      "actual_ink_center_pt": [
+        209.76380000000006,
+        400.0
+      ],
+      "max_error_pt": 5.684341886080802e-14
+    },
+    {
+      "page": 13,
+      "item": "b2Item13_008",
+      "role": "specimen",
+      "font": "bawpic",
+      "text": "북쪽에계신메리메리",
+      "cell_pt": [
+        36.0,
+        108,
+        347.5276,
+        68
+      ],
+      "target_center_pt": [
+        209.7638,
+        142.0
+      ],
+      "actual_ink_center_pt": [
+        209.764,
+        142.0
+      ],
+      "max_error_pt": 0.0002000000000066393
+    },
+    {
+      "page": 13,
+      "item": "b2Item13_034",
+      "role": "detail_reference",
+      "font": "sans",
+      "text": "북쪽에계신메리메리",
+      "cell_pt": [
+        36.0,
+        273,
+        347.5276,
+        66.0
+      ],
+      "target_center_pt": [
+        209.7638,
+        306.0
+      ],
+      "actual_ink_center_pt": [
+        209.7638,
+        306.0
+      ],
+      "max_error_pt": 0.0
+    },
+    {
+      "page": 13,
+      "item": "b2Item13_053",
+      "role": "detail_selected",
+      "font": "bawpic",
+      "text": "북쪽에계신메리메리",
+      "cell_pt": [
+        36.0,
+        367,
+        347.5276,
+        66.0
+      ],
+      "target_center_pt": [
+        209.7638,
+        400.0
+      ],
+      "actual_ink_center_pt": [
+        209.7638,
+        400.0
+      ],
+      "max_error_pt": 0.0
+    },
+    {
+      "page": 14,
+      "item": "b2Item14_008",
+      "role": "specimen",
+      "font": "brush",
+      "text": "북쪽에계신메리메리",
+      "cell_pt": [
+        36.0,
+        108,
+        347.5276,
+        68
+      ],
+      "target_center_pt": [
+        209.7638,
+        142.0
+      ],
+      "actual_ink_center_pt": [
+        209.76378928085154,
+        141.99952302525384
+      ],
+      "max_error_pt": 0.0004769747461637053
+    },
+    {
+      "page": 14,
+      "item": "b2Item14_034",
+      "role": "detail_reference",
+      "font": "sans",
+      "text": "북쪽에계신메리메리",
+      "cell_pt": [
+        36.0,
+        273,
+        347.5276,
+        66.0
+      ],
+      "target_center_pt": [
+        209.7638,
+        306.0
+      ],
+      "actual_ink_center_pt": [
+        209.7638,
+        306.0
+      ],
+      "max_error_pt": 0.0
+    },
+    {
+      "page": 14,
+      "item": "b2Item14_053",
+      "role": "detail_selected",
+      "font": "brush",
+      "text": "북쪽에계신메리메리",
+      "cell_pt": [
+        36.0,
+        367,
+        347.5276,
+        66.0
+      ],
+      "target_center_pt": [
+        209.7638,
+        400.0
+      ],
+      "actual_ink_center_pt": [
+        209.76379999985065,
+        399.99999999950046
+      ],
+      "max_error_pt": 4.995399649487808e-10
+    },
+    {
+      "page": 15,
+      "item": "b2Item15_008",
+      "role": "specimen",
+      "font": "YES24",
+      "text": "북쪽에계신메리메리",
+      "cell_pt": [
+        36.0,
+        108,
+        347.5276,
+        68
+      ],
+      "target_center_pt": [
+        209.7638,
+        142.0
+      ],
+      "actual_ink_center_pt": [
+        209.764,
+        142.0
+      ],
+      "max_error_pt": 0.0002000000000066393
+    },
+    {
+      "page": 15,
+      "item": "b2Item15_034",
+      "role": "detail_reference",
+      "font": "sans",
+      "text": "북쪽에계신메리메리",
+      "cell_pt": [
+        36.0,
+        273,
+        347.5276,
+        66.0
+      ],
+      "target_center_pt": [
+        209.7638,
+        306.0
+      ],
+      "actual_ink_center_pt": [
+        209.7638,
+        306.0
+      ],
+      "max_error_pt": 0.0
+    },
+    {
+      "page": 15,
+      "item": "b2Item15_053",
+      "role": "detail_selected",
+      "font": "YES24",
+      "text": "북쪽에계신메리메리",
+      "cell_pt": [
+        36.0,
+        367,
+        347.5276,
+        66.0
+      ],
+      "target_center_pt": [
+        209.7638,
+        400.0
+      ],
+      "actual_ink_center_pt": [
+        209.7638,
+        400.0
+      ],
+      "max_error_pt": 0.0
+    },
+    {
+      "page": 16,
+      "item": "b2Item16_016",
+      "role": "spacing_sentence_before",
+      "font": "sans",
+      "text": "북쪽에계신메리메리",
+      "cell_pt": [
+        36.0,
+        165,
+        347.5276,
+        42
+      ],
+      "target_center_pt": [
+        209.7638,
+        186.0
+      ],
+      "actual_ink_center_pt": [
+        209.7638,
+        186.00000000000003
+      ],
+      "max_error_pt": 2.842170943040401e-14
+    },
+    {
+      "page": 16,
+      "item": "b2Item16_030",
+      "role": "spacing_sentence_after",
+      "font": "sans",
+      "text": "북쪽에계신메리메리",
+      "cell_pt": [
+        36.0,
+        250,
+        347.5276,
+        42
+      ],
+      "target_center_pt": [
+        209.7638,
+        271.0
+      ],
+      "actual_ink_center_pt": [
+        209.7638,
+        271.0
+      ],
+      "max_error_pt": 0.0
+    },
+    {
+      "page": 16,
+      "item": "b2Item16_042",
+      "role": "spacing_sentence_before",
+      "font": "gungseo",
+      "text": "북쪽에계신메리메리",
+      "cell_pt": [
+        36.0,
+        376,
+        347.5276,
+        42
+      ],
+      "target_center_pt": [
+        209.7638,
+        397.0
+      ],
+      "actual_ink_center_pt": [
+        209.7638,
+        397.0
+      ],
+      "max_error_pt": 0.0
+    },
+    {
+      "page": 16,
+      "item": "b2Item16_056",
+      "role": "spacing_sentence_after",
+      "font": "gungseo",
+      "text": "북쪽에계신메리메리",
+      "cell_pt": [
+        36.0,
+        461,
+        347.5276,
+        42
+      ],
+      "target_center_pt": [
+        209.7638,
+        482.0
+      ],
+      "actual_ink_center_pt": [
+        209.7638,
+        482.0
+      ],
+      "max_error_pt": 0.0
+    },
+    {
+      "page": 17,
+      "item": "b2Item17_016",
+      "role": "spacing_sentence_before",
+      "font": "blackhan",
+      "text": "북쪽에계신메리메리",
+      "cell_pt": [
+        36.0,
+        165,
+        347.5276,
+        42
+      ],
+      "target_center_pt": [
+        209.7638,
+        186.0
+      ],
+      "actual_ink_center_pt": [
+        209.7638,
+        186.00000000000003
+      ],
+      "max_error_pt": 2.842170943040401e-14
+    },
+    {
+      "page": 17,
+      "item": "b2Item17_030",
+      "role": "spacing_sentence_after",
+      "font": "blackhan",
+      "text": "북쪽에계신메리메리",
+      "cell_pt": [
+        36.0,
+        250,
+        347.5276,
+        42
+      ],
+      "target_center_pt": [
+        209.7638,
+        271.0
+      ],
+      "actual_ink_center_pt": [
+        209.7638,
+        271.0
+      ],
+      "max_error_pt": 0.0
+    },
+    {
+      "page": 17,
+      "item": "b2Item17_042",
+      "role": "spacing_sentence_before",
+      "font": "singleday",
+      "text": "북쪽에계신메리메리",
+      "cell_pt": [
+        36.0,
+        376,
+        347.5276,
+        42
+      ],
+      "target_center_pt": [
+        209.7638,
+        397.0
+      ],
+      "actual_ink_center_pt": [
+        209.7638,
+        397.0
+      ],
+      "max_error_pt": 0.0
+    },
+    {
+      "page": 17,
+      "item": "b2Item17_056",
+      "role": "spacing_sentence_after",
+      "font": "singleday",
+      "text": "북쪽에계신메리메리",
+      "cell_pt": [
+        36.0,
+        461,
+        347.5276,
+        42
+      ],
+      "target_center_pt": [
+        209.7638,
+        482.0
+      ],
+      "actual_ink_center_pt": [
+        209.7638,
+        482.0
+      ],
+      "max_error_pt": 0.0
+    },
+    {
+      "page": 18,
+      "item": "b2Item18_010",
+      "role": "gap_context_sentence",
+      "font": "sans",
+      "text": "북쪽에계신메리메리",
+      "cell_pt": [
+        36.0,
+        146,
+        347.5276,
+        29
+      ],
+      "target_center_pt": [
+        209.7638,
+        160.5
+      ],
+      "actual_ink_center_pt": [
+        209.764,
+        160.5
+      ],
+      "max_error_pt": 0.0002000000000066393
+    },
+    {
+      "page": 18,
+      "item": "b2Item18_012",
+      "role": "gap_contextual_pair",
+      "font": "sans",
+      "text": "쪽에",
+      "cell_pt": [
+        40.0,
+        178,
+        180,
+        73
+      ],
+      "target_center_pt": [
+        130.0,
+        214.5
+      ],
+      "actual_ink_center_pt": [
+        130.0,
+        214.50000000000003
+      ],
+      "max_error_pt": 2.842170943040401e-14
+    },
+    {
+      "page": 18,
+      "item": "b2Item18_015",
+      "role": "extracted_actual_gap_profile",
+      "font": "sans",
+      "text": null,
+      "cell_pt": [
+        201,
+        189,
+        100,
+        62
+      ],
+      "target_center_pt": [
+        251.0,
+        220.0
+      ],
+      "actual_ink_center_pt": [
+        251.0,
+        220.00000000000006
+      ],
+      "max_error_pt": 5.684341886080802e-14
+    },
+    {
+      "page": 18,
+      "item": "b2Item18_021",
+      "role": "gap_context_sentence",
+      "font": "sans",
+      "text": "북쪽에계신메리메리",
+      "cell_pt": [
+        36.0,
+        283,
+        347.5276,
+        29
+      ],
+      "target_center_pt": [
+        209.7638,
+        297.5
+      ],
+      "actual_ink_center_pt": [
+        209.764,
+        297.5
+      ],
+      "max_error_pt": 0.0002000000000066393
+    },
+    {
+      "page": 18,
+      "item": "b2Item18_023",
+      "role": "gap_contextual_pair",
+      "font": "sans",
+      "text": "계신",
+      "cell_pt": [
+        40.0,
+        315,
+        180,
+        73
+      ],
+      "target_center_pt": [
+        130.0,
+        351.5
+      ],
+      "actual_ink_center_pt": [
+        130.0,
+        351.5
+      ],
+      "max_error_pt": 0.0
+    },
+    {
+      "page": 18,
+      "item": "b2Item18_026",
+      "role": "extracted_actual_gap_profile",
+      "font": "sans",
+      "text": null,
+      "cell_pt": [
+        201,
+        326,
+        100,
+        62
+      ],
+      "target_center_pt": [
+        251.0,
+        357.0
+      ],
+      "actual_ink_center_pt": [
+        251.00000000000003,
+        357.0
+      ],
+      "max_error_pt": 2.842170943040401e-14
+    },
+    {
+      "page": 18,
+      "item": "b2Item18_032",
+      "role": "gap_context_sentence",
+      "font": "sans",
+      "text": "북쪽에계신메리메리",
+      "cell_pt": [
+        36.0,
+        420,
+        347.5276,
+        29
+      ],
+      "target_center_pt": [
+        209.7638,
+        434.5
+      ],
+      "actual_ink_center_pt": [
+        209.764,
+        434.50000000000006
+      ],
+      "max_error_pt": 0.0002000000000066393
+    },
+    {
+      "page": 18,
+      "item": "b2Item18_034",
+      "role": "gap_contextual_pair",
+      "font": "sans",
+      "text": "메리",
+      "cell_pt": [
+        40.0,
+        452,
+        180,
+        73
+      ],
+      "target_center_pt": [
+        130.0,
+        488.5
+      ],
+      "actual_ink_center_pt": [
+        130.00000000000006,
+        488.50000000000006
+      ],
+      "max_error_pt": 5.684341886080802e-14
+    },
+    {
+      "page": 18,
+      "item": "b2Item18_037",
+      "role": "extracted_actual_gap_profile",
+      "font": "sans",
+      "text": null,
+      "cell_pt": [
+        201,
+        463,
+        100,
+        62
+      ],
+      "target_center_pt": [
+        251.0,
+        494.0
+      ],
+      "actual_ink_center_pt": [
+        251.00000000000003,
+        494.0
+      ],
+      "max_error_pt": 2.842170943040401e-14
+    },
+    {
+      "page": 19,
+      "item": "b2Item19_010",
+      "role": "gap_context_sentence",
+      "font": "gungseo",
+      "text": "북쪽에계신메리메리",
+      "cell_pt": [
+        36.0,
+        146,
+        347.5276,
+        29
+      ],
+      "target_center_pt": [
+        209.7638,
+        160.5
+      ],
+      "actual_ink_center_pt": [
+        209.764,
+        160.5
+      ],
+      "max_error_pt": 0.0002000000000066393
+    },
+    {
+      "page": 19,
+      "item": "b2Item19_012",
+      "role": "gap_contextual_pair",
+      "font": "gungseo",
+      "text": "쪽에",
+      "cell_pt": [
+        40.0,
+        178,
+        180,
+        73
+      ],
+      "target_center_pt": [
+        130.0,
+        214.5
+      ],
+      "actual_ink_center_pt": [
+        130.0,
+        214.50000000000003
+      ],
+      "max_error_pt": 2.842170943040401e-14
+    },
+    {
+      "page": 19,
+      "item": "b2Item19_015",
+      "role": "extracted_actual_gap_profile",
+      "font": "gungseo",
+      "text": null,
+      "cell_pt": [
+        201,
+        189,
+        100,
+        62
+      ],
+      "target_center_pt": [
+        251.0,
+        220.0
+      ],
+      "actual_ink_center_pt": [
+        250.99999999965002,
+        220.00000000000003
+      ],
+      "max_error_pt": 3.4998492992599495e-10
+    },
+    {
+      "page": 19,
+      "item": "b2Item19_021",
+      "role": "gap_context_sentence",
+      "font": "gungseo",
+      "text": "북쪽에계신메리메리",
+      "cell_pt": [
+        36.0,
+        283,
+        347.5276,
+        29
+      ],
+      "target_center_pt": [
+        209.7638,
+        297.5
+      ],
+      "actual_ink_center_pt": [
+        209.764,
+        297.5
+      ],
+      "max_error_pt": 0.0002000000000066393
+    },
+    {
+      "page": 19,
+      "item": "b2Item19_023",
+      "role": "gap_contextual_pair",
+      "font": "gungseo",
+      "text": "계신",
+      "cell_pt": [
+        40.0,
+        315,
+        180,
+        73
+      ],
+      "target_center_pt": [
+        130.0,
+        351.5
+      ],
+      "actual_ink_center_pt": [
+        130.0,
+        351.5
+      ],
+      "max_error_pt": 0.0
+    },
+    {
+      "page": 19,
+      "item": "b2Item19_026",
+      "role": "extracted_actual_gap_profile",
+      "font": "gungseo",
+      "text": null,
+      "cell_pt": [
+        201,
+        326,
+        100,
+        62
+      ],
+      "target_center_pt": [
+        251.0,
+        357.0
+      ],
+      "actual_ink_center_pt": [
+        251.0000000001,
+        357.0
+      ],
+      "max_error_pt": 9.99875737761613e-11
+    },
+    {
+      "page": 19,
+      "item": "b2Item19_032",
+      "role": "gap_context_sentence",
+      "font": "gungseo",
+      "text": "북쪽에계신메리메리",
+      "cell_pt": [
+        36.0,
+        420,
+        347.5276,
+        29
+      ],
+      "target_center_pt": [
+        209.7638,
+        434.5
+      ],
+      "actual_ink_center_pt": [
+        209.764,
+        434.5
+      ],
+      "max_error_pt": 0.0002000000000066393
+    },
+    {
+      "page": 19,
+      "item": "b2Item19_034",
+      "role": "gap_contextual_pair",
+      "font": "gungseo",
+      "text": "메리",
+      "cell_pt": [
+        40.0,
+        452,
+        180,
+        73
+      ],
+      "target_center_pt": [
+        130.0,
+        488.5
+      ],
+      "actual_ink_center_pt": [
+        130.00000000000003,
+        488.5
+      ],
+      "max_error_pt": 2.842170943040401e-14
+    },
+    {
+      "page": 19,
+      "item": "b2Item19_037",
+      "role": "extracted_actual_gap_profile",
+      "font": "gungseo",
+      "text": null,
+      "cell_pt": [
+        201,
+        463,
+        100,
+        62
+      ],
+      "target_center_pt": [
+        251.0,
+        494.0
+      ],
+      "actual_ink_center_pt": [
+        251.0000000005,
+        494.00000000000006
+      ],
+      "max_error_pt": 4.999947122996673e-10
+    },
+    {
+      "page": 20,
+      "item": "b2Item20_011",
+      "role": "conclusion_wholeword",
+      "font": "blackhan",
+      "text": "북쪽에계신메리메리",
+      "cell_pt": [
+        42.0,
+        163,
+        150,
+        32
+      ],
+      "target_center_pt": [
+        117.0,
+        179.0
+      ],
+      "actual_ink_center_pt": [
+        117.0,
+        179.0
+      ],
+      "max_error_pt": 0.0
+    },
+    {
+      "page": 20,
+      "item": "b2Item20_017",
+      "role": "conclusion_wholeword",
+      "font": "sans",
+      "text": "북쪽에계신메리메리",
+      "cell_pt": [
+        227,
+        163,
+        150,
+        32
+      ],
+      "target_center_pt": [
+        302.0,
+        179.0
+      ],
+      "actual_ink_center_pt": [
+        302.0,
+        179.0
+      ],
+      "max_error_pt": 0.0
+    },
+    {
+      "page": 20,
+      "item": "b2Item20_028",
+      "role": "conclusion_wholeword",
+      "font": "serif",
+      "text": "북쪽에계신메리메리",
+      "cell_pt": [
+        42.0,
+        293,
+        150,
+        32
+      ],
+      "target_center_pt": [
+        117.0,
+        309.0
+      ],
+      "actual_ink_center_pt": [
+        117.00000000000001,
+        309.0
+      ],
+      "max_error_pt": 1.4210854715202004e-14
+    },
+    {
+      "page": 20,
+      "item": "b2Item20_034",
+      "role": "conclusion_wholeword",
+      "font": "gungseo",
+      "text": "북쪽에계신메리메리",
+      "cell_pt": [
+        227,
+        293,
+        150,
+        32
+      ],
+      "target_center_pt": [
+        302.0,
+        309.0
+      ],
+      "actual_ink_center_pt": [
+        302.0,
+        309.0
+      ],
+      "max_error_pt": 0.0
+    },
+    {
+      "page": 20,
+      "item": "b2Item20_045",
+      "role": "conclusion_wholeword",
+      "font": "singleday",
+      "text": "북쪽에계신메리메리",
+      "cell_pt": [
+        42.0,
+        423,
+        150,
+        32
+      ],
+      "target_center_pt": [
+        117.0,
+        439.0
+      ],
+      "actual_ink_center_pt": [
+        116.9995,
+        439.00000000000006
+      ],
+      "max_error_pt": 0.0005000000000023874
+    },
+    {
+      "page": 20,
+      "item": "b2Item20_051",
+      "role": "conclusion_wholeword",
+      "font": "brush",
+      "text": "북쪽에계신메리메리",
+      "cell_pt": [
+        227,
+        423,
+        150,
+        32
+      ],
+      "target_center_pt": [
+        302.0,
+        439.0
+      ],
+      "actual_ink_center_pt": [
+        302.00000000042576,
+        439.0001902052107
+      ],
+      "max_error_pt": 0.00019020521068568996
+    },
+    {
+      "page": 28,
+      "item": "b2Item28_001",
+      "role": "backcover_eyebrow",
+      "font": "sans",
+      "text": "말투수집실 / 열람 완료",
+      "cell_pt": [
+        36.0,
+        25,
+        347.5276,
+        20
+      ],
+      "target_center_pt": [
+        209.7638,
+        35.0
+      ],
+      "actual_ink_center_pt": [
+        209.76400000000004,
+        35.0
+      ],
+      "max_error_pt": 0.00020000000003506102
+    },
+    {
+      "page": 28,
+      "item": "b2Item28_002",
+      "role": "backcover_heading",
+      "font": "YES24",
+      "text": "문장 하나로",
+      "cell_pt": [
+        36.0,
+        85,
+        180,
+        38
+      ],
+      "target_center_pt": [
+        126.0,
+        104.0
+      ],
+      "actual_ink_center_pt": [
+        126.0,
+        104.0
+      ],
+      "max_error_pt": 0.0
+    },
+    {
+      "page": 28,
+      "item": "b2Item28_003",
+      "role": "backcover_heading",
+      "font": "YES24",
+      "text": "이렇게까지.",
+      "cell_pt": [
+        36.0,
+        123,
+        180,
+        38
+      ],
+      "target_center_pt": [
+        126.0,
+        142.0
+      ],
+      "actual_ink_center_pt": [
+        126.00000000000001,
+        142.0
+      ],
+      "max_error_pt": 1.4210854715202004e-14
+    },
+    {
+      "page": 28,
+      "item": "b2Item28_004",
+      "role": "backcover_hook",
+      "font": "blackhan",
+      "text": "폰트 바꿨을 뿐인데",
+      "cell_pt": [
+        36.0,
+        185,
+        180,
+        20
+      ],
+      "target_center_pt": [
+        126.0,
+        195.0
+      ],
+      "actual_ink_center_pt": [
+        126.0,
+        195.0
+      ],
+      "max_error_pt": 0.0
+    },
+    {
+      "page": 28,
+      "item": "b2Item28_005",
+      "role": "backcover_hook",
+      "font": "blackhan",
+      "text": "말투가 급발진.",
+      "cell_pt": [
+        36.0,
+        205,
+        180,
+        20
+      ],
+      "target_center_pt": [
+        126.0,
+        215.0
+      ],
+      "actual_ink_center_pt": [
+        126.0,
+        215.0
+      ],
+      "max_error_pt": 0.0
+    },
+    {
+      "page": 28,
+      "item": "b2Item28_007",
+      "role": "backcover_badge_copy",
+      "font": "YES24",
+      "text": "진심 100% · 말투는 각자",
+      "cell_pt": [
+        36.0,
+        245,
+        180,
+        27
+      ],
+      "target_center_pt": [
+        126.0,
+        258.5
+      ],
+      "actual_ink_center_pt": [
+        126.00002777800003,
+        258.5
+      ],
+      "max_error_pt": 2.77780000317307e-05
+    },
+    {
+      "page": 28,
+      "item": "b2Item28_008",
+      "role": "embedded_backcover_photo",
+      "font": null,
+      "text": null,
+      "cell_pt": [
+        232,
+        78,
+        151.5276,
+        208
+      ],
+      "target_center_pt": [
+        307.7638,
+        182.0
+      ],
+      "actual_ink_center_pt": [
+        307.763799999969,
+        182.00000000019742
+      ],
+      "max_error_pt": 1.9741719370358624e-10
+    },
+    {
+      "page": 28,
+      "item": "b2Item28_010",
+      "role": "backcover_credits_bar_copy",
+      "font": "YES24",
+      "text": "열람 완료 / 출처와 만든 사람",
+      "cell_pt": [
+        36.0,
+        305,
+        347.5276,
+        24
+      ],
+      "target_center_pt": [
+        209.7638,
+        317.0
+      ],
+      "actual_ink_center_pt": [
+        209.764,
+        317.0
+      ],
+      "max_error_pt": 0.0002000000000066393
+    },
+    {
+      "page": 28,
+      "item": "b2Item28_014",
+      "role": "backcover_closing",
+      "font": "sans",
+      "text": "형태는 관찰하고, 말투는 막 나갑니다.",
+      "cell_pt": [
+        36.0,
+        528,
+        347.5276,
+        24
+      ],
+      "target_center_pt": [
+        209.7638,
+        540.0
+      ],
+      "actual_ink_center_pt": [
+        209.76350000000002,
+        539.9995000000001
+      ],
+      "max_error_pt": 0.0004999999998744897
+    }
+  ],
+  "maximum_center_error_pt": 0.0005000000001018634,
+  "threshold_pt": 0.01
+}

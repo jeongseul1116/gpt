@@ -1,3 +1,16 @@
+# 최신 B6 — 글자는 그대로, 빈틈이 보이는 비교
+
+반복되던 비교 두 펼침면을 ‘문장 간격 조정 전후’와 ‘마주 보는 획 사이 빈틈 도해’로 바꿨습니다. 북쪽에계신메리메리 문장과 기존 B급 인상·표지 중앙 정렬을 유지합니다.
+
+- [B6 PDF](submission-version-b6/Meme_Font_Book_Version_B6_28p_Review.pdf)
+- [B6 편집용 IDML](submission-version-b6/Meme_Font_Book_Version_B6_28p.idml)
+- [B6 A3 인쇄 PDF](submission-version-b6/Meme_Font_Book_Version_B6_A3_Duplex_28p.pdf)
+- [B6 전체 ZIP](Meme_Font_Book_Version_B6_28p.zip) · [수정·인쇄 안내](submission-version-b6/README_KO.md)
+
+이전 판본은 아래에 보존했습니다.
+
+---
+
 # 최신 B5 — 문장 통째로, 말투는 B급으로
 
 ‘북쪽에계신메리메리’를 폰트 12종의 같은 크기 문장으로 비교합니다. 한 글자 비교를 문장 전체로 바꾸고, 인상은 B급 말투로 다듬었습니다. 비교 문장과 표지의 제목·띠 문구·장식 문구를 각 영역 중앙에 맞췄습니다.

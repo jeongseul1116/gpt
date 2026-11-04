@@ -1,0 +1,15 @@
+{
+  "status": "passed",
+  "physical_pages": [
+    22,
+    23,
+    24,
+    25,
+    26,
+    27
+  ],
+  "cases": 15,
+  "text_frames": 150,
+  "failures": [],
+  "native_Adobe_execution": false
+}
