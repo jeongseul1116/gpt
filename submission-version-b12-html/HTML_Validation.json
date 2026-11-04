@@ -1,0 +1,221 @@
+{
+  "status": "passed",
+  "physical_pages": 28,
+  "self_contained": true,
+  "revised_printed_pages": [
+    1,
+    4,
+    13,
+    14
+  ],
+  "browser": "Chromium desktop and 390px mobile",
+  "html_sha256": "8cd42f6e7753369f63b7d782e769996b56aeac1ec51e6b418f4621e30ca0353b",
+  "checks": [
+    {
+      "check": "All 28 pages in selector and thumbnail navigation",
+      "passed": true
+    },
+    {
+      "check": "Physical page 1 SVG renders",
+      "passed": true
+    },
+    {
+      "check": "Physical page 2 SVG renders",
+      "passed": true
+    },
+    {
+      "check": "Physical page 3 SVG renders",
+      "passed": true
+    },
+    {
+      "check": "Physical page 4 SVG renders",
+      "passed": true
+    },
+    {
+      "check": "Physical page 5 SVG renders",
+      "passed": true
+    },
+    {
+      "check": "Physical page 6 SVG renders",
+      "passed": true
+    },
+    {
+      "check": "Physical page 7 SVG renders",
+      "passed": true
+    },
+    {
+      "check": "Physical page 8 SVG renders",
+      "passed": true
+    },
+    {
+      "check": "Physical page 9 SVG renders",
+      "passed": true
+    },
+    {
+      "check": "Physical page 10 SVG renders",
+      "passed": true
+    },
+    {
+      "check": "Physical page 11 SVG renders",
+      "passed": true
+    },
+    {
+      "check": "Physical page 12 SVG renders",
+      "passed": true
+    },
+    {
+      "check": "Physical page 13 SVG renders",
+      "passed": true
+    },
+    {
+      "check": "Physical page 14 SVG renders",
+      "passed": true
+    },
+    {
+      "check": "Physical page 15 SVG renders",
+      "passed": true
+    },
+    {
+      "check": "Physical page 16 SVG renders",
+      "passed": true
+    },
+    {
+      "check": "Physical page 17 SVG renders",
+      "passed": true
+    },
+    {
+      "check": "Physical page 18 SVG renders",
+      "passed": true
+    },
+    {
+      "check": "Physical page 19 SVG renders",
+      "passed": true
+    },
+    {
+      "check": "Physical page 20 SVG renders",
+      "passed": true
+    },
+    {
+      "check": "Physical page 21 SVG renders",
+      "passed": true
+    },
+    {
+      "check": "Physical page 22 SVG renders",
+      "passed": true
+    },
+    {
+      "check": "Physical page 23 SVG renders",
+      "passed": true
+    },
+    {
+      "check": "Physical page 24 SVG renders",
+      "passed": true
+    },
+    {
+      "check": "Physical page 25 SVG renders",
+      "passed": true
+    },
+    {
+      "check": "Physical page 26 SVG renders",
+      "passed": true
+    },
+    {
+      "check": "Physical page 27 SVG renders",
+      "passed": true
+    },
+    {
+      "check": "Physical page 28 SVG renders",
+      "passed": true
+    },
+    {
+      "check": "Facing pair 2|3",
+      "passed": true
+    },
+    {
+      "check": "Facing pair 4|5",
+      "passed": true
+    },
+    {
+      "check": "Facing pair 6|7",
+      "passed": true
+    },
+    {
+      "check": "Facing pair 8|9",
+      "passed": true
+    },
+    {
+      "check": "Facing pair 10|11",
+      "passed": true
+    },
+    {
+      "check": "Facing pair 12|13",
+      "passed": true
+    },
+    {
+      "check": "Facing pair 14|15",
+      "passed": true
+    },
+    {
+      "check": "Facing pair 16|17",
+      "passed": true
+    },
+    {
+      "check": "Facing pair 18|19",
+      "passed": true
+    },
+    {
+      "check": "Facing pair 20|21",
+      "passed": true
+    },
+    {
+      "check": "Facing pair 22|23",
+      "passed": true
+    },
+    {
+      "check": "Facing pair 24|25",
+      "passed": true
+    },
+    {
+      "check": "Facing pair 26|27",
+      "passed": true
+    },
+    {
+      "check": "Zoom increases rendered page size",
+      "passed": true
+    },
+    {
+      "check": "Keyboard previous spread",
+      "passed": true
+    },
+    {
+      "check": "Keyboard next spread",
+      "passed": true
+    },
+    {
+      "check": "Mobile contents opens",
+      "passed": true
+    },
+    {
+      "check": "Mobile contents closes with Escape",
+      "passed": true
+    },
+    {
+      "check": "No mobile horizontal document overflow",
+      "passed": true
+    },
+    {
+      "check": "No JavaScript errors",
+      "passed": true
+    },
+    {
+      "check": "Viewing needs no external network request",
+      "passed": true
+    },
+    {
+      "check": "Existing PDF preserved",
+      "passed": true
+    }
+  ],
+  "errors": [],
+  "external_requests": []
+}

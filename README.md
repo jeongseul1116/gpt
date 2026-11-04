@@ -1,3 +1,9 @@
+# HTML 웹 열람판 — 전체 28쪽
+
+[HTML 다운로드](https://github.com/jeongseul1116/gpt/raw/refs/heads/main/submission-version-b12-html/Maltu_Book_28p.html) · [화면과 변경 내용](submission-version-b12-html/README_KO.md). 12폰트 공간 비교와 고백 본문 전체의 손글씨/도트체 비교를 반영했습니다.
+
+---
+
 # 최신 B12 — 표지 포함 28쪽·양쪽 모두 섞어짜기
 
 12폰트·5색 공간 범례·두 펼침면의 혼합 조합 비교·밈 전문 15개. A4 양면 7장. [전체 28쪽 PDF](submission-version-b12/Meme_Font_Book_B12_28p.pdf) · [A4 인쇄 PDF](submission-version-b12/Meme_Font_Book_B12_A4_Duplex.pdf) · [세 기준 검토](submission-version-b12/Review_KO.md)

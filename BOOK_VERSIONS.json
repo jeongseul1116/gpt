@@ -225,6 +225,15 @@
     "print_paper": "A4 landscape",
     "bleed_mm": 0,
     "crop_marks": false,
-    "center_fold_guide": true
+    "center_fold_guide": true,
+    "html": "submission-version-b12-html/Maltu_Book_28p.html",
+    "html_revisions_printed_pages": [
+      1,
+      4,
+      13,
+      14
+    ],
+    "html_mixed_second_spread": "full confession SingleDay vs Pixel; both sides mixed",
+    "html_sha256": "8cd42f6e7753369f63b7d782e769996b56aeac1ec51e6b418f4621e30ca0353b"
   }
 }
