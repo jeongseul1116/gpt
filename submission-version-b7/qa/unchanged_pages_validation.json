@@ -1,0 +1,595 @@
+{
+  "status": "passed",
+  "scope": "Unchanged scenes are pixel-exact with B6. All six application scenes, including B-grade impression captions, and all45 approved prompt/neutral/selected text regions remain exact. Independently rendered at120dpi.",
+  "source_B6_reader_sha256": "c8c4d1e5bfc2370dd49c7ef880efe8c3e993bb351e68530f5a9916f8d4ba9218",
+  "reader_sha256": "1d02c3635bf7bf289cdbe3251d6d488e2224979203b86a19201e6fa338590507",
+  "unchanged_scene_pages": [
+    {
+      "physical_page": 1,
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 3,
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 20,
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 21,
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 22,
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 23,
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 24,
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 25,
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 26,
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 27,
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 28,
+      "pixels_identical": true
+    }
+  ],
+  "protected_application_regions": [
+    {
+      "physical_page": 22,
+      "case_id": "E01",
+      "role": "approved_application_prompt",
+      "clip_pt": [
+        46.0,
+        133.0,
+        373.5276,
+        150.0
+      ],
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 22,
+      "case_id": "E01",
+      "role": "application_neutral_quote",
+      "clip_pt": [
+        46.0,
+        185.0,
+        200.7638,
+        245.4
+      ],
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 22,
+      "case_id": "E01",
+      "role": "application_selected_quote",
+      "clip_pt": [
+        218.7638,
+        185.0,
+        373.5276,
+        245.4
+      ],
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 22,
+      "case_id": "E12",
+      "role": "approved_application_prompt",
+      "clip_pt": [
+        46.0,
+        355.0,
+        373.5276,
+        372.0
+      ],
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 22,
+      "case_id": "E12",
+      "role": "application_neutral_quote",
+      "clip_pt": [
+        46.0,
+        407.0,
+        200.7638,
+        446.775
+      ],
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 22,
+      "case_id": "E12",
+      "role": "application_selected_quote",
+      "clip_pt": [
+        218.7638,
+        407.0,
+        373.5276,
+        446.775
+      ],
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 23,
+      "case_id": "E11",
+      "role": "approved_application_prompt",
+      "clip_pt": [
+        46.0,
+        120.0,
+        373.5276,
+        135.0
+      ],
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 23,
+      "case_id": "E11",
+      "role": "application_neutral_quote",
+      "clip_pt": [
+        46.0,
+        147.0,
+        373.5276,
+        185.4
+      ],
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 23,
+      "case_id": "E11",
+      "role": "application_selected_quote",
+      "clip_pt": [
+        46.0,
+        197.0,
+        373.5276,
+        235.4
+      ],
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 23,
+      "case_id": "E05",
+      "role": "approved_application_prompt",
+      "clip_pt": [
+        46.0,
+        272.0,
+        373.5276,
+        287.0
+      ],
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 23,
+      "case_id": "E05",
+      "role": "application_neutral_quote",
+      "clip_pt": [
+        46.0,
+        299.0,
+        373.5276,
+        337.4
+      ],
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 23,
+      "case_id": "E05",
+      "role": "application_selected_quote",
+      "clip_pt": [
+        46.0,
+        349.0,
+        373.5276,
+        387.4
+      ],
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 23,
+      "case_id": "E08",
+      "role": "approved_application_prompt",
+      "clip_pt": [
+        46.0,
+        424.0,
+        373.5276,
+        439.0
+      ],
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 23,
+      "case_id": "E08",
+      "role": "application_neutral_quote",
+      "clip_pt": [
+        46.0,
+        451.0,
+        373.5276,
+        489.4
+      ],
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 23,
+      "case_id": "E08",
+      "role": "application_selected_quote",
+      "clip_pt": [
+        46.0,
+        501.0,
+        373.5276,
+        539.4
+      ],
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 24,
+      "case_id": "E02",
+      "role": "approved_application_prompt",
+      "clip_pt": [
+        46.0,
+        120.0,
+        373.5276,
+        135.0
+      ],
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 24,
+      "case_id": "E02",
+      "role": "application_neutral_quote",
+      "clip_pt": [
+        46.0,
+        147.0,
+        373.5276,
+        185.4
+      ],
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 24,
+      "case_id": "E02",
+      "role": "application_selected_quote",
+      "clip_pt": [
+        46.0,
+        197.0,
+        373.5276,
+        235.4
+      ],
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 24,
+      "case_id": "E10",
+      "role": "approved_application_prompt",
+      "clip_pt": [
+        46.0,
+        272.0,
+        373.5276,
+        287.0
+      ],
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 24,
+      "case_id": "E10",
+      "role": "application_neutral_quote",
+      "clip_pt": [
+        46.0,
+        299.0,
+        373.5276,
+        337.4
+      ],
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 24,
+      "case_id": "E10",
+      "role": "application_selected_quote",
+      "clip_pt": [
+        46.0,
+        349.0,
+        373.5276,
+        387.4
+      ],
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 24,
+      "case_id": "E06",
+      "role": "approved_application_prompt",
+      "clip_pt": [
+        46.0,
+        424.0,
+        373.5276,
+        439.0
+      ],
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 24,
+      "case_id": "E06",
+      "role": "application_neutral_quote",
+      "clip_pt": [
+        46.0,
+        451.0,
+        373.5276,
+        489.4
+      ],
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 24,
+      "case_id": "E06",
+      "role": "application_selected_quote",
+      "clip_pt": [
+        46.0,
+        501.0,
+        373.5276,
+        539.4
+      ],
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 25,
+      "case_id": "E03",
+      "role": "approved_application_prompt",
+      "clip_pt": [
+        46.0,
+        120.0,
+        373.5276,
+        135.0
+      ],
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 25,
+      "case_id": "E03",
+      "role": "application_neutral_quote",
+      "clip_pt": [
+        46.0,
+        147.0,
+        373.5276,
+        185.4
+      ],
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 25,
+      "case_id": "E03",
+      "role": "application_selected_quote",
+      "clip_pt": [
+        46.0,
+        197.0,
+        373.5276,
+        235.4
+      ],
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 25,
+      "case_id": "E04",
+      "role": "approved_application_prompt",
+      "clip_pt": [
+        46.0,
+        272.0,
+        373.5276,
+        287.0
+      ],
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 25,
+      "case_id": "E04",
+      "role": "application_neutral_quote",
+      "clip_pt": [
+        46.0,
+        299.0,
+        373.5276,
+        327.8
+      ],
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 25,
+      "case_id": "E04",
+      "role": "application_selected_quote",
+      "clip_pt": [
+        46.0,
+        349.0,
+        373.5276,
+        377.8
+      ],
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 25,
+      "case_id": "E07",
+      "role": "approved_application_prompt",
+      "clip_pt": [
+        46.0,
+        424.0,
+        373.5276,
+        439.0
+      ],
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 25,
+      "case_id": "E07",
+      "role": "application_neutral_quote",
+      "clip_pt": [
+        46.0,
+        451.0,
+        373.5276,
+        489.4
+      ],
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 25,
+      "case_id": "E07",
+      "role": "application_selected_quote",
+      "clip_pt": [
+        46.0,
+        501.0,
+        373.5276,
+        539.4
+      ],
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 26,
+      "case_id": "E09",
+      "role": "approved_application_prompt",
+      "clip_pt": [
+        46.0,
+        133.0,
+        373.5276,
+        150.0
+      ],
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 26,
+      "case_id": "E09",
+      "role": "application_neutral_quote",
+      "clip_pt": [
+        46.0,
+        185.0,
+        200.7638,
+        217.35
+      ],
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 26,
+      "case_id": "E09",
+      "role": "application_selected_quote",
+      "clip_pt": [
+        218.7638,
+        185.0,
+        373.5276,
+        217.35
+      ],
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 26,
+      "case_id": "E13",
+      "role": "approved_application_prompt",
+      "clip_pt": [
+        46.0,
+        355.0,
+        373.5276,
+        372.0
+      ],
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 26,
+      "case_id": "E13",
+      "role": "application_neutral_quote",
+      "clip_pt": [
+        46.0,
+        407.0,
+        200.7638,
+        467.4
+      ],
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 26,
+      "case_id": "E13",
+      "role": "application_selected_quote",
+      "clip_pt": [
+        218.7638,
+        407.0,
+        373.5276,
+        467.4
+      ],
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 27,
+      "case_id": "E14",
+      "role": "approved_application_prompt",
+      "clip_pt": [
+        46.0,
+        133.0,
+        373.5276,
+        150.0
+      ],
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 27,
+      "case_id": "E14",
+      "role": "application_neutral_quote",
+      "clip_pt": [
+        46.0,
+        185.0,
+        200.7638,
+        245.4
+      ],
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 27,
+      "case_id": "E14",
+      "role": "application_selected_quote",
+      "clip_pt": [
+        218.7638,
+        185.0,
+        373.5276,
+        245.4
+      ],
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 27,
+      "case_id": "E15",
+      "role": "approved_application_prompt",
+      "clip_pt": [
+        46.0,
+        355.0,
+        373.5276,
+        372.0
+      ],
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 27,
+      "case_id": "E15",
+      "role": "application_neutral_quote",
+      "clip_pt": [
+        46.0,
+        407.0,
+        200.7638,
+        436.875
+      ],
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 27,
+      "case_id": "E15",
+      "role": "application_selected_quote",
+      "clip_pt": [
+        218.7638,
+        407.0,
+        373.5276,
+        436.875
+      ],
+      "pixels_identical": true
+    }
+  ],
+  "approved_application_geometry_and_fonts_unchanged": true
+}

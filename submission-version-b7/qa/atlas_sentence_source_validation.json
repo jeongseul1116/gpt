@@ -1,0 +1,15 @@
+{
+  "status": "passed",
+  "phrase": "북쪽에계신메리메리",
+  "font_count": 12,
+  "point_size": 32,
+  "checked_text_lines": 408,
+  "no_isolated_glyph_comparison": true,
+  "all_eight_intervals_accounted": true,
+  "comparison_panels": 24,
+  "interval_records": 192,
+  "actual_gap_plane_count": 192,
+  "actual_gap_marker_count": 192,
+  "all_repeated_pairs_distinguished": true,
+  "failures": []
+}

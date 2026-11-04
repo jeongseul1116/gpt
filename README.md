@@ -1,3 +1,16 @@
+# 최신 B7 — 아홉 글자, 여덟 간격 전부
+
+북쪽에계신메리메리의8개 간격을 빠짐없이 표시했습니다. 12종 폰트 문장 비교, 간격 조정 전후, 빈틈 도감 모두 전체 간격을 다룹니다. 반복되는 ‘메리’도06·08로 따로 표시합니다.
+
+- [B7 PDF](submission-version-b7/Meme_Font_Book_Version_B7_28p_Review.pdf)
+- [B7 편집용 IDML](submission-version-b7/Meme_Font_Book_Version_B7_28p.idml)
+- [B7 A3 인쇄 PDF](submission-version-b7/Meme_Font_Book_Version_B7_A3_Duplex_28p.pdf)
+- [B7 전체 ZIP](Meme_Font_Book_Version_B7_28p.zip) · [수정·인쇄 안내](submission-version-b7/README_KO.md)
+
+이전 판본은 아래에 보존했습니다.
+
+---
+
 # 최신 B6 — 글자는 그대로, 빈틈이 보이는 비교
 
 반복되던 비교 두 펼침면을 ‘문장 간격 조정 전후’와 ‘마주 보는 획 사이 빈틈 도해’로 바꿨습니다. 북쪽에계신메리메리 문장과 기존 B급 인상·표지 중앙 정렬을 유지합니다.

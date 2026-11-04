@@ -1,0 +1,1188 @@
+{
+  "status": "passed",
+  "word": "북쪽에계신메리메리",
+  "font_count": 12,
+  "selected_font_intervals": 96,
+  "comparison_panels": 24,
+  "total_interval_records": 192,
+  "no_omitted_intervals": true,
+  "all_repeated_pairs_distinguished": true,
+  "records": [
+    {
+      "physical_page": 4,
+      "panel": "reference_detail",
+      "font": "sans",
+      "interval_count": 8,
+      "positive_planes": 8,
+      "intervals": [
+        {
+          "pair_index": 0,
+          "pair": "북쪽",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 1,
+          "pair": "쪽에",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 2,
+          "pair": "에계",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 3,
+          "pair": "계신",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 4,
+          "pair": "신메",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 5,
+          "pair": "메리",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 6,
+          "pair": "리메",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 7,
+          "pair": "메리",
+          "state": "positive_facing_gap"
+        }
+      ]
+    },
+    {
+      "physical_page": 4,
+      "panel": "selected_detail",
+      "font": "blackhan",
+      "interval_count": 8,
+      "positive_planes": 8,
+      "intervals": [
+        {
+          "pair_index": 0,
+          "pair": "북쪽",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 1,
+          "pair": "쪽에",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 2,
+          "pair": "에계",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 3,
+          "pair": "계신",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 4,
+          "pair": "신메",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 5,
+          "pair": "메리",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 6,
+          "pair": "리메",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 7,
+          "pair": "메리",
+          "state": "positive_facing_gap"
+        }
+      ]
+    },
+    {
+      "physical_page": 5,
+      "panel": "reference_detail",
+      "font": "sans",
+      "interval_count": 8,
+      "positive_planes": 8,
+      "intervals": [
+        {
+          "pair_index": 0,
+          "pair": "북쪽",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 1,
+          "pair": "쪽에",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 2,
+          "pair": "에계",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 3,
+          "pair": "계신",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 4,
+          "pair": "신메",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 5,
+          "pair": "메리",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 6,
+          "pair": "리메",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 7,
+          "pair": "메리",
+          "state": "positive_facing_gap"
+        }
+      ]
+    },
+    {
+      "physical_page": 5,
+      "panel": "selected_detail",
+      "font": "sans",
+      "interval_count": 8,
+      "positive_planes": 8,
+      "intervals": [
+        {
+          "pair_index": 0,
+          "pair": "북쪽",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 1,
+          "pair": "쪽에",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 2,
+          "pair": "에계",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 3,
+          "pair": "계신",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 4,
+          "pair": "신메",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 5,
+          "pair": "메리",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 6,
+          "pair": "리메",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 7,
+          "pair": "메리",
+          "state": "positive_facing_gap"
+        }
+      ]
+    },
+    {
+      "physical_page": 6,
+      "panel": "reference_detail",
+      "font": "sans",
+      "interval_count": 8,
+      "positive_planes": 8,
+      "intervals": [
+        {
+          "pair_index": 0,
+          "pair": "북쪽",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 1,
+          "pair": "쪽에",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 2,
+          "pair": "에계",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 3,
+          "pair": "계신",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 4,
+          "pair": "신메",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 5,
+          "pair": "메리",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 6,
+          "pair": "리메",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 7,
+          "pair": "메리",
+          "state": "positive_facing_gap"
+        }
+      ]
+    },
+    {
+      "physical_page": 6,
+      "panel": "selected_detail",
+      "font": "serif",
+      "interval_count": 8,
+      "positive_planes": 8,
+      "intervals": [
+        {
+          "pair_index": 0,
+          "pair": "북쪽",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 1,
+          "pair": "쪽에",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 2,
+          "pair": "에계",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 3,
+          "pair": "계신",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 4,
+          "pair": "신메",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 5,
+          "pair": "메리",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 6,
+          "pair": "리메",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 7,
+          "pair": "메리",
+          "state": "positive_facing_gap"
+        }
+      ]
+    },
+    {
+      "physical_page": 7,
+      "panel": "reference_detail",
+      "font": "sans",
+      "interval_count": 8,
+      "positive_planes": 8,
+      "intervals": [
+        {
+          "pair_index": 0,
+          "pair": "북쪽",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 1,
+          "pair": "쪽에",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 2,
+          "pair": "에계",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 3,
+          "pair": "계신",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 4,
+          "pair": "신메",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 5,
+          "pair": "메리",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 6,
+          "pair": "리메",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 7,
+          "pair": "메리",
+          "state": "positive_facing_gap"
+        }
+      ]
+    },
+    {
+      "physical_page": 7,
+      "panel": "selected_detail",
+      "font": "gungseo",
+      "interval_count": 8,
+      "positive_planes": 8,
+      "intervals": [
+        {
+          "pair_index": 0,
+          "pair": "북쪽",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 1,
+          "pair": "쪽에",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 2,
+          "pair": "에계",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 3,
+          "pair": "계신",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 4,
+          "pair": "신메",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 5,
+          "pair": "메리",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 6,
+          "pair": "리메",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 7,
+          "pair": "메리",
+          "state": "positive_facing_gap"
+        }
+      ]
+    },
+    {
+      "physical_page": 8,
+      "panel": "reference_detail",
+      "font": "sans",
+      "interval_count": 8,
+      "positive_planes": 8,
+      "intervals": [
+        {
+          "pair_index": 0,
+          "pair": "북쪽",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 1,
+          "pair": "쪽에",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 2,
+          "pair": "에계",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 3,
+          "pair": "계신",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 4,
+          "pair": "신메",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 5,
+          "pair": "메리",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 6,
+          "pair": "리메",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 7,
+          "pair": "메리",
+          "state": "positive_facing_gap"
+        }
+      ]
+    },
+    {
+      "physical_page": 8,
+      "panel": "selected_detail",
+      "font": "gugi",
+      "interval_count": 8,
+      "positive_planes": 8,
+      "intervals": [
+        {
+          "pair_index": 0,
+          "pair": "북쪽",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 1,
+          "pair": "쪽에",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 2,
+          "pair": "에계",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 3,
+          "pair": "계신",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 4,
+          "pair": "신메",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 5,
+          "pair": "메리",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 6,
+          "pair": "리메",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 7,
+          "pair": "메리",
+          "state": "positive_facing_gap"
+        }
+      ]
+    },
+    {
+      "physical_page": 9,
+      "panel": "reference_detail",
+      "font": "sans",
+      "interval_count": 8,
+      "positive_planes": 8,
+      "intervals": [
+        {
+          "pair_index": 0,
+          "pair": "북쪽",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 1,
+          "pair": "쪽에",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 2,
+          "pair": "에계",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 3,
+          "pair": "계신",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 4,
+          "pair": "신메",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 5,
+          "pair": "메리",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 6,
+          "pair": "리메",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 7,
+          "pair": "메리",
+          "state": "positive_facing_gap"
+        }
+      ]
+    },
+    {
+      "physical_page": 9,
+      "panel": "selected_detail",
+      "font": "pixel",
+      "interval_count": 8,
+      "positive_planes": 8,
+      "intervals": [
+        {
+          "pair_index": 0,
+          "pair": "북쪽",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 1,
+          "pair": "쪽에",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 2,
+          "pair": "에계",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 3,
+          "pair": "계신",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 4,
+          "pair": "신메",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 5,
+          "pair": "메리",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 6,
+          "pair": "리메",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 7,
+          "pair": "메리",
+          "state": "positive_facing_gap"
+        }
+      ]
+    },
+    {
+      "physical_page": 10,
+      "panel": "reference_detail",
+      "font": "sans",
+      "interval_count": 8,
+      "positive_planes": 8,
+      "intervals": [
+        {
+          "pair_index": 0,
+          "pair": "북쪽",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 1,
+          "pair": "쪽에",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 2,
+          "pair": "에계",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 3,
+          "pair": "계신",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 4,
+          "pair": "신메",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 5,
+          "pair": "메리",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 6,
+          "pair": "리메",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 7,
+          "pair": "메리",
+          "state": "positive_facing_gap"
+        }
+      ]
+    },
+    {
+      "physical_page": 10,
+      "panel": "selected_detail",
+      "font": "jua",
+      "interval_count": 8,
+      "positive_planes": 8,
+      "intervals": [
+        {
+          "pair_index": 0,
+          "pair": "북쪽",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 1,
+          "pair": "쪽에",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 2,
+          "pair": "에계",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 3,
+          "pair": "계신",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 4,
+          "pair": "신메",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 5,
+          "pair": "메리",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 6,
+          "pair": "리메",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 7,
+          "pair": "메리",
+          "state": "positive_facing_gap"
+        }
+      ]
+    },
+    {
+      "physical_page": 11,
+      "panel": "reference_detail",
+      "font": "sans",
+      "interval_count": 8,
+      "positive_planes": 8,
+      "intervals": [
+        {
+          "pair_index": 0,
+          "pair": "북쪽",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 1,
+          "pair": "쪽에",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 2,
+          "pair": "에계",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 3,
+          "pair": "계신",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 4,
+          "pair": "신메",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 5,
+          "pair": "메리",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 6,
+          "pair": "리메",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 7,
+          "pair": "메리",
+          "state": "positive_facing_gap"
+        }
+      ]
+    },
+    {
+      "physical_page": 11,
+      "panel": "selected_detail",
+      "font": "singleday",
+      "interval_count": 8,
+      "positive_planes": 8,
+      "intervals": [
+        {
+          "pair_index": 0,
+          "pair": "북쪽",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 1,
+          "pair": "쪽에",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 2,
+          "pair": "에계",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 3,
+          "pair": "계신",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 4,
+          "pair": "신메",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 5,
+          "pair": "메리",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 6,
+          "pair": "리메",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 7,
+          "pair": "메리",
+          "state": "positive_facing_gap"
+        }
+      ]
+    },
+    {
+      "physical_page": 12,
+      "panel": "reference_detail",
+      "font": "sans",
+      "interval_count": 8,
+      "positive_planes": 8,
+      "intervals": [
+        {
+          "pair_index": 0,
+          "pair": "북쪽",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 1,
+          "pair": "쪽에",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 2,
+          "pair": "에계",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 3,
+          "pair": "계신",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 4,
+          "pair": "신메",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 5,
+          "pair": "메리",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 6,
+          "pair": "리메",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 7,
+          "pair": "메리",
+          "state": "positive_facing_gap"
+        }
+      ]
+    },
+    {
+      "physical_page": 12,
+      "panel": "selected_detail",
+      "font": "kirang",
+      "interval_count": 8,
+      "positive_planes": 8,
+      "intervals": [
+        {
+          "pair_index": 0,
+          "pair": "북쪽",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 1,
+          "pair": "쪽에",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 2,
+          "pair": "에계",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 3,
+          "pair": "계신",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 4,
+          "pair": "신메",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 5,
+          "pair": "메리",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 6,
+          "pair": "리메",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 7,
+          "pair": "메리",
+          "state": "positive_facing_gap"
+        }
+      ]
+    },
+    {
+      "physical_page": 13,
+      "panel": "reference_detail",
+      "font": "sans",
+      "interval_count": 8,
+      "positive_planes": 8,
+      "intervals": [
+        {
+          "pair_index": 0,
+          "pair": "북쪽",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 1,
+          "pair": "쪽에",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 2,
+          "pair": "에계",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 3,
+          "pair": "계신",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 4,
+          "pair": "신메",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 5,
+          "pair": "메리",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 6,
+          "pair": "리메",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 7,
+          "pair": "메리",
+          "state": "positive_facing_gap"
+        }
+      ]
+    },
+    {
+      "physical_page": 13,
+      "panel": "selected_detail",
+      "font": "bawpic",
+      "interval_count": 8,
+      "positive_planes": 8,
+      "intervals": [
+        {
+          "pair_index": 0,
+          "pair": "북쪽",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 1,
+          "pair": "쪽에",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 2,
+          "pair": "에계",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 3,
+          "pair": "계신",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 4,
+          "pair": "신메",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 5,
+          "pair": "메리",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 6,
+          "pair": "리메",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 7,
+          "pair": "메리",
+          "state": "positive_facing_gap"
+        }
+      ]
+    },
+    {
+      "physical_page": 14,
+      "panel": "reference_detail",
+      "font": "sans",
+      "interval_count": 8,
+      "positive_planes": 8,
+      "intervals": [
+        {
+          "pair_index": 0,
+          "pair": "북쪽",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 1,
+          "pair": "쪽에",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 2,
+          "pair": "에계",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 3,
+          "pair": "계신",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 4,
+          "pair": "신메",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 5,
+          "pair": "메리",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 6,
+          "pair": "리메",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 7,
+          "pair": "메리",
+          "state": "positive_facing_gap"
+        }
+      ]
+    },
+    {
+      "physical_page": 14,
+      "panel": "selected_detail",
+      "font": "brush",
+      "interval_count": 8,
+      "positive_planes": 8,
+      "intervals": [
+        {
+          "pair_index": 0,
+          "pair": "북쪽",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 1,
+          "pair": "쪽에",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 2,
+          "pair": "에계",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 3,
+          "pair": "계신",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 4,
+          "pair": "신메",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 5,
+          "pair": "메리",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 6,
+          "pair": "리메",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 7,
+          "pair": "메리",
+          "state": "positive_facing_gap"
+        }
+      ]
+    },
+    {
+      "physical_page": 15,
+      "panel": "reference_detail",
+      "font": "sans",
+      "interval_count": 8,
+      "positive_planes": 8,
+      "intervals": [
+        {
+          "pair_index": 0,
+          "pair": "북쪽",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 1,
+          "pair": "쪽에",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 2,
+          "pair": "에계",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 3,
+          "pair": "계신",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 4,
+          "pair": "신메",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 5,
+          "pair": "메리",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 6,
+          "pair": "리메",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 7,
+          "pair": "메리",
+          "state": "positive_facing_gap"
+        }
+      ]
+    },
+    {
+      "physical_page": 15,
+      "panel": "selected_detail",
+      "font": "YES24",
+      "interval_count": 8,
+      "positive_planes": 8,
+      "intervals": [
+        {
+          "pair_index": 0,
+          "pair": "북쪽",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 1,
+          "pair": "쪽에",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 2,
+          "pair": "에계",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 3,
+          "pair": "계신",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 4,
+          "pair": "신메",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 5,
+          "pair": "메리",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 6,
+          "pair": "리메",
+          "state": "positive_facing_gap"
+        },
+        {
+          "pair_index": 7,
+          "pair": "메리",
+          "state": "positive_facing_gap"
+        }
+      ]
+    }
+  ]
+}

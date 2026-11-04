@@ -1,0 +1,98 @@
+{
+  "word": "북쪽에계신메리메리",
+  "glyph_count": 9,
+  "interval_count": 8,
+  "intervals": [
+    {
+      "index": 0,
+      "display_id": "01",
+      "left": "북",
+      "right": "쪽",
+      "source_character_indices": [
+        0,
+        1
+      ]
+    },
+    {
+      "index": 1,
+      "display_id": "02",
+      "left": "쪽",
+      "right": "에",
+      "source_character_indices": [
+        1,
+        2
+      ]
+    },
+    {
+      "index": 2,
+      "display_id": "03",
+      "left": "에",
+      "right": "계",
+      "source_character_indices": [
+        2,
+        3
+      ]
+    },
+    {
+      "index": 3,
+      "display_id": "04",
+      "left": "계",
+      "right": "신",
+      "source_character_indices": [
+        3,
+        4
+      ]
+    },
+    {
+      "index": 4,
+      "display_id": "05",
+      "left": "신",
+      "right": "메",
+      "source_character_indices": [
+        4,
+        5
+      ]
+    },
+    {
+      "index": 5,
+      "display_id": "06",
+      "left": "메",
+      "right": "리",
+      "source_character_indices": [
+        5,
+        6
+      ]
+    },
+    {
+      "index": 6,
+      "display_id": "07",
+      "left": "리",
+      "right": "메",
+      "source_character_indices": [
+        6,
+        7
+      ]
+    },
+    {
+      "index": 7,
+      "display_id": "08",
+      "left": "메",
+      "right": "리",
+      "source_character_indices": [
+        7,
+        8
+      ]
+    }
+  ],
+  "atlas_fonts": 12,
+  "atlas_panels": 24,
+  "required_atlas_interval_records": 192,
+  "spacing_fonts": 4,
+  "spacing_rows": 8,
+  "required_spacing_planes": 64,
+  "pair_diagram_fonts": 2,
+  "required_pair_diagrams": 16,
+  "same_text_pairs_are_distinct_occurrences": true,
+  "preserve_font_glyph_geometry": true,
+  "all_interval_values_are_editorial_examples_not_font_internal_kerning": true
+}

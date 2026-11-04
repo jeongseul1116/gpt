@@ -1,0 +1,852 @@
+{
+  "status": "passed",
+  "word": "북쪽에계신메리메리",
+  "interval_indices": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "interval_pairs": [
+    "북쪽",
+    "쪽에",
+    "에계",
+    "계신",
+    "신메",
+    "메리",
+    "리메",
+    "메리"
+  ],
+  "atlas_panels": 24,
+  "atlas_native_orange_profiles": 192,
+  "spacing_native_orange_profiles": 64,
+  "contextual_pairs": 16,
+  "contextual_in_situ_orange_planes": 16,
+  "extracted_profiles": 16,
+  "every_requested_index_in_actual_native_render": true,
+  "reader_sha256": "1d02c3635bf7bf289cdbe3251d6d488e2224979203b86a19201e6fa338590507",
+  "source_idml_sha256": "dcd13622c08d39845a1d2a29900abc60c6dd8f513f4bd8ad52d001ca85279cb3",
+  "records": [
+    {
+      "type": "atlas_panel",
+      "page": 4,
+      "reference": true,
+      "label_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "actual_orange_plane_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "type": "atlas_panel",
+      "page": 4,
+      "reference": false,
+      "label_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "actual_orange_plane_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "type": "atlas_panel",
+      "page": 5,
+      "reference": true,
+      "label_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "actual_orange_plane_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "type": "atlas_panel",
+      "page": 5,
+      "reference": false,
+      "label_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "actual_orange_plane_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "type": "atlas_panel",
+      "page": 6,
+      "reference": true,
+      "label_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "actual_orange_plane_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "type": "atlas_panel",
+      "page": 6,
+      "reference": false,
+      "label_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "actual_orange_plane_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "type": "atlas_panel",
+      "page": 7,
+      "reference": true,
+      "label_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "actual_orange_plane_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "type": "atlas_panel",
+      "page": 7,
+      "reference": false,
+      "label_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "actual_orange_plane_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "type": "atlas_panel",
+      "page": 8,
+      "reference": true,
+      "label_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "actual_orange_plane_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "type": "atlas_panel",
+      "page": 8,
+      "reference": false,
+      "label_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "actual_orange_plane_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "type": "atlas_panel",
+      "page": 9,
+      "reference": true,
+      "label_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "actual_orange_plane_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "type": "atlas_panel",
+      "page": 9,
+      "reference": false,
+      "label_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "actual_orange_plane_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "type": "atlas_panel",
+      "page": 10,
+      "reference": true,
+      "label_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "actual_orange_plane_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "type": "atlas_panel",
+      "page": 10,
+      "reference": false,
+      "label_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "actual_orange_plane_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "type": "atlas_panel",
+      "page": 11,
+      "reference": true,
+      "label_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "actual_orange_plane_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "type": "atlas_panel",
+      "page": 11,
+      "reference": false,
+      "label_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "actual_orange_plane_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "type": "atlas_panel",
+      "page": 12,
+      "reference": true,
+      "label_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "actual_orange_plane_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "type": "atlas_panel",
+      "page": 12,
+      "reference": false,
+      "label_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "actual_orange_plane_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "type": "atlas_panel",
+      "page": 13,
+      "reference": true,
+      "label_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "actual_orange_plane_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "type": "atlas_panel",
+      "page": 13,
+      "reference": false,
+      "label_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "actual_orange_plane_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "type": "atlas_panel",
+      "page": 14,
+      "reference": true,
+      "label_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "actual_orange_plane_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "type": "atlas_panel",
+      "page": 14,
+      "reference": false,
+      "label_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "actual_orange_plane_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "type": "atlas_panel",
+      "page": 15,
+      "reference": true,
+      "label_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "actual_orange_plane_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "type": "atlas_panel",
+      "page": 15,
+      "reference": false,
+      "label_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "actual_orange_plane_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "type": "spacing_row",
+      "page": 16,
+      "font": "sans",
+      "phase": "before",
+      "actual_orange_plane_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "type": "spacing_row",
+      "page": 16,
+      "font": "sans",
+      "phase": "after",
+      "actual_orange_plane_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "type": "spacing_row",
+      "page": 16,
+      "font": "gungseo",
+      "phase": "before",
+      "actual_orange_plane_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "type": "spacing_row",
+      "page": 16,
+      "font": "gungseo",
+      "phase": "after",
+      "actual_orange_plane_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "type": "spacing_row",
+      "page": 17,
+      "font": "blackhan",
+      "phase": "before",
+      "actual_orange_plane_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "type": "spacing_row",
+      "page": 17,
+      "font": "blackhan",
+      "phase": "after",
+      "actual_orange_plane_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "type": "spacing_row",
+      "page": 17,
+      "font": "singleday",
+      "phase": "before",
+      "actual_orange_plane_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "type": "spacing_row",
+      "page": 17,
+      "font": "singleday",
+      "phase": "after",
+      "actual_orange_plane_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "type": "all_eight_pair_grid",
+      "page": 18,
+      "pair_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "in_situ_orange_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "profile_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "locator_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "type": "all_eight_pair_grid",
+      "page": 19,
+      "pair_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "in_situ_orange_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "profile_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "locator_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    }
+  ],
+  "failures": []
+}

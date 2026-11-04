@@ -1,0 +1,739 @@
+{
+  "status": "passed",
+  "idml_sha256": "dcd13622c08d39845a1d2a29900abc60c6dd8f513f4bd8ad52d001ca85279cb3",
+  "scene_sha256": "47d7eeba79facc292e47fc34afd47330481a44cbec9de49e7ce5e229726b01be",
+  "reader_sha256": "1d02c3635bf7bf289cdbe3251d6d488e2224979203b86a19201e6fa338590507",
+  "source_bleed_sha256": "68a1be0bf2a761c5444143f216fad6c63feaa3852cdc4441b836f2ece53b3c4a",
+  "scope": "All12 atlas pages with complete eight-interval annotations, both before/after pages with eight gap planes per sentence, and both all-eight contextual pair grids were visually reviewed. All28 pages were reviewed in the contact sheet. The11 unmodified scenes are additionally pixel-exact with B6; all six approved application pages including B-grade impressions remain unchanged.",
+  "reviewed_physical_pages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28
+  ],
+  "cover": {
+    "white_outer_background": true,
+    "street_ad_black_yellow_red_blue_system": true,
+    "title_both_lines_same60pt": true,
+    "no_photo_on_front": true,
+    "tearoff_font_labels_genuine_center_alignment": true,
+    "tearoff_ink_center_objects": 4,
+    "no_folio": true
+  },
+  "backcover": {
+    "photo_only_on_physical28": true,
+    "original_red_oval_complete": true,
+    "original_RGBA_pixels_preserved": true,
+    "effective_ppi": [
+      484.06153846176915,
+      484.0615384617692
+    ],
+    "no_folio": true
+  },
+  "numbering": {
+    "contents_unnumbered": true,
+    "intro_physical3_printed01": true,
+    "physical3_to27_printed01_to25": true,
+    "PDF_labels_correct": true,
+    "PDF_PageLayout": "TwoPageRight"
+  },
+  "atlas": {
+    "comparison_phrase": "북쪽에계신메리메리",
+    "whole_sentence_size_pt": 32,
+    "reference_and_selected_sentence_panels_actual_ink_centered": true,
+    "same_point_size_without_fit": true,
+    "pink_counter_planes_from_actual_sentence_glyph_contours": true,
+    "all_eight_interval_records_in_every_reference_and_selected_panel": true,
+    "all_shape_observations_and_B_grade_personal_impressions_readable": true,
+    "isolated_single_syllable_comparisons": false
+  },
+  "comparisons": {
+    "complete_phrase": "북쪽에계신메리메리",
+    "before_after_spacing_full_sentence": true,
+    "all_eight_intervals_before_and_after_each_font": true,
+    "all_eight_contextual_pair_indices_per_grid": true,
+    "editorial_spacing_changes_explicitly_distinguished_from_font_internal_kerning": true,
+    "glyph_shapes_unchanged_by_spacing_adjustments": true,
+    "contextual_pair_callouts_linked_to_intact_phrase": true,
+    "facing_contour_gap_shapes_visible": true,
+    "all_impressions_B_grade": true,
+    "actual_ink_and_glyph_gap_evidence_visible": true,
+    "reference_and_selected_diagram_legends_readable": true
+  },
+  "all_eight_interval_render_proof": {
+    "status": "passed",
+    "word": "북쪽에계신메리메리",
+    "interval_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "interval_pairs": [
+      "북쪽",
+      "쪽에",
+      "에계",
+      "계신",
+      "신메",
+      "메리",
+      "리메",
+      "메리"
+    ],
+    "atlas_panels": 24,
+    "atlas_native_orange_profiles": 192,
+    "spacing_native_orange_profiles": 64,
+    "contextual_pairs": 16,
+    "contextual_in_situ_orange_planes": 16,
+    "extracted_profiles": 16,
+    "every_requested_index_in_actual_native_render": true,
+    "reader_sha256": "1d02c3635bf7bf289cdbe3251d6d488e2224979203b86a19201e6fa338590507",
+    "source_idml_sha256": "dcd13622c08d39845a1d2a29900abc60c6dd8f513f4bd8ad52d001ca85279cb3"
+  },
+  "actual_centering": {
+    "objects": 114,
+    "maximum_error_pt": 0.0005000000001018634,
+    "tolerance_pt": 0.01
+  },
+  "applications": {
+    "all15_approved_cases_preserved": true,
+    "two_case_side_by_side_and_three_case_stacked_templates_clear": true,
+    "same_quote_point_size_color_per_pair": true,
+    "no_quote_prompt_label_or_effect_overlap": true,
+    "no_face_AA_or_emoji_panels": true
+  },
+  "strict_live_text_QA": {
+    "frames": 856,
+    "live_runs": 884,
+    "actual_Bezier_ink_clip_flags": 0,
+    "line_fit_flags": 0,
+    "unintended_wraps": 0,
+    "unknown_fonts": [],
+    "missing_glyphs": []
+  },
+  "unchanged_scene_pixel_identity": [
+    {
+      "physical_page": 1,
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 3,
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 20,
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 21,
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 22,
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 23,
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 24,
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 25,
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 26,
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 27,
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 28,
+      "pixels_identical": true
+    }
+  ],
+  "protected_application_pixel_identity": [
+    {
+      "physical_page": 22,
+      "case_id": "E01",
+      "role": "approved_application_prompt",
+      "clip_pt": [
+        46.0,
+        133.0,
+        373.5276,
+        150.0
+      ],
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 22,
+      "case_id": "E01",
+      "role": "application_neutral_quote",
+      "clip_pt": [
+        46.0,
+        185.0,
+        200.7638,
+        245.4
+      ],
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 22,
+      "case_id": "E01",
+      "role": "application_selected_quote",
+      "clip_pt": [
+        218.7638,
+        185.0,
+        373.5276,
+        245.4
+      ],
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 22,
+      "case_id": "E12",
+      "role": "approved_application_prompt",
+      "clip_pt": [
+        46.0,
+        355.0,
+        373.5276,
+        372.0
+      ],
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 22,
+      "case_id": "E12",
+      "role": "application_neutral_quote",
+      "clip_pt": [
+        46.0,
+        407.0,
+        200.7638,
+        446.775
+      ],
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 22,
+      "case_id": "E12",
+      "role": "application_selected_quote",
+      "clip_pt": [
+        218.7638,
+        407.0,
+        373.5276,
+        446.775
+      ],
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 23,
+      "case_id": "E11",
+      "role": "approved_application_prompt",
+      "clip_pt": [
+        46.0,
+        120.0,
+        373.5276,
+        135.0
+      ],
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 23,
+      "case_id": "E11",
+      "role": "application_neutral_quote",
+      "clip_pt": [
+        46.0,
+        147.0,
+        373.5276,
+        185.4
+      ],
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 23,
+      "case_id": "E11",
+      "role": "application_selected_quote",
+      "clip_pt": [
+        46.0,
+        197.0,
+        373.5276,
+        235.4
+      ],
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 23,
+      "case_id": "E05",
+      "role": "approved_application_prompt",
+      "clip_pt": [
+        46.0,
+        272.0,
+        373.5276,
+        287.0
+      ],
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 23,
+      "case_id": "E05",
+      "role": "application_neutral_quote",
+      "clip_pt": [
+        46.0,
+        299.0,
+        373.5276,
+        337.4
+      ],
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 23,
+      "case_id": "E05",
+      "role": "application_selected_quote",
+      "clip_pt": [
+        46.0,
+        349.0,
+        373.5276,
+        387.4
+      ],
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 23,
+      "case_id": "E08",
+      "role": "approved_application_prompt",
+      "clip_pt": [
+        46.0,
+        424.0,
+        373.5276,
+        439.0
+      ],
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 23,
+      "case_id": "E08",
+      "role": "application_neutral_quote",
+      "clip_pt": [
+        46.0,
+        451.0,
+        373.5276,
+        489.4
+      ],
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 23,
+      "case_id": "E08",
+      "role": "application_selected_quote",
+      "clip_pt": [
+        46.0,
+        501.0,
+        373.5276,
+        539.4
+      ],
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 24,
+      "case_id": "E02",
+      "role": "approved_application_prompt",
+      "clip_pt": [
+        46.0,
+        120.0,
+        373.5276,
+        135.0
+      ],
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 24,
+      "case_id": "E02",
+      "role": "application_neutral_quote",
+      "clip_pt": [
+        46.0,
+        147.0,
+        373.5276,
+        185.4
+      ],
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 24,
+      "case_id": "E02",
+      "role": "application_selected_quote",
+      "clip_pt": [
+        46.0,
+        197.0,
+        373.5276,
+        235.4
+      ],
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 24,
+      "case_id": "E10",
+      "role": "approved_application_prompt",
+      "clip_pt": [
+        46.0,
+        272.0,
+        373.5276,
+        287.0
+      ],
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 24,
+      "case_id": "E10",
+      "role": "application_neutral_quote",
+      "clip_pt": [
+        46.0,
+        299.0,
+        373.5276,
+        337.4
+      ],
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 24,
+      "case_id": "E10",
+      "role": "application_selected_quote",
+      "clip_pt": [
+        46.0,
+        349.0,
+        373.5276,
+        387.4
+      ],
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 24,
+      "case_id": "E06",
+      "role": "approved_application_prompt",
+      "clip_pt": [
+        46.0,
+        424.0,
+        373.5276,
+        439.0
+      ],
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 24,
+      "case_id": "E06",
+      "role": "application_neutral_quote",
+      "clip_pt": [
+        46.0,
+        451.0,
+        373.5276,
+        489.4
+      ],
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 24,
+      "case_id": "E06",
+      "role": "application_selected_quote",
+      "clip_pt": [
+        46.0,
+        501.0,
+        373.5276,
+        539.4
+      ],
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 25,
+      "case_id": "E03",
+      "role": "approved_application_prompt",
+      "clip_pt": [
+        46.0,
+        120.0,
+        373.5276,
+        135.0
+      ],
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 25,
+      "case_id": "E03",
+      "role": "application_neutral_quote",
+      "clip_pt": [
+        46.0,
+        147.0,
+        373.5276,
+        185.4
+      ],
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 25,
+      "case_id": "E03",
+      "role": "application_selected_quote",
+      "clip_pt": [
+        46.0,
+        197.0,
+        373.5276,
+        235.4
+      ],
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 25,
+      "case_id": "E04",
+      "role": "approved_application_prompt",
+      "clip_pt": [
+        46.0,
+        272.0,
+        373.5276,
+        287.0
+      ],
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 25,
+      "case_id": "E04",
+      "role": "application_neutral_quote",
+      "clip_pt": [
+        46.0,
+        299.0,
+        373.5276,
+        327.8
+      ],
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 25,
+      "case_id": "E04",
+      "role": "application_selected_quote",
+      "clip_pt": [
+        46.0,
+        349.0,
+        373.5276,
+        377.8
+      ],
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 25,
+      "case_id": "E07",
+      "role": "approved_application_prompt",
+      "clip_pt": [
+        46.0,
+        424.0,
+        373.5276,
+        439.0
+      ],
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 25,
+      "case_id": "E07",
+      "role": "application_neutral_quote",
+      "clip_pt": [
+        46.0,
+        451.0,
+        373.5276,
+        489.4
+      ],
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 25,
+      "case_id": "E07",
+      "role": "application_selected_quote",
+      "clip_pt": [
+        46.0,
+        501.0,
+        373.5276,
+        539.4
+      ],
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 26,
+      "case_id": "E09",
+      "role": "approved_application_prompt",
+      "clip_pt": [
+        46.0,
+        133.0,
+        373.5276,
+        150.0
+      ],
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 26,
+      "case_id": "E09",
+      "role": "application_neutral_quote",
+      "clip_pt": [
+        46.0,
+        185.0,
+        200.7638,
+        217.35
+      ],
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 26,
+      "case_id": "E09",
+      "role": "application_selected_quote",
+      "clip_pt": [
+        218.7638,
+        185.0,
+        373.5276,
+        217.35
+      ],
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 26,
+      "case_id": "E13",
+      "role": "approved_application_prompt",
+      "clip_pt": [
+        46.0,
+        355.0,
+        373.5276,
+        372.0
+      ],
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 26,
+      "case_id": "E13",
+      "role": "application_neutral_quote",
+      "clip_pt": [
+        46.0,
+        407.0,
+        200.7638,
+        467.4
+      ],
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 26,
+      "case_id": "E13",
+      "role": "application_selected_quote",
+      "clip_pt": [
+        218.7638,
+        407.0,
+        373.5276,
+        467.4
+      ],
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 27,
+      "case_id": "E14",
+      "role": "approved_application_prompt",
+      "clip_pt": [
+        46.0,
+        133.0,
+        373.5276,
+        150.0
+      ],
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 27,
+      "case_id": "E14",
+      "role": "application_neutral_quote",
+      "clip_pt": [
+        46.0,
+        185.0,
+        200.7638,
+        245.4
+      ],
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 27,
+      "case_id": "E14",
+      "role": "application_selected_quote",
+      "clip_pt": [
+        218.7638,
+        185.0,
+        373.5276,
+        245.4
+      ],
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 27,
+      "case_id": "E15",
+      "role": "approved_application_prompt",
+      "clip_pt": [
+        46.0,
+        355.0,
+        373.5276,
+        372.0
+      ],
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 27,
+      "case_id": "E15",
+      "role": "application_neutral_quote",
+      "clip_pt": [
+        46.0,
+        407.0,
+        200.7638,
+        436.875
+      ],
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 27,
+      "case_id": "E15",
+      "role": "application_selected_quote",
+      "clip_pt": [
+        218.7638,
+        407.0,
+        373.5276,
+        436.875
+      ],
+      "pixels_identical": true
+    }
+  ],
+  "review_notes": [
+    "Both before/after pages color all8 intervals in every phrase, and all8 delta headers/values fit. Repeated 메리 positions06/08 are listed distinctly.",
+    "Both contextual pair grids display all8 complete pair cards and same-scale extracted orange silhouettes with labels01–08, including repeated06/08.",
+    "All12 selected atlas panels and all12 reference panels contain01–08 markers and8actual orange planes; the independent actual-native-drawing proof confirms192atlas+64spacing+16in-situ+16extracted profiles.",
+    "All comparison phrases remain intact and centered. No observed overlapping, clipping, missing characters, or distorted glyph shapes.",
+    "B-grade editorial impressions and approved15case quotations remain readable; covers/intro/application layouts preserve established design."
+  ],
+  "native_Adobe_execution": false,
+  "physical_printer_test": false,
+  "PDF_native_Adobe_export": false
+}
