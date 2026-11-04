@@ -1,0 +1,291 @@
+{
+  "status": "passed",
+  "source_html_sha256": "afbf22dc6a0ef0dad376003af416f8ab7329fb53dd55301c098b525a43cdc0ef",
+  "physical_pages": 28,
+  "images": [
+    {
+      "physical": 1,
+      "printed": null,
+      "title": "앞표지 — 밈 폰트 도감 · 말투수집실",
+      "file": "pages/p01.webp",
+      "sha256": "375f025394e57ef318209656fd7a0962dab72e1d67f2ba09ec27ff4b25459d4f",
+      "bytes": 65064
+    },
+    {
+      "physical": 2,
+      "printed": 1,
+      "title": "1쪽 — 이번엔, 직접 보자 · 목차",
+      "file": "pages/p02.webp",
+      "sha256": "3ebacad06515f4fc9ae94185de549466f8ac275a8c658ae2f930937a9eb04a24",
+      "bytes": 51328
+    },
+    {
+      "physical": 3,
+      "printed": 2,
+      "title": "2쪽 — 한 문장, 다섯 종류의 공간",
+      "file": "pages/p03.webp",
+      "sha256": "11541caef020627c38cbbf45aebee01804600c7f4cfbbb1182098b1e5d25ba62",
+      "bytes": 57654
+    },
+    {
+      "physical": 4,
+      "printed": 3,
+      "title": "3쪽 — 23글자, 안쪽 방 배치",
+      "file": "pages/p04.webp",
+      "sha256": "59f28fb144c0c41c69998d1b88a328c83609f3c450c0ff13d55ed34c6d4ed4a5",
+      "bytes": 60972
+    },
+    {
+      "physical": 5,
+      "printed": 4,
+      "title": "4쪽 — 12폰트 · 글자 틀과 속공간",
+      "file": "pages/p05.webp",
+      "sha256": "b0614be84e6868092efe3f32006606c3d545043e099984bcc588a76f0ad19ce3",
+      "bytes": 105884
+    },
+    {
+      "physical": 6,
+      "printed": 5,
+      "title": "5쪽 — 글자 사이를 조절하면",
+      "file": "pages/p06.webp",
+      "sha256": "49684d3c805e39edea05f61721fd9a1d8a6d6825a46e144a043ff4351f1b4b7e",
+      "bytes": 89328
+    },
+    {
+      "physical": 7,
+      "printed": 6,
+      "title": "6쪽 — 여섯 번의 단어 사이",
+      "file": "pages/p07.webp",
+      "sha256": "dcae583d28cfffe53ab49ed531315fd617fa477ea5f3ef786f0364f0642a0061",
+      "bytes": 88204
+    },
+    {
+      "physical": 8,
+      "printed": 7,
+      "title": "7쪽 — 줄 사이와, 줄 끝의 차이",
+      "file": "pages/p08.webp",
+      "sha256": "cfc4bb7f4ab964173a52f7eebb9d5032292f674d36c7703638e9a1379d3f7e1e",
+      "bytes": 93146
+    },
+    {
+      "physical": 9,
+      "printed": 8,
+      "title": "8쪽 — 줄 세우고, 문단 나누고",
+      "file": "pages/p09.webp",
+      "sha256": "4050646a4d7520240f75033988433f2dde1898fad61c2bac055ae89457c7b23f",
+      "bytes": 98436
+    },
+    {
+      "physical": 10,
+      "printed": 9,
+      "title": "9쪽 — 방향과 크기가 말투를 바꿈",
+      "file": "pages/p10.webp",
+      "sha256": "325de1c3a7a3ae01e3fc3ca27b0f7852a267f145d552f70b21105bbb967789e1",
+      "bytes": 76004
+    },
+    {
+      "physical": 11,
+      "printed": 10,
+      "title": "10쪽 — 폰트 12종, 전원 출석.",
+      "file": "pages/p11.webp",
+      "sha256": "767d2dc5d52cbe4f7f337bf28928ce8588f616b88e23df674f7462e346117f52",
+      "bytes": 95444
+    },
+    {
+      "physical": 12,
+      "printed": 11,
+      "title": "11쪽 — 고백은 청첩장, 답장은 업무.",
+      "file": "pages/p12.webp",
+      "sha256": "0fcf58f9b0325753740caff55172b7dc7d8d378365a250763eb8cb8e9b47598c",
+      "bytes": 101626
+    },
+    {
+      "physical": 13,
+      "printed": 12,
+      "title": "12쪽 — 왕명 고백, 답장은 말랑.",
+      "file": "pages/p13.webp",
+      "sha256": "f4aa343d9f0be705e98f2589316f56456c16e4de816bfd4fdd6add76c890bb8f",
+      "bytes": 94654
+    },
+    {
+      "physical": 14,
+      "printed": 13,
+      "title": "13쪽 — 고백을 썼는데 쪽지가 됨",
+      "file": "pages/p14.webp",
+      "sha256": "c82db40e7fe3b466e6e07061684d2cfda5f6243fa8b11808b86e07cce30f45ac",
+      "bytes": 77110
+    },
+    {
+      "physical": 15,
+      "printed": 14,
+      "title": "14쪽 — 고백을 했는데 퀘스트가 뜸",
+      "file": "pages/p15.webp",
+      "sha256": "06a9f6f6722b737a2b59df9b88d1d2f0a4b03d9c0d3bac052a705542cb9597be",
+      "bytes": 82322
+    },
+    {
+      "physical": 16,
+      "printed": 15,
+      "title": "15쪽 — 분석 끝, 이제 밈 전문.",
+      "file": "pages/p16.webp",
+      "sha256": "3fbe3113cb2a3b0148b3086e8d43c48c9958a5d7edc8fbb1c704646896732c76",
+      "bytes": 43528
+    },
+    {
+      "physical": 17,
+      "printed": 16,
+      "title": "16쪽 — 02. 사랑이 너무 많아",
+      "file": "pages/p17.webp",
+      "sha256": "c4c86f8b0dfb1abd02b73b355047102794498cab904cb1eec8102c0f98211d3c",
+      "bytes": 67204
+    },
+    {
+      "physical": 18,
+      "printed": 17,
+      "title": "17쪽 — 03. 칭찬도 정도껏",
+      "file": "pages/p18.webp",
+      "sha256": "67234cccaf3474c941e547e09b56594d7f29b81cfe151d0fac79295fd51c9d07",
+      "bytes": 70232
+    },
+    {
+      "physical": 19,
+      "printed": 18,
+      "title": "18쪽 — 축하는 하는데, 내가 감히.",
+      "file": "pages/p19.webp",
+      "sha256": "ce7f80f19826a51a2fd0fe16185159e82d4bd44380965ce6eb243311f2018c93",
+      "bytes": 64644
+    },
+    {
+      "physical": 20,
+      "printed": 19,
+      "title": "19쪽 — 06. 로맨틱한언어들",
+      "file": "pages/p20.webp",
+      "sha256": "70f72b69a400cd6afeb992a8f435d12d95e84f13ba391584524b785baf7092d1",
+      "bytes": 78596
+    },
+    {
+      "physical": 21,
+      "printed": 20,
+      "title": "20쪽 — 07. 선배 고단수다~",
+      "file": "pages/p21.webp",
+      "sha256": "8255cbf69bd7329ddd73b05ded65baf1096ef622ee64bca2452a944688d6d106",
+      "bytes": 51734
+    },
+    {
+      "physical": 22,
+      "printed": 21,
+      "title": "21쪽 — 08. 입이 쉬지를 않음",
+      "file": "pages/p22.webp",
+      "sha256": "fd3d85725acd4a44130087939e3c9f3f71402917ee631092b2e1f32eabd7c975",
+      "bytes": 96580
+    },
+    {
+      "physical": 23,
+      "printed": 22,
+      "title": "22쪽 — 09. 인정? 어 인정",
+      "file": "pages/p23.webp",
+      "sha256": "0dcb07abbae2dde007c4b42cbc2d0750ae6cdce1c73eba47fb376305c5ed0777",
+      "bytes": 159390
+    },
+    {
+      "physical": 24,
+      "printed": 23,
+      "title": "23쪽 — 인정 한 번 받기가 이렇게 김.",
+      "file": "pages/p24.webp",
+      "sha256": "bf9a5dc88eb030d538e6cccd8636f35fd06d95184e4901a5f3c9ff13c53f5a2e",
+      "bytes": 151076
+    },
+    {
+      "physical": 25,
+      "printed": 24,
+      "title": "24쪽 — 10. 가끔은 눈물을 흘린다",
+      "file": "pages/p25.webp",
+      "sha256": "2ba24264bdcd913db68ed097de30b40172cc3480d9b6717a11365133c4191839",
+      "bytes": 50568
+    },
+    {
+      "physical": 26,
+      "printed": 25,
+      "title": "25쪽 — 11. 내일 출근 실화냐",
+      "file": "pages/p26.webp",
+      "sha256": "2061797ff1b5fa758bc796d37c986aa77278d88f843974551585633269f64ed8",
+      "bytes": 49400
+    },
+    {
+      "physical": 27,
+      "printed": 26,
+      "title": "26쪽 — 짧다고 감정이 적은 건 아님.",
+      "file": "pages/p27.webp",
+      "sha256": "e841506a8b260f61fc4a10a2c9224d5286e86007d5c3cf077f400041ff2dd13a",
+      "bytes": 44484
+    },
+    {
+      "physical": 28,
+      "printed": null,
+      "title": "뒷표지 — 문장 하나로 이렇게까지.",
+      "file": "pages/p28.webp",
+      "sha256": "c6025202870f69488810c858e9d259498ed8a78da357e508c12869d5175b0681",
+      "bytes": 64582
+    }
+  ],
+  "facing_pairs": [
+    [
+      2,
+      3
+    ],
+    [
+      4,
+      5
+    ],
+    [
+      6,
+      7
+    ],
+    [
+      8,
+      9
+    ],
+    [
+      10,
+      11
+    ],
+    [
+      12,
+      13
+    ],
+    [
+      14,
+      15
+    ],
+    [
+      16,
+      17
+    ],
+    [
+      18,
+      19
+    ],
+    [
+      20,
+      21
+    ],
+    [
+      22,
+      23
+    ],
+    [
+      24,
+      25
+    ],
+    [
+      26,
+      27
+    ]
+  ],
+  "standalone_covers": [
+    1,
+    28
+  ],
+  "total_image_bytes": 2229194,
+  "all_image_bytes_exact_from_validated_easy_html": true
+}

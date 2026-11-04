@@ -1,0 +1,37 @@
+{
+  "status": "passed",
+  "html_sha256": "afbf22dc6a0ef0dad376003af416f8ab7329fb53dd55301c098b525a43cdc0ef",
+  "bytes": 2987302,
+  "checks": [
+    {
+      "check": "All 28 page images visible without JavaScript",
+      "passed": true
+    },
+    {
+      "check": "All embedded images decode",
+      "passed": true
+    },
+    {
+      "check": "No scripts in delivered HTML",
+      "passed": true
+    },
+    {
+      "check": "All images embedded",
+      "passed": true
+    },
+    {
+      "check": "Actual 14|15 facing pair",
+      "passed": true
+    },
+    {
+      "check": "Native CSS single view works",
+      "passed": true
+    },
+    {
+      "check": "Mobile document has no horizontal overflow",
+      "passed": true
+    }
+  ],
+  "javascript_disabled": true,
+  "pages": 28
+}

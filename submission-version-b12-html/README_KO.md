@@ -1,3 +1,5 @@
+[다운로드 없이 웹에서 보기](../book-preview/README.md) · [호환용 HTML 압축파일 받기](Maltu_Book_HTML.zip?raw=true)
+
 # 말투수집실 HTML — 28쪽 웹 열람판
 
 [HTML 파일 받기](https://github.com/jeongseul1116/gpt/raw/refs/heads/main/submission-version-b12-html/Maltu_Book_28p.html)

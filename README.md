@@ -1,3 +1,9 @@
+# 다운로드 없이 책 보기
+
+[말투수집실 전체 28쪽 웹 미리보기](book-preview/README.md) — 좌우 펼침면 비교, 페이지별 확대.
+
+---
+
 # HTML 웹 열람판 — 전체 28쪽
 
 [HTML 다운로드](https://github.com/jeongseul1116/gpt/raw/refs/heads/main/submission-version-b12-html/Maltu_Book_28p.html) · [화면과 변경 내용](submission-version-b12-html/README_KO.md). 12폰트 공간 비교와 고백 본문 전체의 손글씨/도트체 비교를 반영했습니다.
