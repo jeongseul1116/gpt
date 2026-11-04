@@ -1,0 +1,12 @@
+{
+  "status": "preserved",
+  "tag": "archive-saddle-approved-20261104",
+  "commit": "88df4be9b5eb5e326fa03994df74032826366842",
+  "files": {
+    "flipbook/index.html": "d8b343346418ec108ef0e18b6698418de898b507ebb2c3d8253e5e880f78011c",
+    "submission-saddle-final/Maltu_Book_Saddle_28p.idml": "16c7f4e77927ba109b50798fd58f8a8309842f218e1da9f86c116addca41ad7b",
+    "submission-saddle-final/Maltu_Book_Reading_28p.pdf": "556fa22894957bd60944b9341c767c23a5c675aa6e9c74bdda85d1de98ba355b",
+    "submission-saddle-final/Maltu_Book_Saddle_A4_Duplex.pdf": "97f306397aa075ed7a93770db5d3a27b70af4783d1c3e0678c2e4105e0bdc0ab",
+    "submission-saddle-final/Maltu_Book_Saddle_Package.zip": "ed85f70e75cbb214140a23b120702cc42a7d6f1383e9875b502fb50f2a02f61a"
+  }
+}

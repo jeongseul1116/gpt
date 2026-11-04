@@ -1,3 +1,9 @@
+# 환기와 리듬을 더한 새 버전 · 기존판 보존
+
+[새 버전 넘겨보기](https://htmlpreview.github.io/?https://raw.githubusercontent.com/jeongseul1116/gpt/main/flipbook-rhythm/index.html#p=13&view=single) · [IDML·PDF 묶음](submission-rhythm/Maltu_Book_Rhythm_IDML_PDF.zip?raw=true) · [기존 보존본](https://htmlpreview.github.io/?https://raw.githubusercontent.com/jeongseul1116/gpt/archive-saddle-approved-20261104/flipbook/index.html)
+
+---
+
 # 책처럼 넘겨보는 미리보기
 
 [28쪽 미리보기 열기](https://htmlpreview.github.io/?https://raw.githubusercontent.com/jeongseul1116/gpt/main/flipbook/index.html) · [동작과 사용 안내](flipbook/README_KO.md)

@@ -1,0 +1,46 @@
+{
+  "status": "passed",
+  "physical_pages": 28,
+  "breathing_printed_pages": [
+    12,
+    17
+  ],
+  "changed_printed_pages": [
+    12,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26
+  ],
+  "meme_sources_preserved": 10,
+  "unchanged_source_pages": 17,
+  "mixed_facing_physical": [
+    [
+      14,
+      15
+    ],
+    [
+      16,
+      17
+    ]
+  ],
+  "A4_sheets": 7,
+  "print_faces": 14,
+  "no_bleed_or_crop_marks": true,
+  "center_fold_guide_only": true,
+  "idml_sha256": "87dc3f2b20933ef5a3ea8ece3f80845081cf959abfda57dd550170edeb0c6835",
+  "reader_sha256": "6920abd929d1f306577cdfa5082a0321a9403f0640b0b245adde57bf2791e804",
+  "print_sha256": "a2f8d136b427a985ac5323f4650be420e1277468347160ba3389df0a58ca83b3",
+  "html_sha256": "82e278e4a3ea0668d29ca73f605f78be21ea2b03f98165ce8a1948b5e73f025e",
+  "previous_version_archive_tag": "archive-saddle-approved-20261104",
+  "previous_version_commit": "88df4be9b5eb5e326fa03994df74032826366842",
+  "previous_files_all_byte_identical": true,
+  "native_Adobe_execution": false,
+  "physical_printer_test": false
+}

@@ -1,5 +1,5 @@
 {
-  "active_new_work": "SaddleFinal28",
+  "active_new_work": "Rhythm28",
   "A": {
     "status": "preserved",
     "folder": "submission-alignment",
@@ -276,6 +276,27 @@
     "center_fold_guide_only": true,
     "flipbook": "flipbook/index.html",
     "flipbook_preview": "https://htmlpreview.github.io/?https://raw.githubusercontent.com/jeongseul1116/gpt/main/flipbook/index.html",
-    "flipbook_sha256": "d8b343346418ec108ef0e18b6698418de898b507ebb2c3d8253e5e880f78011c"
+    "flipbook_sha256": "d8b343346418ec108ef0e18b6698418de898b507ebb2c3d8253e5e880f78011c",
+    "status": "preserved",
+    "archive_tag": "archive-saddle-approved-20261104",
+    "archive_commit": "88df4be9b5eb5e326fa03994df74032826366842"
+  },
+  "Rhythm28": {
+    "folder": "submission-rhythm",
+    "physical_pages": 28,
+    "reader": "submission-rhythm/Maltu_Book_Rhythm_28p.pdf",
+    "idml": "submission-rhythm/Maltu_Book_Rhythm_28p.idml",
+    "print": "submission-rhythm/Maltu_Book_Rhythm_A4_Duplex.pdf",
+    "flipbook": "flipbook-rhythm/index.html",
+    "preview": "https://htmlpreview.github.io/?https://raw.githubusercontent.com/jeongseul1116/gpt/main/flipbook-rhythm/index.html#p=13&view=single",
+    "interludes_printed": [
+      12,
+      17
+    ],
+    "all_meme_sources_preserved": 10,
+    "reader_sha256": "6920abd929d1f306577cdfa5082a0321a9403f0640b0b245adde57bf2791e804",
+    "idml_sha256": "87dc3f2b20933ef5a3ea8ece3f80845081cf959abfda57dd550170edeb0c6835",
+    "print_sha256": "a2f8d136b427a985ac5323f4650be420e1277468347160ba3389df0a58ca83b3",
+    "html_sha256": "82e278e4a3ea0668d29ca73f605f78be21ea2b03f98165ce8a1948b5e73f025e"
   }
 }

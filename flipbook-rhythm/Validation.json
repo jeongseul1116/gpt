@@ -1,0 +1,225 @@
+{
+  "status": "passed",
+  "pages": 28,
+  "html_sha256": "82e278e4a3ea0668d29ca73f605f78be21ea2b03f98165ce8a1948b5e73f025e",
+  "checks": [
+    {
+      "check": "Official preview-service loader renders the app and inert data",
+      "passed": true
+    },
+    {
+      "check": "28 thumbnail buttons",
+      "passed": true
+    },
+    {
+      "check": "Page 1 loads",
+      "passed": true
+    },
+    {
+      "check": "Page 2 loads",
+      "passed": true
+    },
+    {
+      "check": "Page 3 loads",
+      "passed": true
+    },
+    {
+      "check": "Page 4 loads",
+      "passed": true
+    },
+    {
+      "check": "Page 5 loads",
+      "passed": true
+    },
+    {
+      "check": "Page 6 loads",
+      "passed": true
+    },
+    {
+      "check": "Page 7 loads",
+      "passed": true
+    },
+    {
+      "check": "Page 8 loads",
+      "passed": true
+    },
+    {
+      "check": "Page 9 loads",
+      "passed": true
+    },
+    {
+      "check": "Page 10 loads",
+      "passed": true
+    },
+    {
+      "check": "Page 11 loads",
+      "passed": true
+    },
+    {
+      "check": "Page 12 loads",
+      "passed": true
+    },
+    {
+      "check": "Page 13 loads",
+      "passed": true
+    },
+    {
+      "check": "Page 14 loads",
+      "passed": true
+    },
+    {
+      "check": "Page 15 loads",
+      "passed": true
+    },
+    {
+      "check": "Page 16 loads",
+      "passed": true
+    },
+    {
+      "check": "Page 17 loads",
+      "passed": true
+    },
+    {
+      "check": "Page 18 loads",
+      "passed": true
+    },
+    {
+      "check": "Page 19 loads",
+      "passed": true
+    },
+    {
+      "check": "Page 20 loads",
+      "passed": true
+    },
+    {
+      "check": "Page 21 loads",
+      "passed": true
+    },
+    {
+      "check": "Page 22 loads",
+      "passed": true
+    },
+    {
+      "check": "Page 23 loads",
+      "passed": true
+    },
+    {
+      "check": "Page 24 loads",
+      "passed": true
+    },
+    {
+      "check": "Page 25 loads",
+      "passed": true
+    },
+    {
+      "check": "Page 26 loads",
+      "passed": true
+    },
+    {
+      "check": "Page 27 loads",
+      "passed": true
+    },
+    {
+      "check": "Page 28 loads",
+      "passed": true
+    },
+    {
+      "check": "Spread 2|3",
+      "passed": true
+    },
+    {
+      "check": "Spread 4|5",
+      "passed": true
+    },
+    {
+      "check": "Spread 6|7",
+      "passed": true
+    },
+    {
+      "check": "Spread 8|9",
+      "passed": true
+    },
+    {
+      "check": "Spread 10|11",
+      "passed": true
+    },
+    {
+      "check": "Spread 12|13",
+      "passed": true
+    },
+    {
+      "check": "Spread 14|15",
+      "passed": true
+    },
+    {
+      "check": "Spread 16|17",
+      "passed": true
+    },
+    {
+      "check": "Spread 18|19",
+      "passed": true
+    },
+    {
+      "check": "Spread 20|21",
+      "passed": true
+    },
+    {
+      "check": "Spread 22|23",
+      "passed": true
+    },
+    {
+      "check": "Spread 24|25",
+      "passed": true
+    },
+    {
+      "check": "Spread 26|27",
+      "passed": true
+    },
+    {
+      "check": "Zoom works",
+      "passed": true
+    },
+    {
+      "check": "Left key turns backward",
+      "passed": true
+    },
+    {
+      "check": "Right key turns forward",
+      "passed": true
+    },
+    {
+      "check": "Previous button works",
+      "passed": true
+    },
+    {
+      "check": "Next button works",
+      "passed": true
+    },
+    {
+      "check": "Hash updates on preview-service origin without security errors",
+      "passed": true
+    },
+    {
+      "check": "Mobile menu opens",
+      "passed": true
+    },
+    {
+      "check": "Escape closes menu",
+      "passed": true
+    },
+    {
+      "check": "No mobile document overflow",
+      "passed": true
+    },
+    {
+      "check": "Swipe advances page",
+      "passed": true
+    },
+    {
+      "check": "No JavaScript errors",
+      "passed": true
+    }
+  ],
+  "errors": [],
+  "verification": "Chromium desktop/mobile; official HTMLPreview loader executed on local response fixtures; live preview service not requested"
+}
