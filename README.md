@@ -1,3 +1,9 @@
+# 최신 B11 — 목차 1쪽·펼침면 섞어짜기·밈 전문
+
+공간 범례 5색, 간격 비교 3폰트×3조건, B급 심상 문구, 12폰트 복원, 두 펼침면 비교, 밈 전문 15개. 전체 36쪽·A4 양면 9장. [전체 PDF](submission-version-b11/Meme_Font_Book_B11_36p.pdf) · [A4 인쇄 PDF](submission-version-b11/Meme_Font_Book_B11_A4_Duplex.pdf)
+
+---
+
 # 최신 B10 — TF 시각화와 카톡 섞어짜기
 
 본문 1–18쪽 교체: 자료 기반 시각화 14쪽 + 같은 대화의 카톡 섞어짜기 4쪽. [전체 PDF](submission-version-b10/Meme_Font_Book_B10_28p.pdf) · [A4 양면 PDF](submission-version-b10/Meme_Font_Book_B10_A4_Duplex.pdf)

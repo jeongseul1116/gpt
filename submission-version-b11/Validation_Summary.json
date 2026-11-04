@@ -1,0 +1,32 @@
+{
+  "status": "passed",
+  "edition": "B11",
+  "physical_pages": 36,
+  "contents_printed_page": 1,
+  "body_page_labels": "1–34",
+  "main_Hangul_font_count": 12,
+  "number_fallback_font": "Noto Sans Mono",
+  "semantic_space_colors": 5,
+  "spacing_controls": "3 fonts × 3 conditions",
+  "mixed_comparison_spreads_printed": [
+    [
+      17,
+      18
+    ],
+    [
+      19,
+      20
+    ]
+  ],
+  "full_meme_cases": 15,
+  "long_E09_characters": 1652,
+  "A4_duplex_sheets": 9,
+  "print_faces": 18,
+  "bleed_mm": 0,
+  "crop_marks": false,
+  "center_fold_guide_only": true,
+  "reader_sha256": "9f4544884bc540c79567a69349cf1aaba416b06c0173d7d3dc08a910ed60cece",
+  "print_sha256": "346535c29272334a04feb0a397842fe74a8b356697553f31af4c83d8e59d938c",
+  "native_Adobe_execution": false,
+  "physical_printer_test": false
+}

@@ -1,5 +1,5 @@
 {
-  "active_new_work": "B10",
+  "active_new_work": "B11",
   "A": {
     "status": "preserved",
     "folder": "submission-alignment",
@@ -176,13 +176,27 @@
     "native_file_prepared_locally": true
   },
   "B10": {
-    "status": "TF14_visuals_and4_Kakao_mixed_type_pages",
+    "status": "preserved",
     "folder": "submission-version-b10",
     "physical_pages": 28,
     "reader": "submission-version-b10/Meme_Font_Book_B10_28p.pdf",
     "print": "submission-version-b10/Meme_Font_Book_B10_A4_Duplex.pdf",
     "reader_sha256": "6963f36bb6fceb9a391d3ea920734355c71373dfdbd95dfaeae8f498eb077581",
     "print_sha256": "1a57a32e1cd047a35642db95b8ee05a1f194a5d6d4e47b9f1d18d81cce7d5613",
+    "print_paper": "A4 landscape",
+    "bleed_mm": 0,
+    "crop_marks": false,
+    "center_fold_guide": true
+  },
+  "B11": {
+    "status": "TOC1_full_meme15_facing_mix12fonts",
+    "folder": "submission-version-b11",
+    "physical_pages": 36,
+    "reader": "submission-version-b11/Meme_Font_Book_B11_36p.pdf",
+    "print": "submission-version-b11/Meme_Font_Book_B11_A4_Duplex.pdf",
+    "contents_printed_page": 1,
+    "reader_sha256": "9f4544884bc540c79567a69349cf1aaba416b06c0173d7d3dc08a910ed60cece",
+    "print_sha256": "346535c29272334a04feb0a397842fe74a8b356697553f31af4c83d8e59d938c",
     "print_paper": "A4 landscape",
     "bleed_mm": 0,
     "crop_marks": false,
