@@ -1,3 +1,13 @@
+# 최신 B9 — 말투수집실 전체판
+
+- [전체 28쪽 PDF](submission-version-b9/Meme_Font_Book_Version_B9_28p_Review.pdf)
+- [A3 양면 인쇄 PDF](submission-version-b9/Meme_Font_Book_Version_B9_A3_Duplex_28p.pdf)
+- [전체 미리보기](submission-version-b9/Version_B9_All_28_Pages.png) · [인쇄 안내](submission-version-b9/README_KO.md)
+
+B급 전단 스타일, 12폰트 전체 문장·전체 외곽·8간격 비교, 후반 유행어 15개. A3 가로 7장/14면, 짧은 쪽 양면, 실제 크기 100%. 3mm 도련·재단선 포함. 이전 판은 아래에 보존했습니다.
+
+---
+
 # 최신 B8 — 좌우 외곽 둘, 그 사이의 흰 간격
 
 참고 사진처럼 실제 글자쌍 옆에 두 개의 마주 보는 외곽 도형을 놓고, 가운데 흰 간격을 읽게 바꿨습니다. 모든8쌍과 폰트별 말투 인상을 함께 표시합니다. 나머지25쪽은 B7 그대로 보존합니다.

@@ -1,0 +1,27 @@
+{
+  "status": "passed",
+  "edition": "B9",
+  "reader_pages": 28,
+  "print_faces": 14,
+  "a3_sheets_duplex": 7,
+  "finished_size_mm": [
+    148,
+    210
+  ],
+  "bleed_mm": 3,
+  "crop_marks": true,
+  "intro_printed_page": 1,
+  "contents_numbered": false,
+  "comparison_phrase": "북쪽에계신메리메리",
+  "font_count": 12,
+  "approved_applications": 15,
+  "all_nine_glyphs_and_all_eight_intervals": true,
+  "whole_character_outer_polygons": 332,
+  "actual_ink_gap_lines": 528,
+  "previous_files_preserved": 564,
+  "source_scene_sha256": "3da71f16ddd14d4b9f61c406f12ee883ec80f7852737a781a1980a7c0fe342e0",
+  "reader_sha256": "de441b23b344d655280656d80ed4e2cd301b79bae75643627197459e8aedb4c1",
+  "print_sha256": "ff483f7aae2fbb38fe719eed27bce535de8129df5ff4f2398f04727c05fcdec6",
+  "native_Adobe_execution": false,
+  "physical_printer_test": false
+}
