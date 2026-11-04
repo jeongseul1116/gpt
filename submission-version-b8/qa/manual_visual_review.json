@@ -1,0 +1,60 @@
+{
+  "status": "passed",
+  "reader_sha256": "a3094bc34f781382942fd0092a1134902f76159aae772f2b1b93b38fd6e3b4b2",
+  "reviewed_physical_pages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28
+  ],
+  "full_resolution_reviewed_pages": [
+    2,
+    18,
+    19
+  ],
+  "whole_book_contact_sheet_reviewed": true,
+  "unchanged25pages_proven_pixel_exact_with_previous_reviewed_B7": true,
+  "reviewed_images": [
+    "page_02.png",
+    "page_18.png",
+    "page_19.png",
+    "contact_sheet.png"
+  ],
+  "notes": [
+    "Actual native reader pages18/19 show all8 requested glyphpairs perfont and TWO separate dark-blue/pale-blue facing-edge envelopes with natural white channels. This matches the supplied reference method; single orange void extraction is absent from these pages.",
+    "Actual glyph contours/counters in the native PDF were inspected, especially NotoSans 에 and 쪽. Their counters are correctly open/white; the temporary PIL source-proof fill limitation is not present in the final reader.",
+    "The two edge shapes retain relative placement; their combined union is centered within each diagram cell. No independent re-centering or per-font fitting destroys the white gap.",
+    "Numbers01–08 locate every adjacent pair in the complete sentence. Repeated 메리 positions06/08 remain separate in both8-card grids.",
+    "Font-level bold B-grade captions tie observed shape regularity or brush movement to the editor’s perceived voice. They remain clearly subjective interpretations rather than measured emotion scores.",
+    "White paper, thin lower rules and small orange measurement marks keep both blue shapes and the intervening white channel legible. Measurement values are labelled as the actual gap at a marked height, not font-internal kerning.",
+    "The revised contents correctly describes facing left/right outlines and white-gap reading. Book intro01,28physicalpages,cover/backcover andapproved15applicationcases remain intact.",
+    "All28pages were reviewed in the contact sheet. The other25pages and45approvedprompt/quote regions are independently pixel-identical to B7; their previously reviewed content is retained.",
+    "No visible clipping, overlapping labels, cropped diagrams, missing glyphs or unintended wrapping were observed. Source/photo preservation and precise dimensions are supported by independent numeric reports."
+  ],
+  "native_Adobe_execution": false,
+  "physical_printer_test": false
+}

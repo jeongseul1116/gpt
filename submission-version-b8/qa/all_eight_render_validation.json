@@ -1,0 +1,1504 @@
+{
+  "status": "passed",
+  "word": "북쪽에계신메리메리",
+  "interval_indices": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "interval_pairs": [
+    "북쪽",
+    "쪽에",
+    "에계",
+    "계신",
+    "신메",
+    "메리",
+    "리메",
+    "메리"
+  ],
+  "atlas_panels": 24,
+  "atlas_native_orange_profiles": 192,
+  "spacing_native_orange_profiles": 64,
+  "contextual_pairs": 16,
+  "facing_edge_groups": 16,
+  "left_edge_blocks": 16,
+  "right_edge_blocks": 16,
+  "standalone_orange_void_extraction_in_new_grids": false,
+  "white_channel_actual_PDF_pixel_checks": [
+    {
+      "page": 18,
+      "pair_index": 0,
+      "samples": [
+        {
+          "source_y_pt": -28.404000000000003,
+          "sample_page_pt": [
+            157.974,
+            214.984
+          ],
+          "minimum_RGB": 255
+        },
+        {
+          "source_y_pt": -17.282705202312144,
+          "sample_page_pt": [
+            158.02572633374396,
+            226.10529479768786
+          ],
+          "minimum_RGB": 255
+        },
+        {
+          "source_y_pt": 2.6280000000000037,
+          "sample_page_pt": [
+            168.504,
+            246.01600000000002
+          ],
+          "minimum_RGB": 255
+        }
+      ]
+    },
+    {
+      "page": 18,
+      "pair_index": 1,
+      "samples": [
+        {
+          "source_y_pt": -28.404000000000003,
+          "sample_page_pt": [
+            348.81780000000003,
+            214.984
+          ],
+          "minimum_RGB": 255
+        },
+        {
+          "source_y_pt": -12.439560693641619,
+          "sample_page_pt": [
+            340.97479494686496,
+            230.94843930635838
+          ],
+          "minimum_RGB": 255
+        },
+        {
+          "source_y_pt": 2.6280000000000037,
+          "sample_page_pt": [
+            351.1758,
+            246.01600000000002
+          ],
+          "minimum_RGB": 255
+        }
+      ]
+    },
+    {
+      "page": 18,
+      "pair_index": 2,
+      "samples": [
+        {
+          "source_y_pt": -29.592,
+          "sample_page_pt": [
+            171.22199999999998,
+            300.89
+          ],
+          "minimum_RGB": 255
+        },
+        {
+          "source_y_pt": -15.552,
+          "sample_page_pt": [
+            163.25386036715528,
+            314.92999999999995
+          ],
+          "minimum_RGB": 255
+        },
+        {
+          "source_y_pt": 2.628,
+          "sample_page_pt": [
+            171.22199999999998,
+            333.10999999999996
+          ],
+          "minimum_RGB": 255
+        }
+      ]
+    },
+    {
+      "page": 18,
+      "pair_index": 3,
+      "samples": [
+        {
+          "source_y_pt": -29.555999999999997,
+          "sample_page_pt": [
+            351.6078,
+            301.26800000000003
+          ],
+          "minimum_RGB": 255
+        },
+        {
+          "source_y_pt": -15.891634285714282,
+          "sample_page_pt": [
+            342.17091640579224,
+            314.9323657142857
+          ],
+          "minimum_RGB": 255
+        },
+        {
+          "source_y_pt": 1.9080000000000013,
+          "sample_page_pt": [
+            342.64379999999994,
+            332.732
+          ],
+          "minimum_RGB": 255
+        }
+      ]
+    },
+    {
+      "page": 18,
+      "pair_index": 4,
+      "samples": [
+        {
+          "source_y_pt": -29.555999999999997,
+          "sample_page_pt": [
+            170.73600000000002,
+            387.76800000000003
+          ],
+          "minimum_RGB": 255
+        },
+        {
+          "source_y_pt": -15.891634285714282,
+          "sample_page_pt": [
+            158.91000000000003,
+            401.4323657142857
+          ],
+          "minimum_RGB": 255
+        },
+        {
+          "source_y_pt": 1.9080000000000013,
+          "sample_page_pt": [
+            171.24,
+            419.232
+          ],
+          "minimum_RGB": 255
+        }
+      ]
+    },
+    {
+      "page": 18,
+      "pair_index": 5,
+      "samples": [
+        {
+          "source_y_pt": -29.592,
+          "sample_page_pt": [
+            351.55379999999997,
+            387.39
+          ],
+          "minimum_RGB": 255
+        },
+        {
+          "source_y_pt": -15.552,
+          "sample_page_pt": [
+            340.6278,
+            401.42999999999995
+          ],
+          "minimum_RGB": 255
+        },
+        {
+          "source_y_pt": 2.628,
+          "sample_page_pt": [
+            351.55379999999997,
+            419.60999999999996
+          ],
+          "minimum_RGB": 255
+        }
+      ]
+    },
+    {
+      "page": 18,
+      "pair_index": 6,
+      "samples": [
+        {
+          "source_y_pt": -29.592,
+          "sample_page_pt": [
+            169.998,
+            473.89
+          ],
+          "minimum_RGB": 255
+        },
+        {
+          "source_y_pt": -15.552,
+          "sample_page_pt": [
+            158.172,
+            487.92999999999995
+          ],
+          "minimum_RGB": 255
+        },
+        {
+          "source_y_pt": 2.628,
+          "sample_page_pt": [
+            169.998,
+            506.10999999999996
+          ],
+          "minimum_RGB": 255
+        }
+      ]
+    },
+    {
+      "page": 18,
+      "pair_index": 7,
+      "samples": [
+        {
+          "source_y_pt": -29.592,
+          "sample_page_pt": [
+            351.5538,
+            473.89
+          ],
+          "minimum_RGB": 255
+        },
+        {
+          "source_y_pt": -15.552,
+          "sample_page_pt": [
+            340.62780000000004,
+            487.92999999999995
+          ],
+          "minimum_RGB": 255
+        },
+        {
+          "source_y_pt": 2.628,
+          "sample_page_pt": [
+            351.5538,
+            506.10999999999996
+          ],
+          "minimum_RGB": 255
+        }
+      ]
+    },
+    {
+      "page": 19,
+      "pair_index": 0,
+      "samples": [
+        {
+          "source_y_pt": -25.956,
+          "sample_page_pt": [
+            167.26092709378315,
+            215.524
+          ],
+          "minimum_RGB": 255
+        },
+        {
+          "source_y_pt": -7.303257485029942,
+          "sample_page_pt": [
+            165.8941753365374,
+            234.17674251497004
+          ],
+          "minimum_RGB": 255
+        },
+        {
+          "source_y_pt": 3.9959999999999987,
+          "sample_page_pt": [
+            165.63642175143093,
+            245.476
+          ],
+          "minimum_RGB": 255
+        }
+      ]
+    },
+    {
+      "page": 19,
+      "pair_index": 1,
+      "samples": [
+        {
+          "source_y_pt": -25.776,
+          "sample_page_pt": [
+            349.1272199998687,
+            215.884
+          ],
+          "minimum_RGB": 255
+        },
+        {
+          "source_y_pt": -9.63563190184049,
+          "sample_page_pt": [
+            333.2185362760002,
+            232.0243680981595
+          ],
+          "minimum_RGB": 255
+        },
+        {
+          "source_y_pt": 3.4559999999999995,
+          "sample_page_pt": [
+            349.1186842344412,
+            245.11599999999999
+          ],
+          "minimum_RGB": 255
+        }
+      ]
+    },
+    {
+      "page": 19,
+      "pair_index": 2,
+      "samples": [
+        {
+          "source_y_pt": -25.776,
+          "sample_page_pt": [
+            166.56120266315384,
+            302.384
+          ],
+          "minimum_RGB": 255
+        },
+        {
+          "source_y_pt": -13.22238036809816,
+          "sample_page_pt": [
+            163.1661092837626,
+            314.93761963190184
+          ],
+          "minimum_RGB": 255
+        },
+        {
+          "source_y_pt": 3.4559999999999995,
+          "sample_page_pt": [
+            168.61235043985107,
+            331.61600000000004
+          ],
+          "minimum_RGB": 255
+        }
+      ]
+    },
+    {
+      "page": 19,
+      "pair_index": 3,
+      "samples": [
+        {
+          "source_y_pt": -25.776,
+          "sample_page_pt": [
+            347.3811995638916,
+            302.56399999999996
+          ],
+          "minimum_RGB": 255
+        },
+        {
+          "source_y_pt": -13.402285714285714,
+          "sample_page_pt": [
+            342.6884562528718,
+            314.93771428571426
+          ],
+          "minimum_RGB": 255
+        },
+        {
+          "source_y_pt": 3.096,
+          "sample_page_pt": [
+            346.84904130976685,
+            331.436
+          ],
+          "minimum_RGB": 255
+        }
+      ]
+    },
+    {
+      "page": 19,
+      "pair_index": 4,
+      "samples": [
+        {
+          "source_y_pt": -25.776,
+          "sample_page_pt": [
+            167.30404444205155,
+            389.06399999999996
+          ],
+          "minimum_RGB": 255
+        },
+        {
+          "source_y_pt": -13.402285714285714,
+          "sample_page_pt": [
+            159.2585008284339,
+            401.43771428571426
+          ],
+          "minimum_RGB": 255
+        },
+        {
+          "source_y_pt": 3.096,
+          "sample_page_pt": [
+            167.07139030787056,
+            417.936
+          ],
+          "minimum_RGB": 255
+        }
+      ]
+    },
+    {
+      "page": 19,
+      "pair_index": 5,
+      "samples": [
+        {
+          "source_y_pt": -25.776,
+          "sample_page_pt": [
+            348.02303564077033,
+            388.866
+          ],
+          "minimum_RGB": 255
+        },
+        {
+          "source_y_pt": -13.206920245398772,
+          "sample_page_pt": [
+            341.6714409363519,
+            401.43507975460125
+          ],
+          "minimum_RGB": 255
+        },
+        {
+          "source_y_pt": 3.492000000000001,
+          "sample_page_pt": [
+            350.1811662482559,
+            418.134
+          ],
+          "minimum_RGB": 255
+        }
+      ]
+    },
+    {
+      "page": 19,
+      "pair_index": 6,
+      "samples": [
+        {
+          "source_y_pt": -25.776,
+          "sample_page_pt": [
+            165.3638305682744,
+            475.366
+          ],
+          "minimum_RGB": 255
+        },
+        {
+          "source_y_pt": -13.206920245398772,
+          "sample_page_pt": [
+            158.13104680732295,
+            487.93507975460125
+          ],
+          "minimum_RGB": 255
+        },
+        {
+          "source_y_pt": 3.492000000000001,
+          "sample_page_pt": [
+            167.59721984276985,
+            504.634
+          ],
+          "minimum_RGB": 255
+        }
+      ]
+    },
+    {
+      "page": 19,
+      "pair_index": 7,
+      "samples": [
+        {
+          "source_y_pt": -25.776,
+          "sample_page_pt": [
+            348.02303564077044,
+            475.366
+          ],
+          "minimum_RGB": 255
+        },
+        {
+          "source_y_pt": -13.206920245398772,
+          "sample_page_pt": [
+            341.6714409363519,
+            487.93507975460125
+          ],
+          "minimum_RGB": 255
+        },
+        {
+          "source_y_pt": 3.492000000000001,
+          "sample_page_pt": [
+            350.181166248256,
+            504.634
+          ],
+          "minimum_RGB": 255
+        }
+      ]
+    }
+  ],
+  "every_requested_index_in_actual_native_render": true,
+  "reader_sha256": "a3094bc34f781382942fd0092a1134902f76159aae772f2b1b93b38fd6e3b4b2",
+  "source_idml_sha256": "8d134ac4e57f10613c76939a429201d0079e89e4a2533321e87d883a188b2c79",
+  "records": [
+    {
+      "type": "atlas_panel",
+      "page": 4,
+      "reference": true,
+      "label_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "actual_orange_plane_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "type": "atlas_panel",
+      "page": 4,
+      "reference": false,
+      "label_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "actual_orange_plane_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "type": "atlas_panel",
+      "page": 5,
+      "reference": true,
+      "label_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "actual_orange_plane_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "type": "atlas_panel",
+      "page": 5,
+      "reference": false,
+      "label_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "actual_orange_plane_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "type": "atlas_panel",
+      "page": 6,
+      "reference": true,
+      "label_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "actual_orange_plane_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "type": "atlas_panel",
+      "page": 6,
+      "reference": false,
+      "label_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "actual_orange_plane_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "type": "atlas_panel",
+      "page": 7,
+      "reference": true,
+      "label_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "actual_orange_plane_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "type": "atlas_panel",
+      "page": 7,
+      "reference": false,
+      "label_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "actual_orange_plane_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "type": "atlas_panel",
+      "page": 8,
+      "reference": true,
+      "label_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "actual_orange_plane_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "type": "atlas_panel",
+      "page": 8,
+      "reference": false,
+      "label_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "actual_orange_plane_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "type": "atlas_panel",
+      "page": 9,
+      "reference": true,
+      "label_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "actual_orange_plane_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "type": "atlas_panel",
+      "page": 9,
+      "reference": false,
+      "label_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "actual_orange_plane_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "type": "atlas_panel",
+      "page": 10,
+      "reference": true,
+      "label_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "actual_orange_plane_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "type": "atlas_panel",
+      "page": 10,
+      "reference": false,
+      "label_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "actual_orange_plane_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "type": "atlas_panel",
+      "page": 11,
+      "reference": true,
+      "label_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "actual_orange_plane_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "type": "atlas_panel",
+      "page": 11,
+      "reference": false,
+      "label_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "actual_orange_plane_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "type": "atlas_panel",
+      "page": 12,
+      "reference": true,
+      "label_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "actual_orange_plane_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "type": "atlas_panel",
+      "page": 12,
+      "reference": false,
+      "label_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "actual_orange_plane_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "type": "atlas_panel",
+      "page": 13,
+      "reference": true,
+      "label_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "actual_orange_plane_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "type": "atlas_panel",
+      "page": 13,
+      "reference": false,
+      "label_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "actual_orange_plane_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "type": "atlas_panel",
+      "page": 14,
+      "reference": true,
+      "label_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "actual_orange_plane_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "type": "atlas_panel",
+      "page": 14,
+      "reference": false,
+      "label_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "actual_orange_plane_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "type": "atlas_panel",
+      "page": 15,
+      "reference": true,
+      "label_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "actual_orange_plane_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "type": "atlas_panel",
+      "page": 15,
+      "reference": false,
+      "label_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "actual_orange_plane_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "type": "spacing_row",
+      "page": 16,
+      "font": "sans",
+      "phase": "before",
+      "actual_orange_plane_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "type": "spacing_row",
+      "page": 16,
+      "font": "sans",
+      "phase": "after",
+      "actual_orange_plane_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "type": "spacing_row",
+      "page": 16,
+      "font": "gungseo",
+      "phase": "before",
+      "actual_orange_plane_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "type": "spacing_row",
+      "page": 16,
+      "font": "gungseo",
+      "phase": "after",
+      "actual_orange_plane_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "type": "spacing_row",
+      "page": 17,
+      "font": "blackhan",
+      "phase": "before",
+      "actual_orange_plane_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "type": "spacing_row",
+      "page": 17,
+      "font": "blackhan",
+      "phase": "after",
+      "actual_orange_plane_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "type": "spacing_row",
+      "page": 17,
+      "font": "singleday",
+      "phase": "before",
+      "actual_orange_plane_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "type": "spacing_row",
+      "page": 17,
+      "font": "singleday",
+      "phase": "after",
+      "actual_orange_plane_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "type": "all_eight_facing_edge_grid",
+      "page": 18,
+      "pair_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "locator_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "type": "all_eight_facing_edge_grid",
+      "page": 19,
+      "pair_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "locator_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "type": "facing_edge_pair",
+      "page": 18,
+      "pair_index": 0,
+      "actual_native_roles": [
+        "facing_edge_left",
+        "facing_edge_right"
+      ],
+      "colors": [
+        "blue",
+        "edge_pale"
+      ]
+    },
+    {
+      "type": "facing_edge_pair",
+      "page": 18,
+      "pair_index": 1,
+      "actual_native_roles": [
+        "facing_edge_left",
+        "facing_edge_right"
+      ],
+      "colors": [
+        "blue",
+        "edge_pale"
+      ]
+    },
+    {
+      "type": "facing_edge_pair",
+      "page": 18,
+      "pair_index": 2,
+      "actual_native_roles": [
+        "facing_edge_left",
+        "facing_edge_right"
+      ],
+      "colors": [
+        "blue",
+        "edge_pale"
+      ]
+    },
+    {
+      "type": "facing_edge_pair",
+      "page": 18,
+      "pair_index": 3,
+      "actual_native_roles": [
+        "facing_edge_left",
+        "facing_edge_right"
+      ],
+      "colors": [
+        "blue",
+        "edge_pale"
+      ]
+    },
+    {
+      "type": "facing_edge_pair",
+      "page": 18,
+      "pair_index": 4,
+      "actual_native_roles": [
+        "facing_edge_left",
+        "facing_edge_right"
+      ],
+      "colors": [
+        "blue",
+        "edge_pale"
+      ]
+    },
+    {
+      "type": "facing_edge_pair",
+      "page": 18,
+      "pair_index": 5,
+      "actual_native_roles": [
+        "facing_edge_left",
+        "facing_edge_right"
+      ],
+      "colors": [
+        "blue",
+        "edge_pale"
+      ]
+    },
+    {
+      "type": "facing_edge_pair",
+      "page": 18,
+      "pair_index": 6,
+      "actual_native_roles": [
+        "facing_edge_left",
+        "facing_edge_right"
+      ],
+      "colors": [
+        "blue",
+        "edge_pale"
+      ]
+    },
+    {
+      "type": "facing_edge_pair",
+      "page": 18,
+      "pair_index": 7,
+      "actual_native_roles": [
+        "facing_edge_left",
+        "facing_edge_right"
+      ],
+      "colors": [
+        "blue",
+        "edge_pale"
+      ]
+    },
+    {
+      "type": "facing_edge_pair",
+      "page": 19,
+      "pair_index": 0,
+      "actual_native_roles": [
+        "facing_edge_left",
+        "facing_edge_right"
+      ],
+      "colors": [
+        "blue",
+        "edge_pale"
+      ]
+    },
+    {
+      "type": "facing_edge_pair",
+      "page": 19,
+      "pair_index": 1,
+      "actual_native_roles": [
+        "facing_edge_left",
+        "facing_edge_right"
+      ],
+      "colors": [
+        "blue",
+        "edge_pale"
+      ]
+    },
+    {
+      "type": "facing_edge_pair",
+      "page": 19,
+      "pair_index": 2,
+      "actual_native_roles": [
+        "facing_edge_left",
+        "facing_edge_right"
+      ],
+      "colors": [
+        "blue",
+        "edge_pale"
+      ]
+    },
+    {
+      "type": "facing_edge_pair",
+      "page": 19,
+      "pair_index": 3,
+      "actual_native_roles": [
+        "facing_edge_left",
+        "facing_edge_right"
+      ],
+      "colors": [
+        "blue",
+        "edge_pale"
+      ]
+    },
+    {
+      "type": "facing_edge_pair",
+      "page": 19,
+      "pair_index": 4,
+      "actual_native_roles": [
+        "facing_edge_left",
+        "facing_edge_right"
+      ],
+      "colors": [
+        "blue",
+        "edge_pale"
+      ]
+    },
+    {
+      "type": "facing_edge_pair",
+      "page": 19,
+      "pair_index": 5,
+      "actual_native_roles": [
+        "facing_edge_left",
+        "facing_edge_right"
+      ],
+      "colors": [
+        "blue",
+        "edge_pale"
+      ]
+    },
+    {
+      "type": "facing_edge_pair",
+      "page": 19,
+      "pair_index": 6,
+      "actual_native_roles": [
+        "facing_edge_left",
+        "facing_edge_right"
+      ],
+      "colors": [
+        "blue",
+        "edge_pale"
+      ]
+    },
+    {
+      "type": "facing_edge_pair",
+      "page": 19,
+      "pair_index": 7,
+      "actual_native_roles": [
+        "facing_edge_left",
+        "facing_edge_right"
+      ],
+      "colors": [
+        "blue",
+        "edge_pale"
+      ]
+    }
+  ],
+  "failures": []
+}

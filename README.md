@@ -1,3 +1,16 @@
+# 최신 B8 — 좌우 외곽 둘, 그 사이의 흰 간격
+
+참고 사진처럼 실제 글자쌍 옆에 두 개의 마주 보는 외곽 도형을 놓고, 가운데 흰 간격을 읽게 바꿨습니다. 모든8쌍과 폰트별 말투 인상을 함께 표시합니다. 나머지25쪽은 B7 그대로 보존합니다.
+
+- [B8 PDF](submission-version-b8/Meme_Font_Book_Version_B8_28p_Review.pdf)
+- [B8 편집용 IDML](submission-version-b8/Meme_Font_Book_Version_B8_28p.idml)
+- [B8 A3 인쇄 PDF](submission-version-b8/Meme_Font_Book_Version_B8_A3_Duplex_28p.pdf)
+- [B8 전체 ZIP](Meme_Font_Book_Version_B8_28p.zip) · [수정·인쇄 안내](submission-version-b8/README_KO.md)
+
+이전 판본은 아래에 보존했습니다.
+
+---
+
 # 최신 B7 — 아홉 글자, 여덟 간격 전부
 
 북쪽에계신메리메리의8개 간격을 빠짐없이 표시했습니다. 12종 폰트 문장 비교, 간격 조정 전후, 빈틈 도감 모두 전체 간격을 다룹니다. 반복되는 ‘메리’도06·08로 따로 표시합니다.

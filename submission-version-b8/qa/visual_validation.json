@@ -1,0 +1,1286 @@
+{
+  "status": "passed",
+  "idml_sha256": "8d134ac4e57f10613c76939a429201d0079e89e4a2533321e87d883a188b2c79",
+  "scene_sha256": "301a53cfe2bdfb64b976f9a6f965f4845754bf278c75d5a5a51676a0cc097470",
+  "reader_sha256": "a3094bc34f781382942fd0092a1134902f76159aae772f2b1b93b38fd6e3b4b2",
+  "source_bleed_sha256": "3f9853ca3ba2465d76b4c137c40608aa3a0bfcb6a8f326ec4b78af290f779e53",
+  "scope": "Both new facing-edge pages and the updated contents were individually reviewed. The complete28-page contact sheet was reviewed; all25 unmodified scenes are independently pixel-exact with B7. Each new grid shows all8 actual glyphpairs and two separately colored facing-edge envelopes with a natural white channel. Font-level B-grade voice captions distinguish interpretation from geometry.",
+  "reviewed_physical_pages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28
+  ],
+  "cover": {
+    "white_outer_background": true,
+    "street_ad_black_yellow_red_blue_system": true,
+    "title_both_lines_same60pt": true,
+    "no_photo_on_front": true,
+    "tearoff_font_labels_genuine_center_alignment": true,
+    "tearoff_ink_center_objects": 4,
+    "no_folio": true
+  },
+  "backcover": {
+    "photo_only_on_physical28": true,
+    "original_red_oval_complete": true,
+    "original_RGBA_pixels_preserved": true,
+    "effective_ppi": [
+      484.06153846176915,
+      484.0615384617692
+    ],
+    "no_folio": true
+  },
+  "numbering": {
+    "contents_unnumbered": true,
+    "intro_physical3_printed01": true,
+    "physical3_to27_printed01_to25": true,
+    "PDF_labels_correct": true,
+    "PDF_PageLayout": "TwoPageRight"
+  },
+  "atlas": {
+    "comparison_phrase": "북쪽에계신메리메리",
+    "whole_sentence_size_pt": 32,
+    "reference_and_selected_sentence_panels_actual_ink_centered": true,
+    "same_point_size_without_fit": true,
+    "pink_counter_planes_from_actual_sentence_glyph_contours": true,
+    "all_eight_interval_records_in_every_reference_and_selected_panel": true,
+    "all_shape_observations_and_B_grade_personal_impressions_readable": true,
+    "isolated_single_syllable_comparisons": false
+  },
+  "comparisons": {
+    "complete_phrase": "북쪽에계신메리메리",
+    "before_after_spacing_full_sentence": true,
+    "all_eight_intervals_before_and_after_each_font": true,
+    "all_eight_contextual_pair_indices_per_grid": true,
+    "each_pair_has_distinct_left_and_right_edge_envelopes": true,
+    "editorial_spacing_changes_explicitly_distinguished_from_font_internal_kerning": true,
+    "glyph_shapes_unchanged_by_spacing_adjustments": true,
+    "contextual_pair_callouts_linked_to_intact_phrase": true,
+    "two_facing_edge_envelopes_and_white_channel_visible": true,
+    "standalone_orange_void_extraction_removed_from_new_grids": true,
+    "font_level_shape_to_voice_caption_visible": true,
+    "all_impressions_B_grade": true,
+    "actual_ink_and_glyph_gap_evidence_visible": true,
+    "reference_and_selected_diagram_legends_readable": true
+  },
+  "all_eight_interval_render_proof": {
+    "status": "passed",
+    "word": "북쪽에계신메리메리",
+    "interval_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "interval_pairs": [
+      "북쪽",
+      "쪽에",
+      "에계",
+      "계신",
+      "신메",
+      "메리",
+      "리메",
+      "메리"
+    ],
+    "atlas_panels": 24,
+    "atlas_native_orange_profiles": 192,
+    "spacing_native_orange_profiles": 64,
+    "contextual_pairs": 16,
+    "facing_edge_groups": 16,
+    "left_edge_blocks": 16,
+    "right_edge_blocks": 16,
+    "standalone_orange_void_extraction_in_new_grids": false,
+    "white_channel_actual_PDF_pixel_checks": [
+      {
+        "page": 18,
+        "pair_index": 0,
+        "samples": [
+          {
+            "source_y_pt": -28.404000000000003,
+            "sample_page_pt": [
+              157.974,
+              214.984
+            ],
+            "minimum_RGB": 255
+          },
+          {
+            "source_y_pt": -17.282705202312144,
+            "sample_page_pt": [
+              158.02572633374396,
+              226.10529479768786
+            ],
+            "minimum_RGB": 255
+          },
+          {
+            "source_y_pt": 2.6280000000000037,
+            "sample_page_pt": [
+              168.504,
+              246.01600000000002
+            ],
+            "minimum_RGB": 255
+          }
+        ]
+      },
+      {
+        "page": 18,
+        "pair_index": 1,
+        "samples": [
+          {
+            "source_y_pt": -28.404000000000003,
+            "sample_page_pt": [
+              348.81780000000003,
+              214.984
+            ],
+            "minimum_RGB": 255
+          },
+          {
+            "source_y_pt": -12.439560693641619,
+            "sample_page_pt": [
+              340.97479494686496,
+              230.94843930635838
+            ],
+            "minimum_RGB": 255
+          },
+          {
+            "source_y_pt": 2.6280000000000037,
+            "sample_page_pt": [
+              351.1758,
+              246.01600000000002
+            ],
+            "minimum_RGB": 255
+          }
+        ]
+      },
+      {
+        "page": 18,
+        "pair_index": 2,
+        "samples": [
+          {
+            "source_y_pt": -29.592,
+            "sample_page_pt": [
+              171.22199999999998,
+              300.89
+            ],
+            "minimum_RGB": 255
+          },
+          {
+            "source_y_pt": -15.552,
+            "sample_page_pt": [
+              163.25386036715528,
+              314.92999999999995
+            ],
+            "minimum_RGB": 255
+          },
+          {
+            "source_y_pt": 2.628,
+            "sample_page_pt": [
+              171.22199999999998,
+              333.10999999999996
+            ],
+            "minimum_RGB": 255
+          }
+        ]
+      },
+      {
+        "page": 18,
+        "pair_index": 3,
+        "samples": [
+          {
+            "source_y_pt": -29.555999999999997,
+            "sample_page_pt": [
+              351.6078,
+              301.26800000000003
+            ],
+            "minimum_RGB": 255
+          },
+          {
+            "source_y_pt": -15.891634285714282,
+            "sample_page_pt": [
+              342.17091640579224,
+              314.9323657142857
+            ],
+            "minimum_RGB": 255
+          },
+          {
+            "source_y_pt": 1.9080000000000013,
+            "sample_page_pt": [
+              342.64379999999994,
+              332.732
+            ],
+            "minimum_RGB": 255
+          }
+        ]
+      },
+      {
+        "page": 18,
+        "pair_index": 4,
+        "samples": [
+          {
+            "source_y_pt": -29.555999999999997,
+            "sample_page_pt": [
+              170.73600000000002,
+              387.76800000000003
+            ],
+            "minimum_RGB": 255
+          },
+          {
+            "source_y_pt": -15.891634285714282,
+            "sample_page_pt": [
+              158.91000000000003,
+              401.4323657142857
+            ],
+            "minimum_RGB": 255
+          },
+          {
+            "source_y_pt": 1.9080000000000013,
+            "sample_page_pt": [
+              171.24,
+              419.232
+            ],
+            "minimum_RGB": 255
+          }
+        ]
+      },
+      {
+        "page": 18,
+        "pair_index": 5,
+        "samples": [
+          {
+            "source_y_pt": -29.592,
+            "sample_page_pt": [
+              351.55379999999997,
+              387.39
+            ],
+            "minimum_RGB": 255
+          },
+          {
+            "source_y_pt": -15.552,
+            "sample_page_pt": [
+              340.6278,
+              401.42999999999995
+            ],
+            "minimum_RGB": 255
+          },
+          {
+            "source_y_pt": 2.628,
+            "sample_page_pt": [
+              351.55379999999997,
+              419.60999999999996
+            ],
+            "minimum_RGB": 255
+          }
+        ]
+      },
+      {
+        "page": 18,
+        "pair_index": 6,
+        "samples": [
+          {
+            "source_y_pt": -29.592,
+            "sample_page_pt": [
+              169.998,
+              473.89
+            ],
+            "minimum_RGB": 255
+          },
+          {
+            "source_y_pt": -15.552,
+            "sample_page_pt": [
+              158.172,
+              487.92999999999995
+            ],
+            "minimum_RGB": 255
+          },
+          {
+            "source_y_pt": 2.628,
+            "sample_page_pt": [
+              169.998,
+              506.10999999999996
+            ],
+            "minimum_RGB": 255
+          }
+        ]
+      },
+      {
+        "page": 18,
+        "pair_index": 7,
+        "samples": [
+          {
+            "source_y_pt": -29.592,
+            "sample_page_pt": [
+              351.5538,
+              473.89
+            ],
+            "minimum_RGB": 255
+          },
+          {
+            "source_y_pt": -15.552,
+            "sample_page_pt": [
+              340.62780000000004,
+              487.92999999999995
+            ],
+            "minimum_RGB": 255
+          },
+          {
+            "source_y_pt": 2.628,
+            "sample_page_pt": [
+              351.5538,
+              506.10999999999996
+            ],
+            "minimum_RGB": 255
+          }
+        ]
+      },
+      {
+        "page": 19,
+        "pair_index": 0,
+        "samples": [
+          {
+            "source_y_pt": -25.956,
+            "sample_page_pt": [
+              167.26092709378315,
+              215.524
+            ],
+            "minimum_RGB": 255
+          },
+          {
+            "source_y_pt": -7.303257485029942,
+            "sample_page_pt": [
+              165.8941753365374,
+              234.17674251497004
+            ],
+            "minimum_RGB": 255
+          },
+          {
+            "source_y_pt": 3.9959999999999987,
+            "sample_page_pt": [
+              165.63642175143093,
+              245.476
+            ],
+            "minimum_RGB": 255
+          }
+        ]
+      },
+      {
+        "page": 19,
+        "pair_index": 1,
+        "samples": [
+          {
+            "source_y_pt": -25.776,
+            "sample_page_pt": [
+              349.1272199998687,
+              215.884
+            ],
+            "minimum_RGB": 255
+          },
+          {
+            "source_y_pt": -9.63563190184049,
+            "sample_page_pt": [
+              333.2185362760002,
+              232.0243680981595
+            ],
+            "minimum_RGB": 255
+          },
+          {
+            "source_y_pt": 3.4559999999999995,
+            "sample_page_pt": [
+              349.1186842344412,
+              245.11599999999999
+            ],
+            "minimum_RGB": 255
+          }
+        ]
+      },
+      {
+        "page": 19,
+        "pair_index": 2,
+        "samples": [
+          {
+            "source_y_pt": -25.776,
+            "sample_page_pt": [
+              166.56120266315384,
+              302.384
+            ],
+            "minimum_RGB": 255
+          },
+          {
+            "source_y_pt": -13.22238036809816,
+            "sample_page_pt": [
+              163.1661092837626,
+              314.93761963190184
+            ],
+            "minimum_RGB": 255
+          },
+          {
+            "source_y_pt": 3.4559999999999995,
+            "sample_page_pt": [
+              168.61235043985107,
+              331.61600000000004
+            ],
+            "minimum_RGB": 255
+          }
+        ]
+      },
+      {
+        "page": 19,
+        "pair_index": 3,
+        "samples": [
+          {
+            "source_y_pt": -25.776,
+            "sample_page_pt": [
+              347.3811995638916,
+              302.56399999999996
+            ],
+            "minimum_RGB": 255
+          },
+          {
+            "source_y_pt": -13.402285714285714,
+            "sample_page_pt": [
+              342.6884562528718,
+              314.93771428571426
+            ],
+            "minimum_RGB": 255
+          },
+          {
+            "source_y_pt": 3.096,
+            "sample_page_pt": [
+              346.84904130976685,
+              331.436
+            ],
+            "minimum_RGB": 255
+          }
+        ]
+      },
+      {
+        "page": 19,
+        "pair_index": 4,
+        "samples": [
+          {
+            "source_y_pt": -25.776,
+            "sample_page_pt": [
+              167.30404444205155,
+              389.06399999999996
+            ],
+            "minimum_RGB": 255
+          },
+          {
+            "source_y_pt": -13.402285714285714,
+            "sample_page_pt": [
+              159.2585008284339,
+              401.43771428571426
+            ],
+            "minimum_RGB": 255
+          },
+          {
+            "source_y_pt": 3.096,
+            "sample_page_pt": [
+              167.07139030787056,
+              417.936
+            ],
+            "minimum_RGB": 255
+          }
+        ]
+      },
+      {
+        "page": 19,
+        "pair_index": 5,
+        "samples": [
+          {
+            "source_y_pt": -25.776,
+            "sample_page_pt": [
+              348.02303564077033,
+              388.866
+            ],
+            "minimum_RGB": 255
+          },
+          {
+            "source_y_pt": -13.206920245398772,
+            "sample_page_pt": [
+              341.6714409363519,
+              401.43507975460125
+            ],
+            "minimum_RGB": 255
+          },
+          {
+            "source_y_pt": 3.492000000000001,
+            "sample_page_pt": [
+              350.1811662482559,
+              418.134
+            ],
+            "minimum_RGB": 255
+          }
+        ]
+      },
+      {
+        "page": 19,
+        "pair_index": 6,
+        "samples": [
+          {
+            "source_y_pt": -25.776,
+            "sample_page_pt": [
+              165.3638305682744,
+              475.366
+            ],
+            "minimum_RGB": 255
+          },
+          {
+            "source_y_pt": -13.206920245398772,
+            "sample_page_pt": [
+              158.13104680732295,
+              487.93507975460125
+            ],
+            "minimum_RGB": 255
+          },
+          {
+            "source_y_pt": 3.492000000000001,
+            "sample_page_pt": [
+              167.59721984276985,
+              504.634
+            ],
+            "minimum_RGB": 255
+          }
+        ]
+      },
+      {
+        "page": 19,
+        "pair_index": 7,
+        "samples": [
+          {
+            "source_y_pt": -25.776,
+            "sample_page_pt": [
+              348.02303564077044,
+              475.366
+            ],
+            "minimum_RGB": 255
+          },
+          {
+            "source_y_pt": -13.206920245398772,
+            "sample_page_pt": [
+              341.6714409363519,
+              487.93507975460125
+            ],
+            "minimum_RGB": 255
+          },
+          {
+            "source_y_pt": 3.492000000000001,
+            "sample_page_pt": [
+              350.181166248256,
+              504.634
+            ],
+            "minimum_RGB": 255
+          }
+        ]
+      }
+    ],
+    "every_requested_index_in_actual_native_render": true,
+    "reader_sha256": "a3094bc34f781382942fd0092a1134902f76159aae772f2b1b93b38fd6e3b4b2",
+    "source_idml_sha256": "8d134ac4e57f10613c76939a429201d0079e89e4a2533321e87d883a188b2c79"
+  },
+  "actual_centering": {
+    "objects": 114,
+    "maximum_error_pt": 0.0005000000001018634,
+    "tolerance_pt": 0.01
+  },
+  "applications": {
+    "all15_approved_cases_preserved": true,
+    "two_case_side_by_side_and_three_case_stacked_templates_clear": true,
+    "same_quote_point_size_color_per_pair": true,
+    "no_quote_prompt_label_or_effect_overlap": true,
+    "no_face_AA_or_emoji_panels": true
+  },
+  "strict_live_text_QA": {
+    "frames": 856,
+    "live_runs": 884,
+    "actual_Bezier_ink_clip_flags": 0,
+    "line_fit_flags": 0,
+    "unintended_wraps": 0,
+    "unknown_fonts": [],
+    "missing_glyphs": []
+  },
+  "unchanged_scene_pixel_identity": [
+    {
+      "physical_page": 1,
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 3,
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 4,
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 5,
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 6,
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 7,
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 8,
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 9,
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 10,
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 11,
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 12,
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 13,
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 14,
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 15,
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 16,
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 17,
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 20,
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 21,
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 22,
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 23,
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 24,
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 25,
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 26,
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 27,
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 28,
+      "pixels_identical": true
+    }
+  ],
+  "protected_application_pixel_identity": [
+    {
+      "physical_page": 22,
+      "case_id": "E01",
+      "role": "approved_application_prompt",
+      "clip_pt": [
+        46.0,
+        133.0,
+        373.5276,
+        150.0
+      ],
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 22,
+      "case_id": "E01",
+      "role": "application_neutral_quote",
+      "clip_pt": [
+        46.0,
+        185.0,
+        200.7638,
+        245.4
+      ],
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 22,
+      "case_id": "E01",
+      "role": "application_selected_quote",
+      "clip_pt": [
+        218.7638,
+        185.0,
+        373.5276,
+        245.4
+      ],
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 22,
+      "case_id": "E12",
+      "role": "approved_application_prompt",
+      "clip_pt": [
+        46.0,
+        355.0,
+        373.5276,
+        372.0
+      ],
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 22,
+      "case_id": "E12",
+      "role": "application_neutral_quote",
+      "clip_pt": [
+        46.0,
+        407.0,
+        200.7638,
+        446.775
+      ],
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 22,
+      "case_id": "E12",
+      "role": "application_selected_quote",
+      "clip_pt": [
+        218.7638,
+        407.0,
+        373.5276,
+        446.775
+      ],
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 23,
+      "case_id": "E11",
+      "role": "approved_application_prompt",
+      "clip_pt": [
+        46.0,
+        120.0,
+        373.5276,
+        135.0
+      ],
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 23,
+      "case_id": "E11",
+      "role": "application_neutral_quote",
+      "clip_pt": [
+        46.0,
+        147.0,
+        373.5276,
+        185.4
+      ],
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 23,
+      "case_id": "E11",
+      "role": "application_selected_quote",
+      "clip_pt": [
+        46.0,
+        197.0,
+        373.5276,
+        235.4
+      ],
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 23,
+      "case_id": "E05",
+      "role": "approved_application_prompt",
+      "clip_pt": [
+        46.0,
+        272.0,
+        373.5276,
+        287.0
+      ],
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 23,
+      "case_id": "E05",
+      "role": "application_neutral_quote",
+      "clip_pt": [
+        46.0,
+        299.0,
+        373.5276,
+        337.4
+      ],
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 23,
+      "case_id": "E05",
+      "role": "application_selected_quote",
+      "clip_pt": [
+        46.0,
+        349.0,
+        373.5276,
+        387.4
+      ],
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 23,
+      "case_id": "E08",
+      "role": "approved_application_prompt",
+      "clip_pt": [
+        46.0,
+        424.0,
+        373.5276,
+        439.0
+      ],
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 23,
+      "case_id": "E08",
+      "role": "application_neutral_quote",
+      "clip_pt": [
+        46.0,
+        451.0,
+        373.5276,
+        489.4
+      ],
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 23,
+      "case_id": "E08",
+      "role": "application_selected_quote",
+      "clip_pt": [
+        46.0,
+        501.0,
+        373.5276,
+        539.4
+      ],
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 24,
+      "case_id": "E02",
+      "role": "approved_application_prompt",
+      "clip_pt": [
+        46.0,
+        120.0,
+        373.5276,
+        135.0
+      ],
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 24,
+      "case_id": "E02",
+      "role": "application_neutral_quote",
+      "clip_pt": [
+        46.0,
+        147.0,
+        373.5276,
+        185.4
+      ],
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 24,
+      "case_id": "E02",
+      "role": "application_selected_quote",
+      "clip_pt": [
+        46.0,
+        197.0,
+        373.5276,
+        235.4
+      ],
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 24,
+      "case_id": "E10",
+      "role": "approved_application_prompt",
+      "clip_pt": [
+        46.0,
+        272.0,
+        373.5276,
+        287.0
+      ],
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 24,
+      "case_id": "E10",
+      "role": "application_neutral_quote",
+      "clip_pt": [
+        46.0,
+        299.0,
+        373.5276,
+        337.4
+      ],
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 24,
+      "case_id": "E10",
+      "role": "application_selected_quote",
+      "clip_pt": [
+        46.0,
+        349.0,
+        373.5276,
+        387.4
+      ],
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 24,
+      "case_id": "E06",
+      "role": "approved_application_prompt",
+      "clip_pt": [
+        46.0,
+        424.0,
+        373.5276,
+        439.0
+      ],
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 24,
+      "case_id": "E06",
+      "role": "application_neutral_quote",
+      "clip_pt": [
+        46.0,
+        451.0,
+        373.5276,
+        489.4
+      ],
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 24,
+      "case_id": "E06",
+      "role": "application_selected_quote",
+      "clip_pt": [
+        46.0,
+        501.0,
+        373.5276,
+        539.4
+      ],
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 25,
+      "case_id": "E03",
+      "role": "approved_application_prompt",
+      "clip_pt": [
+        46.0,
+        120.0,
+        373.5276,
+        135.0
+      ],
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 25,
+      "case_id": "E03",
+      "role": "application_neutral_quote",
+      "clip_pt": [
+        46.0,
+        147.0,
+        373.5276,
+        185.4
+      ],
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 25,
+      "case_id": "E03",
+      "role": "application_selected_quote",
+      "clip_pt": [
+        46.0,
+        197.0,
+        373.5276,
+        235.4
+      ],
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 25,
+      "case_id": "E04",
+      "role": "approved_application_prompt",
+      "clip_pt": [
+        46.0,
+        272.0,
+        373.5276,
+        287.0
+      ],
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 25,
+      "case_id": "E04",
+      "role": "application_neutral_quote",
+      "clip_pt": [
+        46.0,
+        299.0,
+        373.5276,
+        327.8
+      ],
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 25,
+      "case_id": "E04",
+      "role": "application_selected_quote",
+      "clip_pt": [
+        46.0,
+        349.0,
+        373.5276,
+        377.8
+      ],
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 25,
+      "case_id": "E07",
+      "role": "approved_application_prompt",
+      "clip_pt": [
+        46.0,
+        424.0,
+        373.5276,
+        439.0
+      ],
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 25,
+      "case_id": "E07",
+      "role": "application_neutral_quote",
+      "clip_pt": [
+        46.0,
+        451.0,
+        373.5276,
+        489.4
+      ],
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 25,
+      "case_id": "E07",
+      "role": "application_selected_quote",
+      "clip_pt": [
+        46.0,
+        501.0,
+        373.5276,
+        539.4
+      ],
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 26,
+      "case_id": "E09",
+      "role": "approved_application_prompt",
+      "clip_pt": [
+        46.0,
+        133.0,
+        373.5276,
+        150.0
+      ],
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 26,
+      "case_id": "E09",
+      "role": "application_neutral_quote",
+      "clip_pt": [
+        46.0,
+        185.0,
+        200.7638,
+        217.35
+      ],
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 26,
+      "case_id": "E09",
+      "role": "application_selected_quote",
+      "clip_pt": [
+        218.7638,
+        185.0,
+        373.5276,
+        217.35
+      ],
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 26,
+      "case_id": "E13",
+      "role": "approved_application_prompt",
+      "clip_pt": [
+        46.0,
+        355.0,
+        373.5276,
+        372.0
+      ],
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 26,
+      "case_id": "E13",
+      "role": "application_neutral_quote",
+      "clip_pt": [
+        46.0,
+        407.0,
+        200.7638,
+        467.4
+      ],
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 26,
+      "case_id": "E13",
+      "role": "application_selected_quote",
+      "clip_pt": [
+        218.7638,
+        407.0,
+        373.5276,
+        467.4
+      ],
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 27,
+      "case_id": "E14",
+      "role": "approved_application_prompt",
+      "clip_pt": [
+        46.0,
+        133.0,
+        373.5276,
+        150.0
+      ],
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 27,
+      "case_id": "E14",
+      "role": "application_neutral_quote",
+      "clip_pt": [
+        46.0,
+        185.0,
+        200.7638,
+        245.4
+      ],
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 27,
+      "case_id": "E14",
+      "role": "application_selected_quote",
+      "clip_pt": [
+        218.7638,
+        185.0,
+        373.5276,
+        245.4
+      ],
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 27,
+      "case_id": "E15",
+      "role": "approved_application_prompt",
+      "clip_pt": [
+        46.0,
+        355.0,
+        373.5276,
+        372.0
+      ],
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 27,
+      "case_id": "E15",
+      "role": "application_neutral_quote",
+      "clip_pt": [
+        46.0,
+        407.0,
+        200.7638,
+        436.875
+      ],
+      "pixels_identical": true
+    },
+    {
+      "physical_page": 27,
+      "case_id": "E15",
+      "role": "application_selected_quote",
+      "clip_pt": [
+        218.7638,
+        407.0,
+        373.5276,
+        436.875
+      ],
+      "pixels_identical": true
+    }
+  ],
+  "review_notes": [
+    "Actual native reader pages18/19 show all8 requested glyphpairs perfont and TWO separate dark-blue/pale-blue facing-edge envelopes with natural white channels. This matches the supplied reference method; single orange void extraction is absent from these pages.",
+    "Actual glyph contours/counters in the native PDF were inspected, especially NotoSans 에 and 쪽. Their counters are correctly open/white; the temporary PIL source-proof fill limitation is not present in the final reader.",
+    "The two edge shapes retain relative placement; their combined union is centered within each diagram cell. No independent re-centering or per-font fitting destroys the white gap.",
+    "Numbers01–08 locate every adjacent pair in the complete sentence. Repeated 메리 positions06/08 remain separate in both8-card grids.",
+    "Font-level bold B-grade captions tie observed shape regularity or brush movement to the editor’s perceived voice. They remain clearly subjective interpretations rather than measured emotion scores.",
+    "White paper, thin lower rules and small orange measurement marks keep both blue shapes and the intervening white channel legible. Measurement values are labelled as the actual gap at a marked height, not font-internal kerning.",
+    "The revised contents correctly describes facing left/right outlines and white-gap reading. Book intro01,28physicalpages,cover/backcover andapproved15applicationcases remain intact.",
+    "All28pages were reviewed in the contact sheet. The other25pages and45approvedprompt/quote regions are independently pixel-identical to B7; their previously reviewed content is retained.",
+    "No visible clipping, overlapping labels, cropped diagrams, missing glyphs or unintended wrapping were observed. Source/photo preservation and precise dimensions are supported by independent numeric reports."
+  ],
+  "native_Adobe_execution": false,
+  "physical_printer_test": false,
+  "PDF_native_Adobe_export": false
+}

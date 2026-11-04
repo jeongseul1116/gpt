@@ -1,0 +1,78 @@
+{
+  "status": "passed",
+  "pages_checked": [
+    16,
+    17,
+    18,
+    19,
+    20
+  ],
+  "control_phrase": "북쪽에계신메리메리",
+  "source_reports": [
+    {
+      "status": "passed",
+      "cases": 4,
+      "sentence_rows": 8,
+      "whole_sentence": "북쪽에계신메리메리",
+      "common_point_size": 32,
+      "gap_indices_per_row": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "expected_visible_gap_planes": 64,
+      "actual_visible_gap_planes": 64,
+      "all_eight_gaps_per_row": true,
+      "minimum_after_bounding_gap_pt": 1.7959999999999994,
+      "failure_count": 0,
+      "failures": []
+    },
+    {
+      "status": "passed",
+      "pages": [
+        18,
+        19
+      ],
+      "complete_sentences": 2,
+      "contextual_pair_callouts": 16,
+      "facing_edge_blocks": 32,
+      "interval_indices_per_font": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "all_eight_pairs_present_in_both_fonts": true,
+      "same_pair_and_edge_size_pt": 36,
+      "all_full_phrases_exact": true,
+      "max_pair_center_error_pt": 5.684341886080802e-14,
+      "max_edge_group_center_error_pt": 5.684341886080802e-14,
+      "failures": []
+    }
+  ],
+  "retained_summary_validation": {
+    "status": "pass",
+    "pages_checked": [
+      20
+    ],
+    "specimens_checked": 6,
+    "control_phrase": "북쪽에계신메리메리",
+    "no_isolated_syllables": true,
+    "all_sentence_specimens_centered": true,
+    "failures": []
+  },
+  "methods_distinct": [
+    "whole_sentence_all_eight_spacing_before_after",
+    "paired_facing_edge_silhouettes_white_channel",
+    "font_shape_editorial_voice_and_use"
+  ]
+}

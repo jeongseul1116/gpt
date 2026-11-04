@@ -1,0 +1,26 @@
+{
+  "status": "passed",
+  "pages": [
+    18,
+    19
+  ],
+  "complete_sentences": 2,
+  "contextual_pair_callouts": 16,
+  "facing_edge_blocks": 32,
+  "interval_indices_per_font": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "all_eight_pairs_present_in_both_fonts": true,
+  "same_pair_and_edge_size_pt": 36,
+  "all_full_phrases_exact": true,
+  "max_pair_center_error_pt": 5.684341886080802e-14,
+  "max_edge_group_center_error_pt": 5.684341886080802e-14,
+  "failures": []
+}

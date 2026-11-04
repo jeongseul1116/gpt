@@ -1,5 +1,5 @@
 {
-  "active_new_work": "B7",
+  "active_new_work": "B8",
   "A": {
     "status": "preserved",
     "folder": "submission-alignment",
@@ -97,7 +97,7 @@
     "idml_sha256": "8ac04bf65c6fbd72860465c677eb19ee864af64de8705e52c6a105d3abda91e6"
   },
   "B7": {
-    "status": "complete_all_eight_intervals_across_twelve_fonts",
+    "status": "preserved",
     "intro_physical_page": 3,
     "intro_printed_page": 1,
     "contents_numbered": false,
@@ -110,5 +110,20 @@
     "reader": "submission-version-b7/Meme_Font_Book_Version_B7_28p_Review.pdf",
     "print": "submission-version-b7/Meme_Font_Book_Version_B7_A3_Duplex_28p.pdf",
     "idml_sha256": "dcd13622c08d39845a1d2a29900abc60c6dd8f513f4bd8ad52d001ca85279cb3"
+  },
+  "B8": {
+    "status": "two_facing_edge_silhouettes_and_editorial_voice",
+    "intro_physical_page": 3,
+    "intro_printed_page": 1,
+    "contents_numbered": false,
+    "photo_physical_page": 28,
+    "folder": "submission-version-b8",
+    "physical_pages": 28,
+    "word": "북쪽에계신메리메리",
+    "detail": "whole_sentence",
+    "idml": "submission-version-b8/Meme_Font_Book_Version_B8_28p.idml",
+    "reader": "submission-version-b8/Meme_Font_Book_Version_B8_28p_Review.pdf",
+    "print": "submission-version-b8/Meme_Font_Book_Version_B8_A3_Duplex_28p.pdf",
+    "idml_sha256": "8d134ac4e57f10613c76939a429201d0079e89e4a2533321e87d883a188b2c79"
   }
 }

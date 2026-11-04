@@ -1,0 +1,112 @@
+{
+  "comparison_sentence": "북쪽에계신메리메리",
+  "preserve_literal_spelling": true,
+  "syllable_count": 9,
+  "alignment": "actual visible ink centered horizontally and vertically within each specified cell",
+  "tone": "B급",
+  "shape_observations_are_not_emotion_scores": true,
+  "atlas": {
+    "blackhan": {
+      "shape_observation": "두꺼운 획이 닫힌 빈틈을 조여 검은 면이 크게 보인다.\n같은 문장이지만 짧고 빽빽한 덩어리로 모인다.",
+      "editorial_impression": "메리메리 한 번 했는데 확성기 풀충전."
+    },
+    "sans": {
+      "shape_observation": "기준과 같은 폰트이므로 두 문장의 윤곽이 같다.\n획의 굵기 변화가 적고 닫힌 빈틈이 비교적 열려 있다.",
+      "editorial_impression": "메리메리도 주민센터 안내방송처럼 나옴."
+    },
+    "serif": {
+      "shape_observation": "가는 가로획과 굵은 세로획이 문장 안에서 대비된다.\n획 끝의 돌출부가 반복되어 글자 가장자리가 또렷하다.",
+      "editorial_impression": "교양 있는 척했는데 메리메리 두 번 함."
+    },
+    "gungseo": {
+      "shape_observation": "획의 시작과 끝이 가늘어졌다 굵어지며 방향을 드러낸다.\n기준보다 큰 굵기 변화와 휘는 획이 문장에 반복된다.",
+      "editorial_impression": "편의점 가는데 출정식부터 열렸다."
+    },
+    "gugi": {
+      "shape_observation": "직선 중심의 골격에 둥근 획 끝이 반복된다.\n기준의 매끈한 이음과 달리 조립한 듯한 모양이 보인다.",
+      "editorial_impression": "로봇인데 캐럴 나오면 은근히 들썩임."
+    },
+    "pixel": {
+      "shape_observation": "곡선 자리에 계단 모양의 작은 각이 반복된다.\n분홍으로 칠한 빈틈의 경계도 같은 박자로 꺾인다.",
+      "editorial_impression": "북쪽 던전 입장. 메리메리 퀘스트 수락."
+    },
+    "jua": {
+      "shape_observation": "도톰한 획과 둥근 모서리가 문장 전체에 반복된다.\n같은 크기에서도 각진 기준보다 말랑한 덩어리로 보인다.",
+      "editorial_impression": "북쪽까지 따라가게 만드는 말랑한 영업."
+    },
+    "singleday": {
+      "shape_observation": "둥글게 휜 획과 손으로 쓴 듯한 기울기가 이어진다.\n반듯한 기준보다 획과 이음의 방향이 자유롭다.",
+      "editorial_impression": "친구가 볼펜으로 툭 찔러 준 메리메리."
+    },
+    "kirang": {
+      "shape_observation": "같은 32pt인데 문장의 몸집이 작고 폭이 좁다.\n글자마다 획의 두께와 기울기가 달라 줄이 들썩인다.",
+      "editorial_impression": "현수막은 응원 중, 글자들은 삐딱한 중."
+    },
+    "bawpic": {
+      "shape_observation": "획 가장자리의 패임과 떨어진 작은 조각이 반복된다.\n반듯한 기준과 달리 검은 면의 경계가 거칠다.",
+      "editorial_impression": "메리메리 외치다 삼일 밤샌 밴드 보컬."
+    },
+    "brush": {
+      "shape_observation": "같은 32pt인데 문장의 몸집이 작고 폭이 좁다.\n가늘어지는 붓끝과 글자마다 다른 기울기가 이어진다.",
+      "editorial_impression": "메리메리 쓰다 뛰쳐나간 급발진 볼펜."
+    },
+    "YES24": {
+      "shape_observation": "굵은 직선과 잘린 모서리가 문장 전체에 반복된다.\n각진 획 끝이 글자의 검은 면을 단단하게 묶는다.",
+      "editorial_impression": "메리메리. 반박은 결재 받고 오세요."
+    }
+  },
+  "overview_editorial_captions": {
+    "blackhan": "굵은 획·좁은 틈 → 메리메리 한 번 했는데 확성기 풀충전.",
+    "sans": "고른 획·열린 틈 → 메리메리도 주민센터 안내방송처럼 나옴.",
+    "serif": "가는 가로획·뾰족한 끝 → 메리메리에 갑자기 교양이 생김.",
+    "gungseo": "붓의 굵기 대비·넉넉한 간격 → 편의점 가는데 출정식 열림.",
+    "gugi": "둥근 끝·뚝 끊긴 이음 → 로봇인데 흥은 못 참는 편.",
+    "pixel": "계단 윤곽·고른 간격 → 메리메리 퀘스트를 수락했습니다.",
+    "jua": "도톰한 획·둥근 모서리 → 북쪽까지 말랑하게 영업 중.",
+    "singleday": "부드러운 곡선·들쭉날쭉한 높이 → 친구가 책상에 남긴 쪽지.",
+    "kirang": "작은 몸집·기운 축 → 현수막이 신나서 혼자 춤추는 중.",
+    "bawpic": "거친 가장자리·패인 획 → 밤샘한 밴드 보컬이 메리메리 외침.",
+    "brush": "가는 붓끝·작은 몸집 → 급발진해서 휘갈겼는데 감성은 챙김.",
+    "YES24": "굵은 획·각진 끝 → 메리메리에도 결재 도장 찍을 기세."
+  },
+  "application_editorial_impressions": {
+    "E01": "내겐 준비물은 없는데 기세만 MT 출발임.",
+    "E02": "내겐 커피 한 잔에 혼자 로맨스 찍는 중.",
+    "E03": "내겐 굿나잇 한마디가 칭찬 풍선 됨.",
+    "E04": "내겐 배는 아픈데 궁서로 반성문 제출함.",
+    "E05": "내겐 자존심이 오류창 띄우고 재부팅 중.",
+    "E06": "내겐 손은 급한데 마음은 벌써 결혼식임.",
+    "E07": "내겐 자랑 탐지기 작동해서 팻말 흔드는 중.",
+    "E08": "내겐 입도 글씨도 같이 미끄러지는 중.",
+    "E09": "내겐 획까지 갈라지게 인정 도장 재촉함.",
+    "E10": "내겐 점 하나 찍을 때마다 새벽 감성 충전됨.",
+    "E11": "내겐 저장도 못 했는데 출근 퀘스트 뜸.",
+    "E12": "내겐 편의점 가는데 출정식부터 여는 말투.",
+    "E13": "내겐 둥근 글씨까지 같이 엄지 드는 중.",
+    "E14": "내겐 패인 획까지 합세해서 디자인 탈곡 중.",
+    "E15": "내겐 둥근 글씨로 당첨 기원 세 번 비는 중."
+  },
+  "approved_dialogue_and_quotes": "unchanged; editorial application impressions only updated",
+  "B8_font_level_impressions": {
+    "sans": {
+      "observation": "고른 획과 규칙적으로 반복되는 외곽",
+      "editorial_impression": "내겐 메리메리도 주민센터 안내방송처럼 들린다."
+    },
+    "gungseo": {
+      "observation": "붓획의 굵기 변화와 휘어지는 외곽",
+      "editorial_impression": "내겐 인사했는데 왕명이 내려온 것 같다."
+    }
+  },
+  "reference_method": "actual pairs followed by TWO simplified facing-edge shapes, not a standalone extracted colored gap",
+  "B8_coverage_spec": "Version_B8_Coverage_Spec.json",
+  "B8_diagram_captions_verbatim": [
+    {
+      "physical_page": 18,
+      "text": "고른 획·반듯한 외곽 → 내겐 인사도 주민센터 안내방송."
+    },
+    {
+      "physical_page": 19,
+      "text": "붓획 변화·휘는 외곽 → 내겐 인사했는데 왕명이 내려옴."
+    }
+  ]
+}
