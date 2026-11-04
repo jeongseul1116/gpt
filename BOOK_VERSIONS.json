@@ -1,5 +1,5 @@
 {
-  "active_new_work": "B9",
+  "active_new_work": "B9r1",
   "A": {
     "status": "preserved",
     "folder": "submission-alignment",
@@ -127,7 +127,7 @@
     "idml_sha256": "8d134ac4e57f10613c76939a429201d0079e89e4a2533321e87d883a188b2c79"
   },
   "B9": {
-    "status": "full_B_grade_whole_form_actual_spacing_edition",
+    "status": "preserved",
     "folder": "submission-version-b9",
     "physical_pages": 28,
     "word": "북쪽에계신메리메리",
@@ -139,6 +139,16 @@
     "print": "submission-version-b9/Meme_Font_Book_Version_B9_A3_Duplex_28p.pdf",
     "reader_sha256": "de441b23b344d655280656d80ed4e2cd301b79bae75643627197459e8aedb4c1",
     "print_sha256": "ff483f7aae2fbb38fe719eed27bce535de8129df5ff4f2398f04727c05fcdec6",
+    "native_file_prepared_locally": true
+  },
+  "B9r1": {
+    "status": "backcover_photo_attached_to_credits_band",
+    "folder": "submission-version-b9r1",
+    "physical_pages": 28,
+    "reader": "submission-version-b9r1/Meme_Font_Book_B9r1_28p.pdf",
+    "print": "submission-version-b9r1/Meme_Font_Book_B9r1_A3_Duplex.pdf",
+    "reader_sha256": "a05d6dbdff16165f812fceed10154a76b9da730ad41acd6bf7536bd5bf010aed",
+    "print_sha256": "9cfe32e62e2df2ed9b4bbd6378dbc9b33c60ee085c55c69afdebbd236bbbf75e",
     "native_file_prepared_locally": true
   }
 }

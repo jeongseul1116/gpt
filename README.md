@@ -1,3 +1,9 @@
+# 최신 B9r1 — 뒷표지 이미지 위치 수정
+
+무섭다 이미지 아래쪽을 파란 띠에 붙였습니다. [전체 PDF](submission-version-b9r1/Meme_Font_Book_B9r1_28p.pdf) · [A3 양면 인쇄 PDF](submission-version-b9r1/Meme_Font_Book_B9r1_A3_Duplex.pdf) · [수정 뒷표지](submission-version-b9r1/Backcover_B9r1.png)
+
+---
+
 # 최신 B9 — 말투수집실 전체판
 
 - [전체 28쪽 PDF](submission-version-b9/Meme_Font_Book_Version_B9_28p_Review.pdf)

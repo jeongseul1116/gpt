@@ -1,0 +1,19 @@
+{
+  "status": "passed",
+  "revision": "B9r1",
+  "change": "Backcover photo bottom attached to blue bar top",
+  "photo_bottom_pt": 305.0,
+  "bar_top_pt": 305,
+  "gap_pt": 0,
+  "image_size_unchanged": true,
+  "reader_pages": 28,
+  "print_faces": 14,
+  "duplex_a3_sheets": 7,
+  "other_reader_pages_pixel_identical": 27,
+  "other_print_faces_pixel_identical": 13,
+  "reader_sha256": "a05d6dbdff16165f812fceed10154a76b9da730ad41acd6bf7536bd5bf010aed",
+  "print_sha256": "9cfe32e62e2df2ed9b4bbd6378dbc9b33c60ee085c55c69afdebbd236bbbf75e",
+  "base_B9_preserved": true,
+  "native_Adobe_execution": false,
+  "physical_printer_test": false
+}
